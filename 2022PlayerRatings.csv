@@ -1,0 +1,2444 @@
+name,age,country,Ovr,BAT Ovr,Bowl Ovr,B-IQ,Tech,PWR,RUN,ECON,WKT,ACC,CLTH
+Andre Russell,33,West Indies,92,85,77,73,86,97,59,68,87,100,54
+Tim David,25,Singapore,82,81,40,60,85,96,77,41,43,44,18
+Kieron Pollard,34,West Indies,90,84,71,70,88,94,74,65,72,99,61
+Asif Ali,30,Pakistan,83,82,38,70,84,94,61,30,32,70,63
+Evin Lewis,30,West Indies,84,84,31,81,86,92,41,29,32,36,27
+Nicholas Pooran,26,West Indies,84,84,30,78,83,92,73,29,32,32,25
+Fabian Allen,26,West Indies,88,78,78,66,77,91,67,75,79,84,78
+Chris Gayle,42,West Indies,84,82,46,79,83,90,32,42,45,96,20
+Hardik Pandya,28,India,90,84,74,80,84,89,75,72,78,71,65
+Romario Shepherd,27,West Indies,85,74,74,58,77,89,46,71,79,61,78
+Haris Rauf,28,Pakistan,89,63,85,38,62,89,36,81,88,91,78
+Dasun Shanaka,30,Sri Lanka,86,83,58,81,84,88,52,52,60,59,69
+Rovman Powell,28,West Indies,83,81,45,76,79,88,72,42,47,36,59
+Colin de Grandhomme,35,New Zealand,87,82,64,75,84,88,68,55,61,91,86
+Hasan Ali,27,Pakistan,90,72,84,54,73,88,53,83,89,61,89
+Glenn Phillips,25,New Zealand,87,86,40,86,87,87,74,34,37,82,34
+Liam Livingstone,28,England,86,84,48,82,86,87,64,51,57,20,25
+Thisara Perera,32,Sri Lanka,88,80,75,73,82,87,66,70,85,76,56
+Delray Rawlins,24,Bermuda,87,83,62,79,84,86,73,54,58,91,79
+Rashid Khan,23,Afghanistan,95,69,92,53,70,86,46,95,90,75,100
+Hazratullah Zazai,23,Afghanistan,77,76,30,72,77,85,35,29,32,19,33
+Harsh Thaker,24,Canada,81,73,66,56,79,85,64,70,60,46,97
+Mohammad Wasim,20,Pakistan,88,65,83,48,61,85,47,79,86,95,78
+Glenn Maxwell,33,Australia,90,86,64,85,90,84,75,66,71,44,50
+Sherfane Rutherford,23,West Indies,78,76,41,71,76,84,57,34,37,67,61
+Abdul Samad,20,India,79,78,38,71,79,84,76,36,38,65,22
+Azam Khan,23,Pakistan,77,76,31,68,78,84,50,28,31,44,30
+Faheem Ashraf,28,Pakistan,88,72,81,61,73,84,51,80,85,46,100
+Carlos Brathwaite,33,West Indies,88,72,81,61,70,84,59,78,83,94,71
+Sunil Narine,33,West Indies,93,69,89,55,73,84,32,85,88,100,94
+Rishabh Pant,24,India,86,86,30,87,90,83,84,29,32,34,24
+Tristan Stubbs,21,South Africa,80,79,31,77,83,83,48,35,34,27,10
+David Willey,31,England,88,78,77,73,81,83,63,77,84,42,87
+Rahmanullah Gurbaz,20,Afghanistan,75,74,35,70,71,83,61,29,32,40,64
+Pat Cummins,28,Australia,88,71,81,61,70,83,49,82,87,85,48
+Jordan Thompson,25,England,80,70,69,55,72,83,59,65,71,61,88
+Tiaan van Vuuren,20,South Africa,78,69,67,55,69,83,56,62,57,93,97
+Seekkuge Prasanna,36,Sri Lanka,81,68,72,52,69,83,54,71,70,59,93
+Karan KC,30,Nepal,75,66,65,48,66,83,47,70,67,70,34
+Odean Smith,25,West Indies,76,64,68,45,61,83,54,72,78,30,54
+Pankaj Jaswal,26,India,82,63,76,42,65,83,37,75,79,54,89
+David Miller,32,South Africa,87,86,39,90,87,82,85,29,32,83,59
+Avishka Fernando,23,Sri Lanka,81,80,32,80,82,82,46,29,32,11,66
+Chris Lynn,31,Australia,80,80,29,79,83,82,46,30,32,19,20
+Khushdil Shah,27,Pakistan,81,79,49,78,80,82,64,44,47,67,59
+Shadab Khan,23,Pakistan,92,76,86,69,77,82,63,83,88,79,93
+Ben Cutting,35,Australia,80,74,62,65,75,82,68,65,68,57,30
+Deepak Chahar,29,India,87,63,83,47,61,82,40,81,85,94,74
+Mukhtar Hussain,23,India,77,54,73,27,53,82,17,69,71,75,93
+MS Dhoni,40,India,85,84,37,88,84,81,89,29,32,57,71
+Jos Buttler,31,England,86,86,31,88,90,81,84,29,32,17,48
+Martin Guptill,35,New Zealand,84,83,32,86,85,81,73,30,32,36,40
+Shimron Hetmyer,25,West Indies,82,81,38,82,81,81,69,29,32,82,52
+Finn Allen,22,New Zealand,84,83,33,82,91,81,64,29,31,52,34
+Tom Banton,23,England,81,80,34,76,85,81,72,29,31,40,64
+Mohammad Nabi,37,Afghanistan,91,74,85,69,72,81,60,79,84,97,98
+Jason Holder,30,West Indies,90,71,85,62,68,81,67,81,85,100,84
+Daniel Sams,29,Australia,86,68,79,55,68,81,60,72,77,99,93
+Tim Southee,33,New Zealand,89,69,84,53,70,81,68,80,86,72,99
+Matt Henry,30,New Zealand,82,65,75,47,66,81,62,70,73,80,97
+T Pradeep,27,India,71,64,59,46,68,81,30,60,54,95,34
+Usman Shinwari,28,Pakistan,80,60,75,44,57,81,33,79,85,36,61
+Lekhaz Reddy,20,India,58,57,27,35,59,81,14,28,28,5,36
+Abbas Afridi,20,Pakistan,75,57,69,34,59,81,19,65,65,74,94
+KL Rahul,29,India,86,86,30,91,89,80,74,29,32,42,15
+Aaron Finch,35,Australia,85,84,40,88,89,80,64,31,34,91,48
+Rohit Sharma,34,India,85,83,45,87,86,80,60,35,38,95,59
+Eoin Morgan,35,England,82,81,37,84,82,80,66,29,32,85,38
+Dwayne Bravo,38,West Indies,92,77,85,77,76,80,70,81,88,77,99
+Elton Chigumbura,35,Zimbabwe,80,76,57,75,74,80,64,57,63,59,27
+Josh Clarkson,25,New Zealand,79,78,36,75,80,80,69,34,37,70,7
+Shivam Dube,28,India,81,73,67,68,72,80,52,64,68,98,41
+Dominic Drakes,24,West Indies,80,67,71,51,72,80,39,70,74,96,38
+Jamie Overton,27,England,77,68,66,49,71,80,80,65,70,32,85
+Obed McCoy,25,West Indies,83,55,80,33,55,80,16,76,83,80,84
+David Warner,35,Australia,86,85,39,90,90,79,70,29,32,77,66
+Jonny Bairstow,32,England,84,83,31,85,86,79,82,29,31,19,52
+Alex Hales,33,England,83,83,30,84,89,79,66,29,32,22,31
+Kusal Mendis,27,Sri Lanka,82,81,35,83,84,79,65,29,32,42,68
+Asghar Afghan,34,Afghanistan,77,76,39,78,75,79,46,30,32,77,64
+Moeen Ali,34,England,88,78,77,77,83,79,52,74,78,65,97
+Brandon King,27,West Indies,76,75,31,74,77,79,49,29,31,59,13
+Sam Curran,23,England,91,74,85,70,78,79,47,79,86,99,86
+Dwaine Pretorius,32,South Africa,82,73,69,69,75,79,44,71,76,57,40
+David Wiese,36,Namibia,87,74,78,68,76,79,59,71,76,99,95
+Parvez Hossain Emon,19,Bangladesh,72,71,27,68,71,79,40,28,30,25,10
+Doug Bracewell,31,New Zealand,85,74,74,67,75,79,69,71,75,79,77
+Ripal Patel,26,India,72,71,37,63,74,79,54,33,32,52,56
+Chris Morris,34,South Africa,87,72,80,62,74,79,73,78,82,63,96
+Don Radebe,25,South Africa,69,60,60,40,65,79,20,57,57,82,64
+Mitchell Marsh,30,Australia,89,82,73,88,83,78,66,64,71,96,96
+Suresh Raina,35,India,86,84,53,88,88,78,74,46,49,97,50
+Shreyas Iyer,27,India,83,82,31,88,84,78,63,30,32,34,27
+Quinton de Kock,29,South Africa,85,84,35,87,88,78,82,29,32,65,38
+Jason Roy,31,England,83,82,39,83,88,78,64,29,32,75,71
+Paul Stirling,31,Ireland,84,80,57,81,86,78,44,54,58,25,94
+Tim Seifert,27,New Zealand,80,79,33,80,80,78,79,29,32,72,13
+James Neesham,31,New Zealand,89,77,80,75,79,78,60,75,83,67,99
+Mitchell Santner,30,New Zealand,91,74,85,72,74,78,61,82,85,84,98
+Dan Christian,38,Australia,84,75,71,72,76,78,71,71,75,93,30
+George Munsey,28,Scotland,77,76,38,72,82,78,51,29,31,74,69
+Abhinav Manohar,27,India,74,74,24,70,75,78,67,27,28,9,14
+Gulbadin Naib,30,Afghanistan,83,73,71,69,74,78,60,65,72,87,72
+Shahid Afridi,41,Pakistan,84,71,75,61,74,78,55,76,75,95,54
+Keemo Paul,23,West Indies,77,65,68,59,60,78,48,55,84,60,60
+Ziaur Rahman,35,Bangladesh,69,65,48,55,64,78,49,47,50,23,71
+Rahkeem Cornwall,29,West Indies,72,64,60,52,68,78,20,59,57,93,38
+Amad Butt,26,Pakistan,80,65,72,50,66,78,56,71,77,48,84
+Umar Akmal,31,Pakistan,83,82,34,86,84,77,81,29,32,32,66
+Ben Stokes,30,England,88,79,75,81,82,77,67,68,74,99,86
+Ishan Kishan,23,India,79,78,36,79,81,77,65,29,31,67,56
+Kevin O'Brien,37,Ireland,84,77,66,77,79,77,59,58,65,72,93
+Darren Bravo,33,West Indies,75,74,29,77,72,77,49,28,31,15,41
+Muditha Lakshan,21,Sri Lanka,77,77,27,76,82,77,45,30,30,15,16
+Ricky Bhui,25,India,73,73,25,74,74,77,42,28,30,5,11
+Nitish Rana,28,India,77,74,51,73,78,77,40,44,46,87,59
+Will Jacks,23,England,78,76,46,72,83,77,54,48,50,25,40
+Muhammad Waseem,28,United Arab Emirates,77,75,45,70,77,77,72,44,54,38,15
+Karl Birkenstock,25,Namibia,76,75,38,69,82,77,46,40,37,20,48
+Ross Whiteley,33,England,73,72,31,67,74,77,63,29,31,40,28
+Ed Pollock,26,England,71,70,26,61,76,77,40,28,30,22,6
+Jofra Archer,26,England,87,70,80,60,74,77,59,81,87,85,43
+Shahrukh Khan,26,India,68,67,34,57,67,77,60,31,32,46,45
+Akeal Hosein,28,West Indies,81,63,75,54,60,77,40,77,76,46,88
+Vishal Kushwah,31,India,70,66,50,51,66,77,70,47,52,84,21
+Mashrafe Mortaza,38,Bangladesh,84,62,79,49,62,77,37,76,77,75,98
+Gareth Dukes,29,South Africa,78,66,69,48,70,77,68,67,61,94,88
+Dasun Senevirathna,24,Sri Lanka,63,61,34,46,60,77,46,34,36,5,54
+Yudhvir Singh,24,India,64,59,51,35,58,77,80,55,47,23,74
+Matthew Fisher,24,England,77,55,72,33,52,77,41,71,76,50,86
+Daryl Mitchell,30,New Zealand,85,81,59,85,82,76,78,51,60,95,52
+Lendl Simmons,37,West Indies,79,77,41,82,78,76,52,33,37,79,50
+Heinrich Klaasen,30,South Africa,81,80,35,82,81,76,90,30,32,42,63
+Mohammad Nawaz,27,Pakistan,87,75,77,74,75,76,68,81,75,72,70
+Shamim Hossain,21,Bangladesh,76,74,39,71,75,76,77,42,46,20,15
+Bhanuka Rajapaksa,30,Sri Lanka,75,74,37,71,77,76,51,37,42,22,30
+Sharjeel Khan,32,Pakistan,74,73,31,70,78,76,37,28,31,61,8
+Isuru Udana,34,Sri Lanka,86,66,80,57,64,76,59,75,80,99,84
+Lockie Ferguson,30,New Zealand,80,60,74,46,58,76,44,77,80,44,71
+Ollie Hairs,30,Scotland,61,60,26,45,60,76,36,29,31,10,8
+Rassie van der Dussen,33,South Africa,79,79,27,85,81,75,56,30,32,13,11
+Travis Head,28,Australia,82,79,54,84,81,75,60,49,54,48,81
+Fakhar Zaman,31,Pakistan,81,80,34,84,86,75,64,32,34,42,38
+Charith Asalanka,24,Sri Lanka,82,78,55,83,81,75,51,50,56,75,47
+Sanju Samson,27,India,80,79,29,82,81,75,78,29,32,15,31
+Andre Fletcher,34,West Indies,78,77,29,81,77,75,70,30,32,19,21
+Tom Bruce,30,New Zealand,79,78,36,77,82,75,84,32,34,46,52
+Ashton Turner,29,Australia,77,75,40,76,77,75,63,42,46,32,18
+Joe Clarke,25,England,77,77,25,76,84,75,58,28,30,6,7
+Deepak Hooda,26,India,76,74,39,72,76,75,71,42,42,36,22
+Marco Marais,28,South Africa,74,73,29,72,78,75,40,28,30,50,4
+Richard Levi,34,South Africa,74,74,26,72,80,75,42,28,30,23,6
+Abhishek Sharma,21,India,77,73,52,70,76,75,53,54,57,13,64
+Kamau Leverock,27,Bermuda,76,67,64,63,65,75,45,65,68,63,43
+Rakep Patel,32,Kenya,73,70,47,62,73,75,68,51,56,20,21
+Anukul Roy,23,India,81,68,72,59,67,75,75,71,65,87,85
+Chanaka Ruwansiri,32,Sri Lanka,72,67,53,57,67,75,64,61,57,22,31
+Dillon Heyliger,32,Canada,82,66,75,56,69,75,44,73,74,95,69
+Robbie Frylinck,37,South Africa,76,65,67,54,68,75,49,67,67,61,72
+Ishan Jayaratne,32,Sri Lanka,73,65,62,53,67,75,50,65,65,72,28
+Dan Douthwaite,25,England,75,62,67,52,60,75,35,60,62,83,94
+Oliver Davies,21,Australia,65,64,26,52,63,75,71,28,28,4,36
+Naseem Khushi,39,Oman,64,63,32,50,63,75,57,28,30,70,14
+Ravishka Wijesiri,22,Sri Lanka,67,61,55,47,60,75,48,62,54,44,41
+Harshal Patel,31,India,82,62,77,46,67,75,33,72,75,98,88
+Nathan Coulter-Nile,34,Australia,84,60,79,45,60,75,49,75,78,100,78
+Anuk de Alwis,30,Sri Lanka,71,61,62,44,61,75,65,57,54,93,82
+M Mohammed,30,India,71,61,62,39,64,75,70,65,62,57,57
+Dheeraj Kumar,22,India,58,57,23,39,56,75,39,27,28,4,6
+Sheldon Cottrell,32,West Indies,88,56,85,37,53,75,52,79,85,100,94
+Sachidanand Pandey,25,India,59,49,53,23,45,75,39,62,58,23,30
+Virat Kohli,33,India,84,83,41,92,88,74,70,34,36,59,66
+Marcus Stoinis,32,Australia,85,79,67,85,84,74,51,58,66,92,84
+Janneman Malan,25,South Africa,79,79,28,82,84,74,70,29,31,28,14
+Afif Hossain,22,Bangladesh,79,75,55,76,77,74,58,52,58,48,61
+Johnson Charles,33,West Indies,76,75,38,76,78,74,52,29,32,79,57
+Will Smeed,20,England,76,76,25,75,79,74,71,28,30,4,10
+Prithvi Shaw,22,India,75,74,28,72,81,74,43,28,31,6,36
+Aasif Sheikh,21,Nepal,74,73,28,70,73,74,75,28,30,28,24
+Tom Moores,25,England,72,72,25,68,73,74,81,28,30,6,8
+Anuj Rawat,22,India,72,71,28,67,69,74,76,28,30,17,33
+Mahedi Hasan,27,Bangladesh,76,67,66,65,67,74,39,62,68,96,47
+Jurie Snyman,26,South Africa,72,69,46,65,69,74,52,47,46,38,52
+Lahiru Samarakoon,24,Sri Lanka,80,72,65,64,79,74,65,65,71,72,38
+JJ Smit,26,Namibia,83,61,78,55,55,74,46,78,81,50,97
+Jason Kila,32,Papua New Guinea,69,59,61,45,58,74,53,59,50,82,93
+Mitchell Hay,21,New Zealand,61,60,29,43,58,74,83,27,28,30,36
+Jaskaran Singh,32,India,71,57,64,41,58,74,33,63,56,87,75
+Pritom Kumar,20,Bangladesh,59,58,26,40,55,74,79,28,28,17,15
+Bhagmender Lather,24,India,64,55,57,34,58,74,29,65,62,19,40
+Josh Philippe,24,Australia,83,82,31,87,87,73,87,29,32,23,47
+Ben McDermott,27,Australia,75,74,27,79,70,73,68,29,31,19,11
+Tilak Varma,19,India,77,76,31,78,81,73,50,33,33,25,20
+Haider Ali,21,Pakistan,74,73,30,78,74,73,42,29,32,30,25
+Tom Kohler-Cadmore,27,England,77,76,28,77,80,73,74,28,30,27,24
+Prabhsimran Singh,21,India,75,74,27,74,77,73,71,28,30,5,30
+Riyan Parag,20,India,80,72,67,72,73,73,57,63,62,91,75
+Ravinderpal Singh,33,Canada,76,75,30,72,77,73,87,28,28,34,43
+Axar Patel,28,India,90,72,84,71,72,73,65,82,83,82,99
+Hamish Rutherford,32,New Zealand,74,73,32,71,79,73,45,29,31,70,8
+Krunal Pandya,30,India,82,72,72,70,76,73,59,78,79,48,48
+Vishnu Vinod,28,India,72,72,26,70,75,73,59,28,30,19,13
+Rahul Tewatia,28,India,82,71,72,67,75,73,63,69,68,93,82
+Arjit Pannu,25,India,68,67,25,64,67,73,51,27,28,16,11
+Neil Rock,21,Ireland,68,67,30,62,63,73,76,29,31,16,48
+Anwar Ali,34,Pakistan,81,66,73,57,67,73,67,71,73,61,97
+Masum Khan,34,Bangladesh,71,67,49,56,72,73,67,58,50,28,27
+Rajjakuddin Ahmed,26,India,73,66,59,55,67,73,82,65,65,32,34
+Abu Hider,26,Bangladesh,81,62,75,54,59,73,55,74,79,76,65
+Jaydev Unadkat,30,India,83,61,78,49,62,73,51,77,82,98,50
+Arjit Gupta,32,India,60,59,29,48,58,73,40,30,31,11,33
+Ruben Trumpelmann,24,Namibia,83,56,79,42,55,73,23,77,78,72,95
+Jacob Duffy,27,New Zealand,77,57,72,41,57,73,43,72,77,34,89
+Rishad Hossain,19,Bangladesh,71,59,64,40,59,73,80,66,67,32,78
+Jay Gohil,21,India,54,53,27,32,49,73,60,27,28,19,28
+Shoaib Malik,40,Pakistan,86,81,65,91,84,72,67,61,63,94,64
+Mark Chapman,27,New Zealand,80,77,48,83,82,72,55,42,47,91,31
+Harry Brook,22,England,80,79,30,82,84,72,84,29,32,22,38
+Matthew Wade,34,Australia,79,78,34,81,82,72,84,29,31,87,13
+Josh Inglis,26,Australia,81,80,32,81,86,72,88,28,31,38,41
+Devdutt Padikkal,21,India,78,78,28,81,83,72,69,28,31,34,6
+Rilee Rossouw,32,South Africa,78,77,37,80,83,72,65,29,32,83,43
+Iftikhar Ahmed,31,Pakistan,79,75,54,78,76,72,69,52,53,34,81
+Kusal Perera,31,Sri Lanka,77,76,31,78,80,72,72,29,31,52,15
+Cam Fletcher,28,New Zealand,76,76,27,78,76,72,91,28,30,28,12
+Will Young,29,New Zealand,75,75,27,77,78,72,68,28,30,20,21
+Ravindra Jadeja,33,India,89,74,81,76,76,72,66,78,82,79,89
+Nurul Hasan,28,Bangladesh,76,75,36,76,74,72,88,29,32,84,36
+Gerhard Erasmus,26,Namibia,75,73,45,75,73,72,69,41,45,70,40
+Phil Salt,25,England,78,77,28,75,84,72,74,28,31,28,17
+Donavon Ferreira,23,South Africa,79,75,54,74,82,72,56,54,54,84,22
+Sohaib Maqsood,34,Pakistan,74,73,32,74,77,72,41,30,32,25,43
+Dewald Brevis,18,South Africa,80,74,60,73,77,72,68,60,56,59,74
+Suyash Prabhudessai,24,India,76,75,35,72,78,72,86,41,38,7,31
+Cameron Delport,32,South Africa,75,72,46,71,78,72,50,45,47,83,12
+Tom Lammonby,21,England,73,70,48,64,76,72,60,41,46,68,66
+George Linde,30,South Africa,84,67,77,63,67,72,58,76,79,54,98
+Sohail Tanvir,37,Pakistan,73,64,64,60,64,72,38,51,71,54,94
+Jhye Richardson,25,Australia,83,65,76,58,64,72,56,81,88,36,50
+Michael Leask,31,Scotland,69,63,56,54,63,72,63,59,63,22,48
+Kennar Lewis,30,West Indies,64,63,24,54,63,72,60,27,28,20,4
+Supun Madushanka,28,Sri Lanka,67,64,45,52,70,72,53,50,52,28,12
+Tharindu Ratnayake,25,Sri Lanka,78,60,72,48,60,72,47,74,70,97,45
+Sharafuddin Ashraf,27,Afghanistan,68,60,58,48,58,72,55,63,61,36,45
+Tyrone Kane,27,Ireland,73,60,66,47,63,72,44,65,72,59,52
+Dan Moriarty,23,England,75,53,71,31,57,72,31,71,71,63,78
+Kyle Jacobs,23,South Africa,68,51,63,25,55,72,26,67,58,28,97
+Prem Sisodiya,23,England,75,48,72,18,54,72,14,69,65,83,97
+Tamim Iqbal,32,Bangladesh,78,77,32,86,81,71,47,29,32,32,47
+Tom Latham,29,New Zealand,79,78,36,83,82,71,77,28,31,63,59
+Sabbir Rahman,30,Bangladesh,78,77,36,83,77,71,74,37,41,23,28
+Sam Billings,30,England,80,79,29,83,82,71,85,29,32,13,34
+Farhaan Behardien,38,South Africa,77,76,29,81,77,71,73,30,32,19,21
+Danushka Gunathilaka,30,Sri Lanka,79,76,51,80,81,71,55,49,53,61,40
+Suryakumar Yadav,31,India,78,77,31,78,83,71,72,30,32,27,33
+Soumya Sarkar,28,Bangladesh,76,72,51,74,73,71,60,46,52,34,86
+Josh Cobb,31,England,79,72,63,71,75,71,65,59,58,90,69
+Kushal Malla,17,Nepal,78,67,68,69,62,71,54,70,68,74,54
+Sanjay Yadav,26,India,73,69,52,68,67,71,81,60,54,40,22
+Ali Imran,23,Pakistan,72,71,29,68,75,71,68,33,36,5,11
+Harsh Tyagi,22,India,78,67,69,64,70,71,40,71,66,48,95
+Akbar Ali,20,Bangladesh,69,68,27,64,67,71,86,28,30,13,21
+Qasim Akram,19,Pakistan,76,69,60,61,77,71,64,57,62,87,38
+Scott Kuggeleijn,30,New Zealand,86,66,80,60,65,71,69,76,82,95,71
+James Fuller,32,England,71,66,53,58,67,71,73,57,61,22,38
+Beyers Swanepoel,23,South Africa,74,69,56,57,76,71,89,61,50,75,40
+Kuldeep Gehi,27,India,66,65,25,56,68,71,51,27,28,9,17
+Wahab Riaz,36,Pakistan,85,64,80,55,65,71,55,79,84,68,82
+George Garton,24,England,82,63,76,54,66,71,50,73,79,98,56
+Antonius Staal,25,Netherlands,61,60,28,54,59,71,32,28,30,34,17
+Manzoor Dar,28,India,67,64,43,53,68,71,51,42,42,54,38
+Ben Wheeler,30,New Zealand,76,60,70,50,60,71,52,66,66,98,78
+Allan Douglas,34,Bermuda,65,61,45,50,62,71,54,46,52,28,31
+Andrew Tye,35,Australia,87,58,84,46,57,71,51,78,85,100,89
+Ramandeep Singh,24,India,61,59,39,45,60,71,59,41,41,6,54
+James Weighell,28,England,70,58,63,42,55,71,71,61,61,96,45
+Sujon Hawlader,26,Bangladesh,72,58,65,41,61,71,41,58,58,93,94
+Vikash Singh,27,India,74,53,69,37,51,71,44,68,65,96,59
+Shiran Fernando,28,Sri Lanka,75,55,70,35,55,71,65,66,68,77,86
+Mohammad Rizwan,29,Pakistan,82,81,34,90,85,70,88,29,32,67,24
+Manish Pandey,32,India,80,79,32,88,82,70,75,30,33,34,30
+Ahmed Shehzad,30,Pakistan,79,78,37,86,83,70,57,32,34,83,21
+Aiden Markram,27,South Africa,80,78,47,85,82,70,70,48,49,40,40
+Litton Das,27,Bangladesh,77,76,37,80,80,70,77,29,32,83,45
+Mohammad Shahzad,35,Afghanistan,74,73,33,78,71,70,74,28,31,79,12
+Dan Lawrence,24,England,78,75,47,77,81,70,60,49,53,40,21
+Kushal Bhurtel,25,Nepal,75,75,26,76,79,70,84,28,28,25,12
+Lorcan Tucker,25,Ireland,74,73,35,73,73,70,89,29,32,65,45
+Rinku Singh,24,India,73,72,32,71,75,70,76,30,32,61,7
+Lalit Yadav,25,India,82,73,70,70,77,70,78,70,67,89,61
+Tom Curran,26,England,90,71,85,69,76,70,58,80,88,99,81
+Roelof van der Merwe,37,Netherlands,85,71,76,69,74,70,65,70,74,100,86
+Lewis Gregory,29,England,85,71,76,69,76,70,69,69,76,87,91
+Najibullah Zadran,28,Afghanistan,69,68,36,69,65,70,59,30,32,46,63
+Evan Jones,25,South Africa,74,72,44,68,77,70,86,41,43,42,59
+Shane Dadswell,24,South Africa,73,72,29,68,79,70,62,34,32,16,14
+Munim Shahriar,23,Bangladesh,69,69,25,67,76,70,26,28,28,11,18
+Wayne Parnell,32,South Africa,90,68,86,66,71,70,45,81,85,97,99
+Himmat Singh,25,India,69,68,29,66,69,70,57,28,31,19,34
+Manisankar  Murasingh,29,India,73,65,62,60,66,70,44,69,65,28,57
+Arron Lilley,30,England,76,69,60,60,75,70,75,62,60,87,20
+Kyle Mayers,29,West Indies,68,63,50,60,60,70,45,46,47,50,75
+Chris Jordan,33,England,87,65,82,59,64,70,74,80,87,48,99
+Mohammad Saifuddin,25,Bangladesh,75,64,66,59,64,70,42,61,66,52,99
+Mahidul Islam Ankon,22,Bangladesh,65,64,30,59,58,70,86,28,30,42,28
+Ross Adair,27,Ireland,72,68,48,58,75,70,77,49,46,63,36
+Sajjadul Haque,32,Bangladesh,63,62,27,56,63,70,35,27,27,44,10
+Nimesh Perera - jnr,40,Sri Lanka,72,64,61,55,66,70,63,58,57,92,56
+Nabi Gul,24,Pakistan,65,64,29,55,65,70,74,30,30,42,7
+Aamer Yamin,31,Pakistan,73,63,64,53,67,70,50,66,66,67,40
+Prenelan Subrayen,28,South Africa,81,58,76,49,56,70,45,74,71,95,89
+Mubasir Khan,19,Pakistan,62,58,46,48,56,70,45,51,50,17,40
+Alauddin Babu,30,Bangladesh,65,59,53,47,58,70,57,57,58,48,22
+Kashif Daud,36,United Arab Emirates,74,60,67,41,64,70,73,65,61,91,75
+Will Prestwidge,20,Australia,75,51,71,39,47,70,16,63,71,87,86
+Umaid Asif,37,Pakistan,72,56,66,38,59,70,51,65,62,65,91
+Kaleemullah,31,Oman,75,49,72,29,48,70,28,69,62,98,95
+Babar Azam,27,Pakistan,83,82,34,93,87,69,75,30,33,30,61
+Kane Williamson,31,New Zealand,82,81,37,89,84,69,90,40,43,19,18
+Mushfiqur Rahim,34,Bangladesh,80,79,36,87,81,69,87,29,32,84,27
+Hussain Talat,26,Pakistan,82,77,62,86,81,69,48,53,61,95,72
+Shikhar Dhawan,36,India,79,78,34,86,83,69,59,30,32,68,28
+Dawid Malan,34,England,79,77,45,84,82,69,58,36,40,89,54
+James Vince,30,England,79,78,29,83,84,69,71,30,32,27,18
+Ben Cooper,30,Netherlands,76,75,33,78,78,69,78,28,31,59,31
+Zak Crawley,24,England,77,76,31,78,85,69,58,28,30,54,24
+Dinesh Karthik,36,India,76,76,27,78,80,69,86,28,31,13,18
+Mohammad Mithun,30,Bangladesh,73,72,29,77,72,69,66,29,31,16,34
+Yasir Ali,25,Bangladesh,74,73,27,76,74,69,69,28,30,23,11
+Tony Ura,32,Papua New Guinea,73,72,34,75,77,69,44,29,31,50,52
+Anamul Haque,29,Bangladesh,73,72,31,75,73,69,70,28,31,63,13
+Curtis Campher,22,Ireland,85,71,77,74,73,69,63,72,79,96,66
+Jeevan Mendis,39,Sri Lanka,81,71,70,74,72,69,53,69,74,80,45
+Adam Hose,29,England,73,73,25,72,79,69,67,28,30,10,6
+Shivam Bhambri,26,India,71,70,28,70,74,69,62,27,28,40,17
+Ashton Agar,28,Australia,90,68,86,68,66,69,73,81,85,100,98
+Christiaan Jonker,35,South Africa,69,68,31,67,70,69,56,29,31,54,15
+Mark Adair,25,Ireland,78,65,69,61,63,69,66,67,75,40,83
+Chandrapaul Hemraj,28,West Indies,67,64,44,61,64,69,38,51,47,16,30
+Jehan Daniel,22,Sri Lanka,68,66,41,61,69,69,63,46,45,30,16
+Clayton Bosch,29,South Africa,74,68,58,60,75,69,65,61,53,94,27
+Hamza Tariq,31,Canada,68,67,30,60,68,69,86,28,30,61,9
+Nimanda Madushanka,29,Sri Lanka,80,61,74,51,64,69,44,69,73,90,78
+Ben White,23,Ireland,78,59,72,49,62,69,35,76,80,27,71
+Mohammad Enamul,35,Bangladesh,62,58,46,47,55,69,55,54,47,38,20
+John Matchett,24,Ireland,56,55,32,47,52,69,30,37,31,15,36
+Matthew Carter,25,England,77,55,73,39,54,69,61,74,75,89,41
+Sohail Khan,37,Pakistan,69,53,64,38,52,69,31,67,66,70,33
+Vivekanand Tiwari,23,India,69,56,63,37,57,69,68,61,63,90,48
+Shoriful Islam,20,Bangladesh,82,51,79,35,48,69,34,76,79,79,91
+Joshua De Caires,19,England,57,56,26,35,60,69,60,27,28,28,15
+Umesh Yadav,34,India,77,50,74,31,49,69,35,70,71,94,84
+Mohammad Naim,22,Bangladesh,76,75,30,84,75,68,63,29,32,16,38
+Alex Carey,30,Australia,78,77,32,83,81,68,87,29,31,17,63
+Mahmudullah,36,Bangladesh,83,74,71,82,75,68,67,69,73,75,71
+Ruturaj Gaikwad,25,India,76,76,25,81,81,68,64,28,30,7,9
+Harry Tector,22,Ireland,76,74,44,80,76,68,75,43,47,44,34
+Mahipal Lomror,22,India,79,73,60,78,74,68,62,55,52,91,83
+Venkatesh Iyer,27,India,82,74,68,77,79,68,67,63,62,89,90
+Najmul Hossain Shanto,23,Bangladesh,75,73,39,77,75,68,65,34,36,52,59
+Jack Leaning,28,England,74,73,34,76,75,68,77,34,36,19,43
+Tadiwanashe Marumani,20,Zimbabwe,72,71,29,76,77,68,29,28,31,30,28
+Manan Vohra,28,India,73,72,28,76,77,68,50,28,30,25,22
+Ryan Burl,27,Zimbabwe,81,71,69,75,70,68,71,66,70,50,98
+Ryan ten Doeschate,41,Netherlands,74,72,44,75,74,68,65,41,43,61,45
+Jake Weatherald,27,Australia,72,71,31,72,75,68,55,28,30,65,11
+Apoorv Wankhade,29,India,71,71,24,72,70,68,86,28,28,6,12
+Washington Sundar,22,India,91,69,86,71,71,68,53,83,85,95,89
+Gareth Chirawu,20,Zimbabwe,68,67,27,70,69,68,24,27,28,25,21
+Darren Stevens,45,England,75,69,57,69,74,68,54,57,58,65,45
+Sanjeet Desai,24,India,67,66,27,69,67,68,33,27,28,20,27
+Danish Aziz,26,Pakistan,72,68,49,68,71,68,52,52,56,36,22
+Kamran Akmal,40,Pakistan,68,67,34,68,71,68,34,28,31,65,38
+Vivek Singh,28,India,70,69,32,68,73,68,67,32,32,44,21
+Chris Cooke,35,England,70,69,28,66,70,68,88,28,28,44,15
+Chadwick Walton,36,West Indies,68,67,30,65,68,68,72,28,30,34,30
+Brian Chari,30,Zimbabwe,66,65,28,65,65,68,53,32,33,13,7
+Azim Kazi,28,India,73,65,62,64,65,68,43,65,60,28,93
+Gajanand Singh,34,United States of America,66,65,26,64,65,68,46,27,28,27,15
+Sumit Kumar,26,India,76,67,65,63,71,68,59,70,72,52,34
+Alex Blake,33,England,67,66,31,62,67,68,78,29,30,65,7
+Sabbir Hossain,24,Bangladesh,65,64,29,61,63,68,63,33,32,19,7
+Ben Green,24,England,69,65,49,59,63,68,89,52,53,34,38
+Andile Phehlukwayo,25,South Africa,86,62,82,58,63,68,34,78,85,91,75
+Muhammad Akhlaq,29,Pakistan,65,64,25,57,66,68,74,27,28,28,6
+Yasir Khan,19,Pakistan,65,64,25,57,75,68,19,27,28,17,9
+Tobias Visee,31,Netherlands,65,64,26,56,72,68,29,28,30,9,17
+Shashank Singh,30,India,64,62,36,54,66,68,44,42,41,17,12
+Imran Uzzaman,27,Bangladesh,62,61,25,50,61,68,71,27,28,20,11
+Brandon Mavuta,24,Zimbabwe,75,59,68,49,59,68,50,69,68,42,91
+Migael Pretorius,26,South Africa,76,57,70,48,54,68,50,70,75,92,31
+Krishnappa Gowtham,33,India,70,60,62,46,65,68,54,66,60,83,36
+William Somerville,37,New Zealand,66,57,58,46,56,68,43,62,56,77,33
+Carl Mumba,26,Zimbabwe,67,59,58,44,66,68,48,59,57,34,77
+Vimukthi  Perera,32,Sri Lanka,67,55,60,42,54,68,50,61,57,36,91
+Kamal Airee,21,Nepal,69,46,66,29,44,68,12,65,70,75,45
+Gayan Sirisoma,40,Sri Lanka,68,50,63,29,52,68,28,67,66,25,75
+Steven Smith,32,Australia,81,79,42,88,82,67,82,39,45,42,45
+Luke Wright,36,England,77,75,46,83,80,67,57,44,49,40,50
+Laurie Evans,34,England,75,74,28,78,78,67,66,28,30,42,8
+Mohammad Hafeez,41,Pakistan,82,72,70,76,76,67,49,68,68,97,59
+Robin Uthappa,36,India,74,73,28,75,78,67,75,28,30,40,6
+Mayank Agarwal,31,India,72,72,26,74,77,67,59,28,30,17,7
+Ryan Higgins,27,England,77,70,61,72,73,67,53,60,67,83,22
+Craig Williams,37,Namibia,73,69,49,72,72,67,50,47,49,25,79
+Pite van Biljon,35,South Africa,69,68,25,71,71,67,47,28,28,7,17
+Delano Potgieter,25,South Africa,76,69,62,70,72,67,58,58,62,82,61
+Wihan Lubbe,29,South Africa,72,69,44,69,75,67,54,48,46,34,34
+Gareth Delany,24,Ireland,78,67,69,68,68,67,51,69,74,25,90
+Nic Maddinson,30,Australia,68,67,32,67,70,67,57,33,36,15,31
+Mohammad Haris,20,Pakistan,71,70,26,67,75,67,78,28,28,9,27
+Adam Rossington,28,England,71,70,30,66,76,67,76,28,30,46,24
+Chamika Karunaratne,25,Sri Lanka,82,66,75,65,64,67,67,72,77,70,86
+Shane Getkate,30,Ireland,83,65,77,63,65,67,53,69,77,87,98
+Nicky van den Bergh,32,South Africa,67,66,29,63,64,67,79,27,28,44,25
+Chris Woakes,32,England,84,66,77,62,70,67,66,74,77,99,64
+Jack Taylor,30,England,68,66,40,62,70,67,60,41,42,63,8
+Ashan Randika,28,Sri Lanka,69,68,27,62,75,67,61,27,28,42,8
+Milinda Siriwardana,36,Sri Lanka,71,66,54,61,69,67,76,53,54,94,21
+Aaron Thomason,24,England,69,63,53,60,61,67,70,48,57,68,45
+Lewis McManus,27,England,66,65,29,60,63,67,88,28,30,28,33
+Katene Clarke,22,New Zealand,67,66,25,60,73,67,52,28,28,14,13
+Ankit Kaushik,30,India,63,62,30,59,59,67,62,28,31,52,11
+Ben Raine,30,England,73,62,64,57,65,67,45,62,65,54,79
+Jan Nicol Loftie-Eaton,20,Namibia,70,60,62,57,59,67,35,61,60,40,92
+Will Fraine,25,England,65,65,24,57,68,67,85,28,28,8,6
+Saliya Saman,36,Sri Lanka,68,61,57,56,61,67,51,60,60,68,22
+Louis Kimber,24,England,65,64,27,56,65,67,89,27,28,38,8
+Henry Shipley,25,New Zealand,71,65,57,55,70,67,71,62,63,34,36
+Hassan Khan,23,Pakistan,78,60,72,53,58,67,72,71,67,95,77
+Matty Potts,23,England,82,62,76,52,65,67,66,71,75,82,96
+Liam Trevaskis,22,England,75,59,69,51,55,67,77,69,68,89,48
+Alexander Kok,23,South Africa,63,61,35,51,69,67,28,37,33,11,54
+Sisanda Magala,31,South Africa,76,59,70,50,60,67,41,71,73,82,43
+Abbas Musa,22,Bangladesh,58,57,28,49,60,67,25,28,28,28,25
+Ish Sodhi,29,New Zealand,84,56,81,48,54,67,37,82,88,61,72
+Musadiq Ahmed,32,Pakistan,59,57,34,45,62,67,34,32,33,61,15
+Amit Yadav,32,India,74,56,68,44,53,67,65,67,60,93,79
+Lakshay Garg,26,India,74,53,69,40,51,67,45,69,65,93,63
+Ayush Jamwal,22,India,70,53,65,39,51,67,42,72,63,72,38
+Mustafizur Rahman,26,Bangladesh,87,47,85,38,37,67,22,84,90,50,99
+Reeza Hendricks,32,South Africa,78,77,30,87,82,66,66,30,32,30,20
+Devon Conway,30,New Zealand,78,77,33,86,83,66,67,30,32,23,63
+Dinesh Chandimal,32,Sri Lanka,78,77,32,86,80,66,84,29,31,36,48
+Richie Berrington,34,Scotland,79,73,62,81,78,66,43,56,58,94,74
+Angelo Mathews,34,Sri Lanka,83,72,73,80,73,66,61,69,72,70,96
+Andy Balbirnie,31,Ireland,76,75,36,80,81,66,66,28,31,79,45
+William Porterfield,37,Ireland,75,74,31,80,78,66,61,28,31,42,31
+Mosaddek Hossain,26,Bangladesh,81,72,69,79,72,66,62,69,71,54,78
+Shakib Al Hasan,34,Bangladesh,90,71,85,78,75,66,49,84,89,72,85
+Milton Shumba,21,Zimbabwe,77,71,58,77,72,66,67,50,57,72,79
+Navneet Dhaliwal,33,Canada,73,71,38,76,74,66,65,38,40,10,56
+Michael Bracewell,31,New Zealand,73,72,33,73,75,66,82,34,36,9,36
+Ramesh Mendis,26,Sri Lanka,80,68,71,71,70,66,50,72,73,68,59
+Jitesh Sharma,28,India,72,71,31,70,77,66,82,28,30,52,21
+Imad Wasim,33,Pakistan,88,68,82,69,72,66,55,83,85,61,91
+Max Bryant,22,Australia,70,69,30,68,75,66,63,28,30,48,18
+Rajat Dey,25,India,66,66,24,68,67,66,45,28,28,4,11
+Miles Hammond,26,England,70,69,29,66,76,66,56,28,30,38,17
+Dilshan Munaweera,32,Sri Lanka,71,66,53,65,72,66,26,57,56,57,20
+Shehan Fernando,28,Sri Lanka,69,68,30,65,75,66,54,29,31,20,36
+Nick Kelly,28,New Zealand,67,66,27,64,70,66,58,28,30,27,8
+Tim Bresnan,36,England,81,65,74,63,68,66,60,74,77,65,75
+Gurinder Singh,29,India,74,65,64,63,63,66,73,69,65,72,27
+Mohammed Azharuddeen,27,India,67,66,25,63,68,66,80,27,28,6,22
+Sammu Ashan,24,Sri Lanka,63,61,40,62,56,66,46,41,42,28,41
+JP Kotze,27,Namibia,67,65,36,61,64,66,78,28,30,67,61
+Ben Mike,23,England,71,64,58,58,68,66,69,51,58,63,85
+Basil Hameed,29,United Arab Emirates,65,62,44,58,60,66,76,48,50,15,33
+Samarth Vyas,26,India,63,63,23,58,67,66,51,28,28,4,6
+Aaron Hardie,23,Australia,68,62,55,57,61,66,79,57,58,16,77
+Kavishka Anjula,24,Sri Lanka,77,62,70,55,66,66,58,69,70,91,52
+Cephas Zhuwao,37,Zimbabwe,65,62,44,55,66,66,43,39,41,59,57
+Nitin Sharma,25,India,63,62,24,55,65,66,49,27,28,11,13
+Shuvagata Hom,35,Bangladesh,70,62,60,54,64,66,67,54,54,89,77
+David Delany,24,Ireland,77,58,71,52,58,66,37,65,67,87,90
+Ashley Nurse,33,West Indies,77,58,71,52,54,66,58,67,66,84,95
+Dhruv Patel,24,India,63,61,38,52,66,66,45,37,36,57,30
+Bright Phiri,22,Zimbabwe,59,58,25,51,64,66,17,27,28,4,24
+Gavin Hoey,20,Ireland,70,55,64,48,51,66,49,67,58,38,97
+Hardus Viljoen,32,South Africa,80,57,76,47,58,66,44,69,72,96,95
+Asif Afridi,35,Pakistan,71,57,64,46,60,66,49,65,61,57,81
+Rohan Sanjaya,20,Sri Lanka,79,57,74,44,56,66,69,73,70,75,91
+Ankit Manori,21,India,60,56,44,42,67,66,7,57,41,15,31
+Graeme White,34,England,71,55,65,40,58,66,55,65,66,30,94
+Cameron Boyce,32,Australia,75,50,71,36,49,66,33,71,71,44,97
+Dharmendrasinh Jadeja,31,India,68,55,62,35,61,66,62,65,57,61,74
+Nipun Ransika,22,Sri Lanka,76,47,73,29,45,66,27,69,67,92,90
+Manvan Patel,22,India,68,46,64,28,43,66,26,62,62,46,96
+Shafiqul Islam,24,Bangladesh,75,45,72,20,48,66,22,72,75,65,66
+Sarfaraz Ahmed,34,Pakistan,77,76,34,83,81,65,88,29,31,77,18
+Ravi Bopara,36,England,82,73,69,82,76,65,60,68,72,59,75
+Daniel Bell-Drummond,28,England,76,75,31,81,82,65,59,30,32,40,18
+Virat Singh,24,India,74,73,29,81,78,65,56,30,32,23,15
+Samit Patel,37,England,83,70,74,75,75,65,53,75,76,100,31
+Denesh Ramdin,36,West Indies,72,71,34,75,70,65,86,29,31,83,13
+Wiaan Mulder,24,South Africa,85,70,77,74,73,65,67,73,78,83,82
+Saurabh Tiwary,32,India,71,70,31,74,72,65,61,28,30,61,17
+Vijay Shankar,31,India,72,69,48,72,71,65,76,50,50,57,25
+Steven Taylor,28,United States of America,71,69,41,72,73,65,62,41,41,52,25
+Karun Nair,30,India,71,70,32,72,76,65,61,30,32,46,30
+Rajat Patidar,28,India,72,71,28,72,75,65,80,27,28,46,10
+Riki Wessels,36,England,72,71,26,72,76,65,69,28,28,25,12
+Prerak Mankad,27,India,76,70,58,71,76,65,71,59,58,85,28
+Patrick Kruger,27,South Africa,71,68,47,70,71,65,62,46,47,36,59
+Graham Clark,28,England,71,70,27,70,78,65,65,29,31,6,21
+Adam Lyth,34,England,72,70,42,68,77,65,74,37,38,77,41
+Mehidy Hasan Miraz,24,Bangladesh,85,66,79,67,66,65,58,74,82,100,61
+Sarfaraz Khan,24,India,68,67,27,65,73,65,63,29,31,8,24
+Shashank Chandrakar,27,India,68,68,24,65,73,65,78,27,28,4,11
+Alex Obanda,34,Kenya,66,65,34,64,70,65,38,28,30,65,38
+Supun Kavinda,22,Sri Lanka,74,63,65,62,59,65,74,66,68,52,59
+Jordan Clark,31,England,73,64,64,61,64,65,66,57,58,92,91
+Mangaliso Mosehle,31,South Africa,65,64,31,61,63,65,82,28,30,65,10
+Mohammad Imran,25,Pakistan,72,63,63,59,68,65,48,65,65,80,33
+Yashasvi Jaiswal,20,India,64,63,31,59,69,65,28,29,31,32,40
+Karima Gore,23,United States of America,74,64,65,58,68,65,65,66,65,71,54
+Swapnil Singh,31,India,72,61,64,57,60,65,60,66,62,30,94
+Kavindu Ashan,28,Sri Lanka,61,60,26,57,56,65,66,27,27,11,31
+Steven Mullaney,35,England,77,64,69,56,68,65,75,67,66,70,89
+Atharva Ankolekar,21,India,70,58,63,52,56,65,51,70,58,50,69
+Pasindu Lakshanka,25,Sri Lanka,60,59,26,51,57,65,85,27,28,22,20
+Hasanuzzaman,30,Bangladesh,59,58,23,49,63,65,27,27,28,7,5
+Farhad Reza,35,Bangladesh,71,57,65,48,57,65,63,69,70,32,61
+Jack Wildermuth,28,Australia,76,54,72,46,51,65,44,69,67,85,93
+Diwesh Pathania,32,India,69,56,63,46,57,65,49,65,62,54,63
+Aman Hakim Khan,25,India,59,58,29,46,58,65,89,31,30,11,38
+Sumon Khan,22,Bangladesh,79,53,75,45,47,65,44,70,73,91,84
+Dilbar Hussain,28,Pakistan,73,49,69,41,42,65,31,63,66,80,94
+Zak Chappell,25,England,66,52,60,38,49,65,64,59,61,54,64
+Saurabh Kumar,28,India,71,52,66,36,54,65,54,69,61,48,94
+Joshua Bishop,21,West Indies,77,49,74,34,48,65,33,71,70,80,97
+Suboth Bhati,31,India,64,46,60,28,46,65,30,65,63,52,34
+Abdullah Shafique,22,Pakistan,74,73,29,80,79,64,63,28,30,11,43
+Ben Duckett,27,England,75,74,28,79,81,64,73,28,30,34,10
+Shaun Marsh,38,Australia,73,72,29,78,77,64,55,28,30,54,8
+Joe Denly,35,England,72,71,37,76,75,64,57,37,40,46,20
+Mandeep Singh,30,India,72,71,32,76,77,64,60,34,36,30,14
+Parth Sahani,28,India,72,71,36,75,73,64,76,36,38,20,45
+Alex Ross,29,Australia,71,70,29,75,73,64,68,28,30,28,27
+Sushant Modani,33,United States of America,71,71,25,75,73,64,82,27,27,25,10
+JJ Smuts,33,South Africa,79,69,68,74,75,64,41,69,67,99,34
+Roston Chase,29,West Indies,79,70,67,74,72,64,66,69,65,38,92
+Sikandar Raza,35,Zimbabwe,77,69,64,73,72,64,69,62,62,50,90
+Jay Bista,26,India,71,70,33,73,77,64,54,34,33,19,38
+Upul Tharanga,37,Sri Lanka,70,69,26,72,74,64,48,28,30,11,12
+Rahul Tripathi,30,India,70,69,32,71,73,64,70,33,34,15,41
+Minod Bhanuka,26,Sri Lanka,70,69,30,71,70,64,81,28,31,16,43
+Andries Gous,28,South Africa,71,70,27,70,74,64,86,28,28,42,7
+Nipun Dananjaya,21,Sri Lanka,69,68,27,70,71,64,58,28,28,19,28
+Imrul Kayes,35,Bangladesh,68,67,27,70,68,64,59,28,30,27,15
+Saif Hassan,23,Bangladesh,67,66,32,69,67,64,64,34,37,7,25
+Chris Benjamin,22,England,69,69,24,69,76,64,69,27,28,6,17
+Hari Nishaanth,25,India,66,65,28,66,69,64,41,28,30,38,7
+Andy McBrine,28,Ireland,78,63,71,64,62,64,60,64,67,84,99
+Sohail Akhtar,35,Pakistan,65,64,30,64,67,64,50,30,32,27,21
+Joshua Ozukum,21,India,68,67,28,63,77,64,58,31,37,4,5
+Ayana Siriwardhana,22,Sri Lanka,66,60,53,57,57,64,76,52,49,67,54
+Karn Sharma,34,India,79,60,73,56,62,64,50,69,67,89,94
+Mark Deyal,28,West Indies,64,61,44,55,63,64,55,44,42,77,14
+Binod Bhandari,32,Nepal,60,59,31,55,56,64,62,28,30,23,52
+James Bazley,26,Australia,67,59,58,54,59,64,50,63,61,28,54
+Sarul Kanwar,34,India,59,58,30,54,61,64,30,28,28,54,17
+Lahiru Jayakody,27,Sri Lanka,60,59,28,54,64,64,31,29,31,11,28
+Rishabh Chouhan,22,India,61,60,30,53,60,64,66,32,36,19,12
+Brett Hampton,30,New Zealand,60,58,34,51,56,64,74,36,37,11,38
+Zafar Gohar,27,Pakistan,72,56,66,48,54,64,58,71,73,32,54
+Gaurav Puri,30,India,56,55,27,44,60,64,36,27,27,36,16
+Armand Erasmus,29,South Africa,69,53,64,43,51,64,54,66,61,38,94
+Kudzai Sauramba,30,Zimbabwe,55,54,26,42,50,64,78,27,27,16,27
+Nishan Peiris,24,Sri Lanka,81,50,78,39,46,64,49,76,78,96,66
+Thushara Madushanka,28,Sri Lanka,52,51,28,39,48,64,52,27,28,36,24
+Somorjit Salam,28,India,51,44,46,33,36,64,9,49,38,48,63
+Mir Hamza,29,Pakistan,68,46,65,32,40,64,33,65,61,68,79
+Pathum Nissanka,23,Sri Lanka,75,75,27,84,80,63,77,29,31,19,14
+Colin Ackermann,30,Netherlands,83,73,71,82,75,63,72,67,68,95,71
+Amandeep Khare,24,India,74,73,30,81,77,63,69,28,30,30,33
+Shubman Gill,22,India,73,72,28,80,77,63,61,28,30,20,24
+Brendan Taylor,36,Zimbabwe,72,71,34,77,76,63,67,30,32,82,11
+Theunis de Bruyn,29,South Africa,72,71,31,77,77,63,64,30,31,59,6
+Ian Cockbain,35,England,73,72,27,77,76,63,73,28,30,28,7
+Matthew Cross,29,Scotland,72,71,29,76,74,63,84,28,31,34,15
+Robert O'Donnell,27,New Zealand,72,71,27,75,76,63,74,28,30,30,6
+Ashwin Hebbar,26,India,71,69,38,74,74,63,55,35,37,59,31
+Ambati Rayudu,36,India,70,69,30,73,72,63,61,28,30,46,21
+George Worker,32,New Zealand,71,68,47,72,73,63,51,42,45,72,48
+Karan Sharma,23,India,69,68,33,72,75,63,31,35,34,20,36
+Scott Edwards,25,Netherlands,71,70,31,71,75,63,92,28,31,7,69
+Shai Hope,28,West Indies,68,67,29,71,68,63,72,28,31,25,31
+Sam Harper,25,Australia,71,70,28,71,74,63,86,28,30,34,14
+Hilton Cartwright,30,Australia,68,67,32,70,69,63,66,30,32,54,17
+John Simpson,33,England,69,68,29,69,70,63,89,28,28,46,15
+Lahiru Milantha,27,Sri Lanka,70,69,27,69,75,63,70,28,28,38,4
+Simi Singh,35,Ireland,84,66,78,67,69,63,58,76,76,70,97
+Benny Howell,33,England,81,66,73,66,68,63,67,70,71,70,94
+Ranitha Liyanarachchi,27,Sri Lanka,70,66,47,66,71,63,63,46,50,14,69
+George Dockrell,29,Ireland,82,66,75,65,69,63,84,71,79,78,72
+Jagatheesan Kousik,26,India,70,64,56,64,64,63,76,54,54,54,77
+Sawan Kankanamge,23,Sri Lanka,67,63,46,64,65,63,49,50,45,28,47
+Eben Botha,22,South Africa,67,66,27,64,76,63,37,27,28,20,28
+Brydon Carse,26,England,78,65,69,62,69,63,67,65,62,92,85
+Kyle Jamieson,27,New Zealand,85,64,80,61,69,63,54,73,77,99,97
+Leo Carter,27,New Zealand,62,61,27,61,60,63,59,28,28,34,10
+Jonathan Bird,20,South Africa,61,60,26,61,61,63,32,28,28,14,17
+Atit Sheth,26,India,83,60,78,58,60,63,52,73,75,89,95
+Christian Leopard,24,New Zealand,62,61,28,58,65,63,48,31,34,4,20
+Sompal Kami,26,Nepal,69,60,60,57,60,63,50,64,65,30,57
+Hashen Ramanayake,26,Sri Lanka,67,59,57,57,54,63,79,57,60,63,43
+Shykat Ali,28,Bangladesh,61,60,30,57,60,63,52,31,32,19,25
+Ben Horne,27,New Zealand,64,63,26,57,63,63,89,28,31,11,16
+Hayden Walsh,29,West Indies,78,57,73,54,53,63,61,73,78,32,93
+Zawar Farid,29,United Arab Emirates,61,59,35,54,61,63,53,37,37,19,30
+Punit Bisht,35,India,63,63,23,54,69,63,80,27,28,5,6
+Ben Dwarshuis,27,Australia,83,59,79,53,61,63,52,73,77,95,97
+Kagiso Rabada,26,South Africa,85,57,81,52,57,63,52,83,90,57,59
+Piyush Chawla,33,India,84,58,80,51,61,63,47,76,78,98,89
+Manjula Jayawardhana,38,Sri Lanka,70,55,64,49,50,63,58,61,53,92,89
+Ashith Rajiv,28,India,69,53,63,48,47,63,47,64,54,75,85
+Nathan McAndrew,28,Australia,71,59,63,46,67,63,69,64,63,28,93
+Sandaken Pathirana,25,Sri Lanka,74,53,70,44,47,63,65,67,68,65,96
+Sampath Perera,39,Sri Lanka,63,53,57,44,54,63,32,65,62,27,31
+Ravindra Karunaratne,34,Sri Lanka,53,52,26,42,54,63,31,30,31,9,6
+Graeme McCarter,29,Ireland,74,54,69,41,60,63,39,65,65,83,87
+Alex Thomson,28,England,71,54,65,40,59,63,52,62,58,80,94
+Marco Jansen,21,South Africa,68,50,63,38,46,63,54,66,61,83,38
+Mrittunjoy Chowdhury,20,Bangladesh,66,49,62,38,44,63,42,65,73,27,40
+Abinash Bohara,24,Nepal,70,46,67,36,39,63,32,69,72,34,68
+Ifran Hossain,25,Bangladesh,67,48,63,32,50,63,22,66,65,20,89
+Mukidul Islam,21,Bangladesh,74,43,72,29,34,63,37,68,72,67,91
+Monu Kumar,27,India,69,44,66,27,41,63,30,70,70,50,52
+Liam Guthrie,24,Australia,62,46,58,23,49,63,50,62,60,23,68
+Sam Hain,26,England,75,74,27,83,79,62,83,28,30,28,10
+Calum MacLeod,33,Scotland,75,73,40,82,77,62,77,33,34,65,63
+Wessley Madhevere,21,Zimbabwe,82,72,70,81,79,62,55,64,66,90,92
+Dion Myers,19,Zimbabwe,73,70,45,78,73,62,59,42,45,75,22
+Tom Abell,27,England,75,74,33,78,81,62,89,30,32,48,30
+Stephan Baard,29,Namibia,70,69,29,78,72,62,49,30,32,27,16
+Nasir Hossain,30,Bangladesh,82,69,73,76,71,62,62,69,72,95,68
+Mahmudul Hasan Joy,21,Bangladesh,70,69,27,76,73,62,51,28,30,30,5
+Umar Amin,32,Pakistan,71,69,38,75,74,62,55,34,37,34,59
+Vriitya Aravind,19,United Arab Emirates,70,69,30,75,72,62,67,29,31,38,24
+Matthew Spoors,22,Canada,69,68,25,73,78,62,28,27,28,7,22
+Karim Janat,23,Afghanistan,83,64,77,72,62,62,47,74,80,59,97
+Joe Weatherley,25,England,68,67,25,72,71,62,55,28,30,10,10
+Pramud Hettiwatte,26,Sri Lanka,72,68,49,71,71,62,74,51,50,16,69
+Atharva Taide,21,India,72,67,54,70,74,62,46,64,62,22,15
+Matt Ford,27,Ireland,72,68,48,70,76,62,51,55,49,50,15
+Vishnu Solanki,29,India,68,67,26,70,69,62,77,28,28,23,10
+Kamran Ghulam,26,Pakistan,74,66,62,69,73,62,41,65,65,65,30
+Bas de Leede,22,Netherlands,68,63,52,68,60,62,52,44,50,80,61
+Wriddhiman Saha,37,India,69,68,29,68,72,62,83,28,30,54,5
+Wesley Marshall,28,South Africa,70,69,27,68,78,62,61,28,28,11,30
+Stephan Myburgh,37,Netherlands,66,65,26,68,70,62,33,28,30,8,16
+Gurkeerat Singh Mann,31,India,68,66,36,67,69,62,67,33,33,59,34
+David Bedingham,27,South Africa,66,65,27,67,70,62,52,28,28,15,28
+Luis Reece,31,England,71,66,54,66,71,62,60,54,53,28,84
+Regis Chakabva,34,Zimbabwe,65,64,26,64,64,62,76,28,30,14,17
+Dale Phillips,23,New Zealand,66,65,28,63,66,62,83,28,30,42,10
+Jaker Ali,23,Bangladesh,63,62,25,62,60,62,76,28,30,8,11
+Digvijay Rangi,23,India,68,60,59,61,60,62,34,62,57,89,25
+Anaru Kitchen,37,New Zealand,66,63,44,61,66,62,64,46,43,61,21
+Shubham Dubey,27,India,63,62,28,61,61,62,67,27,28,34,30
+Lahiru Madushanka,29,Sri Lanka,74,60,67,59,57,62,70,68,70,30,92
+Josh Finnie,25,New Zealand,65,62,42,59,65,62,61,39,41,65,33
+Rohail Nazir,20,Pakistan,64,63,31,59,66,62,77,28,30,40,34
+Urvil Patel,23,India,66,65,27,59,72,62,78,28,28,8,34
+Adam Milne,29,New Zealand,88,60,85,56,63,62,56,82,87,77,98
+Shoaib Md Khan,30,India,66,58,57,53,62,62,41,62,49,77,47
+Shubham Chaubey,26,India,57,56,24,53,55,62,35,28,28,5,9
+Craig Overton,27,England,79,58,74,52,55,62,81,69,71,91,90
+Mohammad Boota,39,United Arab Emirates,57,56,30,52,54,62,53,29,32,7,52
+Lizaad Williams,28,South Africa,77,53,73,51,45,62,50,74,76,91,41
+Jay Lenton,31,Australia,60,59,24,50,59,62,90,27,27,11,12
+Jagadeesha Suchith,28,India,73,58,66,49,60,62,69,72,70,50,41
+Chad Soper,30,Papua New Guinea,77,51,73,48,43,62,34,74,74,94,47
+Justin Avendano,28,Australia,53,52,27,48,51,62,21,27,28,34,12
+Okera Bascome,28,Bermuda,54,53,31,47,47,62,67,28,30,10,63
+Mohammad Mohsin,25,Pakistan,70,53,65,46,49,62,58,62,58,80,91
+Ayabulela Gqamane,32,South Africa,66,56,59,46,60,62,56,59,54,91,47
+Chathura Peiris,31,Sri Lanka,65,52,59,43,50,62,51,65,62,25,57
+Marty Kain,33,United States of America,66,57,58,43,60,62,81,62,56,25,84
+Ishaan Gadekar,24,India,52,51,26,43,53,62,7,27,28,19,16
+Mithun Jayawickrama,31,Sri Lanka,55,51,43,42,46,62,65,50,46,27,18
+Jack Prestwidge,25,Australia,73,51,69,41,51,62,34,65,63,94,88
+Saranga Rajaguru,29,Sri Lanka,62,50,56,39,47,62,55,58,58,46,54
+Akash Deep,25,India,73,50,69,37,49,62,52,72,70,91,33
+Gus Atkinson,24,England,79,49,76,36,45,62,56,68,75,97,87
+Auqib Nabi,25,India,73,48,70,36,46,62,35,66,66,85,91
+Mason Hughes,23,New Zealand,48,47,26,33,49,62,9,27,28,28,8
+Mohammad Irfan,39,Pakistan,85,40,84,30,29,62,14,81,83,83,99
+Ravisrinivasan Sai Kishore,25,India,78,45,76,30,43,62,34,77,74,88,68
+Ajinkya Rahane,33,India,73,72,32,81,77,61,63,28,31,52,30
+Tanmay Agarwal,26,India,72,71,29,77,77,61,61,28,30,22,34
+Kamindu Mendis,23,Sri Lanka,78,70,64,76,77,61,52,67,63,67,54
+Kyle Verreynne,24,South Africa,71,70,27,75,74,61,79,28,30,23,16
+Kashyap Prajapati,26,Oman,69,68,27,73,70,61,75,28,30,5,36
+Narayan Jagadeesan,26,India,68,67,27,73,70,61,59,28,30,20,17
+Gayan Maneeshan,30,Sri Lanka,67,65,40,71,64,61,66,41,45,52,6
+Subhranshu Senapati,25,India,68,67,25,71,70,61,71,28,28,13,17
+Ariful Haque,29,Bangladesh,66,65,33,70,64,61,75,34,37,34,16
+Matthew Breetzke,23,South Africa,68,67,31,70,74,61,47,28,30,40,38
+Joe Cracknell,21,England,70,69,29,70,77,61,67,28,28,36,31
+Michau du Preez,26,Namibia,66,65,28,70,70,61,40,28,28,15,40
+Gyanendra Malla,31,Nepal,66,65,26,70,66,61,65,28,30,13,11
+Zeeshan Maqsood,34,Oman,73,65,61,69,69,61,38,65,65,25,69
+Pavan Deshpande,32,India,69,67,36,69,73,61,57,39,37,36,20
+Tayyab Tahir,28,Pakistan,68,67,28,69,75,61,40,27,28,44,11
+Ryan Rickelton,25,South Africa,68,67,27,69,71,61,71,29,30,22,9
+Rahul Buddhi,24,India,68,67,27,69,72,61,59,28,30,28,7
+David Lloyd,29,England,67,66,33,68,74,61,48,33,36,40,9
+Ahsan Ali,28,Pakistan,67,66,28,68,73,61,47,28,31,40,6
+Jatin Wadhwan,27,India,66,65,26,68,68,61,52,27,28,16,28
+Hammad Azam,30,Pakistan,78,64,70,66,67,61,56,67,68,88,71
+Steven Davies,35,England,69,68,30,66,76,61,78,28,30,46,22
+Gary Ballance,32,England,65,64,27,66,66,61,68,28,28,36,13
+Rachin Ravindra,22,New Zealand,82,62,76,61,65,61,61,77,78,73,65
+Sachitha Jayathilake,24,Sri Lanka,72,58,65,61,53,61,40,63,58,83,84
+Kaushal Singh,25,India,70,60,62,60,60,61,52,60,60,75,66
+Kiplin Doriga,26,Papua New Guinea,61,60,31,60,53,61,90,28,30,63,12
+Dhananjaya Lakshan,23,Sri Lanka,69,60,60,58,62,61,61,54,60,82,66
+Chirag Jani,32,India,69,60,60,57,63,61,62,64,56,38,82
+Kumar Deobrat,29,India,59,58,30,56,59,61,47,28,30,48,15
+Keron Cottoy,32,West Indies,64,58,53,54,56,61,72,49,47,79,63
+Llew Johnson,22,New Zealand,59,58,27,53,59,61,64,28,28,36,6
+Dylan Budge,26,Scotland,56,54,34,52,46,61,55,31,36,30,45
+Kane Richardson,31,Australia,82,57,78,51,56,61,64,78,84,70,63
+Sean Abbott,29,Australia,79,56,75,51,53,61,78,75,82,42,79
+KV Sasikanth,26,India,78,57,73,51,56,61,71,70,70,95,75
+Chama Milind,27,India,80,56,76,47,57,61,61,72,76,98,74
+Chathuranga Kumara,30,Sri Lanka,66,55,59,47,57,61,46,57,56,93,45
+Tanay Thyagarajan,26,India,65,56,57,44,58,61,78,66,52,25,69
+Will Sutherland,22,Australia,64,49,59,42,42,61,45,58,60,44,71
+Nyeem Young,21,West Indies,72,49,68,38,41,61,74,64,65,80,81
+Matthew Kelly,27,Australia,74,50,70,35,50,61,53,68,71,72,69
+Kamrul Islam,30,Bangladesh,77,47,74,34,46,61,38,68,72,97,84
+Roosh Kalaria,29,India,72,45,69,29,44,61,44,71,70,95,30
+Zia-ul-Haq,27,Pakistan,72,40,70,24,34,61,28,69,68,65,90
+Joe Root,31,England,76,72,54,81,79,60,69,50,53,77,47
+Temba Bavuma,31,South Africa,73,72,31,81,76,60,72,28,30,70,10
+Leus du Plooy,27,South Africa,72,70,38,79,73,60,67,35,38,68,17
+Stephen Eskinazi,27,England,73,72,27,78,80,60,74,28,28,11,30
+Alex Davies,27,England,72,71,28,76,76,60,83,28,30,16,27
+Scott Steel,22,England,77,67,67,75,71,60,38,64,61,79,87
+Kyle Coetzer,37,Scotland,69,67,38,75,71,60,48,32,34,57,59
+Sahibzada Farhan,25,Pakistan,69,68,29,74,70,60,66,28,30,32,28
+Charles Amini,29,Papua New Guinea,82,66,75,73,65,60,66,77,76,70,66
+Kishan Lyngdoh,23,India,69,68,31,73,77,60,42,34,30,15,43
+Craig Ervine,36,Zimbabwe,69,68,26,72,72,60,66,28,28,19,12
+Himanshu Rana,23,India,68,67,25,72,73,60,46,28,30,4,10
+Neil Broom,38,New Zealand,67,66,27,70,69,60,61,29,31,14,12
+Dane Cleaver,30,New Zealand,68,67,25,67,72,60,87,28,28,17,5
+Paul Coughlin,29,England,73,64,64,65,68,60,61,61,68,70,52
+Siddhesh Lad,29,India,68,63,50,64,66,60,62,54,54,54,16
+Sameera Sadamal,28,Sri Lanka,69,63,54,61,69,60,61,52,50,67,63
+Lahiru Udara,28,Sri Lanka,65,64,26,61,70,60,79,28,28,14,21
+Shubham Agarwal,28,India,75,58,69,59,56,60,49,70,68,85,52
+Zeeshan Ashraf,29,Pakistan,62,61,30,58,66,60,51,28,28,50,27
+Nasir Nawaz,23,Pakistan,61,60,25,58,65,60,45,28,28,5,22
+Yash Nahar,27,India,60,59,24,58,63,60,31,27,28,10,14
+Paul Walter,27,England,68,61,57,57,66,60,65,56,58,32,82
+Sithara Gimhan,26,Sri Lanka,62,61,29,57,66,60,70,27,28,40,28
+Nazmul Hossain Milon,34,Bangladesh,58,57,26,57,54,60,59,29,30,23,5
+Adeesha Thilanchana,26,Sri Lanka,76,55,71,55,49,60,54,69,73,65,75
+Writtick Chatterjee,29,India,75,61,68,55,66,60,66,66,61,94,82
+Jacques Snyman,27,South Africa,64,59,48,55,65,60,47,52,47,36,47
+Geshan Wimaladharma,29,Sri Lanka,57,56,24,55,54,60,55,27,28,7,12
+Thomas Kaber,29,South Africa,74,57,68,54,57,60,56,68,63,61,94
+Saif Zaib,23,England,61,59,39,54,63,60,65,40,38,63,17
+Kasun Vidura,28,Sri Lanka,60,58,33,53,58,60,70,34,32,28,40
+Akshay Karnewar,29,India,80,57,76,49,61,60,60,73,70,93,94
+Shardul Thakur,30,India,84,54,81,47,54,60,52,78,85,79,81
+Nathan Smith,23,New Zealand,74,53,70,44,52,60,54,64,70,67,96
+Azmir Ahmed,26,Bangladesh,51,50,29,40,49,60,42,27,28,44,30
+Tymal Mills,29,England,80,46,78,34,44,60,22,78,83,74,61
+Jake Ball,30,England,73,43,71,31,35,60,38,69,74,83,54
+Chamod Piumal ,26,Sri Lanka,64,40,62,24,36,60,28,62,65,20,93
+Imam-ul-Haq,26,Pakistan,72,72,25,83,78,59,57,28,30,7,6
+Chirag Suri,27,United Arab Emirates,69,68,30,80,74,59,31,28,30,27,43
+Jason Sangha,22,Australia,71,70,35,78,73,59,71,37,41,20,18
+Ashen Bandara,23,Sri Lanka,71,70,31,76,74,59,91,32,34,30,17
+Steven Croft,37,England,74,69,55,75,71,59,82,56,54,80,28
+Ben Cox,30,England,69,68,27,73,71,59,85,28,30,6,27
+Hashmatullah Shahidi,27,Afghanistan,67,66,25,73,71,59,47,28,28,16,10
+Aaron Jones,27,United States of America,69,63,55,72,62,59,47,55,47,75,64
+Max Holden,24,England,70,69,29,72,74,59,81,28,30,15,38
+Brett D'Oliveira,29,England,78,66,69,71,71,59,55,66,65,74,92
+Tanzid Hasan,21,Bangladesh,65,64,26,69,63,59,80,28,30,23,5
+Diego Rosier,27,South Africa,67,66,32,68,71,59,65,31,33,28,33
+Paras Dogra,37,India,65,64,27,68,63,59,74,27,28,25,25
+Peter Trego,40,England,70,64,55,67,70,59,47,48,49,92,68
+Aditya Tare,34,India,67,66,30,67,71,59,78,28,28,57,16
+Thomas Rogers,23,Australia,63,62,25,66,70,59,20,27,28,19,11
+Ashan Priyanjan,32,Sri Lanka,69,63,53,65,66,59,60,55,53,22,77
+Henry Davids,42,South Africa,63,62,33,64,67,59,41,34,34,27,28
+Kedar Jadhav,36,India,64,63,29,64,68,59,64,28,30,23,31
+Vihan Gunasekare,23,Sri Lanka,55,54,27,63,47,59,15,27,28,17,33
+Abhishek Yadav,26,India,63,61,35,62,66,59,36,33,33,50,40
+Dineth Jayakody,20,Sri Lanka,64,64,24,62,70,59,66,28,28,8,8
+Luke Georgeson,22,New Zealand,65,61,48,59,63,59,81,46,53,32,47
+Devon Thomas,32,West Indies,61,60,29,59,59,59,75,28,30,19,34
+Rony Talukdar,31,Bangladesh,61,60,25,59,64,59,52,28,28,6,20
+Rahatul Ferdous,26,Bangladesh,62,55,54,57,51,59,41,64,62,14,22
+Pallavkumar Das,32,India,63,61,40,57,68,59,58,41,40,59,16
+Chris Green,28,Australia,81,60,76,56,62,59,84,76,75,80,78
+Ed Barnard,26,England,78,60,72,55,65,59,76,69,71,79,81
+Lesiba Ngoepe,28,South Africa,56,55,28,55,54,59,42,28,30,22,24
+Ravichandran Ashwin,35,India,88,57,85,54,61,59,46,83,86,99,77
+Madushan Ravichandrakumar,27,Sri Lanka,69,60,60,54,62,59,81,63,60,25,87
+Rishi Patel,23,England,60,59,26,54,61,59,71,28,28,20,17
+Rob Yates,22,England,57,55,36,52,59,59,28,36,34,19,63
+Harpreet Brar,26,India,80,53,76,51,51,59,38,74,70,91,89
+Jamie Gibson,28,New Zealand,57,56,29,51,55,59,72,30,31,28,14
+Andre McCarthy,34,West Indies,56,55,26,51,53,59,61,28,28,25,8
+Logan van Beek,31,Netherlands,79,57,74,49,59,59,76,70,74,72,96
+Ranmith Jayasena,21,Sri Lanka,55,54,26,49,56,59,38,27,28,20,22
+Jasprit Bumrah,28,India,89,50,87,46,46,59,31,84,89,80,97
+Ahmed Raza,33,United Arab Emirates,69,49,65,46,40,59,60,65,67,65,55
+Mujeeb Ur Rahman,20,Afghanistan,88,51,86,45,49,59,37,85,88,63,100
+Bhanu Pania,25,India,51,50,27,44,46,59,41,27,28,20,27
+Taskin Ahmed,26,Bangladesh,78,47,76,43,42,59,24,75,79,46,98
+Nuwan Priyadarshana,28,Sri Lanka,46,45,24,42,37,59,20,27,28,16,4
+Trent Boult,32,New Zealand,87,47,85,41,37,59,55,79,85,97,97
+Kunal Saikia,33,India,52,51,23,38,52,59,66,27,27,10,4
+Nauman Ali,35,Pakistan,69,46,66,35,41,59,45,65,58,79,90
+Towfiq Khan,30,Bangladesh,47,46,23,34,42,59,59,27,27,6,12
+Tanvir Islam,25,Bangladesh,76,43,74,33,36,59,34,72,72,67,96
+Nathan Buck,30,England,67,44,64,33,39,59,37,65,67,50,63
+Ed Nuttall,28,New Zealand,71,41,69,32,31,59,37,69,71,52,82
+Matt Milnes,27,England,72,49,68,31,53,59,57,65,66,92,61
+Luke Fletcher,33,England,72,43,70,29,40,59,29,66,67,99,66
+Daryn Dupavillon,27,South Africa,70,43,67,29,38,59,38,69,68,82,36
+Max O'Dowd,27,Netherlands,70,68,42,76,73,58,55,35,38,65,59
+Ollie Pope,24,England,73,72,28,81,79,58,74,28,30,40,10
+Towhid Hridoy,21,Bangladesh,68,67,30,77,66,58,72,30,31,30,28
+Jordan Cox,21,England,71,70,27,77,74,58,95,28,30,27,11
+Jhedli van Briesies,20,South Africa,71,71,25,77,77,58,97,27,28,4,27
+Usman Khawaja,35,Australia,69,68,30,74,76,58,46,28,28,44,36
+Grant Roelofsen,25,South Africa,70,69,27,74,74,58,84,28,28,19,31
+Chamu Chibhabha,35,Zimbabwe,74,65,63,73,69,58,49,56,60,98,66
+Angelo Perera,31,Sri Lanka,69,67,40,73,68,58,82,38,40,82,10
+Stephen Doheny,23,Ireland,69,68,26,73,74,58,78,28,28,20,20
+Dipendra Singh Airee,22,Nepal,71,67,51,72,71,58,72,45,47,82,63
+Rohan Kadam,27,India,67,66,27,72,73,58,50,27,28,38,10
+Bavanaka Sandeep,29,India,73,66,58,71,67,58,83,56,47,88,75
+Dane Vilas,36,South Africa,68,67,26,71,70,58,88,28,28,13,21
+Mahela Udawatte,35,Sri Lanka,66,65,32,70,69,58,53,29,31,67,16
+William O'Donnell,24,New Zealand,66,66,24,70,67,58,88,27,28,11,8
+Sachin Baby,33,India,67,66,34,69,71,58,70,33,33,57,17
+Nick Selman,26,England,67,66,28,69,73,58,61,28,28,28,27
+Mackenzie Harvey,21,Australia,66,65,28,69,67,58,78,28,30,38,12
+Rohan Mustafa,33,United Arab Emirates,80,65,73,68,68,58,69,69,70,99,71
+Grant Thomson,33,South Africa,71,64,57,68,68,58,58,56,49,85,63
+Joe Burns,32,Australia,63,62,34,67,63,58,60,30,31,61,33
+Jimmy Peirson,29,Australia,66,65,31,67,68,58,85,28,30,46,31
+Priyamal Perera,26,Sri Lanka,64,63,26,66,66,58,65,30,31,11,9
+Jan Frylinck,27,Namibia,83,61,78,65,60,58,65,70,76,98,97
+Luke Hollman,21,England,74,64,65,65,68,58,83,66,68,42,68
+Sheldon Jackson,35,India,64,63,28,65,66,58,76,27,28,52,10
+Chris Dent,31,England,64,63,33,64,70,58,59,31,33,59,13
+Matthew Gilkes,22,Australia,63,62,29,64,66,58,51,28,30,32,28
+Rayan Rahman,23,Bangladesh,61,60,33,62,61,58,59,35,32,23,34
+Rikki Clarke,40,England,69,61,60,61,63,58,73,61,60,93,20
+Kiran Carlson,23,England,63,62,28,61,66,58,64,28,30,36,16
+Ritwik Roy Chowdhury,26,India,62,61,27,59,64,58,78,28,28,25,18
+Rajibul Islam,27,Bangladesh,67,56,60,58,55,58,40,63,50,68,81
+Mitchell Owen,20,Australia,66,59,56,56,67,58,41,57,52,91,36
+Heath Richards,20,South Africa,59,58,30,55,61,58,57,31,34,30,7
+Simon Harmer,33,South Africa,73,58,66,53,60,58,76,68,66,95,28
+Tillakaratne Sampath,39,Sri Lanka,63,57,53,53,60,58,65,59,56,34,40
+Khurram Nawaz,36,Oman,55,54,28,53,52,58,42,27,28,57,6
+Mehedi Maruf,33,Bangladesh,56,55,25,53,55,58,38,27,28,16,13
+Tim Tector,18,Ireland,54,53,27,52,53,58,29,30,31,15,6
+Manik Beri,28,India,51,50,25,51,45,58,16,27,27,25,5
+Keshav Maharaj,32,South Africa,78,55,74,50,58,58,54,72,67,92,90
+Binura Fernando,26,Sri Lanka,78,52,74,50,51,58,35,79,84,38,50
+Liam Plunkett,36,England,74,56,69,50,59,58,58,69,70,67,68
+Vikas Yadav,25,India,70,52,65,48,49,58,57,70,65,79,34
+Rakesh Thakur,30,India,52,51,25,46,43,58,85,27,27,20,11
+Saurabh Netravalkar,30,United States of America,73,50,69,42,46,58,56,71,66,42,99
+Sultan Ahmed,32,United Arab Emirates,79,47,77,37,41,58,69,74,72,90,93
+Rajesh Mohanty,21,India,69,44,66,35,38,58,30,67,62,61,83
+Benjamin Lister,26,New Zealand,76,47,73,34,45,58,61,69,70,80,97
+Basil Thampi,28,India,75,45,72,34,42,58,40,70,71,79,72
+Jack Plom,22,England,71,44,68,34,37,58,52,65,70,94,48
+Harbhajan Singh,41,India,66,48,62,33,51,58,44,62,52,88,72
+Charith Jayampathi,31,Sri Lanka,62,43,59,33,37,58,37,59,61,30,79
+Jeavor Royal,23,West Indies,74,47,71,32,47,58,62,65,67,85,94
+Unnikrishnan Manukrishnan,33,India,65,47,61,32,49,58,56,69,63,36,50
+Harishankar Reddy,23,India,74,44,72,29,46,58,28,69,72,88,69
+Roshan Jayatissa,32,Sri Lanka,67,41,65,27,36,58,43,66,63,93,41
+Shivam Chauhan,24,India,70,69,28,78,75,57,54,30,32,11,22
+Matt Renshaw,25,Australia,69,68,35,75,73,57,66,40,41,11,11
+Sam Northeast,32,England,68,67,29,75,74,57,54,28,30,48,6
+Sean Williams,35,Zimbabwe,81,66,74,72,69,57,67,74,73,99,52
+Tom Westley,32,England,69,67,36,72,74,57,60,34,33,50,43
+Pratham Singh,29,India,66,66,23,72,72,57,59,27,28,6,6
+Damitha Silva,23,Sri Lanka,78,62,71,71,57,57,67,73,72,80,50
+Aqib Ilyas,29,Oman,66,64,35,71,68,57,45,38,37,14,31
+Beau Webster,28,Australia,67,66,32,71,68,57,84,36,34,32,7
+Muhammad Usman,36,United Arab Emirates,64,63,26,70,66,57,48,28,30,7,25
+Anisul Islam Emon,24,Bangladesh,68,64,47,69,69,57,62,43,50,32,69
+Rishabh Tiwari,28,India,66,66,24,69,74,57,62,27,28,19,4
+Matt Critchley,25,England,73,63,64,67,65,57,61,70,72,46,30
+Ravindu Sembukuttige,22,Sri Lanka,68,63,50,66,67,57,67,46,45,74,61
+Richmond Mutumbami,32,Zimbabwe,62,61,28,65,60,57,73,28,30,9,38
+Craig Wallace,31,Scotland,63,62,27,64,63,57,75,28,28,36,7
+Srikar Bharat,28,India,62,61,25,64,60,57,78,28,30,11,8
+Usman Khan,26,Pakistan,63,62,29,63,66,57,63,27,28,36,30
+Sarel Erwee,32,South Africa,63,62,27,63,67,57,57,30,32,8,17
+Lakhan Singh,23,India,72,61,64,61,67,57,49,58,67,57,84
+Jonathan Carter,34,West Indies,59,58,31,61,56,57,56,31,32,52,9
+Charitha Kumarasinghe,29,Sri Lanka,62,62,23,61,66,57,79,27,28,4,5
+Mizanur Rahman,30,Bangladesh,60,60,23,61,65,57,47,27,28,5,9
+Aubrey Swanepoel,32,South Africa,70,61,61,59,68,57,63,60,54,88,61
+Dushan Hemantha,27,Sri Lanka,64,59,49,58,60,57,75,51,47,34,68
+Irfan Sukkur,28,Bangladesh,61,60,28,58,62,57,72,28,28,44,15
+Ashok Menaria,31,India,62,56,51,56,58,57,45,49,45,77,56
+Gavin Kaplan,24,South Africa,59,58,23,55,58,57,76,27,28,3,11
+Brian Mudzinganyama,26,Zimbabwe,60,58,33,54,63,57,50,36,32,14,40
+Sandun Weerakkody,28,Sri Lanka,60,59,26,53,64,57,73,28,30,11,20
+Josh Davey,31,Scotland,80,57,75,52,60,57,76,68,75,87,89
+Aditya Garhwal,25,India,56,55,32,52,61,57,27,36,37,17,13
+Monank Patel,28,United States of America,57,55,33,50,55,57,74,28,30,38,59
+William McClintock,25,Ireland,54,52,32,50,52,57,26,29,30,50,33
+Nathan McGuire,18,Ireland,53,52,31,50,50,57,48,35,36,13,15
+Sanyam Arora,20,India,57,56,26,50,66,57,21,27,28,23,20
+Mohammad Amir,29,Pakistan,85,49,83,46,45,57,30,83,88,92,54
+Tejas Patel,26,India,77,59,71,46,73,57,57,68,66,74,96
+Shingi Masakadza,35,Zimbabwe,69,52,64,46,50,57,58,65,66,79,36
+Alzarri Joseph,25,West Indies,75,50,71,44,44,57,65,66,70,95,74
+Saurabh Das,28,India,56,46,51,43,38,57,29,59,47,52,30
+Fareed Ahmad,27,Afghanistan,69,52,64,41,59,57,36,65,70,44,52
+Rumman Raees,30,Pakistan,79,49,76,39,49,57,57,76,77,100,50
+Paul van Meekeren,29,Netherlands,78,46,76,38,42,57,46,72,74,89,91
+Abhimanyu Easwaran,26,India,68,67,26,77,73,56,54,28,28,6,30
+Henry Nicholls,30,New Zealand,68,67,30,75,72,56,73,28,30,34,33
+Collins Obuya,40,Kenya,71,65,54,73,66,56,71,52,54,80,31
+Varun Chopra,34,England,66,65,31,73,69,56,46,28,28,65,17
+Tony de Zorzi,24,South Africa,66,65,30,73,69,56,50,28,30,40,27
+Khurram Manzoor,35,Pakistan,66,65,30,72,72,56,45,28,30,32,31
+Nuwanidu Fernando,22,Sri Lanka,64,63,27,72,63,56,62,30,30,17,9
+Sanjaya Chathuranga,29,Sri Lanka,71,63,61,70,64,56,61,62,61,42,71
+Jiveshan Pillay,23,South Africa,64,63,28,68,68,56,55,27,28,36,22
+Michael Pepper,23,England,64,63,25,67,64,56,73,28,28,9,18
+Shamsur Rahman,33,Bangladesh,63,62,32,66,66,56,48,28,30,48,41
+Hanno Kotze,27,South Africa,64,64,24,65,68,56,80,27,28,17,4
+Zakir Hasan,24,Bangladesh,60,59,31,62,63,56,36,28,30,61,16
+Jahurul Islam,35,Bangladesh,61,60,28,62,60,56,68,28,28,34,22
+Saurabh Rawat,24,India,60,59,28,61,57,56,83,28,30,23,24
+Gihan Rupasinghe,35,Sri Lanka,61,59,36,60,61,56,59,32,33,57,43
+Junaid Siddique,34,Bangladesh,60,59,26,60,64,56,38,28,28,25,15
+Jack Haynes,21,England,62,61,25,60,69,56,45,27,28,13,21
+Tony Munyonga,23,Zimbabwe,60,58,39,58,57,56,70,48,43,10,18
+Kshitiz Sharma,31,India,59,56,41,57,60,56,30,39,36,54,52
+Lewis Hill,31,England,59,58,24,57,60,56,67,27,28,8,11
+Safyaan Sharif,30,Scotland,79,56,75,55,57,56,52,70,74,84,85
+William Buttleman,21,England,58,57,23,55,62,56,42,27,28,3,8
+Raymon Reifer,30,West Indies,70,53,65,54,49,56,41,61,65,61,86
+Tharaka Waduge,35,Sri Lanka,54,53,27,54,51,56,42,30,30,14,17
+Clive Madande,21,Zimbabwe,55,54,25,52,47,56,88,27,28,27,5
+Geeth Kumara,33,Sri Lanka,61,53,54,51,53,56,43,57,53,75,25
+Myshukur Rahaman,30,Bangladesh,52,51,24,51,48,56,32,28,28,6,8
+Neville Madziva,30,Zimbabwe,68,51,63,50,46,56,42,68,67,46,41
+Moin Khan,26,Bangladesh,55,50,47,50,46,56,41,49,45,17,78
+Shubham Arora,24,India,57,56,26,49,59,56,75,27,28,23,17
+Muktar Ali,32,Bangladesh,69,50,65,48,45,56,51,63,65,95,47
+Ken McClure,27,New Zealand,53,52,28,47,56,56,23,27,28,22,34
+Barry McCarthy,29,Ireland,79,49,76,44,48,56,33,70,76,96,78
+Janith Silva,31,Sri Lanka,71,49,67,44,47,56,51,69,67,91,38
+Shaheen Shah Afridi,21,Pakistan,92,46,91,42,42,56,32,83,99,91,90
+Ethan-John Cunningham,18,South Africa,54,51,41,42,58,56,18,45,38,9,64
+Tabraiz Shamsi,32,South Africa,86,42,85,39,30,56,25,82,87,99,78
+Dane Paterson,32,South Africa,76,51,72,39,55,56,55,70,71,65,94
+Junior Dala,32,South Africa,72,51,68,39,57,56,54,68,71,96,30
+Ravi Rampaul,37,West Indies,79,46,77,38,43,56,37,75,78,83,79
+Nasum Ahmed,27,Bangladesh,78,44,76,38,37,56,29,74,77,74,79
+Pradipta Pramanik,23,India,73,46,70,37,41,56,50,71,72,52,71
+Sam Cook,24,England,72,44,69,37,39,56,41,69,72,93,31
+Mohit Sharma,33,India,76,45,74,34,43,56,40,69,70,94,85
+Abu Nechim,33,India,69,44,66,34,43,56,35,68,65,77,52
+Darshan Nalkande,23,India,78,41,76,33,33,56,37,73,79,96,52
+Michael Rae,26,New Zealand,65,47,61,28,59,56,33,64,66,23,68
+Sadeera Samarawickrama,26,Sri Lanka,69,68,30,78,71,55,86,28,31,27,41
+Cameron Bancroft,29,Australia,69,68,30,78,71,55,78,28,30,59,7
+Sese Bau,29,Papua New Guinea,67,62,52,73,61,55,60,50,47,48,86
+Mominul Haque,30,Bangladesh,66,64,35,72,68,55,54,34,36,48,20
+Dan Mousley,20,England,71,65,55,71,70,55,60,60,57,50,34
+James Hildreth,37,England,66,65,26,71,70,55,62,29,31,14,9
+Marques Ackerman,25,South Africa,66,65,30,70,72,55,71,33,32,19,22
+Zeeshan Malik,25,Pakistan,65,64,27,70,71,55,53,27,28,28,21
+Kedar Devdhar,32,India,64,64,24,70,70,55,64,27,28,8,7
+Heino Kuhn,37,South Africa,66,65,29,69,70,55,85,28,28,57,6
+Priyank Panchal,31,India,66,65,27,69,71,55,73,30,32,11,6
+Qamran Iqbal,20,India,60,59,27,69,60,55,24,28,28,16,30
+Chaitanya Bishnoi,27,India,64,63,26,69,67,55,66,30,32,6,7
+Qamran Iqbal,20,India,60,59,25,69,60,55,24,28,28,8,21
+Akshdeep Nath,28,India,64,62,39,68,64,55,60,37,41,70,7
+Tom Blundell,31,New Zealand,65,64,26,67,68,55,84,28,28,5,28
+Thomas Kelly,21,Australia,63,62,28,66,66,55,66,28,28,30,30
+Priyam Garg,21,India,62,61,26,66,62,55,60,28,30,25,6
+Sakibul Gani,22,India,61,60,26,66,59,55,55,29,30,5,22
+Mrunal Devdhar,29,India,63,62,28,65,67,55,65,28,28,40,16
+Gihahn Cloete,29,South Africa,63,62,26,65,65,55,67,28,30,6,25
+Lasith Croospulle,23,Sri Lanka,63,62,34,62,68,55,65,38,40,9,15
+George Scott,26,England,58,57,30,62,52,55,69,32,34,25,10
+Shamarh Brooks,33,West Indies,61,60,26,62,61,55,79,27,28,38,4
+Jeet Raval,33,New Zealand,62,61,24,62,64,55,71,27,28,5,14
+Utkarsh Singh,23,India,73,60,66,61,66,55,54,70,68,79,33
+Agha Salman,28,Pakistan,68,58,60,61,60,55,48,58,56,61,84
+Israrullah,29,Pakistan,60,58,36,60,63,55,40,34,33,59,30
+Tion Webster,26,West Indies,59,58,28,60,58,55,58,28,28,17,36
+Xavier Bartlett,23,Australia,71,60,63,59,66,55,55,67,68,44,48
+James McCollum,26,Ireland,59,58,26,58,64,55,48,27,28,3,38
+Bayley Wiggins,23,New Zealand,59,58,29,54,65,55,54,28,28,30,36
+Michael Burgess,27,England,56,55,25,53,53,55,78,28,28,20,9
+James Seymour,29,Australia,56,54,34,52,58,55,29,38,31,11,48
+Sankar Paul,21,India,74,49,71,51,44,55,31,71,70,87,54
+Tendai Chisoro,34,Zimbabwe,67,53,61,51,56,55,42,58,52,97,75
+Onke Nyaku,27,South Africa,60,54,52,51,56,55,59,52,52,50,57
+Nahidul Islam,28,Bangladesh,72,54,67,50,55,55,63,71,67,85,33
+Asantha Basnayake,34,Sri Lanka,55,54,30,50,52,55,76,30,28,52,15
+Lakshan Rodrigo,34,Sri Lanka,58,56,38,49,64,55,52,37,36,63,21
+Moinuddin,34,Pakistan,50,49,29,47,44,55,54,30,31,36,9
+Deepak Punia,28,India,64,48,60,44,41,55,56,65,63,20,69
+Sharoon Siraj,24,Pakistan,52,51,25,44,62,55,7,27,28,8,17
+Jayant Yadav,32,India,72,50,68,43,49,55,72,68,58,94,86
+Sagar Trivedi,30,India,62,45,58,38,42,55,26,59,56,68,48
+Rubel Hossain,32,Bangladesh,79,44,77,37,39,55,36,78,81,77,61
+Aron Nijjar,27,England,69,48,65,37,48,55,71,68,62,80,48
+Seth Rance,34,New Zealand,71,44,68,31,45,55,38,67,68,68,72
+Tafadzwa Tsiga,27,Zimbabwe,44,43,24,26,49,55,19,27,28,9,10
+Ali Khan,31,United States of America,69,34,68,17,27,55,25,65,66,94,57
+Keaton Jennings,29,England,68,66,40,76,72,54,53,44,45,30,17
+Prashant Chopra,29,India,66,65,29,74,68,54,77,30,32,16,30
+Mitchell Van Buuren,24,South Africa,67,66,25,74,74,54,50,28,30,11,7
+Morne Venter,24,South Africa,72,64,61,73,67,54,62,59,60,74,56
+Jason Smith,27,South Africa,70,64,56,73,67,54,61,52,58,70,45
+Haris Sohail,33,Pakistan,64,63,33,73,64,54,63,30,32,61,18
+Amit Pachhara,26,India,64,63,26,73,67,54,49,27,28,13,22
+Wayne Madsen,38,England,67,66,31,72,73,54,63,35,34,16,15
+Govinda Poddar,30,India,68,64,46,71,70,54,56,52,47,38,21
+Zubayr Hamza,26,South Africa,65,64,27,71,68,54,61,28,31,7,28
+Ankit Lamba,30,India,63,62,29,70,65,54,54,28,28,44,25
+Ishank Jaggi,33,India,65,64,28,70,70,54,52,29,30,14,27
+Pieter Malan,32,South Africa,64,63,27,70,67,54,66,28,28,34,12
+Shan Masood,32,Pakistan,65,64,27,69,71,54,57,28,28,13,30
+Sahan Arachchige,25,Sri Lanka,70,64,54,68,67,54,82,53,54,34,74
+Kurtis Patterson,28,Australia,64,63,29,68,67,54,76,28,28,50,13
+Liam Dawson,31,England,81,61,76,67,61,54,68,71,72,91,95
+Shoaib Khan,29,Oman,66,65,29,67,74,54,73,27,28,30,38
+Eathan Bosch,23,South Africa,70,62,59,66,68,54,50,66,66,22,36
+Jake Fraser-McGurk,19,Australia,60,59,28,65,55,54,80,29,31,11,28
+Chetan Bist,32,India,61,61,23,65,62,54,88,27,27,6,6
+Jonathan Vandiar,31,South Africa,60,59,27,64,65,54,36,27,28,23,25
+Will Rhodes,26,England,77,58,71,61,61,54,55,62,70,91,91
+Kevin Kasuza,28,Zimbabwe,58,57,25,61,60,54,44,28,28,11,13
+Anand Singh,35,India,65,59,52,60,64,54,50,52,46,89,36
+Xavier Marshall,35,United States of America,56,55,24,60,54,54,40,28,28,6,13
+Arjun Nair,23,Australia,71,56,65,59,56,54,55,67,66,52,64
+Manoj Sarathchandra,29,Sri Lanka,60,59,27,59,60,54,92,27,28,27,21
+Kamil Mishara,20,Sri Lanka,59,58,24,59,63,54,41,28,28,5,14
+Hayden Kerr,25,Australia,71,58,64,57,63,54,63,65,68,46,61
+Josh Rymell,20,England,59,58,26,55,65,54,68,27,28,20,22
+Wil Parker,19,Australia,63,57,51,54,63,54,51,47,43,84,63
+Al-Amin,28,Bangladesh,59,55,44,54,58,54,43,41,42,46,63
+Rohit Rayudu,27,India,54,52,32,53,46,54,67,34,38,27,9
+Bjorn Fortuin,27,South Africa,84,54,81,51,55,54,59,73,82,93,96
+Shahbaz Ahmed,27,India,72,54,67,51,55,54,67,69,66,57,72
+Rex Rajkumar,21,India,71,51,66,51,46,54,64,71,65,19,96
+Hasantha Fernando,42,Sri Lanka,61,53,54,51,55,54,52,53,49,82,45
+Fabid Ahmed,26,India,71,49,67,49,41,54,66,71,66,63,63
+Ajay Mandal,25,India,72,52,67,48,54,54,54,67,63,77,68
+Andrew Salter,28,England,70,51,65,48,51,54,50,64,66,83,43
+Maheesh Theekshana,21,Sri Lanka,79,48,76,43,47,54,46,75,78,84,59
+Nathan Ellis,27,Australia,69,50,65,43,50,54,69,70,71,42,40
+Shafiul Hayet,24,Bangladesh,56,55,23,43,64,54,81,27,28,4,6
+Richard Ngarava,24,Zimbabwe,76,47,73,41,49,54,28,76,71,65,72
+Karan Patel,27,India,53,45,48,39,38,54,56,52,47,20,63
+Mark Steketee,28,Australia,70,45,67,36,41,54,50,69,73,40,63
+Malinda Pushpakumara,34,Sri Lanka,70,47,66,36,49,54,58,69,70,28,71
+Feroze Khushi,22,England,42,41,28,36,34,54,20,27,28,32,28
+Blair Tickner,28,New Zealand,74,40,72,33,30,54,34,65,80,70,67
+Veerasammy Permaul,32,West Indies,68,40,66,30,35,54,38,69,61,79,63
+Naseem Shah,19,Pakistan,75,41,73,29,41,54,19,74,75,89,48
+Umer Khan,22,Pakistan,63,40,60,23,42,54,32,67,68,23,34
+Irfan Karim,29,Kenya,68,67,33,81,67,53,85,28,31,65,31
+Tarisai Musakanda,27,Zimbabwe,67,66,34,78,68,53,74,28,30,65,41
+Jordan Silk,29,Australia,68,67,30,78,71,53,84,28,30,63,6
+Alex Lees,28,England,67,66,25,75,72,53,61,28,28,7,14
+Marnus Labuschagne,27,Australia,75,66,65,74,71,53,80,60,65,84,64
+Naushad Shaikh,30,India,68,65,43,71,69,53,87,45,42,61,20
+Daniel Hughes,33,Australia,64,63,27,71,68,53,55,28,28,34,7
+Peter Handscomb,30,Australia,65,64,26,71,65,53,84,28,30,11,20
+Krishan Sanjula,23,Sri Lanka,65,64,26,71,66,53,85,28,28,6,28
+Shreevats Goswami,32,India,65,64,25,70,69,53,75,28,28,14,16
+Mohammed Shamaaz,21,Sri Lanka,60,59,27,69,50,53,87,27,28,11,38
+Tre Manders,27,Bermuda,63,62,25,69,64,53,61,28,28,5,21
+Rishi Dhawan,32,India,74,61,67,68,65,53,49,69,66,93,41
+Raminda Wijesooriya,23,Sri Lanka,63,62,24,68,68,53,52,28,28,4,12
+Codanda Ajit Karthik,28,India,72,60,64,67,62,53,59,71,65,61,34
+Chirag Gandhi,31,India,62,61,30,67,63,53,77,27,28,57,18
+Caleb Jewell,24,Australia,63,62,29,67,68,53,60,28,30,40,17
+Upendra Yadav,25,India,64,63,24,67,66,53,88,28,28,3,11
+KB Pawan,34,India,61,60,27,66,60,53,63,27,27,28,25
+Aniruddha Joshi,34,India,61,60,32,65,61,53,75,31,33,44,16
+Pulina Tharanga,29,Sri Lanka,72,59,65,64,60,53,61,65,66,52,71
+Sean Solia,29,New Zealand,63,59,45,64,62,53,52,47,47,42,31
+Maduranga Zoysa,37,Sri Lanka,61,60,26,64,63,53,73,27,27,42,5
+Shrikant Mundhe,33,India,69,60,60,63,64,53,66,62,58,30,86
+Adam Wheater,32,England,62,61,28,63,66,53,82,28,30,32,14
+Anmolpreet Singh,23,India,59,58,25,63,58,53,61,28,30,9,6
+Pieter Seelaar,34,Netherlands,75,58,69,62,59,53,65,69,65,72,82
+Ramachandran Ragupathy,25,India,58,57,25,62,59,53,40,27,28,11,21
+Bismillah Khan,31,Pakistan,62,61,24,62,65,53,82,27,28,13,10
+Dhruv Raval,33,India,62,61,26,60,68,53,78,27,27,23,21
+Sam Whiteman,29,Australia,60,59,25,59,62,53,79,28,28,9,12
+Fazle Mahmud,34,Bangladesh,56,55,25,59,56,53,33,28,28,20,5
+Aamer Jamal,25,Pakistan,68,59,60,56,70,53,50,58,61,65,59
+Madawa Warnapura,33,Sri Lanka,57,55,36,56,56,53,48,42,43,10,11
+Fionn Hand,23,Ireland,74,57,68,54,61,53,72,63,66,83,81
+Josh Little,22,Ireland,73,50,69,51,47,53,48,65,70,71,80
+Onias Bascome,26,Bermuda,57,49,51,51,47,53,28,46,54,68,41
+Isharul Islam,27,Bangladesh,50,49,28,51,48,53,19,30,30,36,7
+Akhilesh Sahani,27,India,70,50,66,50,48,53,40,67,67,52,71
+Will Williams,29,New Zealand,71,55,65,50,56,53,90,62,66,70,69
+Anuk Fernando,26,Sri Lanka,69,53,64,49,55,53,62,62,63,59,84
+Tom Taylor,27,England,66,53,60,49,54,53,71,59,60,65,54
+Naveen-ul-Haq,22,Afghanistan,79,49,76,47,47,53,49,76,81,75,54
+Amir Hamza,30,Afghanistan,69,49,65,47,47,53,37,62,66,77,63
+Ravi Teja,27,India,69,50,64,47,50,53,51,65,63,61,64
+Ravindu Fernando,22,Sri Lanka,68,46,64,46,39,53,40,65,58,75,68
+Sohag Gazi,30,Bangladesh,76,49,73,45,48,53,45,74,72,75,75
+Divyang Hinganekar,28,India,72,52,67,44,55,53,76,67,65,44,93
+Avindu Theekshana,23,Sri Lanka,66,45,63,44,37,53,46,67,60,30,94
+Sandun Mendis,20,Sri Lanka,59,46,55,44,38,53,53,53,54,48,77
+Hem Chetri,21,India,56,54,36,44,60,53,91,37,40,40,16
+Vishva Chathuranga,23,Sri Lanka,52,51,25,44,53,53,66,28,28,9,14
+Reece Topley,27,England,83,44,81,41,39,53,29,78,84,98,68
+Tendai Chatara,30,Zimbabwe,76,41,74,37,32,53,43,71,75,79,80
+Josh Hazlewood,31,Australia,78,46,76,35,50,53,30,76,77,46,98
+Muhammad Musa,21,Pakistan,74,43,72,35,44,53,22,72,77,87,34
+Mohsin Khan,23,India,73,45,70,35,46,53,49,73,74,20,93
+Abu Jayed,28,Bangladesh,79,45,77,34,49,53,27,72,76,97,78
+Sameen Gul,23,Pakistan,75,38,74,34,28,53,22,68,70,96,92
+Angus McKenzie,23,New Zealand,69,45,66,34,44,53,58,66,58,79,86
+Khaled Ahmed,29,Bangladesh,76,39,74,31,31,53,30,69,68,97,91
+Tushar Deshpande,26,India,73,44,71,31,49,53,38,69,73,65,79
+Lahiru Diyantha,32,Sri Lanka,60,39,58,30,35,53,28,62,54,22,90
+Usman Ghani,25,Afghanistan,69,68,28,85,69,52,66,29,31,15,20
+Jonathan Wells,33,Australia,67,66,27,77,72,52,63,28,30,22,13
+Tom Prest,18,England,64,63,29,72,65,52,79,28,30,44,16
+Tom Wood,27,England,66,65,26,71,72,52,73,27,28,27,17
+Khaya Zondo,31,South Africa,63,61,34,70,63,52,57,34,36,50,8
+Hanuma Vihari,28,India,65,61,47,69,64,52,65,48,50,54,28
+Zain Abbas,30,Pakistan,61,60,29,69,66,52,34,34,34,8,8
+Rubel Mia,29,Bangladesh,61,60,33,68,65,52,44,37,37,27,7
+Cole McConchie,30,New Zealand,76,61,69,66,66,52,59,68,65,63,95
+Mohammad Ashraful,37,Bangladesh,61,59,36,65,64,52,46,37,41,11,34
+Sibonelo Makhanya,25,South Africa,61,59,35,65,62,52,52,37,38,15,34
+James Bracey,24,England,63,62,28,65,66,52,84,28,30,11,38
+Vikas Hathwala,28,India,59,58,30,64,59,52,50,31,31,36,14
+Udayawansha Parakrama,25,Sri Lanka,62,61,25,64,65,52,83,27,28,11,22
+Jason Mohammed,35,West Indies,57,56,31,63,53,52,52,32,32,36,17
+Ankush Bains,26,India,60,59,24,63,61,52,77,28,30,6,6
+Oshada Fernando,29,Sri Lanka,58,57,27,61,60,52,54,28,28,34,10
+Jaskaranvir Singh,28,India,58,57,29,58,58,52,75,27,28,42,31
+Alex Hughes,30,England,73,56,67,57,59,52,68,66,63,65,90
+Nikhil Gangta,29,India,58,57,32,57,64,52,57,34,34,11,36
+Jack Tector,25,Ireland,56,55,28,56,62,52,24,27,28,23,33
+Qaasim Adams,37,South Africa,56,55,27,56,58,52,55,28,30,23,12
+Yashodha Lanka,29,Sri Lanka,57,56,25,56,59,52,58,28,28,22,5
+Arafat Sunny jnr,27,Bangladesh,55,52,38,55,52,52,43,44,41,15,22
+Sujan Mayura,32,Sri Lanka,64,55,57,54,54,52,80,64,52,38,68
+Abdul Mazid,31,Bangladesh,52,51,25,54,49,52,28,27,27,16,20
+Nazeeb Saiyed,26,India,53,49,43,53,38,52,60,47,41,17,59
+Nick Gubbins,28,England,55,54,30,53,57,52,56,29,30,30,30
+Saim Ayub,19,Pakistan,53,52,24,53,56,52,25,28,28,6,5
+Robiul Haque,22,Bangladesh,66,51,61,52,51,52,43,62,61,27,90
+Henry Cooper,28,New Zealand,51,50,29,52,46,52,47,30,33,17,16
+Shreyas Gopal,28,India,81,54,77,50,60,52,49,74,76,99,68
+Sandeep Lamichhane,21,Nepal,79,48,76,49,45,52,40,75,80,81,62
+Malindu Maduranga,24,Sri Lanka,53,52,27,48,53,52,62,28,28,10,33
+Aravinda Akurugoda,25,Sri Lanka,55,47,50,47,43,52,43,52,42,75,52
+Nehemiah Odhiambo,38,Kenya,71,47,68,44,46,52,29,69,71,46,75
+Bernard Scholtz,31,Namibia,78,44,76,43,37,52,36,71,74,96,84
+Gavin Griffiths,28,England,73,44,70,43,36,52,36,67,70,97,52
+Anrich Nortje,28,South Africa,84,47,82,42,45,52,49,79,83,100,68
+Macai Simmons,29,Bermuda,46,45,30,42,41,52,36,30,30,13,45
+Chaminda Bandara,34,Sri Lanka,61,43,58,41,34,52,38,65,61,40,36
+Kartik Kakade,26,India,71,48,67,40,52,52,35,66,62,83,78
+Junaid Siddiqui,36,Canada,68,42,65,36,37,52,37,69,58,48,90
+Imliwati Lemtur,30,India,64,39,62,34,30,52,25,66,58,68,54
+James Pattinson,31,Australia,69,42,66,33,39,52,46,65,66,75,64
+Mukesh Choudhary,25,India,70,44,67,30,53,52,20,65,66,82,59
+Nipuna Kariyawasam,30,Sri Lanka,63,38,61,29,31,52,40,57,60,52,89
+Eugene Ochieng,29,Kenya,55,37,53,29,30,52,31,57,52,23,69
+Arzan Nagwaswalla,24,India,77,39,76,26,41,52,18,74,75,63,96
+Joe Walker,29,New Zealand,71,37,69,25,32,52,42,68,67,89,57
+Mohammad Shahid,33,Bangladesh,70,34,69,25,24,52,16,66,66,70,96
+Waqas Maqsood,34,Pakistan,64,38,62,25,34,52,34,66,63,34,66
+Asaduzzaman Payel,23,Bangladesh,62,38,60,16,49,52,13,63,61,20,82
+Jatinder Singh,32,Oman,66,65,29,78,69,51,64,29,30,22,28
+Dean Elgar,34,South Africa,65,62,45,73,64,51,68,50,46,48,17
+Aarif Sheikh,24,Nepal,64,62,39,73,65,51,58,37,40,13,64
+Baba Aparajith,27,India,66,62,49,72,63,51,77,52,49,19,71
+Rohan  Kunnummal,23,India,63,62,27,72,67,51,46,27,28,28,22
+Abdul Bangalzai,18,Pakistan,60,59,29,71,63,51,28,28,30,46,8
+Rakin Ahmed,28,Bangladesh,62,61,26,70,65,51,53,27,28,22,13
+Shalith Fernando,22,Sri Lanka,61,60,29,69,56,51,89,28,28,40,21
+Shubham Pundir,23,India,60,59,27,68,61,51,51,28,28,44,6
+Nick Larkin,31,Australia,63,62,26,68,67,51,64,27,28,20,17
+Nitish Kumar Reddy,18,India,60,58,34,67,55,51,72,35,36,46,14
+Macalister Wright,24,Australia,60,59,31,66,58,51,75,30,32,16,41
+Bipin Saurabh,22,India,62,61,26,66,63,51,80,27,28,20,22
+Billy Godleman,33,England,61,60,25,66,63,51,66,28,28,20,6
+Shivam Chaudhary,24,India,63,58,50,64,61,51,61,49,45,74,48
+Naeem Islam,35,Bangladesh,60,57,42,64,59,51,53,41,43,74,11
+Clyde Fortuin,26,South Africa,60,59,29,63,61,51,80,28,30,44,18
+Zane Green,25,Namibia,58,56,33,62,53,51,78,29,31,23,71
+Saif Badar,23,Pakistan,58,57,26,60,59,51,59,28,31,10,9
+Lega Siaka,29,Papua New Guinea,59,56,43,59,56,51,81,41,46,59,18
+Kunal Chandela,27,India,55,54,25,58,56,51,45,27,28,30,4
+Aamir Kaleem,40,Oman,74,54,69,56,56,51,58,66,65,94,74
+Fardeen Hasan,24,Bangladesh,53,52,25,56,51,51,36,27,28,7,20
+Hashan Chamara,26,Sri Lanka,53,52,26,55,55,51,30,27,28,20,21
+Sanjay Raghunath,26,India,60,54,52,53,65,51,23,65,40,74,30
+Nimesh Vimukthi,24,Sri Lanka,77,52,73,49,53,51,71,78,78,30,77
+Mark Watt,25,Scotland,81,51,78,48,55,51,45,77,81,79,72
+Sandaruwan Chinthaka,21,Sri Lanka,54,51,39,47,56,51,51,41,37,57,17
+Usman Qadir,28,Pakistan,83,47,81,46,47,51,34,77,81,85,91
+Ben Curran,25,England,52,51,24,46,58,51,46,27,28,13,5
+Inshaka Siriwardena,22,Sri Lanka,79,42,77,42,32,51,38,74,73,93,90
+Gerhardus Maree,17,South Africa,51,50,25,42,61,51,27,27,27,20,15
+P Saravana Kumar,32,India,72,52,68,38,68,51,44,61,74,87,56
+Kashif Bhatti,35,Pakistan,68,45,65,38,46,51,44,66,62,65,77
+Irosh Fernando,22,Sri Lanka,47,46,28,38,44,51,64,28,28,22,36
+Ashian Daniel,20,Sri Lanka,78,50,75,36,62,51,63,73,74,79,81
+Jake Lintott,28,England,71,44,68,33,43,51,67,71,71,48,59
+Marcello Piedt,29,South Africa,68,38,66,33,30,51,33,67,60,95,59
+Lahiru Kumara,25,Sri Lanka,80,41,79,30,46,51,14,76,81,99,66
+Vikum Sanjaya,30,Sri Lanka,66,41,63,28,40,51,45,65,65,28,78
+Jean du Plessis,23,South Africa,65,65,24,75,69,50,86,28,28,9,10
+Jamie Smith,21,England,65,64,27,74,68,50,68,28,30,27,12
+Ravi Chauhan,28,India,64,63,25,72,68,50,76,27,28,4,24
+Tom Alsop,26,England,62,61,28,70,64,50,65,28,30,44,8
+Hashan Dumindu,26,Sri Lanka,63,62,25,70,67,50,72,28,30,15,5
+Adil Amin,31,Pakistan,63,59,47,67,62,50,62,49,45,77,13
+Asela Gunaratne,36,Sri Lanka,68,59,60,66,62,50,68,62,57,38,85
+Lewis Goldsworthy,21,England,77,57,72,63,61,50,50,69,68,80,91
+Andile Mokgakane,22,South Africa,58,54,46,62,49,50,57,46,52,19,52
+Chamara Fernando,33,Sri Lanka,59,58,23,61,64,50,61,27,27,5,13
+Rumesh Buddika,31,Sri Lanka,58,55,40,60,60,50,39,39,38,77,13
+Gurdeep Singh,24,Kenya,54,52,34,59,51,50,31,32,36,54,17
+Tharinda Wijesinghe,24,Sri Lanka,53,52,28,59,43,50,75,27,28,32,27
+Ferisco Adams,32,South Africa,73,55,68,58,59,50,51,66,65,83,69
+Jaskaran Malhotra,32,United States of America,58,56,35,57,60,50,69,37,31,57,18
+Sameen Kandanearachchi,33,Sri Lanka,58,57,27,57,62,50,82,27,27,27,24
+Emilio Gay,21,England,58,57,24,57,69,50,42,27,28,6,11
+Adil Rashid,34,England,89,53,87,56,55,50,53,82,87,99,92
+Kaden Solomons,18,South Africa,53,52,23,55,54,50,31,27,28,3,9
+Tharusha Fernando,22,Sri Lanka,59,53,50,54,50,50,82,49,53,30,66
+Imtiaz Hossain,36,Bangladesh,55,54,23,54,60,50,47,26,27,4,15
+Danny Lamb,26,England,72,51,68,53,54,50,36,65,65,68,91
+Duan Jansen,21,South Africa,73,56,67,52,65,50,68,69,66,46,82
+Himalay Agarwal,28,India,49,48,24,52,44,50,32,27,28,11,12
+Shubham Sharma,24,India,67,51,62,51,55,50,26,66,54,61,78
+BR Sharath,25,India,54,53,26,51,54,50,79,28,28,8,30
+Saqib Mahmood,24,England,82,46,80,50,40,50,38,80,89,44,83
+Mohammad Nadeem,39,Oman,79,49,76,50,47,50,50,75,74,65,99
+Ron Chandraguptha,26,Sri Lanka,53,52,27,48,54,50,69,27,28,22,27
+Mayank Markande,24,India,81,50,78,47,54,50,47,76,77,67,96
+Ruan de Swardt,24,South Africa,60,49,55,47,47,50,65,60,60,34,38
+Michael Neser,31,Australia,73,49,69,45,49,50,70,66,66,77,89
+Shiva Chauhan,24,India,64,55,57,45,63,50,99,57,40,89,95
+Dineth Thimodya,25,Sri Lanka,47,46,30,43,42,50,62,29,31,22,34
+Calvin Harrison,23,England,72,50,68,42,54,50,81,68,71,59,63
+Pradeep Sangwan,31,India,74,45,71,37,47,50,47,70,68,59,94
+Yash Thakur,23,India,81,37,80,36,23,50,40,75,77,93,95
+Rusty Theron,36,United States of America,71,44,68,36,42,50,52,70,67,99,28
+Nahid Hasan,24,Bangladesh,62,49,57,35,62,50,44,56,45,67,97
+David Payne,31,England,74,40,72,34,33,50,46,69,73,98,56
+Suranga Lakmal,34,Sri Lanka,69,43,66,33,43,50,44,66,66,91,43
+Ansh Patel,20,India,60,47,55,32,58,50,49,57,47,52,86
+Milan Rathnayake,25,Sri Lanka,72,41,70,30,43,50,36,66,60,95,96
+Ebadot Hossain,28,Bangladesh,69,37,67,30,28,50,32,69,66,42,91
+Sayan Ghosh,29,India,71,43,69,29,50,50,40,69,71,88,41
+Elijah Otieno,34,Kenya,71,34,70,27,23,50,21,71,70,99,34
+Lalit Yadav,26,India,71,37,69,25,35,50,32,69,63,68,92
+Imran Khan,34,Pakistan,71,30,70,17,22,50,16,66,65,91,88
+Chris Sole,27,Scotland,67,37,65,16,47,50,13,63,56,92,77
+Raynard van Tonder,23,South Africa,61,60,28,71,64,49,42,28,28,42,12
+Chirag Khurana,29,India,66,61,52,70,69,49,46,60,52,32,38
+Ruan Haasbroek,24,South Africa,63,60,41,68,59,49,92,39,42,36,50
+Rob Jones,26,England,61,60,26,68,64,49,74,28,28,17,14
+Lachlan Pfeffer,30,Australia,61,60,29,67,63,49,71,27,27,38,31
+Kaif Ahmed,24,India,60,60,23,67,64,49,69,27,28,3,8
+Akhil Herwadkar,27,India,61,60,27,66,63,49,75,29,28,32,7
+Matthew Lamb,25,England,59,58,27,64,62,49,66,28,28,34,15
+Joshua van Heerden,23,South Africa,57,56,24,64,58,49,43,27,28,3,21
+Matthew Arnold,33,South Africa,73,58,67,63,62,49,61,65,62,68,94
+Asantha Singappuli,30,Sri Lanka,59,54,49,63,51,49,43,49,47,52,54
+Troy Johnson,24,New Zealand,57,56,25,62,57,49,64,28,28,10,18
+Harry Came,23,England,59,58,24,61,64,49,65,27,28,13,11
+Nyasha Mayavo,29,Zimbabwe,56,55,25,60,51,49,87,27,28,14,16
+Rushab Patel,28,Kenya,57,55,33,58,56,49,65,32,34,9,52
+Vishvaraj Jadeja,23,India,57,56,29,58,60,49,67,28,28,34,34
+Amit Sinha,33,India,53,52,27,58,49,49,55,30,31,22,8
+Madhav Kaushik,24,India,53,52,28,57,55,49,23,27,28,30,34
+Gary Chirimuuta,30,Zimbabwe,54,53,23,57,54,49,42,27,27,10,4
+Mncedisi Malika,24,South Africa,57,56,26,56,61,49,79,27,28,6,31
+Sanjika Ridma,27,Sri Lanka,56,51,47,55,51,49,48,52,53,17,30
+Rohit Sharma,28,India,56,55,27,55,56,49,84,27,28,15,34
+Bhuvneshwar Kumar,32,India,86,49,84,52,48,49,43,83,87,61,97
+Siddhesh Wath,24,India,53,52,24,52,54,49,65,28,28,5,13
+Sanoj Darshika,23,Sri Lanka,49,48,29,51,44,49,55,28,30,25,33
+Bamanye Xenxe,24,South Africa,74,49,71,50,48,49,52,64,66,94,92
+Tanbir Hayder,30,Bangladesh,53,50,41,49,51,49,60,45,41,25,40
+Gareth Batty,44,England,73,49,69,48,49,49,48,69,68,40,97
+Shem Ngoche,32,Kenya,80,49,77,47,51,49,46,69,75,95,94
+Minhaj Jalill,27,Sri Lanka,52,48,42,47,50,49,27,49,46,13,31
+Vivrant Sharma,22,India,51,50,30,47,52,49,65,31,31,46,8
+Nadif Chowdhury,34,Bangladesh,48,47,29,47,46,49,45,28,30,34,27
+Dilruwan Perera,39,Sri Lanka,69,48,65,46,50,49,41,70,65,34,72
+George Bartlett,23,England,50,49,24,46,51,49,52,27,28,11,5
+Danny Briggs,30,England,78,48,75,43,52,49,41,76,79,52,78
+Ninad Rathva,22,India,77,49,74,42,53,49,62,71,72,91,75
+Lakshitha Manasinghe,22,Sri Lanka,60,42,57,42,37,49,30,64,61,30,38
+Shahriar Komol,26,Bangladesh,48,47,26,42,48,49,65,27,28,4,38
+Niaz Khan,20,Pakistan,70,50,66,39,64,49,37,64,73,36,71
+Daniel Worrall,30,Australia,70,47,66,39,51,49,49,65,60,63,93
+Avishek Mitra,29,Bangladesh,43,42,25,37,40,49,29,27,28,4,22
+Qazi Onik,22,Bangladesh,66,36,64,36,23,49,23,62,67,85,34
+Yeasin Arafat,23,Bangladesh,71,42,69,34,41,49,43,65,67,79,81
+Tom Rogers,27,Australia,64,40,62,34,38,49,32,65,65,32,69
+Heshan Hettiarchchi,23,Sri Lanka,71,37,69,33,29,49,34,69,73,28,90
+Aaron Phangiso,38,South Africa,67,40,65,33,37,49,40,72,70,36,43
+Lasanda Rukmal,31,Sri Lanka,71,41,69,30,40,49,52,64,63,84,93
+Rahul Shukla,31,India,71,40,69,30,37,49,62,65,65,96,77
+Rahil Shah,36,India,67,37,65,28,29,49,55,65,57,97,63
+Chamikara Edirisinghe,30,Sri Lanka,66,35,64,25,26,49,54,68,61,36,85
+Mihir Hirwani,27,India,68,34,67,24,27,49,35,68,61,95,56
+Jake Libby,29,England,66,65,28,77,72,48,62,30,31,32,6
+George Van Heerden,18,South Africa,60,59,26,74,62,48,36,27,28,32,5
+Joshua Da Silva,23,West Indies,60,59,25,68,63,48,59,28,28,10,16
+Rajesh Dhuper,22,India,59,58,25,68,56,48,80,28,30,13,5
+Dwaraka Ravi Teja,34,India,58,57,27,66,60,48,54,31,32,6,10
+Lasith Abeyratne,28,Sri Lanka,58,57,29,63,58,48,85,28,28,52,10
+Dikshanshu Negi,31,India,72,55,66,62,59,48,45,67,58,97,64
+Ian Holland,31,United States of America,66,54,60,62,54,48,53,65,57,83,27
+Mark Stoneman,34,England,57,56,28,60,62,48,59,27,28,54,10
+Khawar Ali,36,Oman,77,53,73,59,55,48,41,71,71,65,98
+Najeebullah,31,Pakistan,58,56,37,59,61,48,72,41,37,11,43
+Ollie Robinson,23,England,58,57,27,59,60,48,83,28,28,30,16
+Rubin Hermann,25,South Africa,58,57,27,59,61,48,82,27,28,34,20
+Tumi Koto,27,South Africa,58,55,42,58,65,48,30,39,40,57,47
+Hokaito Zhimomi,35,India,55,53,37,57,52,48,60,37,38,20,54
+Dipayan Debbarma,22,India,49,48,25,57,37,48,69,27,28,25,9
+L Kishan Singha,25,India,64,46,60,55,37,48,33,65,56,68,45
+Fynn Hudson-Prentice,26,England,73,53,68,54,58,48,59,66,71,97,30
+Mishen Silva,23,Sri Lanka,67,51,62,54,53,48,51,57,58,79,79
+Alok Kapali,38,Bangladesh,60,50,54,52,50,48,42,52,52,79,47
+Sandeep Goud,30,Oman,51,48,39,52,43,48,58,33,34,70,52
+Jerry Nqolo,30,South Africa,55,51,42,50,53,48,59,49,45,13,30
+Ashen Silva,31,Sri Lanka,52,51,28,50,55,48,52,28,30,36,14
+Malinda Jayod,23,Sri Lanka,66,52,60,49,61,48,37,62,67,34,45
+Baxter Holt,22,Australia,49,48,24,49,43,48,80,27,28,6,10
+Corbin Bosch,27,South Africa,64,50,59,48,56,48,47,63,56,38,74
+Fayyaz Butt,28,Oman,72,46,69,46,44,48,43,74,73,52,47
+Amogh Sunil Desai,29,India,51,46,44,46,44,48,34,46,45,54,20
+Waruna Mayantha,26,Sri Lanka,49,48,26,46,48,48,51,27,28,4,34
+Blayde Capell,24,South Africa,50,49,25,46,53,48,53,27,28,3,25
+Yousuf Babar,24,Pakistan,52,51,26,45,63,48,32,27,28,23,18
+Malachi Jones,32,Bermuda,73,44,71,44,41,48,32,68,62,97,97
+Ayaan Khan,29,Oman,53,47,48,42,47,48,65,51,45,72,27
+Khalid Usman,35,Pakistan,70,46,67,41,47,48,62,67,63,93,56
+Imran Khan,37,West Indies,64,46,60,40,51,48,46,63,56,74,48
+Sebastiaan Braat,29,Netherlands,70,42,68,37,43,48,21,65,73,32,94
+Ryan Stevenson,29,England,65,47,61,37,53,48,54,59,56,91,61
+Jade Smith,19,South Africa,45,43,32,36,50,48,14,33,32,48,12
+Tanush Kotian,23,India,71,48,67,35,60,48,57,72,65,27,97
+Mohammad Hasnain,21,Pakistan,86,38,85,34,34,48,14,81,88,82,93
+Aks Swadhin,19,Bangladesh,67,45,64,34,51,48,44,64,68,57,59
+Homendro Kabrambam,29,India,59,35,57,32,21,48,51,58,49,40,97
+Avesh Khan,25,India,77,36,76,24,35,48,24,74,76,93,71
+Harry Crawshaw,18,England,55,38,52,23,45,48,7,57,42,90,38
+Christoffel Klijnhans,22,South Africa,65,64,26,74,68,47,89,27,28,14,21
+Nishan Madushka,22,Sri Lanka,62,61,25,73,63,47,77,28,28,14,15
+Rodney Mupfudza,20,Zimbabwe,62,62,23,69,68,47,89,27,28,4,7
+Yaseen Valli,26,South Africa,59,58,26,67,63,47,55,27,28,5,31
+Nick Hobson,27,Australia,60,59,25,67,62,47,79,27,28,23,9
+Assad Vala,34,Papua New Guinea,63,56,54,65,57,47,66,56,57,36,48
+Harsha Cooray,38,Sri Lanka,57,56,27,64,59,47,47,27,27,44,13
+Sinethemba Qeshile,23,South Africa,58,57,29,62,57,47,87,28,30,46,9
+Eknath Kerkar,28,India,58,57,24,62,59,47,86,27,28,7,15
+Shubham Ranjane,27,India,72,55,66,60,59,47,59,65,61,91,61
+Damith Perera,25,Sri Lanka,55,54,26,60,53,47,77,27,28,5,30
+Udara Jayasundera,31,Sri Lanka,59,53,49,59,55,47,41,46,49,63,48
+Irosh Samarasooriya,30,Sri Lanka,55,53,33,59,55,47,40,36,36,34,11
+Henry Hunt,25,Australia,54,53,24,57,54,47,55,27,28,3,13
+Patrick Botha,32,South Africa,72,54,67,55,57,47,78,67,61,70,89
+Adeesha Nanayakkara,30,Sri Lanka,52,50,35,55,50,47,43,37,40,22,22
+Joe Carter,29,New Zealand,53,52,28,55,53,47,66,27,28,48,7
+Tinashe Kamunhukamwe,26,Zimbabwe,51,50,27,55,53,47,23,28,30,11,28
+Rory Burns,31,England,54,53,26,54,58,47,68,27,28,22,18
+Graham Kennedy,22,Ireland,68,48,64,52,49,47,34,65,66,91,28
+Valentine Kitime,18,South Africa,50,49,27,52,52,47,27,27,28,25,20
+Akash Vasisht,27,India,57,52,46,51,57,47,72,46,42,52,59
+Peter David Bocock,30,New Zealand,54,53,29,49,57,47,87,27,27,40,30
+Aviwe Mgijima,33,South Africa,54,49,45,48,51,47,65,39,40,77,56
+Ayaz Tasawwar,31,Pakistan,47,46,25,48,43,47,52,28,28,15,12
+Akila Dananjaya,28,Sri Lanka,84,46,82,47,44,47,43,81,86,74,81
+Sol Budinger,22,England,51,50,24,46,55,47,73,27,28,16,6
+Sadikur Rahman,29,Bangladesh,50,49,27,45,53,47,57,27,28,25,27
+Akash Luitel,23,India,62,41,59,44,34,47,24,60,60,34,79
+Chris Wood,31,England,77,46,75,43,48,47,52,71,73,94,84
+Chathura Lakshan,26,Sri Lanka,66,41,64,42,29,47,74,62,60,57,93
+Will Beer,33,England,72,46,69,41,50,47,50,68,66,97,61
+Dushmantha Chameera,30,Sri Lanka,83,41,82,38,38,47,31,78,82,92,83
+Mehrab Hossain,30,Bangladesh,45,39,42,38,29,47,55,47,46,17,33
+Ross Allen,25,Ireland,54,38,51,37,27,47,56,52,47,70,47
+Chrishen Aponsu,27,Sri Lanka,39,38,25,36,24,47,75,27,28,5,25
+Gerald Coetzee,21,South Africa,73,40,71,35,37,47,45,69,67,88,81
+Chintan Gaja,27,India,62,38,60,34,30,47,47,70,66,25,31
+Tharindu Kaushal,28,Sri Lanka,66,41,63,32,44,47,34,67,60,84,33
+Junaid Khan,32,Pakistan,78,38,77,31,34,47,33,76,78,59,97
+Navin Kavikara,32,Sri Lanka,63,44,60,31,49,47,62,62,60,36,75
+Ben Sanderson,33,England,67,35,65,30,27,47,32,63,63,68,79
+Aishwarya Mourya,27,India,53,32,51,26,24,47,20,51,52,42,56
+Pheko Moletsane,20,South Africa,68,38,66,25,44,47,9,65,65,80,61
+Sai Sudharsan,20,India,65,64,25,78,71,46,73,28,28,23,6
+Danie Rossouw,26,South Africa,65,64,25,77,71,46,65,27,28,8,24
+Rob Keogh,30,England,62,60,38,69,64,46,71,37,38,67,14
+Senuran Muthusamy,27,South Africa,79,57,74,67,58,46,65,72,70,83,91
+Greg Hay,37,New Zealand,59,59,23,67,66,46,53,27,27,4,5
+Snehal Kauthankar,26,India,57,56,28,66,60,46,45,28,28,32,22
+Kasun Ekanayake,24,Sri Lanka,57,55,37,65,53,46,72,34,37,28,56
+Sudip Chatterjee,30,India,59,58,24,65,65,46,55,28,28,15,4
+Tim Robinson,19,New Zealand,58,57,27,64,63,46,50,28,28,36,10
+Primosh Perera,32,Sri Lanka,58,57,26,64,60,46,79,27,27,32,16
+Arpit  Vasavada,33,India,60,57,39,63,60,46,70,42,42,40,14
+Raghav Dhawan,35,India,57,56,29,63,60,46,53,35,32,11,7
+Takudzwanashe Kaitano,28,Zimbabwe,57,56,25,63,64,46,26,27,27,4,27
+Saud Shakeel,26,Pakistan,60,57,39,62,64,46,69,38,40,14,63
+Dayyaan Galiem,25,South Africa,75,53,71,61,54,46,47,68,68,97,66
+Nitesh Sedai,24,India,57,54,40,61,57,46,58,44,40,30,34
+Kyle Nipper,34,South Africa,66,54,60,60,55,46,69,67,63,40,38
+Ben Smith,31,New Zealand,56,55,29,60,60,46,60,27,28,48,24
+Babul Kumar,29,India,53,52,29,58,55,46,37,28,28,38,27
+Yassar Cook,28,South Africa,51,50,27,58,49,46,38,27,28,27,22
+Abhishek Raut,34,India,58,53,47,57,57,46,60,48,46,38,52
+Parvez Rasool,33,India,68,52,63,56,53,46,59,69,61,38,68
+Aryan Juyal,20,India,54,53,26,56,60,46,47,28,28,19,12
+Joshua Richards,23,South Africa,51,50,25,56,53,46,33,27,28,11,14
+Chris Greaves,31,Scotland,62,49,57,54,45,46,61,60,53,22,91
+Akbar-ur-Rehman,38,Pakistan,56,53,41,54,56,46,69,42,40,19,64
+William Mashinge,25,Zimbabwe,60,51,54,50,53,46,77,54,54,16,92
+Damodaran Rohit,29,India,50,47,38,50,49,46,17,36,34,59,36
+Aminul Islam,22,Bangladesh,82,46,80,48,47,46,37,76,80,95,77
+Bryce Parsons,21,South Africa,68,48,64,48,50,46,59,67,56,77,75
+Himalaya Barad,32,India,48,47,26,46,46,46,56,27,27,11,28
+Adam Zampa,29,Australia,86,44,85,45,44,46,32,83,89,80,83
+Max Chu,21,New Zealand,50,49,26,45,53,46,66,28,30,6,22
+Nisala Tharaka,30,Sri Lanka,71,44,68,44,44,46,36,68,67,46,90
+Donald Tiripano,33,Zimbabwe,70,46,67,44,47,46,48,66,68,44,94
+Rafsan Al Mahamud,26,Bangladesh,49,46,38,44,52,46,22,38,45,11,36
+Suraj Kumar,33,Oman,48,47,30,43,47,46,70,27,28,48,34
+Sumit Singh,34,India,62,44,59,42,43,46,38,62,58,42,68
+Al Islam,25,Bangladesh,60,46,56,42,51,46,46,65,56,38,33
+George Hill,21,England,44,41,39,40,35,46,44,40,38,25,54
+Sarbeswar Mohanty,26,India,50,39,47,39,27,46,58,46,40,48,78
+Kasun Abeyrathne,23,Sri Lanka,43,42,25,37,36,46,72,27,28,19,9
+Shivam Mavi,23,India,73,37,72,29,33,46,53,70,70,67,97
+Prabath Jayasuriya,30,Sri Lanka,71,34,70,27,25,46,54,72,71,65,63
+Sajeevan Akhil,30,India,62,42,59,22,53,46,72,51,53,82,87
+Roshen Fernando,29,Sri Lanka,71,37,69,20,45,46,22,69,70,61,72
+Het Patel,23,India,59,58,26,66,63,45,77,27,28,5,31
+Aditya Kaushik,30,India,57,56,24,66,59,45,47,27,28,11,5
+Luke Jongwe,27,Zimbabwe,78,49,75,64,43,45,30,67,72,95,99
+Asel Sigera,22,Sri Lanka,70,52,65,61,52,45,42,69,67,68,41
+Taruwar Kohli,33,India,58,53,47,61,53,45,51,44,42,84,45
+Sandeep Pattnaik,23,India,53,52,24,60,56,45,37,28,28,10,7
+Lasith Lakshan,26,Sri Lanka,54,52,35,57,55,45,45,39,37,22,22
+Rongsen Jonathan,35,India,51,50,29,57,51,45,31,32,30,19,21
+Zahiduzzaman,25,Bangladesh,52,51,25,55,48,45,80,27,28,19,10
+Sehan Weerasinghe,26,Sri Lanka,69,46,66,53,41,45,48,66,61,59,88
+Pratik Das,28,India,56,50,49,52,51,45,58,52,58,16,31
+Madhawa Nimesh,26,Sri Lanka,49,47,34,49,47,45,44,38,38,16,24
+Naveen Kanwar,23,India,55,50,47,47,61,45,44,49,41,23,91
+Blake Cullen,20,England,73,47,70,45,51,45,49,67,77,42,79
+Asif Ahmed,29,Bangladesh,64,47,60,45,50,45,50,57,50,79,89
+Yogesh Tiwari,24,India,44,43,27,44,45,45,12,27,28,34,20
+Kyle Simmonds,28,South Africa,70,47,66,43,50,45,70,69,63,59,72
+Priyansh Arya,21,India,46,45,26,42,47,45,48,27,28,22,13
+Mattie McKiernan,27,England,58,45,54,41,48,45,55,60,52,17,72
+Dominic Sabir,18,Bermuda,56,46,51,40,49,45,78,48,47,40,85
+Suranga Paranavitana,44,Sri Lanka,51,39,48,40,31,45,39,47,52,52,28
+Jordan Woolf,22,South Africa,51,49,33,39,57,45,89,32,32,10,63
+Mitchell Swepson,28,Australia,81,42,79,37,42,45,50,74,75,97,94
+Elmore Hutchinson,39,United States of America,67,41,65,37,40,45,34,63,57,79,95
+Mohammed Shami,31,India,73,40,71,35,39,45,36,74,78,44,56
+Murugan Ashwin,31,India,68,39,66,35,32,45,53,70,67,82,33
+Ishant Sharma,33,India,78,37,77,32,34,45,30,72,71,97,96
+Lahiru Jayaratne,30,Sri Lanka,64,38,62,31,31,45,64,62,58,65,75
+Fidel Edwards,40,West Indies,74,36,73,30,33,45,28,69,68,85,98
+Zahid Mahmood,33,Pakistan,67,38,65,30,38,45,29,68,66,82,30
+Ankush Bedi,30,India,58,40,55,26,48,45,45,60,57,50,30
+Keegan Petersen,28,South Africa,59,58,30,70,60,44,68,29,30,32,28
+Harry Swindells,22,England,58,57,25,69,62,44,54,28,30,9,10
+Daryl Mitchell,38,England,73,57,67,65,63,44,71,63,60,84,90
+Nipun Haggalla,24,Sri Lanka,57,56,25,62,61,44,79,27,28,27,5
+Sam Robson,32,England,56,55,25,62,58,44,65,27,27,20,17
+Charlie Wakim,30,Australia,56,55,30,61,59,44,65,29,30,40,20
+Ben Slater,30,England,54,53,24,61,59,44,30,27,27,6,17
+Michael Erlank,31,South Africa,60,53,52,59,56,44,53,47,45,82,74
+Abhishek Goswami,24,India,52,51,28,55,51,44,67,27,28,36,21
+Neil Brand,25,South Africa,71,49,67,54,49,44,51,68,60,83,78
+Rishav Das,32,India,52,51,27,54,56,44,43,27,27,36,17
+Darshan Misal,29,India,73,48,70,53,46,44,51,69,65,79,82
+Grant Mokoena,34,South Africa,48,47,27,52,45,44,49,27,28,36,12
+Harrison Ward,22,England,51,50,26,51,54,44,53,27,28,20,18
+Wellington Masakadza,28,Zimbabwe,76,50,72,50,53,44,75,68,71,98,65
+Amit Mishra,39,India,80,47,78,50,49,44,38,78,81,93,54
+Vinodh Perera,32,Sri Lanka,69,47,65,49,46,44,52,61,65,85,56
+Nimesha Gunasinghe,26,Sri Lanka,50,49,29,49,49,44,82,34,32,10,15
+Kirk McKenzie,21,West Indies,46,45,27,49,44,44,32,27,28,28,24
+Yuvraj Singh,23,India,73,48,70,47,56,44,41,68,71,85,63
+Abhimanyu Rana,30,India,45,44,23,46,46,44,19,27,27,6,5
+Iqbal Abdulla,32,India,75,45,73,45,46,44,49,70,66,90,94
+Jonathan Garth,21,Ireland,54,43,50,44,40,44,52,55,49,63,20
+Steve O'Keefe,37,Australia,66,46,62,43,51,44,51,69,63,38,54
+Matthew Waite,26,England,65,45,62,42,50,44,49,62,61,30,95
+Luke Wood,26,England,75,44,73,41,43,44,65,71,74,65,83
+Jason Oakes,26,South Africa,40,39,24,41,25,44,71,27,28,5,17
+Buddika Madushan,31,Sri Lanka,63,40,60,40,37,44,37,57,54,63,92
+Tanush Gusain,21,India,42,41,25,40,44,44,7,27,28,25,9
+Ehsan Adil,28,Pakistan,74,43,72,37,46,44,45,71,75,99,34
+Saad Bin Zafar,35,Canada,66,40,64,36,40,44,35,71,67,34,52
+Phaphama Fojela,37,South Africa,66,36,64,31,30,44,39,64,58,75,78
+Asitha Fernando,24,Sri Lanka,74,37,73,27,40,44,21,71,74,59,91
+Mehedi Hasan Rana,25,Bangladesh,70,35,69,22,39,44,29,69,75,50,66
+Delwar Hossain,37,Bangladesh,63,34,62,21,38,44,15,62,58,89,50
+Bikramkumar Das,22,India,60,59,25,72,65,43,63,27,28,5,21
+Ernest Kemm,31,South Africa,63,56,53,68,60,43,41,57,45,48,72
+Hiral Patel,30,Canada,65,52,59,64,54,43,34,52,53,79,92
+Jonathan Tattersall,27,England,58,57,26,63,62,43,95,28,28,22,18
+Suminda Lakshan,24,Sri Lanka,63,55,56,61,56,43,94,58,53,46,69
+Mangal Mahrour,29,India,53,52,31,61,53,43,47,33,32,38,10
+Salman Khan,23,India,54,53,27,60,54,43,78,28,28,40,5
+Harry Nielsen,26,Australia,55,54,25,59,56,43,82,28,28,6,16
+Dilasri Lokubandara,28,Sri Lanka,55,54,24,57,58,43,82,27,28,6,18
+Innocent Kaia,29,Zimbabwe,52,51,27,54,54,43,73,30,30,11,14
+Prince Masvaure,33,Zimbabwe,51,48,39,53,50,43,43,43,41,23,30
+Nono Pongolo,32,South Africa,68,50,63,52,53,43,72,62,61,50,85
+Mohaiminul Khan,31,Bangladesh,51,47,42,51,46,43,47,45,41,50,27
+Mahesh Kumara,22,Sri Lanka,51,50,25,50,53,43,83,27,28,27,5
+Charlie Thurston,25,England,47,46,23,48,43,43,71,27,28,3,11
+Mitchell Starc,32,Australia,86,46,85,47,46,43,54,80,85,94,100
+Tanzim Hasan Sakib,19,Bangladesh,78,47,76,41,54,43,63,74,77,91,66
+Craig Young,31,Ireland,80,41,78,39,41,43,39,77,82,52,89
+Shafiul Islam,32,Bangladesh,75,40,73,37,39,43,33,74,77,40,89
+Brad Wheal,25,Scotland,78,40,77,36,42,43,40,76,82,48,88
+Vijay Jethi,27,India,44,43,24,36,46,43,57,27,27,7,18
+Mohammed Siraj,27,India,76,38,75,35,36,43,39,75,80,59,75
+Jack Brooks,37,England,64,43,61,35,49,43,53,64,58,80,38
+Ankit Rajpoot,28,India,77,35,76,31,31,43,22,74,78,96,54
+Hamid Hassan,34,Afghanistan,71,36,70,31,33,43,32,65,65,94,82
+Abdul Kayium,23,Bangladesh,54,38,51,29,41,43,33,50,45,36,92
+Kavindu Ridmal,21,Sri Lanka,53,37,51,23,43,43,51,59,46,28,63
+Arul Prakash,28,Sri Lanka,52,35,50,16,40,43,60,50,49,44,56
+Tasamul Haque,30,Bangladesh,56,52,42,63,55,42,28,46,45,34,22
+Pabasara Waduge,28,Sri Lanka,56,55,28,62,57,42,82,27,28,32,27
+Jack Edwards,21,Australia,54,53,30,61,56,42,73,28,30,32,36
+Kuldeep Yadav,27,India,89,49,87,57,49,42,48,82,88,98,95
+Hasitha Boyagoda,23,Sri Lanka,53,52,29,57,54,42,76,30,31,22,25
+Ned Eckersley,32,England,52,51,24,56,53,42,67,27,28,16,8
+Tharushan Iddamalgoda,26,Sri Lanka,66,48,62,52,51,42,51,68,54,44,84
+Saahil Jain,23,India,48,47,27,51,49,42,43,28,28,11,36
+Deepraj Gaonkar,23,India,51,47,43,50,48,42,63,45,43,15,64
+Joyraz Sheik,25,Bangladesh,45,44,27,48,41,42,52,27,28,36,14
+Siyabonga Mahima,25,South Africa,70,46,67,47,50,42,43,69,66,30,96
+Tinashe Chiorah,23,Zimbabwe,47,46,26,47,53,42,29,27,28,34,5
+Shrikant Wagh,33,India,74,42,72,44,39,42,47,69,68,79,94
+Praveen Dubey,28,India,68,44,65,44,42,42,77,69,65,70,47
+Nazmul Islam,29,Bangladesh,77,41,75,40,42,42,43,76,77,96,43
+Suraj Kashyap,18,India,72,37,71,40,29,42,32,70,67,67,94
+Dhawal Kulkarni,33,India,72,41,70,38,43,42,44,71,71,99,36
+Jack Clayton,22,Australia,40,39,25,37,41,42,8,27,28,7,27
+Shahbaz Nadeem,32,India,71,38,69,35,37,42,36,73,68,90,40
+Ravi Bishnoi,21,India,81,38,80,34,36,42,40,79,81,83,74
+Ajaz Patel,33,New Zealand,71,38,69,34,37,42,41,69,67,50,93
+Pragnay Reddy,22,India,35,34,24,30,25,42,58,27,28,11,5
+Ed Barnes,24,England,51,40,48,29,48,42,40,48,47,32,72
+Fawad Ahmed,40,Australia,75,31,74,24,26,42,22,70,67,97,94
+Jack Boyle,25,New Zealand,57,56,28,69,59,41,66,27,28,28,30
+Sangeeth Cooray,26,Sri Lanka,58,52,50,64,54,41,37,54,56,38,24
+Saurav Chauhan,21,India,52,51,27,62,51,41,56,31,30,6,15
+Billy Root,29,England,54,53,26,62,55,41,65,28,30,20,7
+Tshepang Dithole,28,South Africa,54,53,24,62,53,41,90,27,28,4,17
+Akeel Inham,25,Sri Lanka,54,53,26,61,54,41,74,27,28,6,30
+Ian Dev Singh,32,India,52,51,29,59,51,41,68,28,30,25,28
+Tinashe Nenhunzi,22,Zimbabwe,48,47,26,58,45,41,43,27,28,10,31
+Harry Finch,27,England,51,50,25,57,53,41,58,27,28,3,25
+Charles Kunje,27,Zimbabwe,50,48,35,56,46,41,56,34,37,30,31
+Sukhdeep Singh,21,Kenya,52,50,35,52,56,41,74,33,32,19,66
+Sachithra Serasinghe,34,Sri Lanka,69,46,66,50,49,41,48,63,63,93,66
+Robiul Islam Robi,31,Bangladesh,58,44,54,49,46,41,30,58,54,48,47
+Hardik Tamore,24,India,47,46,25,47,50,41,53,27,28,8,25
+Zakariya Paruk,23,South Africa,53,40,50,45,34,41,42,56,45,17,78
+Jack Burnham,25,England,43,42,25,45,38,41,55,28,28,14,10
+Rahul Chahar,22,India,83,44,81,44,45,41,51,81,85,91,59
+Aaron Cawley,22,Ireland,66,41,63,41,39,41,43,65,62,27,97
+Clayton August,32,South Africa,63,43,60,41,45,41,48,61,49,77,84
+Shaun von Berg,35,South Africa,63,42,60,40,47,41,39,67,63,34,47
+Avneesh Sudha,20,India,42,41,27,40,42,41,34,29,30,28,10
+Yasir Shah,35,Pakistan,69,41,67,39,41,41,52,71,66,57,68
+Nipun Malinga,21,Sri Lanka,48,42,44,39,48,41,27,44,41,22,82
+Ryan Scott,26,United States of America,41,40,25,39,43,41,16,27,28,11,16
+Sunzamul Islam,32,Bangladesh,71,41,69,38,39,41,61,65,60,97,94
+Pinninti Tapaswi,25,India,66,44,63,36,51,41,64,63,60,75,63
+Luke Wells,31,England,48,37,45,36,29,41,58,46,40,70,40
+Dileepa Jayalath,24,Sri Lanka,72,39,70,33,41,41,54,69,66,89,68
+Buddika Sanjeewa,34,Sri Lanka,67,35,65,31,30,41,49,65,66,77,45
+Manish Golamaru,25,India,63,35,61,30,33,41,38,65,57,70,54
+Techi Sonam,24,India,34,33,23,30,24,41,48,27,28,5,5
+Blake Schraader,27,South Africa,42,33,40,28,33,41,8,44,47,20,20
+Hamidul Islam,26,Bangladesh,61,36,59,21,45,41,28,65,58,48,47
+Dominic Hendricks,31,South Africa,57,56,23,70,59,40,64,27,28,8,5
+Andre Malan,30,South Africa,55,54,29,65,59,40,64,30,31,22,24
+Parth Kohli,25,India,51,50,24,65,51,40,26,27,28,13,6
+Isaac Dikgale,26,South Africa,55,54,28,62,58,40,82,27,28,40,20
+Pinak Ghosh,23,Bangladesh,52,51,24,61,49,40,71,27,28,11,8
+Kamesh Nirmal,22,Sri Lanka,51,50,24,61,50,40,61,27,28,14,9
+Raveen Yasas,23,Sri Lanka,56,51,48,60,49,40,92,46,45,61,54
+Mohammad Rakib,23,Bangladesh,47,46,26,58,43,40,24,27,28,9,30
+Nipun Karunanayake,31,Sri Lanka,49,48,29,57,47,40,65,30,30,28,22
+Harsha Vithana,36,Sri Lanka,50,48,31,56,47,40,58,35,34,11,20
+Marshall Ayub,33,Bangladesh,50,49,28,56,49,40,60,31,34,6,10
+Scott Borthwick,31,England,72,49,68,55,49,40,73,62,63,91,92
+Gamindu Kanishka,35,Sri Lanka,48,46,31,54,46,40,49,33,34,25,17
+Farhad Hossain,35,Bangladesh,50,46,41,53,46,40,55,42,40,70,15
+Pikky Ya France,31,Namibia,50,46,41,53,47,40,31,41,40,65,18
+Ryan Gibson,28,Australia,49,48,27,53,49,40,69,28,28,20,28
+Chundangapoyil Rizwan,33,United Arab Emirates,47,46,28,52,51,40,30,27,28,48,7
+Jake Lehmann,29,Australia,49,48,27,52,51,40,69,30,31,11,15
+Dion Stovell,37,Bermuda,62,45,58,48,48,40,47,62,57,52,52
+Todd Astle,35,New Zealand,72,46,69,47,48,40,67,67,62,85,91
+Akash Senaratne,25,Sri Lanka,70,43,67,44,45,40,51,71,68,23,89
+Saminda Fernando,25,Sri Lanka,42,41,28,43,43,40,32,27,28,32,31
+Sithembile Langa,26,South Africa,56,41,53,39,45,40,30,61,58,27,31
+Saqlain Sajib,33,Bangladesh,70,37,68,35,34,40,44,67,62,70,96
+Dilesh Gunaratne,32,Sri Lanka,63,43,60,34,54,40,58,69,67,27,27
+Elias Sunny,36,Bangladesh,70,38,68,33,38,40,53,66,61,98,69
+Abid Mushtaq,25,India,66,35,64,29,37,40,23,69,62,61,56
+Akshay Wakhare,36,India,62,35,60,26,37,40,46,65,56,27,88
+Pritam Das,33,India,69,33,68,25,31,40,38,68,66,94,54
+Taj Wali,30,Pakistan,56,32,54,16,40,40,19,60,54,52,36
+Jandré Pretorius,22,South Africa,57,56,24,73,63,39,33,27,28,11,10
+Kavindu Kulasekara,26,Sri Lanka,58,57,24,68,61,39,95,27,28,8,11
+Angelo Jayasinghe,29,Sri Lanka,55,54,27,67,56,39,62,29,28,6,34
+Denish Das,19,India,51,50,26,66,47,39,56,28,30,10,21
+Kagiso Rapulana,30,South Africa,51,49,31,57,50,39,56,30,31,52,10
+Malinga Maligaspe,35,Sri Lanka,51,50,27,57,50,39,80,27,27,36,17
+Sohrawordi Shuvo,33,Bangladesh,69,46,66,53,47,39,54,65,60,96,68
+Sachin Jayawardena,27,Sri Lanka,56,43,52,50,43,39,32,52,50,30,82
+Raju Gayashan,33,Sri Lanka,46,45,30,50,49,39,34,28,28,44,31
+Tom Smith,34,England,76,46,73,49,49,39,63,70,70,92,74
+Callum Taylor,23,England,49,42,45,49,39,39,48,41,46,42,61
+Gionne Koopman,30,South Africa,58,46,54,48,47,39,72,62,50,19,71
+Roy Kaia,30,Zimbabwe,63,41,60,47,40,39,27,58,56,74,69
+Alishan Sharafu,19,United Arab Emirates,46,44,34,47,46,39,47,28,30,46,61
+Mahesh Priyadarshana,40,Sri Lanka,62,42,59,45,44,39,30,64,62,50,36
+William O’Rourke,20,New Zealand,57,45,53,42,55,39,41,62,43,30,83
+Marimuthu Vikneshwaran,29,India,40,38,32,40,35,39,41,32,34,14,38
+Joey Field,21,New Zealand,64,44,61,38,47,39,89,65,68,19,59
+Moinul Islam,29,Bangladesh,39,37,34,38,38,39,19,33,37,22,40
+Jade de Klerk,22,South Africa,68,39,66,37,39,39,42,65,60,82,78
+Nihaduzzaman,23,Bangladesh,60,39,57,36,38,39,53,67,57,27,50
+KC Cariappa,27,India,66,40,64,34,47,39,37,71,66,54,41
+Anurag Verma,31,New Zealand,70,37,68,32,39,39,50,64,66,89,69
+Khary Pierre,30,West Indies,74,33,73,27,29,39,45,71,70,99,71
+Praveen Jayawickrama,23,Sri Lanka,69,34,68,25,36,39,49,74,70,61,38
+Jayden Lennox,27,New Zealand,68,34,67,23,42,39,18,69,67,75,47
+Muditha Premadasa,20,Sri Lanka,55,54,27,72,50,38,87,27,28,17,28
+Thaveesha Kahaduwaarachchi,21,Sri Lanka,55,54,26,71,57,38,42,27,28,23,12
+Rajat Paliwal,30,India,57,55,36,69,59,38,75,36,36,44,24
+Dilshan Kanchana,26,Sri Lanka,56,52,44,68,53,38,41,46,47,50,14
+Yaseen Vallie,32,South Africa,56,53,41,65,58,38,50,42,43,27,38
+Dilhan Cooray,34,Sri Lanka,50,49,25,59,53,38,50,28,28,10,16
+Luke Schlemmer,27,South Africa,51,48,38,57,51,38,46,38,41,5,57
+Hans Fernando,35,Sri Lanka,48,47,24,55,49,38,55,27,27,4,18
+Roscoe Thattil,29,Sri Lanka,60,45,56,52,43,38,60,58,60,57,34
+Kolla Sumanth,29,India,49,48,24,52,47,38,93,27,28,6,15
+Sizwe Masondo,35,South Africa,45,43,30,48,38,38,84,27,28,52,27
+Raqibul Hasan,34,Bangladesh,44,43,26,48,44,38,39,27,28,15,28
+Shubham Sharma,28,India,40,39,26,43,35,38,54,27,27,32,8
+Jason Behrendorff,31,Australia,79,42,77,41,44,38,64,73,73,88,94
+Anthony Bramble,31,West Indies,39,38,24,37,34,38,76,27,27,5,20
+Mitchell Claydon,39,England,70,36,69,34,36,38,34,69,70,95,40
+Gurinder Sandhu,28,Australia,70,37,68,34,37,38,44,70,71,84,36
+Karkir Taye,26,India,52,38,49,33,44,38,30,51,41,40,78
+Mohit Ahlawat,26,India,34,33,23,33,28,38,27,27,28,4,6
+Pramod Madushan,28,Sri Lanka,72,34,71,28,33,38,45,69,71,97,56
+Michael Copeland,19,South Africa,56,52,45,65,54,37,64,48,40,70,24
+Shanuka Dulaj,26,Sri Lanka,55,53,34,65,57,37,64,37,40,10,18
+Liyan Khan,30,India,50,49,25,65,51,37,21,27,27,6,31
+Uday Kaul,34,India,51,50,29,58,54,37,72,27,27,46,28
+Ganesh Satish,33,India,49,48,27,58,50,37,45,27,28,46,7
+Anshul Gupta,32,India,48,47,26,58,48,37,45,27,28,9,28
+Abhishek Thakuri,23,India,47,46,28,53,47,37,60,27,28,30,33
+Dan Lincoln,26,England,47,46,25,53,45,37,80,27,28,10,21
+Mahmudul Hasan,31,Bangladesh,52,44,47,51,44,37,47,47,40,38,83
+Jason Niemand,23,South Africa,69,45,66,47,46,37,82,63,60,77,87
+Hasitha Nirmal,29,Sri Lanka,62,42,59,47,40,37,50,59,52,83,63
+Luke Doneathy,19,England,48,44,43,46,50,37,41,43,50,19,34
+Irfan Khan,19,Pakistan,49,46,38,45,50,37,86,38,45,14,30
+Narisingh Yadav,29,India,38,37,25,43,32,37,40,27,28,20,6
+Sarmad Hameed,27,Pakistan,39,38,26,41,39,37,11,27,27,22,20
+Riley Meredith,25,Australia,77,40,75,39,44,37,44,76,81,83,40
+Andrew Rasemene,26,South Africa,69,43,66,39,51,37,55,65,67,80,52
+Toby Albert,20,England,39,38,25,38,36,37,50,27,28,13,18
+Thando Ntini,21,South Africa,70,41,68,36,49,37,50,66,70,70,66
+Dom Bess,24,England,73,37,72,34,41,37,32,70,67,84,84
+Sumit Ruikar,31,India,66,38,64,34,36,37,79,65,53,94,75
+Malusi Siboto,34,South Africa,67,35,66,33,33,37,40,68,65,72,54
+Rajith Priyan,33,Sri Lanka,65,35,63,32,35,37,39,64,63,94,28
+Shahadat Hossain,35,Bangladesh,57,35,55,32,36,37,36,62,58,28,38
+Damien Ravu,27,Papua New Guinea,70,35,69,30,37,37,41,63,66,95,83
+Aniket Choudhary,32,India,70,33,69,30,33,37,32,69,67,88,59
+Kasun Madushanka,30,Sri Lanka,62,33,61,27,35,37,32,64,61,20,86
+Matthew Kuhnemann,25,Australia,60,35,58,27,38,37,46,62,57,70,34
+Hasan Murad,20,Bangladesh,72,29,71,20,32,37,14,73,68,54,94
+Yohan Mendis,25,Sri Lanka,57,56,28,67,64,36,88,27,28,36,25
+Daniel Drew,25,Australia,52,51,25,64,57,36,41,27,28,19,6
+Umesh Karunaratne,33,Sri Lanka,62,47,58,60,47,36,39,57,53,68,74
+Sanvir Singh,25,India,55,51,43,58,56,36,90,40,38,54,61
+Dulash Udayanga,26,Sri Lanka,47,46,26,58,45,36,52,28,28,27,10
+Eranga Rathnayake,30,Sri Lanka,56,45,52,55,44,36,52,54,52,15,79
+Prashan Wickramasinghe,29,Sri Lanka,48,47,27,55,46,36,74,27,28,27,22
+Dellon Peiris,21,Sri Lanka,45,44,27,55,46,36,22,31,31,5,12
+Bishal Ghosh,25,India,47,46,24,55,46,36,53,27,28,6,12
+Johnson Singh,22,India,42,41,26,54,35,36,29,30,30,6,15
+Cebo Tshiki,31,South Africa,46,45,26,53,48,36,40,27,28,34,6
+Callum Parkinson,25,England,78,45,76,52,48,36,51,74,76,97,63
+Leo Fransisco,27,Sri Lanka,47,46,24,52,45,36,82,27,28,4,12
+Mark Wood,32,England,66,43,63,48,47,36,40,69,70,34,40
+Akshat Pandey,28,India,58,44,54,44,50,36,67,56,52,36,69
+Shaylen Pillay,27,South Africa,42,40,32,44,40,36,42,36,36,7,22
+Arkaprabha Sinha,23,India,39,38,24,43,33,36,58,27,28,5,17
+Steven Finn,32,England,80,39,79,41,39,36,49,76,81,68,91
+Roshan Alam,26,India,66,40,64,41,42,36,43,69,60,27,97
+Mohammad Ilyas,22,Pakistan,68,37,66,37,35,36,49,69,75,50,33
+Arafat Sunny,35,Bangladesh,77,36,76,36,36,36,44,74,73,94,75
+Thandolwethu Mnyaka,29,South Africa,71,37,69,34,43,36,35,68,65,84,74
+Jackson Bird,35,Australia,61,35,59,34,30,36,67,66,61,40,41
+Muhammad Faizan,24,Pakistan,42,31,40,34,23,36,24,44,49,16,14
+Blessing Muzarabani,25,Zimbabwe,76,32,75,32,30,36,19,78,82,63,50
+Matt Parkinson,25,England,77,33,76,30,33,36,20,78,85,28,83
+Isitha Wijesundera,24,Sri Lanka,72,36,71,28,38,36,66,67,74,83,61
+Himanshu Sangwan,26,India,62,35,60,28,41,36,33,59,56,93,43
+Amila Aponso,28,Sri Lanka,69,32,68,27,30,36,42,75,73,50,38
+Peter Chase,28,Ireland,69,32,68,26,31,36,43,72,76,36,56
+Gregory Mahlokwana,27,South Africa,65,30,64,26,27,36,25,65,60,83,54
+Matthew Hay,24,New Zealand,33,32,24,26,36,36,15,27,28,8,14
+Monir Hossain,36,Bangladesh,59,31,58,22,36,36,27,64,53,52,59
+Ludwig Kaestner,21,South Africa,52,51,28,70,54,35,29,32,30,15,18
+Vishva Wijeratne,29,Sri Lanka,55,54,27,70,57,35,81,27,28,17,34
+Bikash Rout,28,India,74,49,70,60,51,35,73,65,63,95,93
+Dhiman Ghosh,34,Bangladesh,46,45,23,51,44,35,85,27,28,9,4
+Chanaka Wijesinghe,40,Sri Lanka,43,42,26,50,42,35,48,28,31,11,10
+Ishan Rangana,28,Sri Lanka,41,40,26,50,35,35,52,27,28,32,9
+Khawlhring Lalremruata,34,India,39,38,26,50,34,35,14,27,27,32,7
+Nelson Odhiambo,32,Kenya,73,40,71,48,38,35,39,66,67,95,78
+Imran Khan,29,Sri Lanka,68,45,65,48,47,35,75,62,61,82,77
+Fred Klaassen,29,Netherlands,72,43,70,46,44,35,70,65,72,95,54
+Kangabam Singh,27,India,59,38,57,46,34,35,38,59,52,61,68
+Peter Nevill,36,Australia,44,43,24,46,45,35,78,27,27,5,17
+Samrat Singha,32,India,39,38,24,46,39,35,14,27,27,14,7
+Keith Dudgeon,26,South Africa,68,40,66,45,39,35,45,67,70,70,43
+Sandeep Sharma,28,India,81,40,80,44,40,35,42,76,79,97,81
+Navdeep Saini,29,India,72,38,70,43,37,35,40,74,72,36,75
+Rahul Singh,29,India,60,30,59,33,21,35,23,68,62,36,36
+S Karthik,31,India,35,34,24,32,32,35,57,27,27,9,10
+Chamod Sandaru,20,Sri Lanka,41,32,39,29,35,35,15,41,34,38,47
+Shahnawaz Dahani,23,Pakistan,75,29,74,24,28,35,32,72,78,77,63
+Shahbaz Chouhan,26,Bangladesh,47,30,46,21,35,35,20,51,40,42,57
+Mohammad Imran,21,Pakistan,66,27,65,20,29,35,9,67,63,87,45
+Akshay Wadkar,27,India,54,53,28,68,53,34,90,27,28,30,34
+Pasindu Sooriyabandara,22,Sri Lanka,49,48,28,63,47,34,52,27,28,23,38
+Anushka Perera,28,Sri Lanka,65,46,61,62,49,34,24,65,63,59,34
+Shadman Islam,26,Bangladesh,45,44,28,54,43,34,68,27,28,42,15
+Rivaldo Moonsamy,25,South Africa,43,42,24,49,42,34,62,28,28,5,13
+Nayeem Hasan,22,Bangladesh,74,41,72,48,39,34,56,74,73,92,41
+Josh Bohannon,24,England,45,44,27,48,45,34,75,28,28,34,8
+Ernest Masuku,29,Zimbabwe,52,43,48,47,49,34,37,53,46,32,52
+Lalhmangaiha,38,India,43,38,40,46,36,34,21,36,34,68,52
+Aravinda Premaratne,29,Sri Lanka,66,34,65,42,27,34,36,66,63,85,47
+Jonathan Merlo,23,Australia,41,38,35,41,41,34,36,36,32,38,41
+Tom Hartley,22,England,76,39,74,40,42,34,50,73,70,75,94
+Amit Ali,19,India,75,40,73,40,46,34,50,75,76,40,81
+Andile Simelane,18,South Africa,61,37,59,40,36,34,38,62,42,90,88
+Techi Neri,27,India,51,33,49,40,25,34,30,52,42,46,66
+Ollie Robinson,28,England,67,38,65,37,39,34,66,65,66,44,77
+Chabungbam Ishworjit,27,India,40,39,25,36,47,34,41,27,27,3,33
+Ashutosh Aman,35,India,67,33,66,35,28,34,44,69,65,67,59
+Johannes Diseko,31,South Africa,68,34,67,34,33,34,32,69,63,91,47
+Vikash Kumar,25,India,39,38,25,33,42,34,66,27,28,17,12
+Oshane Thomas,25,West Indies,82,30,82,31,28,34,13,78,86,82,78
+Ajoy Sarkar,24,India,65,32,64,29,33,34,25,69,66,30,69
+Lyndon James,23,England,36,35,28,28,38,34,65,27,28,30,34
+Sasith Manuranga,22,Sri Lanka,45,44,26,57,43,33,49,31,30,6,11
+Sachin Kumar,24,India,74,41,72,55,39,33,34,70,66,87,93
+Jalaj Saxena,35,India,62,41,59,51,41,33,36,66,63,27,48
+Rajeewa Weerasinghe,34,Sri Lanka,66,41,63,50,40,33,45,66,60,61,63
+Salinda Ushan,25,Sri Lanka,39,38,24,50,31,33,33,27,28,17,6
+Ishan Abeysekara,28,Sri Lanka,65,42,62,49,44,33,47,65,60,74,45
+Joylord Gumbie,26,Zimbabwe,41,40,24,49,40,33,40,27,28,6,9
+Techi Doria,27,India,57,40,54,48,38,33,48,52,52,52,74
+Ben Sears,24,New Zealand,76,44,74,46,49,33,74,74,78,36,95
+Mohammad Afzal,26,Pakistan,43,42,24,44,42,33,84,27,28,11,10
+Caleb Seleka,19,South Africa,74,36,73,43,34,33,35,73,73,67,83
+Taijul Islam,30,Bangladesh,70,36,69,40,35,33,31,71,70,48,82
+Mohamed Shiraz,27,Sri Lanka,64,41,61,40,47,33,57,64,61,70,43
+Manik Khan,25,Bangladesh,58,40,55,39,46,33,51,64,58,25,41
+Dillon Pennington,22,England,73,37,72,38,38,33,48,71,76,44,86
+Sathik Nimalsha,25,Sri Lanka,68,33,67,37,29,33,30,65,66,59,91
+Zak Gibson,24,New Zealand,60,39,57,37,41,33,81,58,57,46,63
+Pratyush Singh,27,India,50,35,48,36,34,33,47,50,46,57,43
+Tanveer Sangha,20,Australia,76,34,75,35,33,33,33,75,79,97,38
+Codi Yusuf,23,South Africa,68,36,66,35,39,33,38,62,57,85,97
+Thomas Hobson,27,South Africa,58,35,56,33,36,33,45,51,47,82,86
+Jeffrey Vandersay,32,Sri Lanka,74,33,73,32,31,33,51,70,68,85,96
+Shohidul Islam,27,Bangladesh,72,30,71,29,27,33,25,71,76,67,54
+Theo Lawson,33,Ireland,31,30,25,29,31,33,11,27,27,28,10
+Nuwan Pradeep,35,Sri Lanka,71,28,70,27,23,33,26,68,70,87,64
+Basheeru-Deen Walters,35,South Africa,65,31,64,27,31,33,37,66,61,95,36
+Shehan Sandaruwan,25,Sri Lanka,50,33,48,27,37,33,44,50,53,17,50
+Mayank Mishra,31,India,70,27,69,24,18,33,53,66,62,77,96
+Samit Gohel,31,India,45,44,27,57,48,32,26,27,27,46,7
+Taibur Rahman,30,Bangladesh,55,43,51,56,44,32,33,44,46,75,72
+Lesego Senokwane,24,South Africa,48,43,43,52,43,32,59,40,43,54,43
+Al Bashid Muhammed,23,India,39,38,25,51,28,32,62,27,28,22,8
+Shashrika Pussegolla,34,Sri Lanka,57,39,54,49,35,32,44,51,38,93,91
+Karnajit Yumnam,24,India,38,37,25,47,34,32,25,27,28,6,20
+Devender Lochab,29,India,38,37,25,46,34,32,39,27,28,13,13
+Dushan Vimukthi,30,Sri Lanka,68,37,66,44,35,32,51,69,65,46,79
+Sharifullah,35,Bangladesh,66,37,64,43,36,32,44,65,58,87,61
+Yuzvendra Chahal,31,India,86,35,85,42,31,32,36,82,88,72,96
+Prayash Singh,28,India,58,35,56,41,31,32,50,57,56,67,38
+Lungi Ngidi,25,South Africa,86,35,85,40,32,32,35,82,90,97,61
+Vaibhav Bhatt,26,India,38,36,29,40,38,32,24,27,28,36,36
+Brandon Glover,24,Netherlands,76,31,75,35,27,32,23,69,73,98,84
+Pasindu Madushan,29,Sri Lanka,61,30,60,34,22,32,48,61,53,94,48
+Nuwan Thushara,27,Sri Lanka,74,34,73,32,36,32,39,73,77,80,48
+Kushang Patel,30,India,51,35,49,32,41,32,41,60,49,20,31
+Ollie Newton,33,New Zealand,70,33,69,30,33,32,59,63,62,95,93
+Hidayatullah,21,Pakistan,34,33,24,30,31,32,63,27,28,17,7
+Sachithra Perera,29,Sri Lanka,69,31,68,29,27,32,56,68,63,88,64
+Kishan Thokchom,32,India,55,29,54,27,30,32,20,53,43,94,66
+Mandup Bhutia,27,India,37,29,35,26,24,32,48,38,34,7,57
+Amit Thakur,29,India,30,29,23,26,24,32,60,27,27,8,7
+Tanveer Ul-Haq,30,India,70,28,69,25,24,32,32,68,62,93,74
+Lizo Makhosi,27,South Africa,62,30,61,23,35,32,31,58,52,92,82
+Jack Campbell,22,England,44,27,43,23,29,32,9,42,49,11,50
+Thiwanka Kekulawala,25,Sri Lanka,68,26,67,21,28,32,8,67,68,38,91
+Zak Evans,21,Australia,72,28,71,18,28,32,59,64,72,74,96
+Travis Dean,30,Australia,48,47,25,60,53,31,41,27,27,27,9
+Denuwan  Rajakaruna,31,Sri Lanka,46,44,33,54,43,31,86,35,32,54,7
+Nimantha Perera,27,Sri Lanka,53,42,49,52,46,31,33,57,38,46,61
+Mohammad Taha,21,Pakistan,45,43,30,52,44,31,69,34,31,15,22
+Abhishek Das,31,India,43,42,26,52,38,31,76,27,27,23,24
+Tom Helm,27,England,73,39,71,45,42,31,43,68,72,57,96
+Nisarg Patel,33,United States of America,72,40,70,44,41,31,73,74,71,57,66
+Tom Fell,28,England,38,37,28,43,36,31,45,27,28,22,34
+Clint Hinchliffe,25,Australia,65,36,63,41,33,31,53,65,65,83,31
+Shahadat Hossain,20,Bangladesh,37,36,28,41,33,31,63,31,31,16,12
+Sedezhalie Rupero,24,India,36,35,26,40,35,31,24,28,28,16,15
+Khaleel Ahmed,24,India,84,31,84,35,27,31,24,82,89,63,91
+Max Waller,33,England,72,34,71,33,31,31,73,71,70,85,61
+Josh Poysden,30,England,62,37,60,33,43,31,59,63,57,79,41
+Rashmika Mevan,20,Sri Lanka,55,29,54,33,27,31,8,62,42,88,40
+Josh Lalor,34,Australia,58,33,56,32,32,31,49,64,62,27,28
+Brendan Doggett,27,Australia,67,34,66,31,37,31,50,66,66,79,48
+Dilshan Abeysinghe,25,Sri Lanka,63,29,62,21,30,31,55,64,61,65,57
+Leonardo Julien,20,West Indies,41,40,24,58,39,30,13,27,28,8,9
+Robin Bist,34,India,45,43,30,55,44,30,61,30,32,23,30
+Salman Hossain,26,Bangladesh,41,40,28,54,38,30,37,29,28,16,31
+Lalhruaizela,25,India,39,36,35,53,27,30,23,37,40,19,24
+Ravindu Rathnayake,21,Sri Lanka,46,45,24,51,48,30,93,27,28,6,12
+Jayanta Sagatpam,29,India,39,38,28,50,36,30,25,27,28,34,25
+Imesh Udayanga,32,Sri Lanka,61,36,59,44,34,30,43,54,52,88,79
+Chris Sabburg,32,Australia,40,38,29,44,33,30,80,29,28,27,31
+Dunith Jayatunga,20,Sri Lanka,41,40,28,43,40,30,89,27,28,23,34
+Rodney Trott,34,Bermuda,63,34,61,41,32,30,29,69,63,36,47
+Wes Agar,25,Australia,68,36,66,39,40,30,42,69,74,48,36
+Chris Mpofu,36,Zimbabwe,73,34,72,38,34,30,41,69,68,96,77
+Ma'ara Ave,23,New Zealand,35,34,26,38,36,30,22,27,28,15,22
+Siddarth Kaul,31,India,75,35,74,37,36,30,42,74,75,80,64
+Waseem Raza,29,India,62,32,61,37,28,30,37,66,62,28,66
+Lutho Sipamla,23,South Africa,68,32,67,35,29,30,55,71,77,25,57
+Satyajeet Bachhav,29,India,73,34,72,32,37,30,46,71,68,91,68
+Ndumiso Mvelase,25,South Africa,67,32,66,32,32,30,39,69,66,38,82
+Nyiko Shikwambana,24,South Africa,32,31,27,32,27,30,64,27,28,34,13
+Debabrata Pradhan,25,India,63,29,62,28,30,30,23,66,61,19,91
+Sudhesan Midhun,27,India,66,31,65,26,35,30,34,69,63,25,97
+Peter Siddle,37,Australia,69,25,68,21,23,30,29,67,65,98,56
+Shakil Hossain,21,Bangladesh,43,42,26,50,40,29,89,27,28,30,5
+Sohan de Livera,21,Sri Lanka,43,42,24,50,42,29,87,27,28,8,10
+Simon Atai,22,Papua New Guinea,62,39,60,48,40,29,44,60,57,77,57
+Nathan McSweeney,22,Australia,43,38,40,48,40,29,29,46,34,7,68
+Malinga Amarasinghe,24,Sri Lanka,71,39,69,47,40,29,47,65,65,90,78
+Kabua Morea,28,Papua New Guinea,74,38,73,45,39,29,50,67,71,83,93
+Chamindu Wickramasinghe,19,Sri Lanka,66,39,64,43,41,29,77,62,68,84,34
+Pavan Rathnayake,19,Sri Lanka,37,36,24,39,39,29,58,27,28,13,9
+Janaka Sampath,34,Sri Lanka,68,35,67,38,34,29,56,69,62,98,52
+Pankaj Kumar,22,India,38,37,25,38,37,29,84,27,28,15,11
+Vijayakanth Viyaskanth,20,Sri Lanka,74,33,73,35,35,29,30,71,72,65,97
+Ainsley Ndlovu,26,Zimbabwe,75,34,74,34,36,29,61,69,68,95,96
+Rakibul Hasan,19,Bangladesh,78,30,77,32,28,29,29,75,75,84,87
+Scott Boland,32,Australia,60,31,59,32,33,29,33,65,66,38,28
+Peter Younghusband,32,New Zealand,64,34,63,31,36,29,75,64,57,89,54
+Asif Hasan,28,Bangladesh,58,30,57,31,32,29,27,65,58,38,43
+Towker Khan,24,Bangladesh,53,26,52,25,28,29,7,57,40,44,84
+Lloyd Pope,22,Australia,72,24,72,20,23,29,9,69,68,83,86
+Ruan Terblanche,20,South Africa,53,52,23,77,58,28,43,27,28,8,6
+Mason Crane,25,England,78,41,76,58,38,28,52,76,77,50,94
+Brighton Chipungu,20,Zimbabwe,68,41,66,48,41,28,83,63,57,80,96
+Ram Dayal,33,India,60,35,58,43,32,28,58,69,61,32,27
+Keshan Wijerathne,25,Sri Lanka,72,36,71,40,39,28,43,70,65,88,82
+Song Tacho,28,India,32,31,25,39,27,28,27,27,28,11,15
+Pat Brown,23,England,75,31,74,38,28,28,34,69,75,98,64
+Philippe Boissevain,21,Netherlands,66,34,65,37,32,28,69,69,68,59,47
+Nalin Mishra,26,India,31,30,27,37,29,28,14,27,28,22,25
+Dhrushant Soni,26,India,71,33,70,36,37,28,34,66,68,93,71
+Thamsanga Kumalo,22,South Africa,31,30,26,36,28,28,23,27,28,7,30
+Udith Madushan,24,Sri Lanka,71,31,70,35,31,28,33,72,71,34,91
+Lakshan Sandakan,30,Sri Lanka,70,29,69,33,26,28,35,74,77,34,47
+Karan Lal,21,India,70,30,69,32,30,28,35,74,71,27,83
+Palzor Tamang,28,India,60,28,59,32,24,28,22,57,52,88,63
+Yash Dayal,24,India,76,29,75,31,29,28,20,71,70,91,91
+Bilal Khan,33,Oman,79,29,78,30,28,28,29,77,79,80,74
+Liam Peters,25,South Africa,41,40,25,53,40,27,47,27,28,28,5
+Ritwik Behera,18,United States of America,49,37,46,50,30,27,72,54,41,52,31
+Vikramjit Singh,19,Netherlands,39,38,28,50,38,27,34,28,28,23,31
+Felix Alemao,26,India,59,40,56,48,40,27,76,60,63,34,30
+Ben Geddes,20,England,37,36,26,47,37,27,34,28,28,14,25
+Nosaina Pokana,25,Papua New Guinea,80,36,79,46,33,27,50,79,79,98,59
+Orapeleng Motlhoaring,20,South Africa,35,34,24,46,33,27,20,27,28,8,10
+Lasindu Arosha,22,Sri Lanka,51,31,49,45,25,27,12,47,41,57,79
+Kamlesh Nagarkoti,22,India,70,35,69,44,33,27,51,65,62,83,96
+Nitin Tanwar,25,India,71,36,70,43,34,27,70,67,62,91,92
+Matheesha Perera,30,Sri Lanka,67,34,66,42,32,27,42,64,54,91,94
+Alankara Asanka Silva,36,Sri Lanka,65,31,64,35,30,27,47,66,63,97,30
+Naeem Islam jnr,27,Bangladesh,64,33,63,35,35,27,54,63,54,91,69
+Jerome Xaba,26,South Africa,55,36,53,34,46,27,45,52,40,79,82
+Sean Whitehead,24,South Africa,64,33,63,33,35,27,69,66,54,82,72
+Sanjeew Coomaraswamy,24,Sri Lanka,52,36,50,33,45,27,62,52,50,46,43
+Shanaj Ahmed,29,Bangladesh,29,28,24,33,26,27,11,27,27,4,15
+Jony Talukdar,28,Bangladesh,28,27,26,29,27,27,14,27,28,14,21
+Lukman Meriwala,30,India,76,28,75,28,28,27,39,70,71,96,93
+Chetan Sakariya,23,India,73,26,73,26,25,27,31,74,77,67,57
+Bharat Sharma,26,India,59,25,58,26,21,27,23,67,57,48,40
+Ben Shikongo,21,Namibia,66,24,66,24,19,27,32,57,63,92,87
+Ruyel Miah,21,Bangladesh,66,24,66,21,24,27,22,68,67,19,97
+Saddam Hossain,26,Bangladesh,63,21,63,17,20,27,17,62,61,40,95
+Ntokozo Mahlaba,22,South Africa,64,45,60,59,45,26,92,63,58,28,90
+Asakhe Tsaka,18,South Africa,74,43,72,58,48,26,38,69,63,91,96
+Sohaibullah,25,Pakistan,62,38,60,49,40,26,48,65,58,40,69
+Marcus O'Riordan,24,England,65,38,63,48,38,26,61,71,65,52,31
+Aaqib Liaquat,20,Pakistan,63,34,62,48,33,26,20,62,72,22,63
+Kemira Wijenayake,20,Sri Lanka,54,37,52,45,42,26,45,66,43,23,61
+Ranjeet Nikam,22,India,40,39,23,45,39,26,86,27,28,5,9
+Adithya Ashok,19,New Zealand,79,35,78,42,33,26,63,75,75,91,93
+Aamer Azmat,23,Pakistan,39,37,33,42,37,26,86,34,42,14,13
+Suraj Ahuja,22,India,35,34,24,38,33,26,73,27,28,8,13
+Luvuyo Nkese,24,South Africa,70,30,69,35,29,26,26,67,72,42,94
+Jacob Bethell,18,England,58,30,57,35,28,26,42,55,42,94,92
+Chathura Randunu,37,Sri Lanka,56,32,55,35,33,26,56,62,58,32,34
+Larry Sangma,29,India,32,30,28,34,28,26,40,28,28,32,22
+Jagjit Singh,25,India,63,35,61,33,46,26,45,63,45,93,87
+Josh Tongue,24,England,61,36,59,33,44,26,79,62,57,20,96
+Kgaudisa Molefe,22,South Africa,59,37,57,33,44,26,90,59,57,50,54
+Anish Charak,21,India,51,30,50,33,31,26,32,61,47,36,27
+Sam Pearce,24,England,50,30,49,33,30,26,43,53,41,20,91
+Beuran Hendricks,31,South Africa,79,29,78,32,28,26,35,73,78,96,79
+Hamish Bennett,34,New Zealand,68,30,67,32,32,26,42,68,66,46,83
+Faisal Akram,18,Pakistan,64,25,63,31,22,26,9,62,49,90,96
+Junaid Siddique,29,United Arab Emirates,78,27,78,27,26,26,36,74,74,84,99
+Iftekhar Sajjad,30,Bangladesh,54,25,53,24,27,26,20,57,45,92,33
+Vraj Patel,19,Kenya,71,22,71,23,19,26,12,71,74,30,100
+Kurtlyn Mannikam,26,South Africa,40,25,39,22,26,26,22,42,43,25,22
+Mohammad Saif,25,India,66,47,62,69,52,25,42,71,61,36,56
+Langlonyamba Meitan Keishangbam,24,India,47,44,37,64,43,25,66,36,37,59,15
+Rohit Shah,24,India,42,41,26,62,38,25,54,27,28,10,28
+Alistair Frost,22,Ireland,70,36,69,50,36,25,29,65,74,57,79
+Pathum Madusanka,26,Sri Lanka,39,38,27,50,38,25,58,27,28,34,14
+Keshan Wanniarachchi,23,Sri Lanka,36,35,27,47,30,25,68,27,28,34,12
+Yash Kothari,26,India,34,33,27,43,30,25,42,27,28,34,20
+Benjamin Manenti,24,Australia,61,33,60,41,31,25,43,69,65,27,41
+Amlanjyoti Das,20,India,60,32,59,41,25,25,59,64,54,25,96
+Tshepo Ntuli,26,South Africa,63,31,62,40,25,25,50,68,62,61,38
+Hasan Mohsin,24,Pakistan,33,32,26,38,31,25,49,27,28,13,30
+Craig Miles,27,England,71,32,70,34,31,25,67,67,66,92,78
+Matt Taylor,27,England,67,30,66,33,30,25,40,64,65,68,72
+Nathan Lyon,34,Australia,65,31,64,32,34,25,57,66,63,93,28
+Abdur Rashid,34,Bangladesh,69,34,68,30,44,25,52,61,62,94,90
+Bishan Mendis,22,Sri Lanka,26,23,25,28,19,25,6,27,28,20,6
+Shasheen Fernando,28,Sri Lanka,29,25,28,27,25,25,15,27,28,27,28
+Upul Indrasiri,39,Sri Lanka,61,24,60,25,21,25,37,65,58,48,59
+Aryan Dutt,18,Netherlands,79,22,79,24,18,25,5,71,83,96,82
+Varun Choudhary,28,India,65,27,64,24,30,25,42,65,66,77,41
+Zahoor Khan,32,United Arab Emirates,79,23,79,22,21,25,17,74,74,98,96
+Steven McGiffin,24,Australia,56,42,53,60,38,24,75,51,40,79,84
+Vipin Dhaka,25,India,39,38,24,51,35,24,74,27,28,5,14
+Tharindu Mendis,40,Sri Lanka,39,38,26,48,37,24,80,28,28,11,28
+Ashish Thapa,28,India,34,33,25,48,28,24,29,27,28,11,20
+Wandile Makwetu,23,South Africa,38,37,24,46,34,24,84,27,28,6,11
+Rahul Gunasekera,20,Sri Lanka,31,30,25,43,26,24,20,28,28,14,14
+Himesh Ramanayake,24,Sri Lanka,69,32,68,41,29,24,43,74,78,44,30
+Jon Hinrichsen,22,South Africa,74,30,73,40,28,24,22,70,71,91,72
+Blake Coburn,26,New Zealand,68,33,67,39,34,24,51,62,58,93,93
+Bonny Chingangbam,26,India,30,29,24,39,26,24,27,27,28,8,8
+Jack Wood,25,Australia,63,30,62,37,30,24,22,60,68,25,78
+Gavin Main,26,Scotland,68,33,67,36,36,24,52,58,67,91,75
+Renaldo Meyer,27,South Africa,65,30,64,36,32,24,29,62,56,93,72
+Tangeni Lungameni,29,Namibia,68,33,67,35,37,24,52,67,65,93,47
+Abhinav Srivastava,20,India,30,29,23,35,24,24,55,27,28,9,5
+Movin Subasingha,21,Sri Lanka,59,30,58,34,31,24,43,66,52,57,54
+Sam Rainbird,29,Australia,56,32,54,34,34,24,61,62,57,30,36
+Tipu Sultan,23,Bangladesh,67,30,66,33,31,24,38,65,53,88,97
+Peter Hatzoglou,23,Australia,73,26,73,29,25,24,29,70,71,91,79
+Mayank Dagar,25,India,71,28,70,29,25,24,59,74,70,38,88
+Tom O'Connell,21,Australia,63,27,62,29,25,24,49,63,63,80,31
+Salman Irshad,26,Pakistan,73,27,72,28,28,24,27,65,70,84,95
+Zakhele Qwabe,33,South Africa,56,29,55,27,32,24,49,63,54,34,52
+Suhanga Wijewardana,22,Sri Lanka,32,24,31,27,19,24,39,30,30,38,33
+Richard Gleeson,34,England,69,26,68,25,28,24,40,64,61,83,95
+Mohiuddin Tareq,18,Bangladesh,75,23,75,24,20,24,27,74,81,82,45
+Arshad Iqbal,21,Pakistan,74,21,74,22,18,24,11,76,79,65,50
+Khaif Patel,18,South Africa,42,41,25,62,41,23,31,27,28,7,21
+Kasun Sndaruwan,23,Sri Lanka,43,42,27,58,40,23,92,27,28,28,22
+Jerome Bossr,23,South Africa,44,43,26,58,52,23,42,27,28,27,9
+Vihanga Kalhara,28,Sri Lanka,46,34,44,42,37,23,50,55,43,19,24
+Zahid Abbas,28,Kenya,56,34,54,40,33,23,74,61,56,17,52
+Vimukthi Kulatunga,23,Sri Lanka,59,29,58,36,27,23,41,66,52,44,61
+Rejaur Rahman Raja,22,Bangladesh,68,30,67,35,27,23,60,70,67,40,78
+Yomesh Ranasinghe,24,Sri Lanka,67,24,67,25,24,23,20,71,68,59,56
+Amulya Pandrekar,25,India,61,25,60,25,25,23,40,67,61,38,50
+Brody Couch,22,Australia,65,23,65,24,21,23,23,69,71,28,59
+Jubair Hossain,26,Bangladesh,58,24,57,24,23,23,44,59,52,34,96
+Hamza Tahir,26,Scotland,79,19,79,19,16,23,5,74,78,95,91
+Alfred Mothoa,32,South Africa,69,20,69,17,18,23,22,65,61,94,95
+Promod Maduwantha,24,Sri Lanka,67,40,65,54,42,22,78,69,62,84,40
+Navodya Imesh,21,Sri Lanka,45,37,42,50,35,22,83,43,37,50,52
+Jason Raubenheimer,23,South Africa,43,35,40,48,31,22,64,43,34,16,72
+Pasindu Ushettige,22,Sri Lanka,72,29,71,39,27,22,32,72,65,70,91
+Archie Lenham,17,England,78,26,78,38,19,22,30,73,77,91,84
+Tumelo Tlhokwe,27,South Africa,65,34,64,38,39,22,70,70,71,54,25
+Thula Ngcobo,26,South Africa,70,32,69,36,36,22,44,69,68,50,95
+Santhush Gunathilake,22,Sri Lanka,36,27,35,36,26,22,17,37,33,48,22
+Nilesh Lamichaney,30,India,28,27,23,36,25,22,18,27,27,5,7
+Deshan Fernando,23,Sri Lanka,69,31,68,35,36,22,44,72,67,84,41
+Ross ter Braak,24,New Zealand,71,31,70,34,35,22,55,66,70,63,88
+Victor Nyauchi,29,Zimbabwe,66,31,65,34,33,22,68,68,67,34,74
+Beckham Wheeler-Greenall,19,New Zealand,64,29,63,34,27,22,62,65,67,70,31
+Nandre Burger,26,South Africa,76,26,76,33,22,22,35,72,72,82,97
+Nimasara Atharagalla,22,Sri Lanka,68,32,67,33,36,22,66,69,76,36,56
+Umran Malik,22,India,65,31,64,33,35,22,51,65,66,48,64
+Ruvin Peiris,21,Sri Lanka,63,30,62,33,35,22,44,67,63,59,41
+Hiri Hiri,26,Papua New Guinea,29,26,28,33,22,22,26,34,31,5,17
+Emmanuel Bundi,28,Kenya,76,28,75,32,26,22,51,69,71,87,98
+Minhajul Abedin Afridi,23,Bangladesh,73,32,72,32,35,22,78,70,65,89,91
+Vidyadhar Patil,21,India,68,32,67,32,35,22,84,65,60,77,89
+Lwandiswa Zuma,25,South Africa,62,26,61,32,25,22,31,62,60,34,86
+Kevin Sinclair,22,West Indies,70,24,70,29,19,22,45,73,71,30,93
+Tom Bailey,30,England,65,29,64,29,32,22,64,62,65,38,89
+Imran Manack,30,South Africa,65,28,64,29,29,22,54,69,58,46,87
+Harsh Singh,26,India,54,22,54,27,20,22,13,59,49,22,81
+Khrievitso Kense,17,India,71,23,71,26,22,22,20,72,71,63,75
+Ahmed Daniyal,24,Pakistan,63,21,63,25,18,22,14,62,58,57,97
+Prasidh Krishna,26,India,74,21,74,22,17,22,25,69,71,83,97
+Mohammad Shahzada,35,Bangladesh,50,22,49,22,21,22,27,47,50,88,16
+Mujtaba Yousuf,19,India,77,19,77,19,15,22,19,74,72,88,97
+Ashen Mendis,26,Sri Lanka,38,37,23,58,36,21,30,27,28,4,6
+Mitchell Thompson,20,Ireland,62,35,60,52,34,21,40,60,57,34,96
+Suraj Tayam,38,India,30,29,24,46,23,21,11,27,27,4,21
+Iqlas Naha,27,India,34,33,24,44,34,21,37,27,28,5,11
+Rojith Ganesh,28,India,35,30,33,42,28,21,29,31,31,25,52
+Nimesha Mendis,26,Sri Lanka,57,29,56,38,29,21,34,63,58,32,43
+Poorna Charuka,24,Sri Lanka,55,29,54,37,29,21,36,53,58,36,61
+Danushka Madushanka,31,Sri Lanka,73,25,73,34,20,21,23,71,65,96,85
+David Grant,24,Australia,67,30,66,34,34,21,44,71,67,80,31
+Rory Anders,24,Ireland,45,28,44,34,24,21,58,41,42,46,61
+Nuruzzaman,27,Bangladesh,36,28,35,34,24,21,64,36,42,4,33
+Sinenhlanhla Zwane,21,South Africa,31,30,26,34,34,21,44,27,28,9,34
+Sachintha Peiris,26,Sri Lanka,70,28,69,33,28,21,46,73,73,54,54
+Tsepo Ndwandwa,26,South Africa,71,27,70,32,28,21,39,68,66,95,68
+Eldred Hawken,32,South Africa,59,27,58,32,29,21,34,60,57,59,54
+Jaideep Bhambhu,22,India,40,29,39,32,34,21,44,49,37,16,31
+Tshepo Moreki,28,South Africa,68,25,67,30,24,21,28,65,66,72,72
+Ahmed Safi Abdullah,23,Pakistan,67,23,67,30,19,21,22,69,68,34,83
+Nagaho Chishi,24,India,68,22,68,26,19,21,21,69,63,77,74
+Andre Odendaal,27,Zimbabwe,60,23,60,25,18,21,49,60,60,22,97
+Jayden Seales,20,West Indies,76,24,76,24,21,21,65,70,77,89,87
+Sushan Bhari,26,Nepal,74,19,74,23,15,21,6,72,71,79,92
+Hardik Patel,26,India,69,21,69,22,18,21,39,73,70,85,30
+Arshdeep Singh,23,India,66,21,66,22,17,21,31,71,74,34,43
+Sandeep Warrier,30,India,59,20,59,22,17,21,20,69,65,27,31
+Alasdair Evans,33,Scotland,77,19,77,19,15,21,29,72,74,98,89
+Akif Javed,21,Pakistan,75,19,75,19,15,21,19,70,72,91,94
+Vishwa Fernando,30,Sri Lanka,56,20,56,18,20,21,19,63,61,40,27
+Jarred Alder,23,South Africa,42,41,25,61,40,20,81,27,28,4,21
+Juandre Scheepers,21,South Africa,62,34,60,53,33,20,30,63,57,91,30
+Dinitha Siriwardena,20,Sri Lanka,34,33,27,49,32,20,38,27,28,16,31
+Dominic Wesonga,33,Kenya,48,34,46,43,31,20,87,46,43,83,22
+Kamsha Yangfo,29,India,29,28,26,41,22,20,47,27,28,30,5
+Methushan Thilina,22,Sri Lanka,77,30,76,38,33,20,43,70,73,88,97
+Patrick Mambo,26,Zimbabwe,60,26,59,34,23,20,32,61,53,63,66
+Hirshi Raj,27,India,64,29,63,33,33,20,44,62,71,48,47
+Kumar Kartikeya,24,India,73,28,72,32,30,20,46,74,68,63,84
+Yasoda Mendis,29,Sri Lanka,52,26,51,32,27,20,25,52,57,42,34
+Gudakesh Motie,26,West Indies,74,25,74,31,20,20,58,71,68,94,93
+Cheepurapalli Stephen,28,India,75,27,74,30,28,20,57,71,73,72,95
+Joel Paris,29,Australia,66,26,65,30,24,20,56,62,61,70,90
+Thamsanqa Rapelego,29,South Africa,63,30,62,30,33,20,73,64,57,63,72
+Kartik Tyagi,21,India,59,25,58,29,23,20,41,63,62,27,50
+Mthiwekhaya Nabe,26,South Africa,70,24,70,28,23,20,32,67,72,46,97
+Josh Shaw,26,England,69,25,69,28,25,20,43,65,66,74,96
+Scott Currie,20,England,68,23,68,28,19,20,33,69,76,22,81
+Michael Frost,20,Ireland,64,27,63,28,26,20,80,70,66,17,72
+Dippu Sangma,24,India,64,25,63,27,22,20,58,69,62,15,86
+Zaman Khan,20,Pakistan,65,22,65,24,20,20,35,70,73,32,45
+Simarjeet Singh,24,India,74,20,74,22,17,20,19,71,73,95,69
+Jon-Russ Jaggesar,35,West Indies,56,20,56,19,21,20,29,61,54,28,68
+Karthik Meiyappan,21,United Arab Emirates,68,18,68,17,14,20,37,62,71,82,67
+Vinuja Ranpul,18,Sri Lanka,62,36,60,51,41,19,41,57,68,44,56
+Heinrigh Pieterse,20,South Africa,31,30,26,48,26,19,29,27,28,25,10
+Avishka Perera,20,Sri Lanka,29,28,25,43,25,19,27,27,28,25,6
+Mehdi Hassan,32,India,65,31,64,41,31,19,49,66,61,65,71
+Akash Choudhary,22,India,69,26,68,38,20,19,42,71,71,28,87
+Vijaykumar Vyshak,25,India,60,31,59,38,32,19,67,65,62,40,43
+Ram Gurung,23,India,57,30,56,38,32,19,38,68,52,46,31
+Glenton Stuurman,29,South Africa,68,28,67,35,28,19,52,69,66,77,50
+Chinta Gandhi,27,India,61,30,60,35,36,19,43,64,54,68,64
+Manson Chikowero,22,Zimbabwe,63,30,62,34,29,19,91,69,70,27,33
+Jashimuddin,26,Bangladesh,27,26,25,34,21,19,50,27,28,23,5
+Faraz Akram,28,Zimbabwe,59,23,58,33,19,19,22,62,50,54,81
+Subroto Shekhar,26,Bangladesh,52,28,51,33,30,19,39,54,40,48,82
+Harry Conway,29,Australia,64,27,63,31,29,19,42,63,58,48,96
+Jamie Porter,28,England,61,26,60,31,26,19,51,61,60,40,77
+Ashay Palkar,32,India,68,28,67,29,33,19,54,68,68,46,82
+George Scrimshaw,24,England,65,23,65,29,21,19,32,69,72,44,38
+Lalhruai Ralte,29,India,50,23,49,29,23,19,22,56,52,20,33
+David O'Halloran,21,Ireland,68,26,67,28,25,19,64,65,67,79,59
+Khurram Shahzad,22,Pakistan,67,23,67,28,20,19,35,69,68,67,54
+T Natarajan,30,India,71,23,71,27,19,19,42,68,66,94,84
+Peter Langat,28,Kenya,68,24,68,27,25,19,32,65,71,44,96
+Enamul Haque jnr,35,Bangladesh,73,23,73,26,23,19,34,69,65,96,94
+Varun Chakravarthy,30,India,66,23,66,26,22,19,31,70,65,36,81
+Ajay Lamabam,23,India,66,23,66,26,23,19,34,64,61,72,92
+Mohamed Shilmi,28,Sri Lanka,25,21,24,26,15,19,33,27,27,11,11
+Kalana Perera,21,Sri Lanka,69,22,69,25,19,19,43,72,73,72,40
+Sayem Alam,28,Bangladesh,31,20,30,25,17,19,23,27,28,42,34
+Sagar Udeshi,35,India,67,22,67,23,22,19,37,67,54,95,93
+Vivian Kingma,27,Netherlands,65,19,65,23,16,19,12,65,68,48,74
+Amod Yadav,20,India,74,21,74,22,19,19,45,74,73,84,64
+Matthew Fisher,22,New Zealand,63,21,63,22,19,19,45,61,60,48,95
+Nduduzo Mfoza,24,South Africa,71,20,71,21,19,19,28,70,71,87,59
+Ishan Porel,23,India,72,19,72,20,17,19,16,74,73,87,41
+Ghulam Mudassar,22,Pakistan,56,19,56,20,17,19,16,62,63,25,31
+Yasir Mohammad,19,United States of America,67,19,67,19,13,19,45,67,65,94,48
+Manisha Rupasinghe,21,Sri Lanka,38,37,25,61,34,18,34,27,28,5,27
+Jake Carder,26,Australia,35,34,27,53,33,18,38,27,28,22,24
+Nicholas Bertus,28,Australia,35,34,24,51,35,18,42,27,27,6,22
+Nihal Surlaker,23,India,46,27,45,41,24,18,29,51,41,27,57
+Kumar Kushagra,17,India,33,32,24,41,30,18,95,27,28,10,7
+Liam Alder,18,South Africa,61,27,60,40,25,18,30,58,52,67,91
+Rajesh Bishnoi,32,India,70,26,69,37,23,18,34,67,58,91,94
+Kunal Mahajan,30,India,34,32,31,37,34,18,82,30,30,48,24
+Shashwat Rawat,20,India,27,26,24,37,20,18,60,27,28,11,7
+Thabo Mboyi,36,Zimbabwe,62,30,61,35,29,18,80,57,56,83,72
+Tahir Isaacs,20,South Africa,25,23,24,35,19,18,18,27,28,3,14
+Tapiwa Mufudza,31,Zimbabwe,71,28,70,33,31,18,48,69,66,85,79
+Poorna Wannithilake,23,Sri Lanka,68,24,68,33,22,18,27,64,67,90,66
+Sahil Patel,24,South Africa,66,27,65,33,30,18,43,65,63,44,92
+Methsith Jayamanna,24,Sri Lanka,30,25,29,33,23,18,28,30,30,42,6
+Sameer Choudhary,22,India,29,24,28,33,21,18,24,30,32,17,10
+Aditya Thakare,23,India,71,25,71,32,23,18,46,74,71,59,66
+Kyle Magee,20,Ireland,26,24,25,32,17,18,69,27,28,9,18
+Harry Podmore,27,England,68,25,67,31,22,18,56,63,65,61,95
+Frederick Walker,27,New Zealand,65,28,64,31,28,18,73,71,68,52,34
+Vasuki Koushik,29,India,61,25,60,31,23,18,42,67,67,34,30
+Okuhle Cele,24,South Africa,71,22,71,30,19,18,24,69,65,94,79
+Shivam Sharma,26,India,65,28,64,30,28,18,89,69,58,63,66
+Kilco Marak,29,India,64,25,63,30,25,18,52,64,67,65,38
+Charlie Morris,29,England,63,25,62,29,24,18,47,62,65,72,40
+Nitin Yadav,29,India,60,25,59,29,26,18,48,64,65,28,41
+Brad Evans,24,Zimbabwe,59,25,58,28,24,18,63,67,58,44,36
+Amite Hasan,20,Bangladesh,26,23,25,28,18,18,56,27,28,10,18
+Habibur Rahman,34,Bangladesh,59,22,59,27,19,18,42,55,56,57,84
+Dulaj Ashen,21,Sri Lanka,31,24,30,27,24,18,52,35,32,10,25
+Sanjit Saha,24,Bangladesh,66,20,66,26,15,18,21,67,65,95,40
+Ottniel Baartman,28,South Africa,65,22,65,26,19,18,40,72,70,23,63
+Kranthi Kumar,28,India,56,21,56,26,17,18,44,62,53,63,36
+Md Saptulla,23,India,52,22,51,26,18,18,40,64,49,15,43
+Rajinda Punchihewa,29,Sri Lanka,54,21,54,24,16,18,56,57,46,89,34
+Hlomla Hanabe,20,South Africa,25,20,24,22,14,18,60,27,28,16,6
+Bishworjit Konthoujam,26,India,70,17,70,20,14,18,13,70,65,79,82
+Will Davis,25,England,64,19,64,20,14,18,41,60,60,75,84
+Mohor Sheikh,24,Bangladesh,67,18,67,19,13,18,32,68,68,95,28
+Roman Walker,21,England,65,17,65,19,14,18,16,68,72,42,50
+Lance Morris,23,Australia,57,17,57,19,13,18,23,58,50,50,85
+Chamika Gunasekara,22,Sri Lanka,76,17,76,17,13,18,28,74,74,91,78
+Nabil Samad,35,Bangladesh,63,16,63,16,14,18,20,68,60,27,95
+Kerwin Mungroo,27,South Africa,68,16,68,15,13,18,26,67,65,87,66
+Sanchit Sharma,20,United Arab Emirates,58,14,58,14,12,18,5,63,45,50,98
+Akhona Mnyaka,22,South Africa,56,15,56,14,12,18,14,65,61,25,33
+Jabari Darrell,20,Bermuda,51,14,51,14,12,18,5,51,45,34,94
+Freddie Heldreich,20,England,67,14,67,13,11,18,5,71,66,75,48
+Ziyaad Abrahams,24,South Africa,66,14,66,13,11,18,5,68,65,34,92
+Odirile Modimokoane,20,South Africa,65,14,65,13,12,18,5,71,68,38,56
+Dilanka Auwardt,31,Sri Lanka,61,27,60,42,21,17,35,65,56,85,31
+Joshua Stephenson,18,South Africa,57,24,56,41,17,17,16,62,63,27,30
+Kavindu Silva,28,Sri Lanka,58,28,57,40,29,17,36,61,68,28,30
+Minhajul Abedin,24,Bangladesh,27,26,24,38,24,17,32,27,28,8,8
+Henan Nazir,24,India,27,25,26,37,21,17,24,27,28,11,28
+Duvindu Tillakaratne,25,Sri Lanka,63,26,62,36,22,17,48,67,72,32,27
+Naveen Fernando,21,Sri Lanka,54,25,53,36,22,17,27,52,41,92,61
+David Moody,26,Australia,64,24,63,35,23,17,22,62,62,34,95
+Saransh Jain,28,India,63,27,62,34,26,17,57,62,58,85,59
+Cole Briggs,24,New Zealand,25,24,24,34,19,17,52,27,28,8,7
+Patrick Rowe,21,Australia,28,25,27,33,18,17,75,27,28,10,36
+Premraj Rajavelu,30,India,26,21,25,33,15,17,9,27,27,32,5
+Hanu Viljoen,20,South Africa,30,21,29,32,15,17,11,27,28,30,38
+Yashasvi Rishav,24,India,26,23,25,32,18,17,33,27,28,8,22
+Risith Upamal,25,Sri Lanka,27,26,24,32,21,17,82,27,28,6,14
+Sunil Yadav,30,India,52,27,51,31,28,17,64,52,36,95,64
+Harshit Rathod,23,India,69,24,69,30,18,17,75,71,62,74,84
+Joseph Lalthankhuma,21,India,33,22,32,29,18,17,37,34,31,7,48
+Shivank Vashisht,26,India,77,25,77,28,22,17,77,73,79,65,96
+Liam Norwell,30,England,50,23,49,27,21,17,59,54,47,48,41
+Kevin Perera,21,Sri Lanka,26,21,25,27,14,17,63,27,28,14,20
+Travis Ackerman,22,South Africa,34,19,34,26,16,17,14,32,36,40,25
+Matthew Bacon,28,New Zealand,71,22,71,25,21,17,44,64,66,90,96
+Sanjaya Ranaweera,35,Sri Lanka,71,19,71,25,16,17,19,65,70,89,81
+Abhimanyu Lamba,26,India,64,20,64,25,16,17,42,62,57,91,72
+Ayavuya Myoli,31,South Africa,59,23,58,25,24,17,48,58,53,38,95
+Anderson Phillip,25,West Indies,53,19,53,25,15,17,25,57,57,40,36
+Chathura Obeyesekere,23,Sri Lanka,75,18,75,24,13,17,25,71,71,84,94
+Mukesh Kumar,28,India,65,21,65,24,17,17,47,67,62,50,82
+Abdul Halim,23,Bangladesh,62,18,62,24,14,17,11,62,67,57,48
+Manogaran Pooviarasan,20,India,53,17,53,24,11,17,5,51,42,94,68
+Jake Gibson,24,New Zealand,56,22,56,23,17,17,75,58,53,44,72
+Tilanga Udeshana,23,Sri Lanka,64,17,64,22,13,17,18,57,67,65,81
+Matt Dunn,29,England,68,19,68,21,18,17,34,64,67,59,97
+Sasika Dilshan,22,Sri Lanka,66,18,66,20,17,17,20,72,68,23,75
+Ashish Rai,24,India,64,18,64,20,18,17,20,62,63,50,93
+Chad Classen,25,South Africa,61,18,61,20,17,17,26,60,45,89,96
+Ashmead Nedd,21,West Indies,60,18,60,20,15,17,22,69,54,19,91
+Hossain Ali,23,Bangladesh,74,15,74,18,11,17,6,65,72,94,96
+Mohammad Umar,22,Pakistan,65,16,65,18,13,17,16,62,60,91,69
+Nealan van Heerden,25,South Africa,59,18,59,18,16,17,36,60,52,65,77
+G Lalbiakvela,34,India,50,16,50,17,14,17,11,52,46,79,24
+Bal Krishna,23,India,69,17,69,16,12,17,54,69,72,32,91
+Kuldeep Sen,25,India,57,15,57,16,12,17,13,62,56,20,74
+Oliver Carter,20,England,26,17,26,16,11,17,60,27,28,7,30
+Vaibhav Arora,24,India,71,15,71,14,11,17,22,70,65,80,87
+Sourabh Majumdar,23,India,68,14,68,14,11,17,13,70,68,68,59
+Fazalhaq Farooqi,21,Afghanistan,63,14,63,14,11,17,18,64,57,70,77
+Mbulelo Budaza,28,South Africa,58,14,58,14,11,17,12,62,65,20,50
+Mehedi Hasan,20,Bangladesh,66,13,66,13,11,17,5,64,60,63,97
+Abrar Ahmed,23,Pakistan,63,13,63,13,11,17,5,66,63,23,94
+Mihlali Mpongwana,21,South Africa,57,13,57,13,11,17,5,63,65,32,30
+Harry Duke,20,England,25,13,25,13,11,17,5,27,28,16,15
+Jatinderpal Matharu,29,Canada,74,13,74,12,11,17,5,69,68,92,95
+Vatsal Vaghela,19,United States of America,73,13,73,12,11,17,5,74,78,44,82
+Khwezi Gumede,22,South Africa,69,13,69,12,11,17,5,68,73,72,52
+Rakshann Readdi,21,India,66,13,66,12,11,17,5,69,61,46,96
+Yuvraj Chaudhary,20,India,65,13,65,12,11,17,5,70,63,42,78
+Maaz Khan,21,Pakistan,65,13,65,12,11,17,5,64,62,67,79
+Naveen Gunawardene,23,Sri Lanka,64,13,64,12,11,17,5,68,60,88,43
+Remruatdika Ralte,23,India,61,13,61,12,11,17,5,65,56,42,79
+Lahiru Madusanka,20,Sri Lanka,60,13,60,12,11,17,5,62,42,92,95
+Mohammad Santo,23,Bangladesh,59,13,59,12,11,17,5,61,49,88,59
+Noman Chowdhury,20,Bangladesh,58,13,58,12,11,17,5,55,43,91,92
+Trishank Gupta,20,India,56,13,56,12,11,17,5,65,42,89,40
+Akhulile Mkatu,20,South Africa,27,13,27,12,11,17,5,27,28,28,17
+Savin Gunasekara,25,Sri Lanka,39,28,38,44,25,16,30,45,32,46,25
+Md Nazim,29,India,53,28,52,36,23,16,86,52,38,72,84
+Amit Majumder,31,Bangladesh,29,28,25,36,25,16,75,27,27,30,6
+Jacob Sachin,26,Sri Lanka,26,23,25,35,18,16,20,27,28,11,18
+Vijay Rao,25,India,28,25,27,33,20,16,67,27,28,25,22
+Sufiyan Alam,26,India,25,22,24,32,18,16,20,27,28,13,9
+Chamal Perera,29,Sri Lanka,25,21,24,32,17,16,20,27,27,13,8
+Shanuka Madushan,24,Sri Lanka,58,21,58,31,15,16,37,58,61,61,45
+Ravi Kiran,31,India,68,19,68,30,13,16,18,66,62,79,93
+Samar Quadri,32,India,64,23,64,30,22,16,38,66,57,80,63
+Myendung Singpho,25,India,60,20,60,29,16,16,17,61,60,27,85
+Dhruv Parashar,24,India,25,19,24,29,14,16,14,27,28,3,13
+Sankalpa Waduge,24,Sri Lanka,62,22,62,28,16,16,66,57,61,57,89
+Jan Coetzer,19,South Africa,51,18,51,27,12,16,9,48,40,89,66
+Mohammad Ibrahim,19,Pakistan,68,18,68,26,12,16,11,71,71,17,95
+Akash Madhwal,28,India,66,19,66,26,15,16,28,65,61,61,91
+Abdul Nasir,23,Pakistan,60,20,60,26,12,16,63,68,54,16,97
+Akash Sengupta,21,India,51,18,51,26,13,16,11,51,41,54,84
+Nilanka Premaratne,33,Sri Lanka,54,24,53,25,22,16,78,59,43,61,63
+Athar Mahmood,22,Pakistan,52,18,52,25,13,16,11,51,54,22,82
+Rakibul Islam,24,Bangladesh,27,19,26,25,14,16,37,27,28,27,15
+Lee Yong Lepcha,30,India,39,19,39,24,13,16,38,39,34,83,17
+Shekhar Kumar Singh,22,India,26,16,26,24,10,16,5,27,28,13,28
+Vijai Raja,23,India,56,16,56,23,10,16,5,55,41,83,97
+Kavindu Ranasinghe,21,Sri Lanka,50,16,50,23,10,16,5,61,41,61,33
+Logesh Prabagaran,22,India,43,16,43,23,10,16,5,50,40,28,38
+Nitesh Hooda,22,India,55,15,55,22,10,16,5,61,40,67,79
+Janindu Inuwara,22,Sri Lanka,34,16,34,22,11,16,7,35,32,19,48
+Kavindana Perera,21,Sri Lanka,26,18,26,22,10,16,60,27,28,11,33
+Hershell America,28,South Africa,75,18,75,19,16,16,37,69,73,82,97
+Tanaka Chivanga,28,Zimbabwe,62,18,62,18,17,16,37,58,57,95,69
+Kadeem Alleyne,21,West Indies,49,17,49,18,10,16,60,46,60,10,52
+Xavier A Crone,24,Australia,54,14,54,17,11,16,8,54,40,74,93
+Veer Pratap Singh,29,India,65,14,65,16,11,16,15,63,58,85,85
+Rahul Batham,23,India,71,13,71,15,10,16,5,71,70,52,97
+Arish Ali Khan,21,Pakistan,63,13,63,15,10,16,5,65,74,25,45
+Chengkam Sangma,27,India,58,15,58,15,12,16,25,63,53,67,47
+KM Asif,28,India,69,15,69,14,13,16,19,65,65,85,87
+MB Darshan,26,India,62,13,62,14,10,16,5,64,68,36,57
+Dylan Hondo,26,Zimbabwe,62,13,62,14,10,16,5,62,62,88,34
+Abhijeet Saket,26,India,66,13,66,13,10,16,13,65,66,87,47
+Babashafi Pathan,27,India,65,13,65,13,10,16,5,65,58,70,91
+Sintu Majeza,22,South Africa,63,14,63,13,10,16,30,62,54,89,74
+Shubham Kumar Singh,23,India,62,15,62,13,10,16,55,61,68,19,87
+Sijomon Joseph,24,India,54,13,54,13,10,16,5,59,40,91,56
+Rishiv Joshi,21,Canada,71,12,71,12,10,16,5,75,68,91,47
+Dilshan Madushanka,21,Sri Lanka,67,12,67,12,10,16,5,65,68,89,45
+Parth Bhut,24,India,66,15,66,12,10,16,60,66,56,91,84
+Todd Murphy,21,Australia,60,12,60,12,10,16,5,62,46,79,91
+Venura Gayashan,23,Sri Lanka,56,12,56,12,10,16,5,58,54,32,78
+Mohit Jain,22,India,55,12,55,11,10,16,5,45,81,22,23
+Henry Thornton,25,Australia,71,13,71,11,10,16,20,65,68,92,84
+Ihsanullah,19,Pakistan,69,12,69,11,10,16,5,69,63,80,82
+Kanagarathinam Kabilraj,22,Sri Lanka,69,12,69,11,10,16,5,65,61,93,95
+Chamindu Wijesinghe,21,Sri Lanka,68,12,68,11,10,16,5,69,61,74,84
+Danal Hemananda,18,Sri Lanka,68,12,68,11,10,16,5,69,76,63,34
+Amit Kuila,26,India,67,12,67,11,10,16,5,59,63,88,94
+Prashant Solanki,21,India,66,12,66,11,10,16,5,69,61,59,82
+Rakibul Atik,22,Bangladesh,66,12,66,11,10,16,5,68,67,20,97
+Matheesha Pathirana,19,Sri Lanka,66,12,66,11,10,16,5,66,72,34,78
+Akash Singh,19,India,65,12,65,11,10,16,5,62,56,79,97
+James Logan,24,England,64,12,64,11,10,16,5,74,72,20,31
+Junaid Dawood,25,South Africa,64,12,64,11,10,16,5,69,68,23,68
+Zeeshan Zameer,19,Pakistan,63,12,63,11,10,16,5,70,68,17,57
+Ahitesh Varma,22,India,63,12,63,11,10,16,5,62,53,72,97
+Saruk Hossain,21,India,62,12,62,11,10,16,5,68,53,88,52
+Rony Chowdhury,26,Bangladesh,62,12,62,11,10,16,5,66,68,36,43
+Priviledge Chesa,21,Zimbabwe,62,12,62,11,10,16,5,56,53,91,88
+Khanya Dilima,22,South Africa,60,12,60,11,10,16,5,52,60,54,96
+Himan Phukan,24,India,59,12,59,11,10,16,5,69,53,52,52
+Tumelo Simelane,26,South Africa,57,12,57,11,10,16,5,62,58,40,47
+Josh Kann,22,Australia,55,12,55,11,10,16,5,48,52,59,95
+Nqabayomzi Peter,19,South Africa,53,12,53,11,10,16,5,57,47,57,56
+Rinsangzela Hmamte,19,India,51,12,51,11,10,16,5,62,40,70,36
+Jakob Bhula,22,New Zealand,50,12,50,11,10,16,5,57,40,25,84
+Yves Kamanzi,22,South Africa,50,12,50,11,10,16,5,57,40,46,68
+Atwell Mokgoloboto,21,South Africa,50,12,50,11,10,16,5,56,41,32,83
+Suresh Vishweshwar,24,India,50,12,50,11,10,16,5,55,40,25,93
+Elligaram Sanketh,22,India,49,12,49,11,10,16,5,57,40,59,43
+Aveesha Keshan,21,Sri Lanka,47,12,47,11,10,16,5,46,41,27,90
+Morgan Topping,22,Ireland,28,12,28,11,10,16,5,27,28,30,31
+Charuka Tharindu,21,Sri Lanka,26,12,26,11,10,16,5,27,28,13,27
+Risira Weerasuriya,21,Sri Lanka,25,12,25,11,10,16,5,27,28,28,6
+Tom Cullen,30,England,27,26,24,36,20,15,78,27,27,17,8
+Kumar Rajnish,28,India,27,20,26,31,15,15,14,27,27,10,34
+Yab Niya,27,India,56,18,56,30,12,15,11,53,45,83,83
+Chathuranga Jayathilake,30,Sri Lanka,25,19,24,28,15,15,20,27,27,22,5
+Indiya Toku,27,India,25,16,25,24,10,15,6,27,27,23,12
+Shashi Anand,24,India,43,15,43,23,9,15,5,43,40,32,69
+Tahjibul Islam,17,Bangladesh,26,18,26,23,12,15,48,27,28,22,13
+Sanatombaroy Laiphangbam,24,India,23,15,23,23,9,15,5,27,28,5,7
+Ali Majid,30,Pakistan,55,19,55,22,20,15,27,61,43,59,75
+Rahmat Ali,24,Bangladesh,26,15,26,22,9,15,5,27,28,8,33
+Amir Sohil Bux,26,South Africa,26,15,26,22,9,15,5,27,28,6,38
+Nzanthung Mozhui,26,India,25,15,25,22,9,15,5,27,28,15,10
+Tana Tatar,26,India,23,18,23,22,9,15,60,27,28,8,6
+Charith Rajapakshe,29,Sri Lanka,61,17,61,21,13,15,33,60,53,63,91
+Iresh Chamara,27,Sri Lanka,43,17,43,21,9,15,60,54,38,30,33
+Shamsul Islam,27,Bangladesh,26,15,26,21,9,15,5,27,27,22,20
+Sharafuddeen,27,India,55,17,55,20,15,15,15,55,46,52,95
+Cecil Pervez,37,Canada,63,17,63,17,16,15,31,64,60,94,38
+Jayanta Behera,35,India,74,14,74,15,11,15,16,70,67,95,92
+Elliot Hooper,25,England,75,12,75,13,9,15,5,71,71,91,94
+Salman Nazar,30,Canada,69,13,69,12,9,15,25,72,70,23,97
+Liam Hurt,27,England,58,14,58,12,9,15,50,59,60,19,85
+Pradeep Dadhe,27,India,67,12,67,11,9,15,13,63,60,82,96
+Mickey Edwards,27,Australia,63,14,63,11,9,15,60,58,53,89,97
+Agrim Tiwari,25,India,63,12,63,11,9,15,5,66,68,36,59
+Kyle Hodsoll,33,Bermuda,61,14,61,11,9,15,45,66,56,79,45
+Akif Raja,29,United Arab Emirates,59,12,59,11,9,15,5,65,66,34,33
+Raghu Sharma,28,India,58,13,58,11,9,15,30,63,57,38,64
+Conor Olphert,25,Ireland,74,11,74,10,9,15,5,69,73,77,93
+Mohit Avasthi,29,India,71,11,71,10,9,15,5,68,70,91,68
+Kaleem Sana,28,Canada,68,11,68,10,9,15,5,69,60,65,96
+Charlton Tshuma,28,Zimbabwe,64,11,64,10,9,15,5,65,67,22,90
+Sooraj Rai,25,India,63,11,63,10,9,15,5,69,58,34,84
+Malay Raj,18,India,63,11,63,10,9,15,5,62,70,77,28
+Harsh Dubey,19,India,62,11,62,10,9,15,5,74,66,16,41
+Abdul Ela Al Quraishi,24,India,62,11,62,10,9,15,5,65,58,94,38
+Arpit Pannu,25,India,62,11,62,10,9,15,5,62,50,89,84
+Ananta Saha,25,India,61,11,61,10,9,15,5,66,47,74,81
+Abdul Gaffar,28,Bangladesh,54,11,54,10,9,15,5,57,45,68,63
+Sheikh Jubayer Hassan,19,Bangladesh,54,11,54,10,9,15,5,57,40,50,97
+Greg Ford,29,Ireland,53,11,53,10,9,15,5,41,81,13,28
+B Shiva,25,India,51,11,51,10,9,15,5,54,38,91,52
+Trinson Carmichael,29,United States of America,49,11,49,10,9,15,5,59,40,32,61
+Prateek Jain,27,India,48,11,48,10,9,15,5,55,42,63,31
+Irfan-ul-Haq,25,India,48,11,48,10,9,15,5,42,38,93,63
+B Lalnunfela,19,India,46,11,46,10,9,15,5,62,40,14,38
+Stefan Tait,25,South Africa,41,11,41,10,9,15,5,50,38,17,38
+Sunil Salam,25,India,37,11,37,10,9,15,5,42,38,19,34
+Deepesh Nainwal,24,India,26,11,26,10,9,15,5,27,28,22,21
+Shreyas Movva,28,Canada,24,11,24,10,9,15,5,27,28,5,16
+Daniel Smith,19,South Africa,24,11,24,10,9,15,5,27,28,11,6
+Dilum Fernando,27,Sri Lanka,73,11,73,9,9,15,5,70,70,74,95
+Siddhesh Neral,27,India,65,11,65,9,9,15,5,72,65,27,75
+Ronan McDonald,29,Australia,62,11,62,9,9,15,5,59,67,83,31
+Anunay Singh,29,India,61,11,61,9,9,15,5,57,58,90,56
+Clive Chitumba,27,Zimbabwe,60,11,60,9,9,15,5,64,62,65,33
+Chongtham Mehul,33,India,45,16,45,24,11,14,11,41,36,63,83
+Wasantha Warnapura,40,Sri Lanka,62,16,62,20,8,14,45,58,58,91,64
+Nalin Priyadarshana,31,Sri Lanka,64,15,64,18,12,14,22,69,66,22,77
+Romesh Krishantha,31,Sri Lanka,47,15,47,18,14,14,16,46,50,63,18
+Bobby Zothansanga,35,India,59,13,59,14,10,14,13,62,56,91,30
+Kengo Bam,33,India,48,13,48,13,11,14,20,49,45,22,78
+Daniel Jakiel,31,Zimbabwe,63,12,63,12,9,14,11,57,54,94,89
+Shresth Nirmohi,30,India,56,13,56,12,10,14,23,62,56,20,64
+Krishan Alang,30,India,68,10,68,9,8,14,5,65,62,84,84
+Salman Mirza,28,Pakistan,66,11,66,9,9,14,5,57,60,95,97
+Imran Ali,28,Bangladesh,62,11,62,9,9,14,5,55,53,94,95
+Salauddin Sakil,32,Bangladesh,60,12,60,9,8,14,38,63,63,28,66
+Parmesh Vaidik,33,India,55,10,55,9,8,14,5,57,56,30,69
+Jack Leach,30,England,70,10,70,8,8,14,5,66,72,68,84
+Raihan Uddin,30,Bangladesh,69,10,69,8,8,14,5,64,60,96,93
+Sujit Yadav,30,India,50,10,50,8,8,14,5,59,36,30,94
+Andrew Vanlalhruaia,35,India,41,10,41,8,8,14,5,41,38,61,28
+Priyantha Rathnayake,32,Sri Lanka,27,16,27,20,8,13,60,27,27,34,21

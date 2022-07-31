@@ -1,0 +1,347 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="generator" content="CoffeeCup HTML Editor (www.coffeecup.com)">
+    <meta name="dcterms.created" content="Mon, 06 Jul 2020 19:33:26 GMT">
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+  
+    <title></title>
+    
+    <style type="text/css">
+ body{
+     background-color:gray;
+ }
+ #auctionContainer{
+   display:grid;
+     grid-template-areas:
+  "userTeam currentPlayerStats playersList"
+    "userTeam currentPlayerAuction playersList";
+    grid-template-columns: 400px 650px; auto;
+ }
+button:active {
+  border-style: outset;
+}
+#teamRosterContainer{
+  grid-area: userTeam;
+    margin-left:30px;
+    max-width 220px;
+    margin-right:10px;
+    margin-right:30px;
+}
+#teamRoster{   
+
+    max-height:400px;
+      visibility: visible;
+        
+         overflow: auto;}
+ #playersList{
+   grid-area:playersList;
+   
+   
+ }
+ #playersSold{
+   max-height:0px;
+   overflow: auto;
+
+    visibility: hidden;
+ }
+ #playersUpNextButton{
+     border-style: 3px solid black;
+       font-size:20px;
+   background-color:black;
+   outline: none;
+   color:white;
+ }
+ #playersSoldButton{
+   border-style: 3px solid black;
+       font-size:20px;
+   background-color:white;
+ outline: none;
+    color:black;
+    }
+  .playerListToggle{
+    font-size:20px;
+    margin-bottom:10px;
+  }
+ #playerAuctionStuff{
+   grid-area:currentPlayerAuction;
+   display:grid;
+        grid-template-areas:
+  "bid button1 teamsLeft"
+    "bid button2 teamsLeft";
+ 
+ }
+ #upNextPlayersList{
+   
+max-height:400px;
+      visibility: visible;
+
+         overflow: auto;
+ }
+ #currentPlayer{
+   grid-area:currentPlayerStats;
+ }
+ #playerName{
+   font-size:35px;
+   text-align:center;
+   margin-bottom:2%;
+ }
+ #playerAgeAndOverallContainer{
+   display:flex;
+ }
+ #playerOverall{
+   width:50%;
+   text-align:center;
+   font-size:30px;
+ }
+ #playerAge{
+      width:50%;
+   text-align:center;
+   font-size:30px;
+ }
+ #battingBowlingRatings{
+      display:flex;
+ }
+ #playerBowlingRatings{
+   width:50%;
+ margin-left:13%;
+ }
+  #playerBattingRatings{
+   width:50%;
+ margin-left:13%;
+ }
+ #playerBattingOverall{
+   font-size:20px;
+
+ }
+ #playerBowlingOverall{
+   font-size:20px;
+ }
+ #playerBid{
+   background-color:red;
+      color:white;
+   width:160px;
+   height:160px;
+     padding: 20px;
+     border-radius: 25px;
+  border: 4px solid black;
+
+ }
+ #bidTitle{
+   margin-top:20px;
+   text-align:center;
+   font-size:30px;
+ }
+ #bidPrice{
+   font-size:60px;
+   text-align:center;
+   grid-area:bid;
+ }
+ #buttonHolder{
+   margin-left:10%;
+   display:block;
+ }
+ #bid{
+   background-color:green;
+      width:150px;
+color:white;
+      outline:none;
+grid-area:button1;
+   height:80px;
+   margin-bottom:40px;
+   	text-align: center;
+	text-decoration: none;
+	font-weight: bold;
+	font-size: 16px;
+ }
+ #dropBid{
+      background-color:blue;
+      width:160px;
+      outline:none;
+color:white;
+grid-area:button2;
+   height:80px;
+   	text-align: center;
+	text-decoration: none;
+	font-weight: bold;
+	font-size: 16px;
+ }
+ button:hover{
+   opacity: 70%;
+   border: 2px solid black;
+ }
+ #teamsLeftList{
+   grid-area:teamsLeft;
+      background-color: salmon;
+      color:black;
+   width:160px;
+ height:200px;
+     border-radius: 25px;
+  border: 4px solid black;
+  text-align:center;
+  font-size:40px;
+  padding: 20px;
+ }
+ #teamsLeft{
+   font-size:15px;
+ }
+ #teamsLeftTitle{
+   font-size:25px;
+ }
+ #buttonContainer{
+   margin-left:400px;
+ }
+ .simButton{
+     outline:none;	
+   margin-left:6%;
+   border-radius: 5px;
+  color:black;
+	padding: 13px 13px;
+  margin-bottom: .5%;
+	text-align: center;
+	text-decoration: none;
+	font-weight: bold;
+	font-size: 20px;
+background-color:#FDFD96; 
+ }
+ .simButton:hover{
+   background-color:#22fd96;
+ }
+ #goToSeason{
+        outline:none;	
+margin-left:575px;
+   border-radius: 5px;
+  color:black;
+	padding: 13px 13px;
+  margin-bottom: .5%;
+  margin-top:2%;
+	text-align: center;
+	text-decoration: none;
+	font-weight: bold;
+	font-size: 25px;
+background-color:orange; 
+ }
+
+ #userTeamMoneySpent{
+   margin-left: 570px;
+   font-size:30px;
+   color:cyan;
+   margin-bottom:3px;
+ }
+ #teamRosterSelected{
+   text-align:center;
+   font-size:40px;
+   text-align-last:center;
+   width: 80%;
+   outline:hidden;
+ }
+ #teamRosterSelected:focus { outline:0 !important; }
+ #teamRosterSelected:hover{
+   border: 3px solid white;
+ }
+ .teamSelectionOption{
+      text-align:center;
+   font-size:40px;
+   outline:hidden;
+ }
+ #teamMoneySpent{
+   font-weight: bold;
+   font-size:26px;
+ }
+#title{
+  text-align:center;
+  font-style:italic;
+  font-size:60px;
+  background-color:gray;
+}
+    </style>
+    <!--[if IE]>
+    <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  </head>
+ 
+<body>
+
+<div id="userTeamMoneySpent"> </div>
+<div id="auctionContainer">
+<div id="teamRosterContainer">
+<div id="teamRosterTitle">
+</div>
+<div id="teamMoneySpent">
+</div>
+<div id="teamRoster">
+</div>
+</div>
+<div id="playersList">
+<div class="playerListToggle" > <button id="playersUpNextButton" onClick = "playerListToggle(0)"> Players up next </button><button id="playersSoldButton" onClick = "playerListToggle(1)"> Players sold </button></div>
+<div id="playersSold">
+</div>
+<div id="upNextPlayersList"> </div>
+</div>
+<div id="currentPlayer">
+<div id="playerName"></div>
+<div id="playerAgeAndOverallContainer">
+<div id="playerOverall"></div>
+<div id="playerAge"> </div> </div>
+<div id="battingBowlingRatings">
+<div id ="playerBowlingRatings">
+<div id="playerBowlingOverall"> </div>
+<div id="playerEconomy"> </div>
+<div id="playerWicketTaking"> </div>
+<div id="playerClutch"> </div>
+<div id="playerAccuracy"> </div>
+</div>
+<div id="playerBattingRatings">
+<div id="playerBattingOverall"> </div>
+<div id="playerBattingIQ"> </div>
+<div id="playerTiming"> </div>
+<div id="playerPower"> </div>
+<div id="playerRunning"> </div>
+</div>
+</div>
+</div>
+<div id="playerAuctionStuff">
+<div id="playerBid"><div id="bidTitle">Bid (Crores) </div> <div id="bidPrice"> </div></div>
+<div id="buttonHolder">
+<div>
+<button onClick="auction.userBid()" id="bid"> bid </button>
+</div>
+<div>
+<button onClick="auction.dropUserBid()" id="dropBid"> drop bid </button>
+</div>
+</div>
+<div id="teamsLeftList">
+<div id="teamsLeftTitle">Teams Left </div>
+<div id="teamsLeft">
+
+</div>
+</div>
+</div>
+
+
+</div>
+
+<div id="buttonContainer">
+<button  id="autoPlayer" onClick="auction.simPlayerAuction()" class="simButton"> Sim Player </button>
+<button onClick="nextPlayer()" class="simButton"> Next Player </button>
+<button  id="autoAuction" onClick="auction.setUpForNextSeason()" class="simButton"> Sim Auction </button>
+</div>
+<button id="goToSeason" onClick="auction.setUpForNextSeason()"> Move on from Auction </button>
+
+</body>
+ <script type="text/javascript" src="auctionButtonFunctions.js"> </script>
+  <script type="text/javascript" src="AuctionClass.js"> </script>
+   <script type="text/javascript" src="GameClass.js"> </script>
+    <script type="text/javascript" src="ScheduleClass.js"> </script>
+  <script type="text/javascript" src="NormalDist.js"></script>
+ <script type="text/javascript" src="PlayerClass.js"></script>
+  <script type="text/javascript" src="TeamClass.js"></script>
+  <script type="text/javascript" src="names.js"> </script>
+  <script type="text/javascript" src="createPlayer.js"> </script>
+  <script type="text/javascript" src="playerRatings.js"> </script>
+  <script type="text/javascript" src="cricketPlayerList.js"> </script>
+  <script type="text/javascript" src="cricketPlayerList2022.js"> </script>
+   <script type="text/javascript" src="auction.js"> </script>
+</html>

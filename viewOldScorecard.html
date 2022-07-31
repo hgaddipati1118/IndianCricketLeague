@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="generator" content="CoffeeCup HTML Editor (www.coffeecup.com)">
+    <meta name="dcterms.created" content="Mon, 06 Jul 2020 19:33:26 GMT">
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+  <script type="text/javascript" src="d3.min.js"></script>
+
+    <title></title>
+    
+       
+      <style type="text/css">
+    .slider {
+  -webkit-appearance: none;
+  margin-left:25%;
+  width: 70%;
+  margin-bottom:2%;
+  height: 15px;
+  border-radius: 5px;  
+  background: #d3d3d3;
+  outline: none;
+  opacity: 0.7;
+  -webkit-transition: .2s;
+  transition: opacity .2s;
+}
+
+.slider::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 25px;
+  height: 25px;
+  border-radius: 50%; 
+  background: #4CAF50;
+  cursor: pointer;
+}
+
+.slider::-moz-range-thumb {
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  background: #4CAF50;
+  cursor: pointer;
+}
+ body{
+     background-color:cyan;
+ }
+ #playbyplay{
+   max-width:auto;
+   max-height:auto;
+   overflow-y:auto;
+ }
+ #gameContainer{
+   display:flex;
+ }
+ #matchScore{
+   margin-left:30%;
+     margin-right:30%;
+   display:grid;
+   grid-template-areas: "team1Name break team2Name"
+                        "team1Score break team2Score";
+  grid-template-columns:auto 10% auto;
+  margin-bottom:3%;
+ }
+ #team1Name{
+   grid-area:team1Name;
+   font-size:30px;
+   font-weight:bold;
+   text-align:center;
+ 
+ }
+
+ #team2Name{
+   grid-area:team2Name;
+   font-size:30px;
+   font-weight:bold;
+   text-align:center;
+  
+ }
+ .viewTeamStats{
+      font-size:30px;
+   font-weight:bold;
+   text-align:center;
+ }
+ #team1Score{
+   grid-Area:team1Score;
+         font-size:45px;
+   font-weight:bold;
+   text-align:center;
+ }
+ #team2Score{
+   grid-area:team2Score;
+         font-size:45px;
+   font-weight:bold;
+   text-align:center;
+ }
+ #scorecard{
+   width:auto;
+ }
+       table {
+        border: 1px solid black;
+        border-collapse: collapse;
+        margin-bottom: 40px;
+        margin-left:140px;
+      }
+      th{
+      font-size:26px;
+      padding:0 5px 0 5px;
+              border: 1px solid black;
+        border-collapse: collapse;
+      }
+       td {
+         text-align:center;
+        border: 1px solid black;
+        border-collapse: collapse;
+        font-size:26px;
+        padding:0 5px 0 5px;
+      }
+      #playbyplay{
+        width:400px;
+        padding:40px;
+        margin-left:160px;
+        height:100vh;
+      }
+      .border{
+                      border: 1px solid black;
+        border-collapse: collapse;
+      }
+      .scorecardTitle{
+        text-align:center;
+        font-size:30px;
+        margin-left:50px;
+        font-weight:bold;
+        margin-bottom:10px;
+      }
+      #playsTitle{
+               text-align:center;
+        font-size:30px;
+        margin-left:50px;
+        font-weight:bold;
+        margin-bottom:10px;
+      }
+      #start{
+
+      }
+.play{
+  color:green;
+  background-color:cyan;
+  border: cyan;
+      outline:none;
+}
+#button{
+    grid-column-start: 1; 
+  grid-column-end: 4; 
+  grid-row-start: 1; 
+  grid-row-end: 3; 
+  margin-left: 230px;
+  margin-top:12px;
+      outline:none;
+}
+button{
+  background:cyan;
+  border: cyan;
+  outline:none;
+       font-size:24px;
+   padding:0;
+   font-family:inherit;
+
+}
+button:hover{
+   text-decoration: underline;
+}
+.viewTeamStats:hover{
+   text-decoration: underline;
+}
+#scheduleButton{
+  width:100%;
+  background-color:gray;
+  text-align:center;
+}
+a{
+    color:black;
+    font-size:20px;
+    text-align:center;
+}
+#title{
+  width:100%;
+  text-align:center;
+  font-size: 40px;
+  font-weight:900;
+  margin-top: 0.25%;
+  margin-bottom:2%;
+}
+  #venueBoost{
+        text-align:center;
+     font-size:30px;
+          padding-top:8px;
+     padding-bottom:8px;
+ }
+ #title{
+  text-align:center;
+  font-style:italic;
+  font-size:60px;
+  background-color:gray;
+}
+    </style>
+    <!--[if IE]>
+    <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+  </head>
+ 
+<body>
+
+<a href="season.html"> Go Back to Schedule </a>
+<div id="test"> </div>
+
+<div id="matchScore" class="border">
+<div id="team1Score"> </div>
+<div id="team1Name"> </div>
+<div id="team2Score"> </div>
+<div id="team2Name"> </div>
+</div>
+<div id = "gameContainer">
+<div id = "scorecard">
+<div class = "scorecardTitle" id="batting1ScorecardTitle"> </div>
+<div id ="batting1scorecard"> </div>
+<div class = "scorecardTitle" id="bowling1ScorecardTitle"> </div>
+<div id ="bowling1scorecard"> </div>
+<div class = "scorecardTitle" id="batting2ScorecardTitle"> </div>
+<div id ="batting2scorecard"> </div>
+<div class = "scorecardTitle" id="bowling2ScorecardTitle"> </div>
+<div id ="bowling2scorecard"> </div>
+</div>
+
+</body>
+   <script type="text/javascript" src="AuctionClass.js"> </script>
+   <script type="text/javascript" src="GameClass.js"> </script>
+    <script type="text/javascript" src="ScheduleClass.js"> </script>
+  <script type="text/javascript" src="NormalDist.js"></script>
+ <script type="text/javascript" src="PlayerClass.js"></script>
+  <script type="text/javascript" src="TeamClass.js"></script>
+  <script type="text/javascript" src="names.js"> </script>
+  <script type="text/javascript" src="createPlayer.js"> </script>
+ <script type="text/javascript" src="viewOldScorecard.js"></script>
+</html>

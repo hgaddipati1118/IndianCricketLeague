@@ -1,0 +1,2444 @@
+name,age,country,intMatches,matches,batInns,notOuts,runs,ballsFaced,foursScored,sixesScored,catches&stumpings,bowlInns,ballsBowled,runsConceded,wickets
+Aarif Sheikh,24,Nepal,19,20,15,2,283,266,25,4,7,3,24,21,2
+Aasif Sheikh,21,Nepal,10,10,10,1,229,179,21,12,11,0,0,0,0
+Dipendra Singh Airee,22,Nepal,31,31,27,5,713,557,58,21,14,9,132,128,8
+Kamal Airee,21,Nepal,6,6,2,0,14,13,1,1,0,6,133,146,10
+Binod Bhandari,32,Nepal,35,48,39,9,478,422,33,22,22,0,0,0,0
+Sushan Bhari,26,Nepal,9,9,5,3,1,7,0,0,0,9,168,211,8
+Kushal Bhurtel,25,Nepal,8,8,8,2,402,278,39,18,8,0,0,0,0
+Abinash Bohara,24,Nepal,28,28,8,4,20,23,1,1,6,27,554,620,29
+Karan KC,30,Nepal,33,35,21,6,228,150,9,20,10,35,690,868,44
+Kushal Malla,17,Nepal,12,12,10,3,170,116,13,12,4,8,114,114,4
+Sandeep Lamichhane,21,Nepal,31,120,34,19,104,118,4,2,17,119,2641,3038,160
+Gyanendra Malla,31,Nepal,37,60,54,4,1112,987,93,40,29,1,1,4,0
+Sompal Kami,26,Nepal,33,38,23,9,225,196,17,8,11,37,696,787,35
+Sean Abbott,29,Australia,7,108,65,17,564,510,33,22,65,106,2039,2886,134
+Ashton Agar,28,Australia,42,126,93,26,1141,987,78,44,66,118,2358,2806,108
+Wes Agar,25,Australia,0,39,13,7,46,47,3,0,3,39,799,1163,49
+Justin Avendano,28,Australia,0,19,17,0,251,223,17,14,0,0,0,0,0
+Cameron Bancroft,29,Australia,1,79,72,15,1692,1395,125,37,39,0,0,0,0
+Xavier Bartlett,23,Australia,0,23,11,6,154,124,16,3,7,22,409,567,23
+James Bazley,26,Australia,0,20,19,6,216,164,15,10,5,18,317,434,15
+Jason Behrendorff,31,Australia,9,94,21,12,97,95,7,1,35,92,1956,2380,106
+Nicholas Bertus,28,Australia,0,2,2,0,19,22,0,0,0,0,0,0,0
+Jackson Bird,35,Australia,0,78,22,13,76,92,2,1,33,77,1527,1932,65
+Scott Boland,32,Australia,3,62,23,16,71,81,7,0,8,62,1369,1902,75
+Cameron Boyce,32,Australia,7,88,40,14,277,231,17,16,13,87,1828,2302,97
+Max Bryant,22,Australia,0,48,48,2,1012,763,116,33,23,0,0,0,0
+Joe Burns,32,Australia,0,86,81,13,1594,1339,110,59,31,8,54,71,3
+Jake Carder,26,Australia,0,1,1,0,10,13,0,0,0,0,0,0,0
+Alex Carey,30,Australia,38,103,89,10,2229,1749,211,62,89,0,0,0,0
+Hilton Cartwright,30,Australia,0,78,70,18,1490,1198,111,59,33,12,104,208,4
+Dan Christian,38,Australia,23,380,327,88,5540,3990,364,276,171,333,5607,7864,272
+Jack Clayton,22,Australia,0,2,2,0,21,23,4,0,0,0,0,0,0
+Harry Conway,29,Australia,0,18,3,1,8,10,0,0,1,18,386,525,16
+Brody Couch,22,Australia,0,14,5,2,12,20,1,0,2,14,258,353,16
+Nathan Coulter-Nile,34,Australia,28,145,79,29,668,504,47,40,46,142,3087,3981,170
+Xavier A Crone,24,Australia,0,2,1,0,1,4,0,0,0,2,18,29,0
+Pat Cummins,28,Australia,39,112,60,26,582,435,33,33,27,112,2503,3255,125
+Ben Cutting,35,Australia,7,194,163,43,2718,1838,177,171,90,167,2818,4239,130
+Oliver Davies,21,Australia,0,15,13,2,158,107,6,12,7,0,0,0,0
+Travis Dean,30,Australia,0,3,3,0,50,44,4,0,0,0,0,0,0
+Brendan Doggett,27,Australia,0,29,9,4,31,32,3,0,8,29,544,761,29
+Daniel Drew,25,Australia,0,3,3,1,45,38,4,0,0,0,0,0,0
+Ben Dwarshuis,27,Australia,0,96,48,24,420,329,30,15,23,94,2002,2760,117
+Jack Edwards,21,Australia,0,29,24,0,357,343,35,2,15,0,0,0,0
+Mickey Edwards,27,Australia,0,3,1,1,0,0,0,0,3,3,54,84,2
+Nathan Ellis,27,Australia,2,44,26,9,173,147,11,6,19,44,962,1293,50
+Zak Evans,21,Australia,0,10,3,1,8,9,0,1,7,10,168,281,13
+Fawad Ahmed,40,Australia,2,163,34,19,86,114,6,3,21,159,3524,4119,166
+Aaron Finch,35,Australia,87,346,340,33,10436,7455,998,423,147,28,239,369,7
+Jake Fraser-McGurk,19,Australia,0,19,18,3,239,225,13,7,11,1,6,10,0
+Ryan Gibson,28,Australia,0,25,21,6,239,221,19,4,11,1,6,10,0
+Matthew Gilkes,22,Australia,0,26,23,1,439,365,40,14,8,0,0,0,0
+David Grant,24,Australia,0,2,1,1,1,1,0,0,0,2,48,48,3
+Chris Green,28,Australia,0,137,85,29,822,636,58,25,78,136,2632,3078,108
+Liam Guthrie,24,Australia,0,6,3,1,17,12,2,1,3,6,132,204,6
+Peter Handscomb,30,Australia,2,111,98,23,1732,1462,127,39,66,0,0,0,0
+Aaron Hardie,23,Australia,0,28,18,4,246,191,11,11,14,21,324,475,15
+Sam Harper,25,Australia,0,61,59,5,1179,896,107,37,45,0,0,0,0
+Mackenzie Harvey,21,Australia,0,35,32,4,591,497,51,17,21,0,0,0,0
+Peter Hatzoglou,23,Australia,0,28,7,3,18,28,1,0,4,27,595,768,32
+Josh Hazlewood,31,Australia,27,67,12,8,44,39,5,1,9,67,1521,1873,86
+Travis Head,28,Australia,16,96,92,13,2225,1681,156,94,32,43,433,610,22
+Clint Hinchliffe,25,Australia,0,23,14,4,89,107,4,1,7,22,294,411,15
+Nick Hobson,27,Australia,0,7,6,1,136,119,11,3,4,0,0,0,0
+Baxter Holt,22,Australia,0,9,7,1,84,88,5,3,10,0,0,0,0
+Daniel Hughes,33,Australia,0,94,89,13,2076,1717,189,50,28,0,0,0,0
+Henry Hunt,25,Australia,0,6,6,0,102,92,8,3,2,0,0,0,0
+Josh Inglis,26,Australia,4,75,70,9,1914,1280,202,62,60,0,0,0,0
+Caleb Jewell,24,Australia,0,32,30,1,570,476,62,9,12,0,0,0,0
+Josh Kann,22,Australia,0,3,0,0,0,0,0,0,0,3,30,76,1
+Matthew Kelly,27,Australia,0,27,10,4,63,50,4,3,8,27,584,787,41
+Thomas Kelly,21,Australia,0,15,12,2,214,165,14,6,5,0,0,0,0
+Hayden Kerr,25,Australia,0,22,13,5,177,135,13,5,7,18,318,394,25
+Usman Khawaja,35,Australia,9,107,106,8,2978,2299,362,46,24,0,0,0,0
+Matthew Kuhnemann,25,Australia,0,18,7,4,22,22,3,0,6,16,276,354,11
+Marnus Labuschagne,27,Australia,0,25,24,2,666,523,52,16,13,21,294,443,21
+Josh Lalor,34,Australia,0,65,32,14,140,161,10,2,20,65,1318,1846,66
+Nick Larkin,31,Australia,0,43,38,11,835,684,86,15,17,0,0,0,0
+Jake Lehmann,29,Australia,0,33,28,4,341,312,34,3,15,4,24,42,1
+Jay Lenton,31,Australia,0,22,13,7,141,105,9,6,17,0,0,0,0
+Chris Lynn,31,Australia,18,230,223,22,6140,4318,518,341,66,7,78,93,3
+Nathan Lyon,34,Australia,2,50,18,7,60,64,4,0,15,48,1000,1219,57
+Nic Maddinson,30,Australia,6,132,123,11,2321,1873,213,95,53,19,198,241,13
+Benjamin Manenti,24,Australia,0,22,6,4,25,32,0,1,5,20,378,441,16
+Mitchell Marsh,30,Australia,36,137,128,33,3241,2510,225,140,56,89,1254,1733,66
+Shaun Marsh,38,Australia,15,204,201,24,6638,5176,636,210,66,2,12,13,0
+Glenn Maxwell,33,Australia,83,345,324,47,7828,5175,651,373,171,230,3038,3904,120
+Nathan McAndrew,28,Australia,0,41,19,11,147,92,14,5,15,41,736,1141,34
+Ben McDermott,27,Australia,21,95,90,16,2383,1793,152,110,51,0,0,0,0
+Ronan McDonald,29,Australia,0,1,0,0,0,0,0,0,0,1,12,21,1
+Steven McGiffin,24,Australia,0,2,2,1,20,23,1,0,1,2,12,23,0
+Nathan McSweeney,22,Australia,0,4,4,0,42,46,4,0,0,2,12,12,0
+Riley Meredith,25,Australia,5,55,10,4,23,23,2,0,9,55,1187,1659,71
+Jonathan Merlo,23,Australia,0,9,8,1,46,45,5,0,1,3,24,30,0
+David Moody,26,Australia,0,6,1,0,8,15,0,0,0,6,96,148,5
+Lance Morris,23,Australia,0,13,2,1,2,8,0,0,3,13,171,281,3
+Todd Murphy,21,Australia,0,4,0,0,0,0,0,0,0,3,54,46,1
+Arjun Nair,23,Australia,0,36,24,12,251,213,15,7,9,31,486,623,23
+Michael Neser,31,Australia,0,78,50,18,424,371,30,13,36,77,1514,2134,79
+Peter Nevill,36,Australia,9,57,40,14,374,347,31,4,31,0,0,0,0
+Harry Nielsen,26,Australia,0,26,19,5,265,236,21,4,15,0,0,0,0
+Tom O'Connell,21,Australia,0,8,4,2,12,17,1,0,3,7,84,112,5
+Steve O'Keefe,37,Australia,7,111,53,16,538,483,55,9,34,104,2099,2377,98
+Mitchell Owen,20,Australia,0,7,5,4,37,25,6,0,1,6,79,119,2
+Joel Paris,29,Australia,0,28,8,4,25,37,1,0,11,27,539,774,25
+Wil Parker,19,Australia,0,7,4,2,41,29,3,1,1,5,78,140,1
+Kurtis Patterson,28,Australia,0,44,40,2,872,714,78,23,24,0,0,0,0
+James Pattinson,31,Australia,4,55,26,9,125,120,7,5,14,55,1145,1623,61
+Jimmy Peirson,29,Australia,0,89,80,19,1303,1042,112,36,61,0,0,0,0
+Lachlan Pfeffer,30,Australia,0,4,4,0,109,95,9,3,2,0,0,0,0
+Josh Philippe,24,Australia,10,78,77,10,1951,1419,183,59,56,0,0,0,0
+Lloyd Pope,22,Australia,0,24,4,2,6,11,1,0,1,24,438,586,19
+Jack Prestwidge,25,Australia,0,24,13,3,139,119,10,7,4,22,333,452,17
+Will Prestwidge,20,Australia,0,3,3,1,23,19,1,2,0,3,56,93,4
+Sam Rainbird,29,Australia,0,24,12,5,34,37,2,0,8,24,451,669,17
+Matt Renshaw,25,Australia,0,49,48,6,1062,839,90,25,18,17,198,270,7
+Jhye Richardson,25,Australia,15,73,37,21,280,226,20,12,24,73,1589,2100,91
+Kane Richardson,31,Australia,29,141,50,22,357,314,22,12,55,138,3011,4010,178
+Thomas Rogers,23,Australia,0,1,1,0,32,25,4,1,0,0,0,0,0
+Tom Rogers,27,Australia,0,25,11,4,76,79,5,3,4,25,542,759,29
+Alex Ross,29,Australia,0,82,70,17,1546,1206,111,53,33,0,0,0,0
+Patrick Rowe,21,Australia,0,1,1,0,3,6,0,0,1,0,0,0,0
+Chris Sabburg,32,Australia,0,12,7,2,69,83,3,1,8,1,6,5,0
+Daniel Sams,29,Australia,6,73,58,12,682,451,38,46,26,71,1438,2024,87
+Gurinder Sandhu,28,Australia,0,64,19,11,63,68,5,1,16,63,1240,1682,62
+Jason Sangha,22,Australia,0,25,23,5,623,504,47,18,11,7,60,85,4
+Tanveer Sangha,20,Australia,0,27,5,3,19,25,2,0,6,27,528,662,37
+James Seymour,29,Australia,0,9,8,2,112,91,10,4,0,3,30,28,0
+Peter Siddle,37,Australia,2,90,26,14,52,72,4,1,18,89,1868,2344,108
+Jordan Silk,29,Australia,0,97,78,22,1654,1332,115,29,52,0,0,0,0
+Steven Smith,32,Australia,54,226,198,42,4682,3740,413,105,130,52,824,1056,54
+Mitchell Starc,32,Australia,50,113,39,19,196,206,15,2,36,112,2493,3081,157
+Mark Steketee,28,Australia,0,61,31,9,169,167,10,7,20,61,1286,1909,78
+Marcus Stoinis,32,Australia,39,182,163,44,3826,2861,331,136,45,108,1537,2278,81
+Will Sutherland,22,Australia,0,29,20,5,117,114,4,6,7,23,321,517,13
+Mitchell Swepson,28,Australia,7,61,24,11,83,83,6,2,18,59,1262,1585,64
+Henry Thornton,25,Australia,0,9,2,2,0,0,0,0,2,9,187,271,14
+Ashton Turner,29,Australia,18,131,112,26,1888,1393,118,80,44,39,363,433,20
+Andrew Tye,35,Australia,32,182,74,28,522,432,34,27,59,179,3918,5256,251
+Matthew Wade,34,Australia,59,173,149,23,3359,2463,270,119,104,0,0,0,0
+Charlie Wakim,30,Australia,0,4,4,0,90,82,11,1,2,1,6,18,0
+David Warner,35,Australia,88,313,312,39,10308,7317,1005,389,149,2,7,15,0
+Jake Weatherald,27,Australia,0,82,81,5,2029,1576,200,79,31,0,0,0,0
+Beau Webster,28,Australia,0,53,43,12,857,695,60,26,32,15,216,275,2
+Jonathan Wells,33,Australia,0,123,114,34,2774,2260,239,46,41,3,13,22,0
+Sam Whiteman,29,Australia,0,45,40,3,653,537,63,17,28,0,0,0,0
+Jack Wildermuth,28,Australia,2,56,33,4,308,261,11,17,10,56,1045,1467,42
+Jack Wood,25,Australia,0,2,2,0,14,16,0,1,0,2,24,41,2
+Daniel Worrall,30,Australia,0,57,24,13,155,129,14,4,14,56,1166,1575,45
+Adam Zampa,29,Australia,60,202,64,27,228,262,19,3,29,198,4257,5163,237
+Macalister Wright,24,Australia,0,12,11,2,199,177,12,6,6,2,30,53,1
+Abbas Musa,22,Bangladesh,0,13,11,0,202,171,22,12,3,0,0,0,0
+Abdul Gaffar,28,Bangladesh,0,4,0,0,0,0,0,0,0,4,54,78,1
+Abdul Halim,23,Bangladesh,0,2,1,0,3,9,0,0,0,2,30,50,2
+Abdul Kayium,23,Bangladesh,0,4,3,1,12,11,2,0,1,3,42,65,1
+Abdul Mazid,31,Bangladesh,0,23,23,0,395,382,27,17,2,0,0,0,0
+Abdur Rashid,34,Bangladesh,0,8,1,1,2,1,0,0,1,7,132,178,10
+Abu Hider,26,Bangladesh,13,80,39,20,320,283,23,16,33,77,1415,2005,63
+Abu Jayed,28,Bangladesh,3,77,19,14,49,43,6,1,8,74,1348,1820,78
+Afif Hossain,22,Bangladesh,39,121,108,14,2027,1633,180,82,48,56,588,852,29
+Akbar Ali,20,Bangladesh,0,35,26,7,393,306,23,19,25,0,0,0,0
+Aks Swadhin,19,Bangladesh,0,7,3,2,13,11,2,0,2,7,120,193,7
+Al Islam,25,Bangladesh,0,18,7,4,48,40,4,1,3,16,336,377,11
+Al-Amin,28,Bangladesh,0,51,42,7,573,491,55,17,12,20,193,256,9
+Alauddin Babu,30,Bangladesh,0,59,39,16,401,302,23,23,20,47,806,1176,41
+Alok Kapali,38,Bangladesh,7,110,82,24,1047,985,80,32,24,68,977,1238,51
+Aminul Islam,22,Bangladesh,10,28,15,8,87,92,9,1,6,26,464,594,24
+Amit Majumder,31,Bangladesh,0,4,3,1,10,14,0,0,2,0,0,0,0
+Amite Hasan,20,Bangladesh,0,2,1,0,4,9,0,0,1,0,0,0,0
+Anamul Haque,29,Bangladesh,13,144,139,10,2942,2485,255,116,81,0,0,0,0
+Anisul Islam Emon,24,Bangladesh,0,24,24,1,570,480,62,15,11,10,124,191,10
+Arafat Sunny,35,Bangladesh,10,132,50,25,225,263,18,3,38,129,2483,2853,126
+Ariful Haque,29,Bangladesh,9,106,84,23,1272,1100,79,40,52,18,202,323,10
+Asaduzzaman Payel,23,Bangladesh,0,14,1,0,4,2,1,0,2,12,229,294,11
+Asif Ahmed,29,Bangladesh,0,20,14,1,184,170,20,4,7,16,205,263,7
+Asif Hasan,28,Bangladesh,0,22,11,7,37,43,4,0,2,20,390,440,16
+Avishek Mitra,29,Bangladesh,0,5,5,0,45,44,4,2,1,0,0,0,0
+Azmir Ahmed,26,Bangladesh,0,11,9,0,109,97,10,6,4,0,0,0,0
+Delwar Hossain,37,Bangladesh,0,14,8,3,41,38,6,1,1,14,271,370,15
+Dhiman Ghosh,34,Bangladesh,1,39,29,2,403,417,28,7,34,0,0,0,0
+Ebadot Hossain,28,Bangladesh,0,43,13,10,26,33,1,1,8,43,915,1193,42
+Elias Sunny,36,Bangladesh,7,74,35,15,229,231,18,6,26,71,1359,1577,72
+Enamul Haque jnr,35,Bangladesh,0,61,18,10,32,47,1,0,7,58,1162,1250,65
+Fardeen Hasan,24,Bangladesh,0,7,7,0,109,103,7,4,1,0,0,0,0
+Farhad Hossain,35,Bangladesh,0,35,28,9,376,385,31,8,13,15,216,244,9
+Farhad Reza,35,Bangladesh,13,144,89,18,898,730,63,42,61,132,2396,3332,113
+Fazle Mahmud,34,Bangladesh,0,46,40,4,799,736,64,30,7,3,30,50,0
+Habibur Rahman,34,Bangladesh,0,6,4,1,15,25,1,0,2,5,66,100,4
+Hamidul Islam,26,Bangladesh,0,9,1,1,8,6,0,1,2,9,155,204,6
+Hasan Murad,20,Bangladesh,0,13,4,1,6,7,1,0,1,12,222,225,11
+Hasanuzzaman,30,Bangladesh,0,23,21,0,377,277,37,20,3,0,0,0,0
+Hossain Ali,23,Bangladesh,0,7,2,1,1,9,0,0,0,7,132,200,10
+Ifran Hossain,25,Bangladesh,0,11,4,3,20,16,2,1,1,11,227,299,13
+Iftekhar Sajjad,30,Bangladesh,0,8,1,0,8,11,1,0,1,7,120,150,3
+Imran Ali,28,Bangladesh,0,2,0,0,0,0,0,0,0,2,24,42,1
+Imran Uzzaman,27,Bangladesh,0,21,18,2,296,228,26,17,16,0,0,0,0
+Imrul Kayes,35,Bangladesh,14,149,146,12,3115,2665,271,125,65,3,30,33,0
+Imtiaz Hossain,36,Bangladesh,0,17,17,0,336,273,37,9,5,0,0,0,0
+Irfan Sukkur,28,Bangladesh,0,39,35,5,580,479,51,21,22,0,0,0,0
+Isharul Islam,27,Bangladesh,0,5,5,1,71,68,6,3,0,1,6,13,0
+Jahurul Islam,35,Bangladesh,3,124,115,20,1912,1668,155,65,61,0,0,0,0
+Jaker Ali,23,Bangladesh,0,35,28,7,412,352,24,17,19,0,0,0,0
+Jashimuddin,26,Bangladesh,0,5,5,0,19,32,1,0,2,0,0,0,0
+Jony Talukdar,28,Bangladesh,0,7,5,0,31,41,4,0,0,0,0,0,0
+Joyraz Sheik,25,Bangladesh,0,7,5,1,69,78,6,2,3,0,0,0,0
+Jubair Hossain,26,Bangladesh,1,11,3,1,11,17,1,0,4,10,156,222,4
+Junaid Siddique,34,Bangladesh,7,78,77,3,1489,1225,154,46,15,0,0,0,0
+Kamrul Islam,30,Bangladesh,0,75,26,13,139,121,9,7,15,73,1362,1955,91
+Khaled Ahmed,29,Bangladesh,0,36,5,3,22,26,1,1,6,36,760,980,45
+Litton Das,27,Bangladesh,46,141,136,6,2899,2325,299,82,89,0,0,0,0
+Mahedi Hasan,27,Bangladesh,29,105,73,12,1224,973,100,63,31,101,1992,2303,87
+Mahidul Islam Ankon,22,Bangladesh,0,38,33,8,406,341,17,23,35,0,0,0,0
+Mahmudul Hasan,31,Bangladesh,0,42,31,4,443,481,38,8,13,26,324,420,6
+Mahmudul Hasan Joy,21,Bangladesh,0,30,26,4,747,629,65,24,9,0,0,0,0
+Mahmudullah,36,Bangladesh,113,276,253,52,5106,4293,384,166,118,191,2736,3209,129
+Manik Khan,25,Bangladesh,0,13,3,2,13,11,1,0,2,11,189,214,9
+Marshall Ayub,33,Bangladesh,0,44,37,4,568,553,40,12,16,4,34,33,5
+Mashrafe Mortaza,38,Bangladesh,54,171,109,29,1050,807,70,65,35,167,3635,4544,157
+Masum Khan,34,Bangladesh,0,13,10,3,171,104,12,10,5,13,223,317,7
+Mehedi Hasan,20,Bangladesh,0,4,0,0,0,0,0,0,0,4,84,119,3
+Mehedi Hasan Rana,25,Bangladesh,0,35,9,6,17,17,3,0,9,34,696,975,50
+Mehedi Maruf,33,Bangladesh,0,52,49,3,861,785,79,40,15,0,0,0,0
+Mehidy Hasan Miraz,24,Bangladesh,13,98,83,13,1120,1004,104,35,41,94,1771,2230,68
+Mehrab Hossain,30,Bangladesh,0,7,6,1,49,60,2,2,3,5,90,145,4
+Minhajul Abedin,24,Bangladesh,0,2,2,0,6,9,0,0,0,0,0,0,0
+Minhajul Abedin Afridi,23,Bangladesh,0,7,1,1,1,1,0,0,3,6,111,102,6
+Mizanur Rahman,30,Bangladesh,0,37,34,4,743,614,77,26,12,0,0,0,0
+Mohaiminul Khan,31,Bangladesh,0,15,11,5,115,107,7,3,3,7,120,129,5
+Arafat Sunny jnr,27,Bangladesh,0,7,7,2,106,99,9,4,2,4,60,87,2
+Mohammad Ashraful,37,Bangladesh,23,87,82,6,1694,1477,182,36,24,26,371,488,25
+Mohammad Enamul,35,Bangladesh,0,23,14,6,188,154,9,13,9,16,262,309,11
+Mohammad Mithun,30,Bangladesh,17,161,141,22,2787,2347,189,108,69,1,6,5,1
+Mohammad Naim,22,Bangladesh,32,85,82,7,1928,1749,167,62,40,0,0,0,0
+Mohammad Rakib,23,Bangladesh,0,7,5,1,83,99,5,2,0,0,0,0,0
+Saddam Hossain,26,Bangladesh,0,11,5,1,10,19,2,0,2,11,154,242,7
+Mohammad Saifuddin,25,Bangladesh,29,88,47,18,423,355,31,17,17,87,1835,2381,115
+Mohammad Santo,23,Bangladesh,0,8,0,0,0,0,0,0,0,7,102,123,2
+Mohammad Shahid,33,Bangladesh,1,48,16,9,61,81,2,4,3,47,923,1193,56
+Mohammad Shahzada,35,Bangladesh,0,5,3,1,9,13,1,0,1,3,54,78,4
+Mohiuddin Tareq,18,Bangladesh,0,12,2,2,1,3,0,0,3,11,206,271,16
+Mohor Sheikh,24,Bangladesh,0,15,7,5,2,9,0,0,5,14,264,340,16
+Moin Khan,26,Bangladesh,0,7,5,0,67,65,2,3,1,5,73,110,2
+Moinul Islam,29,Bangladesh,0,5,3,0,35,39,3,1,0,1,18,26,2
+Mominul Haque,30,Bangladesh,6,122,106,16,2134,1884,220,39,41,22,276,350,13
+Monir Hossain,36,Bangladesh,0,42,18,7,73,71,9,1,5,42,848,968,35
+Mosaddek Hossain,26,Bangladesh,16,111,98,27,1691,1470,130,53,43,75,975,1135,39
+Mrittunjoy Chowdhury,20,Bangladesh,0,14,8,3,43,38,1,3,3,12,224,315,18
+Mukidul Islam,21,Bangladesh,0,33,13,6,42,47,2,3,11,30,596,871,33
+Muktar Ali,32,Bangladesh,1,90,59,28,548,535,34,23,31,78,1315,1818,76
+Munim Shahriar,23,Bangladesh,0,21,20,1,536,372,54,25,0,0,0,0,0
+Mushfiqur Rahim,34,Bangladesh,99,239,221,49,4989,3952,421,141,177,0,0,0,0
+Mustafizur Rahman,26,Bangladesh,61,180,57,32,143,195,8,9,35,179,3923,4749,240
+Myshukur Rahaman,30,Bangladesh,0,15,13,5,156,142,9,7,1,1,12,17,0
+Nabil Samad,35,Bangladesh,0,77,17,8,15,39,1,0,14,73,1496,1647,58
+Nadif Chowdhury,34,Bangladesh,3,61,47,6,539,514,33,19,14,4,48,64,3
+Naeem Islam,35,Bangladesh,10,91,77,20,1303,1193,109,35,30,36,463,608,25
+Naeem Islam jnr,27,Bangladesh,0,28,10,2,63,71,5,0,9,25,444,539,14
+Nahid Hasan,24,Bangladesh,0,6,2,1,6,3,1,0,0,6,96,153,1
+Nahidul Islam,28,Bangladesh,0,63,39,11,417,356,31,14,25,53,887,900,42
+Najmul Hossain Shanto,23,Bangladesh,6,92,86,7,1824,1486,157,66,41,13,116,137,5
+Nasir Hossain,30,Bangladesh,31,131,108,17,1931,1674,160,51,50,95,1485,1854,59
+Nasum Ahmed,27,Bangladesh,18,73,24,6,101,128,6,4,15,72,1434,1528,61
+Nayeem Hasan,22,Bangladesh,0,47,28,9,197,241,13,1,17,44,818,992,36
+Nazmul Hossain Milon,34,Bangladesh,0,71,60,20,799,679,41,35,24,8,72,125,2
+Nazmul Islam,29,Bangladesh,13,92,25,14,84,91,7,1,22,87,1596,1999,71
+Nihaduzzaman,23,Bangladesh,0,12,7,1,44,46,3,1,4,12,207,244,6
+Noman Chowdhury,20,Bangladesh,0,2,0,0,0,0,0,0,0,2,30,52,0
+Nurul Hasan,28,Bangladesh,30,145,129,36,1916,1515,143,72,125,0,0,0,0
+Nuruzzaman,27,Bangladesh,0,6,4,0,33,53,3,0,4,1,6,6,1
+Parvez Hossain Emon,19,Bangladesh,0,25,25,1,570,462,44,37,8,0,0,0,0
+Pinak Ghosh,23,Bangladesh,0,5,5,2,74,79,7,1,3,0,0,0,0
+Pritom Kumar,20,Bangladesh,0,12,9,2,69,50,4,5,12,0,0,0,0
+Qazi Onik,22,Bangladesh,0,16,6,4,24,41,1,1,3,16,280,479,15
+Rafsan Al Mahamud,26,Bangladesh,0,6,6,1,63,54,10,0,0,1,6,5,1
+Rahatul Ferdous,26,Bangladesh,0,11,7,1,120,116,4,6,2,8,150,152,10
+Rahmat Ali,24,Bangladesh,0,1,1,0,0,2,0,0,0,0,0,0,0
+Raihan Uddin,30,Bangladesh,0,3,0,0,0,0,0,0,0,3,54,70,3
+Rajibul Islam,27,Bangladesh,0,9,8,2,134,121,9,6,2,7,120,112,4
+Rakibul Atik,22,Bangladesh,0,2,0,0,0,0,0,0,0,2,48,59,3
+Rakibul Hasan,19,Bangladesh,0,18,5,3,14,20,0,1,4,16,354,374,19
+Rakibul Islam,24,Bangladesh,0,3,2,1,3,8,0,0,1,0,0,0,0
+Rakin Ahmed,28,Bangladesh,0,12,12,4,326,290,31,8,4,0,0,0,0
+Raqibul Hasan,34,Bangladesh,5,36,31,5,375,386,34,7,8,0,0,0,0
+Rayan Rahman,23,Bangladesh,0,13,11,3,169,136,11,6,4,4,42,57,0
+Rejaur Rahman Raja,22,Bangladesh,0,20,7,3,30,44,0,1,9,19,368,433,17
+Rishad Hossain,19,Bangladesh,0,14,8,2,51,35,4,3,11,13,148,222,6
+Robiul Haque,22,Bangladesh,0,10,8,5,64,56,5,2,2,10,183,292,8
+Robiul Islam Robi,31,Bangladesh,0,22,18,3,263,272,29,5,4,18,297,383,15
+Rony Chowdhury,26,Bangladesh,0,3,0,0,0,0,0,0,0,3,42,57,3
+Rony Talukdar,31,Bangladesh,1,85,82,2,1513,1224,150,55,30,0,0,0,0
+Rubel Hossain,32,Bangladesh,28,141,48,24,133,149,8,5,32,140,2938,3870,171
+Rubel Mia,29,Bangladesh,0,11,11,2,312,276,32,8,3,3,60,58,3
+Ruyel Miah,21,Bangladesh,0,12,3,1,8,12,1,0,2,12,232,309,12
+Sabbir Hossain,24,Bangladesh,0,14,13,0,281,237,19,16,7,4,39,67,0
+Sabbir Rahman,30,Bangladesh,44,181,168,22,3646,3059,298,131,102,36,391,471,19
+Sadikur Rahman,29,Bangladesh,0,8,8,0,91,75,10,2,3,0,0,0,0
+Saif Hassan,23,Bangladesh,2,30,27,1,683,599,61,29,16,5,37,47,3
+Sajjadul Haque,32,Bangladesh,0,9,7,2,128,98,7,8,1,0,0,0,0
+Salauddin Sakil,32,Bangladesh,0,19,3,3,0,1,0,0,8,19,375,532,25
+Salman Hossain,26,Bangladesh,0,13,9,3,105,128,6,1,2,1,6,7,0
+Sanjit Saha,24,Bangladesh,0,12,4,2,9,25,0,0,2,12,225,299,11
+Saqlain Sajib,33,Bangladesh,1,51,16,12,44,46,2,1,9,50,992,1185,47
+Sayem Alam,28,Bangladesh,0,10,8,0,28,50,0,2,2,0,0,0,0
+Shadman Islam,26,Bangladesh,0,11,11,0,166,195,18,1,7,0,0,0,0
+Shafiqul Islam,24,Bangladesh,0,27,7,2,16,11,2,1,6,26,503,636,33
+Shafiul Hayet,24,Bangladesh,0,3,2,1,18,12,3,0,2,0,0,0,0
+Shafiul Islam,32,Bangladesh,20,110,35,18,156,176,14,3,22,108,2140,2912,113
+Shahadat Hossain,35,Bangladesh,6,34,14,8,49,49,3,1,2,32,600,818,27
+Shahadat Hossain,20,Bangladesh,0,5,5,0,41,52,5,0,3,1,5,7,0
+Shahbaz Chouhan,26,Bangladesh,0,10,4,1,9,8,0,1,1,7,108,139,1
+Shahriar Komol,26,Bangladesh,0,4,4,1,43,40,6,1,3,0,0,0,0
+Shakib Al Hasan,34,Bangladesh,94,362,332,47,5858,4822,538,151,90,356,7677,8671,414
+Shakil Hossain,21,Bangladesh,0,3,3,1,25,26,2,0,5,0,0,0,0
+Shamim Hossain,21,Bangladesh,10,50,45,6,724,549,58,33,30,14,164,179,8
+Shamsul Islam,27,Bangladesh,0,1,1,0,0,1,0,0,0,0,0,0,0
+Shamsur Rahman,33,Bangladesh,9,96,85,9,1741,1477,157,52,26,2,18,31,1
+Shanaj Ahmed,29,Bangladesh,0,1,1,0,7,10,1,0,0,0,0,0,0
+Sharifullah,35,Bangladesh,0,32,24,12,170,185,14,2,8,27,504,527,27
+Sheikh Jubayer Hassan,19,Bangladesh,0,1,0,0,0,0,0,0,0,1,18,25,0
+Shohidul Islam,27,Bangladesh,1,46,20,10,62,86,5,1,7,46,942,1263,69
+Shoriful Islam,20,Bangladesh,17,67,24,9,70,69,8,4,23,66,1337,1868,81
+Shuvagata Hom,35,Bangladesh,5,115,95,17,1267,942,101,59,53,72,871,1124,44
+Shykat Ali,28,Bangladesh,0,47,45,3,766,646,65,36,18,7,114,151,3
+Sohag Gazi,30,Bangladesh,10,104,55,16,413,396,30,13,27,101,1928,2374,72
+Sohrawordi Shuvo,33,Bangladesh,1,71,45,20,467,448,30,8,19,68,1185,1460,49
+Soumya Sarkar,28,Bangladesh,66,180,177,15,3159,2681,309,118,85,68,883,1354,38
+Subroto Shekhar,26,Bangladesh,0,3,1,0,4,5,0,0,0,3,30,49,0
+Sujon Hawlader,26,Bangladesh,0,12,4,3,36,24,4,2,4,10,175,252,9
+Sumon Khan,22,Bangladesh,0,25,18,9,128,118,7,7,7,25,490,691,28
+Sunzamul Islam,32,Bangladesh,0,76,35,17,209,211,14,5,30,70,1269,1558,51
+Tahjibul Islam,17,Bangladesh,0,2,1,0,3,11,0,0,1,0,0,0,0
+Taibur Rahman,30,Bangladesh,0,14,12,4,159,167,14,1,1,7,72,100,5
+Taijul Islam,30,Bangladesh,2,90,28,12,186,232,14,2,13,87,1577,1925,75
+Tamim Iqbal,32,Bangladesh,78,238,237,22,6886,5756,710,208,72,2,13,18,0
+Tanbir Hayder,30,Bangladesh,0,35,23,10,236,204,17,7,12,20,277,379,8
+Tanvir Islam,25,Bangladesh,0,36,12,7,55,60,3,3,9,33,681,747,42
+Tanzid Hasan,21,Bangladesh,0,21,21,3,437,395,32,17,17,0,0,0,0
+Tanzim Hasan Sakib,19,Bangladesh,0,14,5,3,23,17,0,2,5,14,283,368,17
+Tasamul Haque,30,Bangladesh,0,11,11,1,248,250,26,4,1,4,66,60,5
+Taskin Ahmed,26,Bangladesh,33,107,43,19,154,181,10,6,12,103,2112,2912,119
+Tipu Sultan,23,Bangladesh,0,12,3,1,15,19,1,0,2,12,198,242,4
+Towfiq Khan,30,Bangladesh,0,3,3,0,31,29,3,2,2,0,0,0,0
+Towhid Hridoy,21,Bangladesh,0,36,33,6,723,645,46,22,17,2,18,14,0
+Towker Khan,24,Bangladesh,0,2,1,0,8,10,0,1,0,2,48,65,0
+Yasir Ali,25,Bangladesh,0,65,58,8,1377,1094,95,58,29,1,6,8,0
+Yeasin Arafat,23,Bangladesh,0,9,7,4,29,27,3,1,3,8,117,157,8
+Zahiduzzaman,25,Bangladesh,0,12,8,3,109,108,7,3,8,0,0,0,0
+Zakir Hasan,24,Bangladesh,1,62,48,8,708,634,74,16,11,0,0,0,0
+Ziaur Rahman,35,Bangladesh,14,126,98,26,1410,1082,90,97,46,63,901,1291,46
+Tom Abell,27,England,0,55,49,11,1286,894,124,30,36,8,60,100,2
+Toby Albert,20,England,0,2,2,0,18,22,3,0,1,0,0,0,0
+Moeen Ali,34,England,49,216,204,20,4671,3315,427,224,71,179,2992,3745,149
+Tom Alsop,26,England,0,42,40,5,793,705,75,14,18,0,0,0,0
+Jofra Archer,26,England,12,121,61,29,551,373,41,24,35,118,2700,3446,153
+Gus Atkinson,24,England,0,17,8,4,39,34,2,2,6,17,286,423,22
+Tom Bailey,30,England,0,24,6,1,21,22,0,1,9,24,378,590,25
+Jonny Bairstow,32,England,63,166,153,26,3904,2838,329,170,113,0,0,0,0
+Jake Ball,30,England,2,93,17,11,53,58,2,3,24,91,1833,2717,116
+Gary Ballance,32,England,0,100,88,10,1807,1473,134,73,46,0,0,0,0
+Tom Banton,23,England,14,75,74,3,1690,1133,174,82,45,0,0,0,0
+Ed Barnard,26,England,0,88,56,21,569,435,56,14,46,82,1342,1993,52
+Ed Barnes,24,England,0,5,1,0,7,6,1,0,1,4,60,115,2
+George Bartlett,23,England,0,6,6,0,64,55,6,2,2,0,0,0,0
+Gareth Batty,44,England,1,194,95,34,630,621,45,14,50,181,3452,4183,155
+Will Beer,33,England,0,131,63,23,375,314,27,9,26,121,2298,2867,106
+Daniel Bell-Drummond,28,England,0,124,122,8,3562,2622,362,88,40,11,105,179,5
+Chris Benjamin,22,England,0,11,9,5,183,125,20,6,5,0,0,0,0
+Dom Bess,24,England,0,17,8,3,41,41,5,0,2,17,336,417,16
+Jacob Bethell,18,England,0,3,3,1,12,14,0,1,1,3,36,61,0
+Sam Billings,30,England,37,215,201,30,4152,3154,351,128,140,0,0,0,0
+Alex Blake,33,England,0,141,122,29,1898,1413,136,87,80,8,78,96,1
+Josh Bohannon,24,England,0,22,14,5,112,111,10,0,11,0,0,0,0
+Ravi Bopara,36,England,38,411,374,81,7987,6620,618,231,140,294,5040,6317,245
+Scott Borthwick,31,England,1,106,55,18,650,649,39,10,50,84,1388,1865,74
+James Bracey,24,England,0,30,26,3,425,346,40,8,19,0,0,0,0
+Tim Bresnan,36,England,34,191,139,54,1748,1331,131,65,63,186,3616,4934,196
+Danny Briggs,30,England,7,201,52,34,189,168,20,2,33,190,4079,4919,219
+Harry Brook,22,England,1,56,54,13,1389,965,123,50,34,2,12,26,1
+Jack Brooks,37,England,0,65,13,8,76,64,8,1,18,64,1204,1506,55
+Pat Brown,23,England,4,56,10,7,22,38,1,0,13,55,1097,1651,66
+Nathan Buck,30,England,0,66,21,13,96,94,5,5,14,65,1279,1885,71
+Sol Budinger,22,England,0,5,4,0,52,44,6,1,3,0,0,0,0
+Michael Burgess,27,England,0,52,42,9,491,438,34,18,33,0,0,0,0
+Jack Burnham,25,England,0,26,20,1,194,218,12,5,10,1,1,0,0
+Rory Burns,31,England,0,63,53,9,725,606,74,13,28,0,0,0,0
+William Buttleman,21,England,0,9,9,1,158,132,21,4,3,0,0,0,0
+Jos Buttler,31,England,88,298,276,50,7335,5093,639,309,197,0,0,0,0
+Jack Campbell,22,England,0,2,1,0,6,8,1,0,0,1,12,21,1
+Harry Came,23,England,0,11,11,0,207,173,26,2,5,0,0,0,0
+Kiran Carlson,23,England,0,34,30,1,480,372,42,15,13,1,1,1,0
+Brydon Carse,26,England,0,40,29,11,390,267,24,13,13,39,648,949,21
+Matthew Carter,25,England,0,45,16,7,110,88,7,6,19,45,868,1079,50
+Oliver Carter,20,England,0,2,1,1,0,2,0,0,2,0,0,0,0
+Zak Chappell,25,England,0,18,11,3,69,54,3,4,7,17,307,497,15
+Varun Chopra,34,England,0,116,113,13,2908,2450,251,82,25,0,0,0,0
+Graham Clark,28,England,0,71,70,4,1594,1111,184,46,30,5,26,66,0
+Jordan Clark,31,England,0,101,72,26,1013,769,56,42,36,76,1178,1775,58
+Joe Clarke,25,England,0,113,110,7,2894,1896,287,127,40,0,0,0,0
+Rikki Clarke,40,England,0,172,148,40,2305,1877,190,79,90,132,2244,2824,113
+Mitchell Claydon,39,England,0,152,51,31,192,215,17,3,27,149,3145,4449,164
+Josh Cobb,31,England,0,167,158,16,3548,2666,310,160,78,115,1548,2025,61
+Ian Cockbain,35,England,0,144,136,27,3681,2787,315,121,69,0,0,0,0
+Sam Cook,24,England,0,29,12,7,28,28,1,1,4,27,552,784,32
+Chris Cooke,35,England,0,128,111,22,2022,1494,130,91,90,0,0,0,0
+Paul Coughlin,29,England,0,47,32,9,555,408,34,18,13,40,691,1111,50
+Jordan Cox,21,England,0,30,25,9,510,389,36,12,25,0,0,0,0
+Ben Cox,30,England,0,133,117,43,2060,1639,187,49,88,0,0,0,0
+Joe Cracknell,21,England,0,18,18,0,459,329,56,10,8,0,0,0,0
+Mason Crane,25,England,2,56,16,14,59,72,1,0,12,54,1165,1413,64
+Zak Crawley,24,England,0,38,36,2,1096,726,116,36,12,0,0,0,0
+Harry Crawshaw,18,England,0,3,2,0,9,7,2,0,0,3,30,46,0
+Matt Critchley,25,England,0,77,60,11,963,811,74,27,27,66,1230,1580,59
+Steven Croft,37,England,0,209,191,45,4388,3574,330,131,123,133,1780,2198,78
+Blake Cullen,20,England,0,20,10,5,61,53,5,1,4,18,343,531,30
+Tom Cullen,30,England,0,1,1,0,5,9,0,0,1,0,0,0,0
+Ben Curran,25,England,0,9,9,0,125,98,18,2,3,0,0,0,0
+Sam Curran,23,England,16,109,82,22,1236,906,105,57,28,105,2021,2906,103
+Tom Curran,26,England,30,156,89,31,1145,856,101,33,46,151,3077,4553,182
+Scott Currie,20,England,0,13,7,4,7,15,0,0,3,12,222,302,20
+Brett D'Oliveira,29,England,0,105,80,21,1456,1150,117,37,27,86,1368,1746,50
+Alex Davies,27,England,0,88,82,12,1901,1481,204,37,59,0,0,0,0
+Steven Davies,35,England,5,153,144,8,2850,2021,354,61,92,0,0,0,0
+Will Davis,25,England,0,21,7,4,6,17,0,0,8,18,311,455,16
+Liam Dawson,31,England,8,186,139,32,2021,1790,134,49,76,159,3029,3661,132
+Joshua De Caires,19,England,0,1,1,0,14,7,2,1,2,0,0,0,0
+Joe Denly,35,England,13,247,239,18,5771,4753,591,163,95,59,837,1085,45
+Chris Dent,31,England,0,69,63,7,1337,1025,145,37,26,12,120,168,5
+Luke Doneathy,19,England,0,2,2,1,10,8,1,0,0,1,12,19,1
+Dan Douthwaite,25,England,0,29,26,5,346,261,16,26,5,24,364,536,20
+Ben Duckett,27,England,1,145,138,21,3419,2540,393,67,71,0,0,0,0
+Harry Duke,20,England,0,4,0,0,0,0,0,0,0,0,0,0,0
+Matt Dunn,29,England,0,23,4,2,4,8,0,0,5,23,405,618,27
+Ned Eckersley,32,England,0,78,66,15,848,760,71,13,32,0,0,0,0
+Stephen Eskinazi,27,England,0,50,47,5,1524,1109,154,34,23,0,0,0,0
+Laurie Evans,34,England,0,199,181,44,4695,3487,403,164,79,4,22,35,1
+Tom Fell,28,England,0,9,7,0,69,78,4,1,2,0,0,0,0
+Harry Finch,27,England,0,26,21,4,307,287,28,4,9,0,0,0,0
+Steven Finn,32,England,21,130,28,20,78,91,7,0,40,126,2644,3567,162
+Matthew Fisher,24,England,0,39,12,5,61,47,3,5,12,39,743,1128,43
+Luke Fletcher,33,England,0,93,36,13,155,143,9,8,9,92,1865,2585,102
+Will Fraine,25,England,0,26,25,8,321,213,28,14,17,0,0,0,0
+James Fuller,32,England,0,112,75,25,1038,735,54,52,48,83,1646,2454,97
+George Garton,24,England,1,51,25,8,295,225,22,14,14,48,899,1307,56
+Emilio Gay,21,England,0,1,1,0,15,10,2,0,0,0,0,0,0
+Ben Geddes,20,England,0,6,6,0,44,49,3,0,0,0,0,0,0
+Richard Gleeson,34,England,0,52,12,7,24,29,2,0,11,51,1009,1346,50
+Billy Godleman,33,England,0,96,90,7,1867,1626,174,44,43,0,0,0,0
+Lewis Goldsworthy,21,England,0,15,12,2,210,185,18,5,4,14,252,312,14
+Ben Green,24,England,0,18,11,3,165,125,7,8,12,12,180,265,8
+Gavin Griffiths,28,England,0,60,20,17,56,63,3,2,12,57,992,1457,53
+Lewis Gregory,29,England,9,156,122,29,1942,1393,173,71,68,131,2372,3562,133
+Nick Gubbins,28,England,0,39,35,0,515,439,51,15,15,2,30,30,1
+Sam Hain,26,England,0,81,78,14,2386,1862,219,57,49,0,0,0,0
+Alex Hales,33,England,60,334,331,27,9371,6405,1046,361,161,2,3,7,0
+Miles Hammond,26,England,0,60,54,3,1181,856,146,38,25,1,12,17,0
+Calvin Harrison,23,England,0,23,13,4,92,73,9,2,14,20,334,412,23
+Tom Hartley,22,England,0,32,11,6,46,48,4,0,8,31,622,724,25
+Jack Haynes,21,England,0,9,9,0,171,127,20,4,2,0,0,0,0
+Freddie Heldreich,20,England,0,5,0,0,0,0,0,0,0,5,108,117,5
+Tom Helm,27,England,0,57,24,14,120,121,8,0,5,55,1102,1622,64
+Ryan Higgins,27,England,0,87,77,24,1346,1012,101,50,21,63,1006,1495,62
+James Hildreth,37,England,0,205,192,33,3900,3129,361,87,73,12,169,247,10
+Lewis Hill,31,England,0,65,51,9,776,627,53,28,26,0,0,0,0
+George Hill,21,England,0,10,7,1,57,66,3,2,3,4,39,50,1
+Max Holden,24,England,0,24,23,3,539,419,57,13,16,1,6,12,0
+Luke Hollman,21,England,0,19,17,5,269,205,22,8,11,16,282,359,18
+Elliot Hooper,25,England,0,2,1,1,0,2,0,0,0,2,48,47,4
+Adam Hose,29,England,0,65,64,6,1642,1139,162,67,30,0,0,0,0
+Benny Howell,33,England,0,156,129,36,2120,1638,157,78,63,138,2917,3482,162
+Fynn Hudson-Prentice,26,England,0,27,19,3,244,201,20,5,8,27,450,697,28
+Alex Hughes,30,England,0,89,68,17,869,713,67,23,36,83,1415,1903,54
+Liam Hurt,27,England,0,7,1,0,0,4,0,0,4,7,114,185,6
+Will Jacks,23,England,0,75,68,5,1713,1106,172,84,26,33,413,499,19
+Lyndon James,23,England,0,4,2,0,8,8,1,0,2,0,0,0,0
+Keaton Jennings,29,England,0,70,51,17,1252,1027,95,25,15,29,510,628,22
+Rob Jones,26,England,0,21,14,8,238,199,17,4,9,1,6,10,0
+Chris Jordan,33,England,75,264,153,62,1308,1074,95,51,141,258,5262,7507,272
+Rob Keogh,30,England,0,71,48,15,921,782,68,14,29,22,318,439,16
+Feroze Khushi,22,England,0,3,3,0,19,20,1,1,0,0,0,0,0
+Louis Kimber,24,England,0,9,6,0,102,74,5,5,6,0,0,0,0
+Tom Kohler-Cadmore,27,England,0,108,107,10,2907,2091,261,129,60,0,0,0,0
+Danny Lamb,26,England,0,34,16,8,170,153,14,4,3,30,558,769,28
+Matthew Lamb,25,England,0,10,9,2,168,140,14,4,4,1,6,9,0
+Tom Lammonby,21,England,0,41,32,8,492,326,43,21,13,16,192,320,11
+Dan Lawrence,24,England,0,74,67,9,1575,1124,138,57,24,34,450,580,26
+Jack Leach,30,England,0,2,0,0,0,0,0,0,0,2,48,60,5
+Jack Leaning,28,England,0,77,67,16,1474,1106,96,59,38,13,132,168,8
+Alex Lees,28,England,0,56,53,6,1350,1114,134,23,20,0,0,0,0
+Archie Lenham,17,England,0,11,3,2,7,20,0,0,3,10,156,194,11
+Jake Libby,29,England,0,42,36,7,1002,798,83,11,12,6,54,77,1
+Arron Lilley,30,England,0,108,79,10,1415,942,135,63,59,82,1256,1571,49
+Dan Lincoln,26,England,0,11,11,2,123,123,9,2,7,0,0,0,0
+Jake Lintott,28,England,0,41,17,6,104,97,8,4,22,41,848,972,48
+Liam Livingstone,28,England,17,167,158,14,4110,2853,287,243,71,72,1124,1482,69
+David Lloyd,29,England,0,67,61,2,1407,1072,154,40,18,12,102,152,6
+James Logan,24,England,0,2,0,0,0,0,0,0,0,2,24,18,2
+Adam Lyth,34,England,0,142,133,3,3265,2267,357,116,79,39,512,654,25
+Wayne Madsen,38,England,0,125,122,21,3018,2267,298,61,43,35,492,645,19
+Saqib Mahmood,24,England,12,59,18,12,56,73,2,1,11,58,1130,1666,74
+Dawid Malan,34,England,36,253,247,37,6775,5317,680,198,91,52,567,722,23
+Mattie McKiernan,27,England,0,13,11,2,79,66,7,2,4,11,180,217,6
+Lewis McManus,27,England,0,61,51,11,674,517,36,31,42,0,0,0,0
+Ben Mike,23,England,0,28,21,7,270,189,20,11,11,19,232,424,15
+Craig Miles,27,England,0,27,11,6,42,51,3,0,13,27,547,738,30
+Tymal Mills,29,England,12,156,31,15,111,114,10,5,22,150,3207,4181,176
+Matt Milnes,27,England,0,29,10,6,24,17,2,1,9,29,563,838,32
+Daryl Mitchell,38,England,0,177,135,34,2310,1943,218,17,74,154,2341,2999,101
+Tom Moores,25,England,0,93,80,17,1412,1060,104,70,65,0,0,0,0
+Eoin Morgan,35,England,115,355,333,50,7476,5693,562,350,155,0,0,0,0
+Dan Moriarty,23,England,0,26,2,2,15,10,1,1,1,24,498,566,28
+Charlie Morris,29,England,0,26,6,4,8,12,0,0,6,26,499,790,28
+Dan Mousley,20,England,0,9,8,1,189,153,16,5,3,7,72,92,3
+Steven Mullaney,35,England,0,158,112,27,1464,1036,124,57,78,140,2457,3232,114
+Aron Nijjar,27,England,0,25,12,5,75,62,5,3,12,25,561,685,25
+Sam Northeast,32,England,0,127,117,13,2966,2321,275,70,33,0,0,0,0
+Liam Norwell,30,England,0,26,6,5,5,8,0,0,10,24,459,737,13
+Marcus O'Riordan,24,England,0,3,2,1,15,16,1,0,1,3,60,55,3
+Craig Overton,27,England,0,63,34,14,322,269,16,13,35,62,1188,1763,58
+Jamie Overton,27,England,0,70,38,13,401,238,29,25,39,63,1135,1795,59
+Callum Parkinson,25,England,0,68,37,19,233,224,17,0,13,65,1367,1734,73
+Matt Parkinson,25,England,4,67,11,4,24,32,3,0,7,66,1429,1789,103
+Rishi Patel,23,England,0,14,12,1,175,137,14,7,7,0,0,0,0
+Samit Patel,37,England,18,348,293,63,5930,4706,542,180,101,318,6261,7560,289
+David Payne,31,England,0,109,24,14,49,57,1,1,20,107,2178,3091,133
+Sam Pearce,24,England,0,4,3,1,11,13,1,0,1,4,68,117,0
+Dillon Pennington,22,England,0,36,11,7,35,40,3,0,10,36,616,925,36
+Michael Pepper,23,England,0,22,21,6,362,302,29,11,11,0,0,0,0
+Jack Plom,22,England,0,13,9,4,38,38,2,2,5,13,244,391,16
+Liam Plunkett,36,England,22,159,93,36,825,630,57,27,43,153,3007,4061,146
+Harry Podmore,27,England,0,23,10,3,37,64,0,0,9,23,409,619,23
+Ed Pollock,26,England,0,46,46,1,969,602,95,58,12,0,0,0,0
+Ollie Pope,24,England,0,41,39,9,904,668,84,14,17,0,0,0,0
+Jamie Porter,28,England,0,25,6,5,5,7,0,0,6,24,421,636,19
+Matty Potts,23,England,0,40,15,9,127,90,9,5,14,39,789,1101,49
+Josh Poysden,30,England,0,33,11,9,13,11,1,0,8,31,598,769,26
+Tom Prest,18,England,0,7,7,1,135,117,11,3,4,0,0,0,0
+Ben Raine,30,England,0,84,65,12,1013,772,76,48,19,71,1308,1949,71
+Adil Rashid,34,England,73,213,99,39,731,698,53,11,57,206,4406,5420,248
+Luis Reece,31,England,0,65,62,5,1441,1082,133,55,25,46,605,845,29
+Will Rhodes,26,England,0,56,51,6,659,540,52,17,15,42,493,741,36
+Ollie Robinson,28,England,0,49,23,10,92,95,6,1,20,46,884,1306,45
+Ollie Robinson,23,England,0,18,15,2,243,210,25,4,13,0,0,0,0
+Sam Robson,32,England,0,7,7,2,128,113,13,2,3,0,0,0,0
+Joe Root,31,England,32,83,76,14,1994,1573,221,28,36,42,467,655,21
+Billy Root,29,England,0,38,29,7,460,432,35,7,15,3,18,37,0
+Adam Rossington,28,England,0,98,93,6,1824,1298,212,60,63,0,0,0,0
+Jason Roy,31,England,58,272,266,14,7193,5006,798,269,125,2,18,39,1
+Josh Rymell,20,England,0,1,1,0,21,17,4,0,1,0,0,0,0
+Phil Salt,25,England,3,129,124,9,2870,1898,310,102,66,0,0,0,0
+Andrew Salter,28,England,0,85,50,24,347,307,24,11,22,68,1278,1761,60
+Ben Sanderson,33,England,0,53,18,12,57,72,2,2,8,53,998,1481,57
+George Scott,26,England,0,34,26,10,352,337,19,12,16,7,74,124,3
+George Scrimshaw,24,England,0,14,4,3,5,9,0,0,2,14,246,326,17
+Nick Selman,26,England,0,24,21,1,526,406,53,14,9,0,0,0,0
+Josh Shaw,26,England,0,21,3,2,2,3,0,0,4,21,336,491,17
+John Simpson,33,England,0,137,121,23,2342,1780,160,88,97,0,0,0,0
+Prem Sisodiya,23,England,0,19,5,4,14,5,2,1,3,19,450,558,18
+Ben Slater,30,England,0,15,14,0,305,278,33,5,1,0,0,0,0
+Will Smeed,20,England,0,30,29,2,875,631,80,42,17,0,0,0,0
+Jamie Smith,21,England,0,25,19,6,393,337,35,5,10,0,0,0,0
+Tom Smith,34,England,0,150,54,37,306,270,22,2,47,141,2844,3461,147
+Scott Steel,22,England,0,33,29,1,713,588,52,23,2,24,392,441,16
+Darren Stevens,45,England,0,225,201,43,4154,3040,335,177,66,152,2440,3256,125
+Ryan Stevenson,29,England,0,22,12,6,62,47,7,1,6,22,387,621,14
+Ben Stokes,30,England,34,148,135,20,2865,2121,236,121,65,109,1879,2669,86
+Mark Stoneman,34,England,0,77,71,4,1342,1146,158,17,30,0,0,0,0
+Harry Swindells,22,England,0,23,20,2,376,334,33,4,6,0,0,0,0
+Jonathan Tattersall,27,England,0,35,25,8,382,307,32,3,29,0,0,0,0
+Callum Taylor,23,England,0,16,15,4,138,153,10,3,5,6,66,86,5
+Jack Taylor,30,England,0,103,83,22,1288,928,105,52,34,39,634,862,26
+Matt Taylor,27,England,0,42,12,7,34,44,2,0,8,40,755,1118,36
+Tom Taylor,27,England,0,19,15,3,173,142,13,6,9,18,302,479,15
+Aaron Thomason,24,England,0,37,26,7,325,260,16,14,15,21,372,670,24
+Jordan Thompson,25,England,0,54,41,11,505,306,31,35,18,46,732,1129,43
+Alex Thomson,28,England,0,19,10,4,88,62,7,4,5,18,306,416,14
+Charlie Thurston,25,England,0,12,9,0,109,110,6,3,6,0,0,0,0
+Josh Tongue,24,England,0,7,2,2,3,2,0,0,3,7,114,163,4
+Reece Topley,27,England,10,104,22,17,57,69,4,2,20,100,2121,2904,131
+Peter Trego,40,England,0,211,195,23,4127,3281,442,116,57,117,1740,2494,78
+Liam Trevaskis,22,England,0,41,27,11,229,192,13,11,24,34,739,902,34
+James Vince,30,England,17,286,277,26,7496,5632,847,179,144,7,78,87,3
+Matthew Waite,26,England,0,17,9,5,52,43,4,1,3,16,231,345,11
+Roman Walker,21,England,0,9,4,1,3,9,0,0,1,9,179,247,13
+Max Waller,33,England,0,143,36,21,106,136,6,1,86,137,2756,3383,137
+Paul Walter,27,England,0,61,44,13,581,440,55,18,25,43,606,922,29
+Harrison Ward,22,England,0,6,6,1,73,64,10,0,2,0,0,0,0
+Joe Weatherley,25,England,0,33,31,2,712,545,46,26,8,1,6,9,0
+James Weighell,28,England,0,34,23,9,197,148,10,13,18,33,555,902,25
+Luke Wells,31,England,0,12,10,1,66,78,3,2,5,7,97,122,3
+Riki Wessels,36,England,0,237,224,27,5684,4184,553,198,112,0,0,0,0
+Tom Westley,32,England,0,93,86,8,2341,1802,266,47,34,21,234,296,7
+Adam Wheater,32,England,0,129,106,16,1736,1398,171,33,80,0,0,0,0
+Graeme White,34,England,0,131,58,27,449,332,37,22,46,119,2147,2899,107
+Ross Whiteley,33,England,0,153,137,36,2585,1822,168,149,60,10,102,181,4
+David Willey,31,England,32,208,155,31,2943,2086,222,157,86,185,3539,4668,205
+Chris Woakes,32,England,16,125,73,38,852,622,69,30,47,122,2472,3393,137
+Chris Wood,31,England,0,146,58,21,397,368,31,9,41,142,2964,4070,152
+Luke Wood,26,England,0,57,19,7,94,94,5,2,22,57,946,1313,47
+Mark Wood,32,England,19,40,14,8,107,104,10,0,4,40,849,1168,46
+Tom Wood,27,England,0,8,7,1,242,192,27,4,4,0,0,0,0
+Luke Wright,36,England,51,336,312,28,8368,5848,885,297,102,122,1799,2563,79
+Rob Yates,22,England,0,9,9,0,144,118,14,6,1,3,48,66,1
+Saif Zaib,23,England,0,25,19,4,257,198,24,9,11,10,108,150,2
+Abdul Ela Al Quraishi,24,India,0,1,0,0,0,0,0,0,0,1,24,29,1
+Abdul Samad,20,India,0,44,36,10,729,501,45,46,25,12,114,196,4
+Abhijeet Saket,26,India,0,7,2,0,0,2,0,0,1,7,135,186,8
+Abhinav Srivastava,20,India,0,2,2,0,10,15,1,0,1,0,0,0,0
+Abhishek Goswami,24,India,0,5,5,0,86,86,9,2,3,0,0,0,0
+Abhishek Sharma,21,India,0,43,41,9,791,569,66,39,14,22,276,320,16
+Abhishek Yadav,26,India,0,14,14,2,270,213,25,10,2,3,29,36,1
+Abid Mushtaq,25,India,0,15,6,1,41,43,4,1,1,14,288,291,13
+Himalay Agarwal,28,India,0,20,18,0,258,269,13,10,2,0,0,0,0
+Mayank Agarwal,31,India,0,164,159,11,3917,2912,382,141,62,1,6,8,0
+Shubham Agarwal,28,India,0,12,7,2,119,101,4,5,2,11,233,228,18
+Tanmay Agarwal,26,India,0,52,52,3,1509,1168,167,33,20,0,0,0,0
+Abu Nechim,33,India,0,80,41,13,241,216,14,11,10,79,1525,1915,78
+Khaleel Ahmed,24,India,14,69,10,5,10,27,0,0,13,69,1537,2082,87
+Rajjakuddin Ahmed,26,India,0,27,25,5,352,241,26,20,19,24,303,389,15
+Suraj Ahuja,22,India,0,6,4,0,33,41,3,0,4,0,0,0,0
+Akash Deep,25,India,0,21,7,3,42,34,2,2,5,21,450,482,26
+Akash Luitel,23,India,0,5,3,2,25,34,2,1,1,3,49,49,4
+Akash Singh,19,India,0,3,0,0,0,0,0,0,0,3,60,86,2
+Sajeevan Akhil,30,India,0,4,1,1,9,4,2,0,3,3,48,75,3
+Al Bashid Muhammed,23,India,0,10,10,1,109,178,6,2,6,0,0,0,0
+Roshan Alam,26,India,0,9,4,3,18,18,2,0,2,9,174,176,6
+Felix Alemao,26,India,0,13,5,4,22,21,0,1,6,11,216,320,14
+Aman Hakim Khan,25,India,0,5,5,2,40,27,3,2,4,1,6,7,0
+Amit Ali,19,India,0,5,3,0,21,19,2,0,1,5,114,89,11
+Amit Thakur,29,India,0,1,1,0,4,7,1,0,1,0,0,0,0
+Amit Yadav,32,India,0,41,35,9,324,242,11,23,17,40,799,892,37
+Anand Singh,35,India,0,27,26,3,638,534,84,16,11,20,270,376,10
+Shashi Anand,24,India,0,1,1,0,0,4,0,0,0,1,4,12,0
+Ankit Manori,21,India,0,1,1,0,19,9,3,1,0,1,18,25,0
+Atharva Ankolekar,21,India,0,9,6,2,71,55,1,5,2,9,210,203,6
+Anmolpreet Singh,23,India,0,37,29,2,503,471,35,16,15,0,0,0,0
+Anuj Rawat,22,India,0,27,22,5,501,414,36,29,34,0,0,0,0
+Anunay Singh,29,India,0,1,0,0,0,0,0,0,0,1,19,32,1
+Baba Aparajith,27,India,0,54,46,10,975,897,68,24,30,25,332,324,16
+Arjit Pannu,25,India,0,3,3,1,64,49,4,4,1,0,0,0,0
+Sanyam Arora,20,India,0,1,1,1,68,46,8,3,0,0,0,0,0
+Vaibhav Arora,24,India,0,12,3,3,0,0,0,0,3,12,260,302,12
+Arpit Pannu,25,India,0,3,0,0,0,0,0,0,0,3,72,93,2
+Arshdeep Singh,23,India,0,35,3,2,2,6,0,0,10,35,724,982,42
+Priyansh Arya,21,India,0,2,2,0,26,27,5,0,1,0,0,0,0
+Ashutosh Aman,35,India,0,23,15,3,100,129,4,2,6,22,474,461,30
+Ashwin Hebbar,26,India,0,41,39,7,1117,893,112,37,15,11,156,238,7
+Murugan Ashwin,31,India,0,85,25,11,119,143,4,3,28,85,1749,2111,82
+Ravichandran Ashwin,35,India,51,265,96,37,795,696,73,19,62,262,5682,6548,264
+KM Asif,28,India,0,20,3,3,1,3,0,0,3,20,373,505,21
+Auqib Nabi,25,India,0,14,6,0,62,53,1,5,2,14,294,392,17
+Mohit Avasthi,29,India,0,5,0,0,0,0,0,0,0,5,120,145,10
+Avesh Khan,25,India,0,48,10,3,27,30,3,1,10,48,1068,1385,65
+Avneesh Sudha,20,India,0,9,8,0,67,68,8,1,2,1,12,21,0
+Babul Kumar,29,India,0,23,23,4,387,364,45,6,5,2,18,27,0
+Satyajeet Bachhav,29,India,0,39,12,3,55,58,5,0,9,38,882,959,48
+Ankush Bains,26,India,0,46,42,3,780,722,87,16,42,0,0,0,0
+Bal Krishna,23,India,0,5,2,0,1,4,0,0,3,5,114,150,9
+Kengo Bam,33,India,0,6,1,0,1,3,0,0,1,5,68,113,2
+Himalaya Barad,32,India,0,24,22,4,251,233,20,8,9,0,0,0,0
+Basil Thampi,28,India,0,68,18,11,67,64,4,3,15,68,1428,1997,69
+Rahul Batham,23,India,0,2,1,1,0,0,0,0,0,2,30,31,2
+Ankush Bedi,30,India,0,3,2,1,8,5,0,1,1,3,60,87,3
+Jayanta Behera,35,India,0,23,8,5,5,17,0,0,3,23,462,458,32
+Jaideep Bhambhu,22,India,0,3,1,1,1,1,0,0,0,2,24,29,0
+Shivam Bhambri,26,India,0,15,15,1,510,371,47,25,7,0,0,0,0
+Srikar Bharat,28,India,0,61,56,5,1050,965,87,39,58,0,0,0,0
+Suboth Bhati,31,India,0,44,20,8,139,116,11,9,10,42,895,1146,52
+Vaibhav Bhatt,26,India,0,2,2,1,11,10,0,1,0,0,0,0,0
+Ricky Bhui,25,India,0,51,49,11,1137,864,73,63,10,1,18,18,0
+Parth Bhut,24,India,0,3,1,1,0,0,0,0,3,3,60,68,2
+Mandup Bhutia,27,India,0,13,9,1,40,57,4,1,6,6,90,133,1
+Chaitanya Bishnoi,27,India,0,42,41,6,924,796,93,23,20,5,48,60,2
+Rajesh Bishnoi,32,India,0,5,5,0,33,50,2,0,1,5,108,111,5
+Punit Bisht,35,India,0,59,48,5,877,612,90,36,42,1,6,11,0
+Chetan Bist,32,India,0,26,22,6,462,393,33,16,30,0,0,0,0
+Robin Bist,34,India,0,38,33,3,476,508,41,2,15,4,60,74,5
+Jay Bista,26,India,0,33,33,4,1001,734,114,33,12,7,72,89,2
+Rahul Buddhi,24,India,0,12,12,5,222,163,21,7,4,1,2,4,0
+Jasprit Bumrah,28,India,55,191,30,21,90,97,6,3,28,190,4282,5007,237
+KC Cariappa,27,India,0,38,11,6,54,43,0,5,5,38,840,946,37
+Yuzvendra Chahal,31,India,52,223,37,22,71,138,1,0,56,221,4768,6021,245
+Deepak Chahar,29,India,19,117,43,20,287,221,14,20,25,117,2509,3201,132
+Rahul Chahar,22,India,6,71,26,12,92,100,9,0,22,70,1549,1898,84
+Kunal Chandela,27,India,0,10,10,1,183,167,17,6,3,0,0,0,0
+Shashank Chandrakar,27,India,0,26,26,2,631,458,61,27,18,0,0,0,0
+Anish Charak,21,India,0,10,4,0,32,43,3,0,2,7,96,88,2
+Sudip Chatterjee,30,India,0,26,23,3,513,433,60,4,8,1,6,5,0
+Writtick Chatterjee,29,India,0,27,15,3,262,200,21,10,11,22,402,418,21
+Shubham Chaubey,26,India,0,19,17,3,213,177,12,10,1,1,6,10,0
+Shivam Chaudhary,24,India,0,18,18,1,357,325,37,8,8,11,136,181,3
+Yuvraj Chaudhary,20,India,0,1,0,0,0,0,0,0,0,1,24,26,1
+Saurav Chauhan,21,India,0,6,6,1,97,96,7,2,2,1,6,7,0
+Shiva Chauhan,24,India,0,1,1,0,6,3,1,0,2,1,12,17,0
+Piyush Chawla,33,India,7,256,144,46,1486,1201,128,56,67,255,5316,6583,270
+Hem Chetri,21,India,0,9,6,2,47,33,5,1,7,3,36,49,2
+Chongtham Mehul,33,India,0,1,1,0,1,3,0,0,0,1,12,35,0
+Prashant Chopra,29,India,0,53,52,7,1537,1368,147,36,34,7,66,86,2
+Aniket Choudhary,32,India,0,65,23,12,92,101,7,2,9,65,1401,1686,81
+Akash Choudhary,22,India,0,16,6,4,18,37,0,0,5,16,325,395,19
+Varun Choudhary,28,India,0,13,2,2,19,24,2,0,4,13,287,403,19
+Rishabh Chouhan,22,India,0,16,13,2,189,151,15,9,8,1,6,4,1
+Pradeep Dadhe,27,India,0,7,1,0,0,1,0,0,1,7,123,169,6
+Mayank Dagar,25,India,0,37,15,1,51,81,3,0,18,37,766,814,32
+MB Darshan,26,India,0,4,2,2,0,0,0,0,0,4,84,125,6
+Abhishek Das,31,India,0,13,13,0,189,226,14,3,10,0,0,0,0
+Pritam Das,33,India,0,56,27,10,64,69,5,2,14,56,1134,1378,64
+Pratik Das,28,India,0,6,6,1,93,90,11,2,3,3,54,57,6
+Rishav Das,32,India,0,27,27,0,485,446,71,1,8,0,0,0,0
+Saurabh Das,28,India,0,17,10,3,113,124,4,7,3,15,225,277,5
+Amlanjyoti Das,20,India,0,9,5,3,25,42,2,0,5,9,150,200,3
+Bikramkumar Das,22,India,0,5,5,0,145,133,17,0,2,0,0,0,0
+Pallavkumar Das,32,India,0,45,45,1,947,690,110,33,19,19,252,293,10
+Ram Dayal,33,India,0,42,27,11,191,232,9,2,15,42,898,988,41
+Dipayan Debbarma,22,India,0,4,3,1,39,48,1,1,2,0,0,0,0
+Denish Das,19,India,0,10,10,1,173,205,12,3,4,0,0,0,0
+Kumar Deobrat,29,India,0,68,56,9,845,733,72,36,22,0,0,0,0
+Amogh Sunil Desai,29,India,0,36,34,1,423,444,43,15,10,17,174,217,9
+Sanjeet Desai,24,India,0,4,3,1,79,65,4,4,0,0,0,0,0
+Pavan Deshpande,32,India,0,26,21,6,517,372,39,19,7,12,123,175,4
+Tushar Deshpande,26,India,0,31,9,4,31,25,3,1,5,31,658,955,44
+Kedar Devdhar,32,India,0,81,80,6,2282,1889,256,51,37,0,0,0,0
+Mrunal Devdhar,29,India,0,37,37,1,852,703,95,21,18,0,0,0,0
+Rajat Dey,25,India,0,22,20,5,411,327,25,19,4,1,6,12,0
+Vipin Dhaka,25,India,0,3,3,0,38,49,3,0,2,0,0,0,0
+Rishi Dhawan,32,India,1,101,82,36,1423,1200,130,29,23,96,1905,2373,87
+Shikhar Dhawan,36,India,68,303,300,30,8775,7032,987,200,119,6,48,66,4
+Dheeraj Kumar,22,India,0,8,6,1,60,42,3,5,2,0,0,0,0
+MS Dhoni,40,India,98,347,306,125,6935,5161,479,305,282,1,12,25,0
+Rajesh Dhuper,22,India,0,23,23,3,435,434,35,11,19,0,0,0,0
+Paras Dogra,37,India,0,92,89,16,2078,1782,139,85,51,1,1,1,0
+Techi Doria,27,India,0,17,17,0,220,270,27,1,7,12,164,239,8
+Shivam Dube,28,India,13,69,62,15,1020,768,62,60,21,53,723,1052,33
+Praveen Dubey,28,India,0,22,16,7,126,123,10,3,14,22,375,446,20
+Harsh Dubey,19,India,0,1,0,0,0,0,0,0,0,1,18,8,1
+Shubham Dubey,27,India,0,5,4,0,84,68,4,4,2,0,0,0,0
+Abhimanyu Easwaran,26,India,0,21,20,6,554,437,43,14,5,0,0,0,0
+Fabid Ahmed,26,India,0,32,26,7,218,227,8,8,14,30,554,607,24
+Ishaan Gadekar,24,India,0,3,3,1,37,32,5,2,0,0,0,0,0
+Ruturaj Gaikwad,25,India,2,62,62,7,2070,1540,206,68,26,0,0,0,0
+Chintan Gaja,27,India,0,24,10,5,41,50,1,1,6,23,465,499,26
+Chirag Gandhi,31,India,0,60,50,16,969,826,76,27,33,0,0,0,0
+Chinta Gandhi,27,India,0,4,1,1,9,10,0,0,0,4,60,71,2
+Ganesh Satish,33,India,0,52,45,2,761,763,63,11,12,0,0,0,0
+Nikhil Gangta,29,India,0,35,27,4,448,360,47,10,12,10,77,121,2
+Sakibul Gani,22,India,0,11,9,2,192,181,13,7,4,1,6,8,0
+Deepraj Gaonkar,23,India,0,26,19,2,228,227,21,4,12,14,216,324,6
+Lakshay Garg,26,India,0,37,25,9,190,157,14,11,12,37,737,964,27
+Priyam Garg,21,India,0,38,32,3,518,451,37,15,13,0,0,0,0
+Aditya Garhwal,25,India,0,32,32,2,471,378,61,12,4,7,96,102,6
+Gaurav Puri,30,India,0,8,8,1,115,81,12,6,2,0,0,0,0
+Bishal Ghosh,25,India,0,7,7,1,109,122,14,0,3,0,0,0,0
+Sayan Ghosh,29,India,0,34,5,3,29,25,5,0,11,34,718,915,47
+Samit Gohel,31,India,0,1,1,0,18,19,2,0,0,0,0,0,0
+Shreyas Gopal,28,India,0,82,34,9,380,316,37,7,19,79,1515,1901,91
+Shreevats Goswami,32,India,0,104,94,9,2311,1966,258,39,61,0,0,0,0
+Krishnappa Gowtham,33,India,0,67,53,12,610,390,53,32,20,67,1266,1560,48
+Anshul Gupta,32,India,0,33,32,3,549,576,48,9,9,1,6,18,0
+Arjit Gupta,32,India,0,33,31,5,483,371,30,36,10,4,54,56,3
+Gurinder Singh,29,India,0,53,37,15,583,479,34,26,26,48,999,1154,44
+Gurkeerat Singh Mann,31,India,0,118,100,23,1985,1600,188,70,58,19,222,262,8
+Ram Gurung,23,India,0,3,1,0,7,9,0,0,0,3,54,49,1
+Harbhajan Singh,41,India,28,268,155,52,1512,1178,141,73,83,256,5471,6194,235
+Hari Nishaanth,25,India,0,27,26,4,593,475,57,25,7,2,11,18,0
+Harpreet Brar,26,India,0,31,18,11,149,132,9,6,4,31,626,672,30
+Harsh Tyagi,22,India,0,27,20,10,297,221,23,14,4,27,553,640,17
+Mehdi Hassan,32,India,0,27,11,7,52,60,0,1,5,26,556,629,29
+Vikas Hathwala,28,India,0,29,28,7,515,464,43,16,9,4,66,67,2
+Henan Nazir,24,India,0,2,2,0,9,16,0,0,0,0,0,0,0
+Akhil Herwadkar,27,India,0,19,19,0,466,413,48,10,12,2,19,26,0
+Himan Phukan,24,India,0,2,0,0,0,0,0,0,0,2,42,37,1
+Himmat Singh,25,India,0,32,27,8,524,406,39,26,12,1,3,0,1
+Divyang Hinganekar,28,India,0,27,15,6,131,101,10,4,13,25,451,538,26
+Hirshi Raj,27,India,0,2,1,0,1,1,0,0,0,2,42,68,4
+Mihir Hirwani,27,India,0,23,8,2,24,29,1,1,5,23,431,516,18
+Deepak Hooda,26,India,0,141,116,25,2172,1565,140,103,61,54,703,913,17
+Nitesh Hooda,22,India,0,1,1,1,0,0,0,0,0,1,12,14,0
+Saruk Hossain,21,India,0,3,0,0,0,0,0,0,0,3,42,40,1
+Indiya Toku,27,India,0,1,1,0,1,6,0,0,0,0,0,0,0
+Iqbal Abdulla,32,India,0,104,47,22,426,429,38,9,33,101,2055,2351,86
+Iqlas Naha,27,India,0,4,4,0,27,29,0,1,0,0,0,0,0
+Irfan-ul-Haq,25,India,0,1,0,0,0,0,0,0,0,1,6,18,0
+Ishan Kishan,23,India,7,112,106,8,2763,2093,261,128,57,0,0,0,0
+Chabungbam Ishworjit,27,India,0,3,2,2,10,8,1,0,0,0,0,0,0
+Shreyas Iyer,27,India,32,160,156,25,4180,3249,340,171,65,3,41,72,1
+Venkatesh Iyer,27,India,5,58,52,17,1342,983,132,48,26,40,630,713,30
+Sheldon Jackson,35,India,0,65,62,10,1511,1250,148,55,48,0,0,0,0
+Dharmendrasinh Jadeja,31,India,0,47,18,5,155,98,14,8,18,43,842,983,34
+Ravindra Jadeja,33,India,55,273,190,77,2852,2226,208,102,107,243,4372,5520,184
+Vishvaraj Jadeja,23,India,0,15,13,2,206,178,21,4,7,0,0,0,0
+Kedar Jadhav,36,India,9,155,135,33,2484,1935,222,82,62,4,60,88,4
+Narayan Jagadeesan,26,India,0,43,38,10,906,770,79,30,17,0,0,0,0
+Ishank Jaggi,33,India,0,68,66,15,1750,1435,190,38,21,6,73,83,2
+Jagjit Singh,25,India,0,8,1,1,5,3,0,0,0,8,152,167,2
+Prateek Jain,27,India,0,4,0,0,0,0,0,0,0,4,84,132,1
+Saransh Jain,28,India,0,15,6,1,33,49,0,0,5,12,216,255,12
+Mohit Jain,22,India,0,1,0,0,0,0,0,0,0,1,24,14,4
+Saahil Jain,23,India,0,12,11,1,135,130,14,2,3,0,0,0,0
+Yashasvi Jaiswal,20,India,0,23,22,0,429,333,51,17,4,2,12,24,0
+Ayush Jamwal,22,India,0,22,9,4,72,61,5,4,6,22,482,491,14
+Chirag Jani,32,India,0,43,32,8,526,403,35,22,15,41,768,906,29
+Jaskaran Singh,32,India,0,32,23,11,214,146,13,15,3,31,609,764,26
+Jaskaranvir Singh,28,India,0,24,22,6,374,337,40,10,19,0,0,0,0
+Pankaj Jaswal,26,India,0,48,30,9,243,131,10,24,8,47,956,1153,73
+Jay Gohil,21,India,0,1,1,0,10,8,1,1,1,0,0,0,0
+Vijay Jethi,27,India,0,2,2,0,18,16,3,0,1,0,0,0,0
+Johnson Singh,22,India,0,9,9,1,124,177,9,3,2,1,12,14,0
+Rongsen Jonathan,35,India,0,30,29,3,512,500,44,15,4,6,77,87,1
+Sijomon Joseph,24,India,0,3,1,0,0,2,0,0,0,3,66,84,0
+Aniruddha Joshi,34,India,0,30,27,8,497,404,31,16,14,4,60,74,6
+Aryan Juyal,20,India,0,7,5,1,67,54,6,1,1,0,0,0,0
+Rohan Kadam,27,India,0,29,28,3,1027,804,116,27,9,0,0,0,0
+Kaif Ahmed,24,India,0,10,8,3,177,161,18,3,5,0,0,0,0
+Kartik Kakade,26,India,0,12,6,2,61,52,6,2,2,11,144,169,7
+Roosh Kalaria,29,India,0,36,16,6,91,79,7,5,12,36,773,869,44
+Naveen Kanwar,23,India,0,1,1,1,8,5,1,0,0,1,6,13,0
+Sarul Kanwar,34,India,0,26,26,1,548,449,54,30,6,1,6,13,0
+Karan Lal,21,India,0,4,3,0,17,21,2,0,1,4,60,49,4
+Karkir Taye,26,India,0,4,3,3,15,13,2,0,0,4,48,93,0
+Akshay Karnewar,29,India,0,47,34,6,419,317,38,16,18,46,904,931,46
+Codanda Ajit Karthik,28,India,0,5,5,1,121,108,10,4,2,5,109,103,6
+Dinesh Karthik,36,India,32,327,290,59,6283,4714,616,193,255,1,12,10,1
+S Karthik,31,India,0,14,11,0,82,94,8,2,7,0,0,0,0
+Kartik Tyagi,21,India,0,14,5,3,6,10,0,0,3,14,313,491,13
+Kumar Kartikeya,24,India,0,8,2,1,4,5,0,0,1,8,162,145,9
+Suraj Kashyap,18,India,0,3,2,0,22,36,2,1,1,3,54,62,3
+Siddarth Kaul,31,India,3,124,34,24,75,86,5,0,20,124,2674,3389,147
+Uday Kaul,34,India,0,16,8,2,169,173,17,1,9,0,0,0,0
+Kaushal Singh,25,India,0,36,29,8,435,371,30,18,11,27,392,518,19
+Aditya Kaushik,30,India,0,27,27,2,602,557,55,12,7,0,0,0,0
+Ankit Kaushik,30,India,0,25,19,7,321,265,14,19,10,2,18,39,2
+Madhav Kaushik,24,India,0,6,6,0,123,124,16,3,1,0,0,0,0
+Snehal Kauthankar,26,India,0,23,21,3,407,373,37,7,5,0,0,0,0
+Azim Kazi,28,India,0,32,22,10,409,335,24,20,6,28,554,643,24
+Kushang Patel,30,India,0,11,4,3,10,9,1,0,1,11,238,320,7
+Langlonyamba Meitan Keishangbam,24,India,0,9,8,1,135,166,8,0,4,3,25,39,1
+Khrievitso Kense,17,India,0,9,1,0,2,4,0,0,0,9,191,173,14
+Eknath Kerkar,28,India,0,16,14,2,262,230,23,6,15,0,0,0,0
+Sarfaraz Khan,24,India,0,68,51,15,781,581,77,24,26,2,8,9,0
+Salman Khan,23,India,0,12,12,2,160,139,11,3,6,0,0,0,0
+Amandeep Khare,24,India,0,35,32,8,976,781,80,29,15,1,2,3,0
+Chirag Khurana,29,India,0,16,15,4,353,287,40,3,3,13,235,280,9
+Kishan Lyngdoh,23,India,0,5,5,1,247,173,31,6,1,1,6,5,0
+L Kishan Singha,25,India,0,10,6,3,74,92,2,2,1,10,210,256,7
+Parth Kohli,25,India,0,3,3,1,59,63,5,1,0,0,0,0,0
+Taruwar Kohli,33,India,0,50,47,11,853,847,81,19,18,29,411,614,14
+Virat Kohli,33,India,97,326,309,59,10273,7710,914,322,141,44,454,661,8
+Bishworjit Konthoujam,26,India,0,20,5,3,5,15,0,0,1,20,422,484,19
+Yash Kothari,26,India,0,3,3,0,29,40,3,0,1,0,0,0,0
+Tanush Kotian,23,India,0,5,2,2,7,4,1,0,1,5,114,106,5
+Vasuki Koushik,29,India,0,25,4,3,7,11,0,0,5,25,541,712,33
+Jagatheesan Kousik,26,India,0,11,6,3,104,82,5,4,5,7,102,124,6
+Kranthi Kumar,28,India,0,8,6,0,17,32,1,0,3,8,150,194,5
+Krishan Alang,30,India,0,6,0,0,0,0,0,0,0,6,114,146,7
+Kshitiz Sharma,31,India,0,24,19,5,385,336,40,14,4,9,144,170,5
+Amit Kuila,26,India,0,4,0,0,0,0,0,0,0,4,66,114,4
+Kuldeep Gehi,27,India,0,5,5,0,113,79,10,7,2,0,0,0,0
+Kuldeep Yadav,27,India,23,101,23,13,148,166,12,0,26,98,2109,2653,122
+Dhawal Kulkarni,33,India,2,150,46,25,225,225,19,4,35,149,3034,4036,147
+ Shubham Kumar Singh,23,India,0,3,1,0,0,1,0,0,2,3,57,99,4
+Bhuvneshwar Kumar,32,India,57,205,73,39,357,384,24,6,43,205,4518,5398,209
+Pankaj Kumar,22,India,0,4,4,1,13,12,0,1,4,0,0,0,0
+Rohan  Kunnummal,23,India,0,11,11,2,330,295,36,6,3,0,0,0,0
+Kumar Kushagra,17,India,0,2,2,0,5,6,0,0,2,0,0,0,0
+Vishal Kushwah,31,India,0,30,25,8,367,237,19,28,15,18,300,445,21
+Siddhesh Lad,29,India,0,53,43,8,842,700,74,30,23,30,389,448,22
+Sanatombaroy Laiphangbam,24,India,0,1,1,0,0,3,0,0,0,0,0,0,0
+Lakhan Singh,23,India,0,15,15,0,317,253,37,9,5,11,120,176,11
+G Lalbiakvela,34,India,0,22,9,3,15,33,1,0,0,20,318,520,9
+Lalhmangaiha,38,India,0,18,18,2,241,311,32,3,3,7,85,133,3
+Lalhruaizela,25,India,0,20,20,7,201,343,11,3,3,6,72,98,5
+Lalit Yadav,25,India,0,47,37,18,698,480,71,27,28,41,754,870,32
+Lalit Yadav,26,India,0,6,2,0,18,21,2,1,2,6,126,138,6
+B Lalnunfela,19,India,0,1,0,0,0,0,0,0,0,1,6,6,0
+Khawlhring Lalremruata,34,India,0,7,7,2,87,114,8,2,0,0,0,0,0
+Joseph Lalthankhuma,21,India,0,4,2,1,5,10,0,0,1,1,6,7,0
+Abhimanyu Lamba,26,India,0,6,4,1,5,11,0,0,2,6,132,193,5
+Ankit Lamba,30,India,0,60,60,5,1730,1580,160,53,23,1,6,13,0
+Nilesh Lamichaney,30,India,0,16,11,1,96,148,9,0,1,0,0,0,0
+Bhagmender Lather,24,India,0,6,2,1,15,10,1,1,0,6,102,139,5
+Lee Yong Lepcha,30,India,0,16,12,0,37,102,2,0,6,9,93,165,1
+Lekhaz Reddy,20,India,0,5,4,1,38,21,2,4,0,0,0,0,0
+Imliwati Lemtur,30,India,0,18,12,3,89,105,3,5,2,18,323,373,14
+Liyan Khan,30,India,0,5,5,2,150,181,13,2,0,0,0,0,0
+Devender Lochab,29,India,0,9,8,2,90,117,10,1,3,0,0,0,0
+Logesh Prabagaran,22,India,0,1,1,0,0,4,0,0,0,1,6,12,0
+Mahipal Lomror,22,India,0,59,58,11,1367,1108,107,52,23,35,397,489,8
+Akash Madhwal,28,India,0,15,3,2,6,14,0,0,3,15,317,399,15
+Kunal Mahajan,30,India,0,4,1,0,8,9,0,0,2,1,6,12,0
+Mangal Mahrour,29,India,0,17,17,2,345,360,36,7,6,4,36,48,1
+Sourabh Majumdar,23,India,0,7,2,1,0,1,0,0,1,7,118,138,7
+Ajay Mandal,25,India,0,28,19,6,178,147,13,6,8,26,468,586,21
+Mandeep Singh,30,India,3,182,160,34,3594,2800,367,94,67,26,303,337,16
+Manik Beri,28,India,0,1,1,0,17,18,1,1,0,0,0,0,0
+Manish Golamaru,25,India,0,8,4,0,30,34,2,1,2,8,155,185,6
+Prerak Mankad,27,India,0,34,30,7,763,543,70,29,16,28,426,611,20
+Abhinav Manohar,27,India,0,4,4,1,162,108,11,11,2,0,0,0,0
+Unnikrishnan Manukrishnan,33,India,0,36,13,7,67,52,5,3,12,36,701,762,37
+Manzoor Dar,28,India,0,23,19,4,330,225,29,19,8,10,119,152,6
+Kilco Marak,29,India,0,12,3,2,5,7,0,0,3,11,152,203,12
+Mayank Markande,24,India,1,43,16,11,78,69,8,1,10,43,877,1076,43
+Mayank Mishra,31,India,0,14,9,2,35,58,2,1,7,14,281,328,16
+Md Nazim,29,India,0,1,1,0,2,3,0,0,1,1,6,10,0
+Md Saptulla,23,India,0,7,3,2,4,8,0,0,2,6,114,112,2
+Homendro Kabrambam,29,India,0,13,11,3,53,80,1,3,6,13,210,312,5
+Ashok Menaria,31,India,0,66,57,5,950,821,75,39,18,34,451,493,17
+Lukman Meriwala,30,India,0,49,6,4,19,25,2,0,14,48,1043,1197,77
+Sudhesan Midhun,27,India,0,23,7,3,23,22,0,2,4,23,500,565,23
+Chama Milind,27,India,0,53,31,16,226,175,16,9,18,52,1123,1427,83
+Darshan Misal,29,India,0,55,42,8,509,528,37,13,18,51,1033,1181,44
+Amit Mishra,39,India,10,236,101,44,782,795,76,7,40,235,4942,5924,262
+Nalin Mishra,26,India,0,3,3,0,24,32,3,0,0,0,0,0,0
+Mohammad Saif,25,India,0,1,1,0,21,20,1,0,0,1,24,19,1
+Mohammed Azharuddeen,27,India,0,31,29,2,598,457,46,29,22,0,0,0,0
+Mohammed Shami,31,India,17,117,31,17,81,87,6,2,22,117,2487,3451,136
+Mohammed Siraj,27,India,4,86,23,12,89,108,8,2,26,85,1830,2476,107
+M Mohammed,30,India,0,36,19,8,137,75,9,9,14,33,528,666,30
+Sarbeswar Mohanty,26,India,0,7,7,2,33,43,1,1,3,4,54,68,1
+Mohit Ahlawat,26,India,0,9,7,1,35,44,2,1,1,0,0,0,0
+Mohsin Khan,23,India,0,26,12,3,55,48,4,2,7,26,540,638,33
+Monu Kumar,27,India,0,29,12,6,49,44,3,3,5,29,619,735,37
+Aishwarya Mourya,27,India,0,9,4,1,22,31,1,1,1,6,120,170,7
+Nzanthung Mozhui,26,India,0,1,1,0,0,1,0,0,0,0,0,0,0
+Mujtaba Yousuf,19,India,0,14,2,1,0,2,0,0,3,14,300,369,13
+Mukesh Choudhary,25,India,0,12,4,3,17,13,3,0,0,12,259,367,16
+Mukesh Kumar,28,India,0,17,6,5,4,8,0,0,6,17,378,457,19
+Mukhtar Hussain,23,India,0,14,4,3,19,13,1,2,2,14,288,374,18
+Shrikant Mundhe,33,India,0,45,40,10,748,608,68,21,19,43,781,1043,36
+Manisankar  Murasingh,29,India,0,53,49,11,742,549,50,38,10,53,1039,1298,39
+Shahbaz Nadeem,32,India,0,140,51,16,274,309,18,7,26,138,2937,3335,114
+Nagaho Chishi,24,India,0,15,8,3,18,36,1,0,2,15,215,270,9
+Kamlesh Nagarkoti,22,India,0,17,9,4,66,87,5,0,6,16,289,399,12
+Arzan Nagwaswalla,24,India,0,20,7,4,26,25,3,1,2,20,395,455,28
+Yash Nahar,27,India,0,13,12,1,250,205,23,11,2,0,0,0,0
+Deepesh Nainwal,24,India,0,1,0,0,0,0,0,0,0,0,0,0,0
+Karun Nair,30,India,0,147,133,16,2973,2261,292,99,58,10,78,81,4
+Darshan Nalkande,23,India,0,22,12,2,73,85,3,4,6,22,454,549,43
+Narisingh Yadav,29,India,0,18,17,2,171,222,13,5,6,0,0,0,0
+T Natarajan,30,India,4,49,5,4,5,10,0,0,15,49,1032,1354,50
+Akshdeep Nath,28,India,0,80,71,18,1194,1028,99,32,29,21,264,346,16
+Dikshanshu Negi,31,India,0,15,15,2,312,278,30,8,4,15,258,274,11
+Siddhesh Neral,27,India,0,1,0,0,0,0,0,0,0,1,18,13,1
+Techi Neri,27,India,0,17,12,5,82,127,5,2,4,13,228,304,3
+Ranjeet Nikam,22,India,0,8,6,0,55,56,0,3,6,0,0,0,0
+Shresth Nirmohi,30,India,0,13,2,1,1,4,0,0,3,13,264,347,11
+Nitesh Sedai,24,India,0,15,15,1,261,245,26,5,6,8,126,176,2
+Nitin Sharma,25,India,0,21,16,2,251,185,18,12,5,0,0,0,0
+Nitin Yadav,29,India,0,11,3,2,3,4,0,0,2,11,258,361,16
+Nitish Kumar Reddy,18,India,0,5,4,0,92,96,6,3,3,2,12,28,0
+Joshua Ozukum,21,India,0,9,5,1,121,82,13,4,3,1,6,8,1
+Amit Pachhara,26,India,0,16,15,5,322,263,23,9,3,0,0,0,0
+Devdutt Padikkal,21,India,2,54,54,5,1829,1340,192,67,28,0,0,0,0
+Rajat Paliwal,30,India,0,51,48,9,912,817,73,6,23,14,186,227,8
+Ashay Palkar,32,India,0,6,1,1,2,2,0,0,1,6,107,117,9
+Priyank Panchal,31,India,0,50,49,4,1327,1045,147,30,27,6,66,83,4
+Akshat Pandey,28,India,0,8,5,1,48,41,5,0,3,8,120,199,4
+Manish Pandey,32,India,39,274,251,56,6315,5098,523,193,141,10,168,212,10
+Sachidanand Pandey,25,India,0,12,5,2,35,29,2,4,5,12,235,351,10
+Amulya Pandrekar,25,India,0,15,6,3,13,18,1,0,4,15,280,345,12
+Hardik Pandya,28,India,54,175,147,45,2797,1973,184,165,97,135,2248,3060,110
+Krunal Pandya,30,India,19,140,111,32,1753,1302,151,70,50,136,2560,3131,101
+Bhanu Pania,25,India,0,13,9,0,127,126,8,7,4,0,0,0,0
+Rishabh Pant,24,India,43,142,136,24,3710,2544,329,172,108,0,0,0,0
+Riyan Parag,20,India,0,57,48,7,1019,807,73,50,21,40,593,717,23
+Dhruv Parashar,24,India,0,1,1,0,2,5,0,0,0,0,0,0,0
+Parvez Rasool,33,India,1,66,51,10,796,752,66,20,26,66,1452,1579,56
+Dhruv Patel,24,India,0,10,6,2,87,63,7,4,2,4,66,107,1
+Manvan Patel,22,India,0,9,6,1,15,12,1,1,1,9,144,223,7
+Axar Patel,28,India,15,167,123,40,1745,1352,117,73,64,166,3556,4039,146
+Het Patel,23,India,0,6,4,2,113,110,12,1,4,0,0,0,0
+Hardik Patel,26,India,0,38,5,2,4,10,0,0,13,37,799,880,36
+Harshal Patel,31,India,4,120,75,20,950,632,94,55,25,118,2488,3317,144
+Urvil Patel,23,India,0,28,28,1,521,367,68,15,23,0,0,0,0
+Ansh Patel,20,India,0,4,1,0,6,4,1,0,1,3,42,52,1
+Karan Patel,27,India,0,11,7,0,64,66,2,3,4,7,96,117,4
+Ripal Patel,26,India,0,19,16,6,299,193,21,19,6,5,42,66,0
+Tejas Patel,26,India,0,13,4,2,43,24,7,0,3,13,258,330,14
+Babashafi Pathan,27,India,0,17,4,3,0,4,0,0,0,16,306,364,13
+Diwesh Pathania,32,India,0,33,22,10,233,176,15,12,8,32,731,896,42
+Rajat Patidar,28,India,0,31,31,3,861,621,73,34,18,0,0,0,0
+Vidyadhar Patil,21,India,0,6,1,1,1,1,0,0,3,6,132,175,5
+Sandeep Pattnaik,23,India,0,12,12,2,213,211,29,1,3,0,0,0,0
+Sankar Paul,21,India,0,10,5,1,71,77,3,3,1,10,156,177,9
+KB Pawan,34,India,0,23,22,6,484,435,36,17,10,0,0,0,0
+Govinda Poddar,30,India,0,44,44,4,1171,942,114,29,14,26,369,411,16
+Manogaran Pooviarasan,20,India,0,1,1,0,0,1,0,0,0,1,18,37,0
+Ishan Porel,23,India,0,22,1,1,2,5,0,0,1,22,480,537,30
+Prabhsimran Singh,21,India,0,30,30,6,822,601,77,40,18,0,0,0,0
+Suyash Prabhudessai,24,India,0,22,20,6,443,299,38,20,16,9,102,127,2
+T Pradeep,27,India,0,15,10,3,158,96,7,15,2,15,318,472,11
+Debabrata Pradhan,25,India,0,16,7,3,32,40,4,0,2,15,306,364,14
+Pragnay Reddy,22,India,0,9,8,0,43,62,4,2,6,0,0,0,0
+Pradipta Pramanik,23,India,0,8,5,2,23,21,1,1,2,8,144,165,10
+Prasidh Krishna,26,India,0,54,9,6,4,17,0,0,14,54,1157,1672,48
+Veer Pratap Singh,29,India,0,22,7,4,4,17,0,0,3,22,450,642,19
+Pratham Singh,29,India,0,27,27,2,829,649,84,23,10,0,0,0,0
+Pratyush Singh,27,India,0,23,21,3,141,163,19,0,9,14,139,177,5
+Prayash Singh,28,India,0,10,9,2,58,68,3,1,3,7,84,96,5
+Premraj Rajavelu,30,India,0,2,2,0,11,26,1,0,0,0,0,0,0
+Shubham Pundir,23,India,0,28,24,7,456,428,42,10,9,0,0,0,0
+Deepak Punia,28,India,0,20,13,5,116,114,5,5,7,20,390,537,21
+Qamran Iqbal,20,India,0,6,6,0,160,155,12,6,0,0,0,0,0
+Samar Quadri,32,India,0,17,8,5,16,24,0,0,2,17,339,370,14
+Qamran Iqbal,20,India,0,6,6,0,160,155,12,6,0,0,0,0,0
+Raghav Dhawan,35,India,0,13,13,0,328,305,37,6,5,4,48,58,1
+Ramachandran Ragupathy,25,India,0,3,3,0,83,80,9,3,1,0,0,0,0
+Ajinkya Rahane,33,India,20,212,202,20,5395,4496,557,107,87,1,6,5,1
+Rahul Singh,29,India,0,25,12,7,47,77,2,1,3,24,468,529,21
+KL Rahul,29,India,56,172,159,27,5742,4162,498,232,89,0,0,0,0
+Ashish Rai,24,India,0,5,1,0,1,2,0,0,0,5,90,145,5
+Suresh Raina,35,India,78,336,319,50,8654,6296,779,325,172,120,1563,1872,54
+Malay Raj,18,India,0,1,0,0,0,0,0,0,0,1,24,39,2
+Rajesh Mohanty,21,India,0,15,8,0,72,77,4,4,3,15,243,322,9
+Kumar Rajnish,28,India,0,2,2,0,7,17,0,0,0,0,0,0,0
+Ankit Rajpoot,28,India,0,87,20,11,66,88,5,2,12,87,1751,2263,105
+Rakshann Readdi,21,India,0,6,1,1,0,1,0,0,0,6,128,140,5
+Lalhruai Ralte,29,India,0,19,10,0,47,75,2,0,0,18,300,482,9
+Ramandeep Singh,24,India,0,13,8,1,98,72,6,6,5,5,66,76,3
+Abhimanyu Rana,30,India,0,21,20,2,273,274,31,7,1,0,0,0,0
+Himanshu Rana,23,India,0,37,36,3,912,730,104,22,10,0,0,0,0
+Nitish Rana,28,India,2,139,128,14,3184,2355,274,168,33,49,565,651,29
+Digvijay Rangi,23,India,0,7,6,3,92,79,7,4,1,6,69,89,3
+Shubham Ranjane,27,India,0,29,15,5,263,237,22,5,10,27,423,534,19
+Vijay Rao,25,India,0,2,2,0,3,5,0,0,1,0,0,0,0
+Harshit Rathod,23,India,0,1,1,1,1,2,0,0,1,1,24,24,1
+Ninad Rathva,22,India,0,25,15,2,157,142,21,2,13,21,348,392,24
+Abhishek Raut,34,India,0,60,41,11,679,611,62,14,23,34,507,624,23
+Dhruv Raval,33,India,0,21,21,2,452,346,59,8,15,0,0,0,0
+Ravi Bishnoi,21,India,2,44,12,4,61,79,7,1,16,44,1008,1108,52
+Ravi Chauhan,28,India,0,26,26,3,756,646,81,12,15,0,0,0,0
+Ravi Kiran,31,India,0,38,12,10,14,40,0,0,5,38,831,1017,42
+Dwaraka Ravi Teja,34,India,0,89,80,18,1618,1490,152,33,30,14,126,165,6
+Ravi Teja,27,India,0,22,18,3,167,140,10,6,5,21,420,545,22
+Saurabh Rawat,24,India,0,21,20,3,301,266,20,11,15,1,6,14,0
+Shashwat Rawat,20,India,0,2,2,0,8,16,0,0,1,0,0,0,0
+Ambati Rayudu,36,India,6,256,241,38,5489,4406,453,199,97,0,0,0,0
+Harishankar Reddy,23,India,0,18,8,5,22,18,2,1,2,18,377,523,24
+Remruatdika Ralte,23,India,0,5,0,0,0,0,0,0,0,5,72,85,2
+Rinsangzela Hmamte,19,India,0,2,0,0,0,0,0,0,0,2,42,47,0
+Rishabh Tiwari,28,India,0,15,15,1,437,324,50,11,6,0,0,0,0
+Yashasvi Rishav,24,India,0,4,3,0,14,31,0,0,1,0,0,0,0
+Damodaran Rohit,29,India,0,37,35,1,511,522,61,12,1,13,120,194,2
+Rohit Rayudu,27,India,0,8,5,1,69,65,1,3,3,2,12,17,1
+Rojith Ganesh,28,India,0,3,3,1,17,22,1,0,0,1,6,16,0
+Bikash Rout,28,India,0,5,5,3,47,40,4,0,2,5,120,152,7
+Ritwik Roy Chowdhury,26,India,0,20,15,7,200,154,18,6,11,1,6,7,0
+Anukul Roy,23,India,0,31,24,10,304,215,17,17,15,31,587,694,19
+Sumit Ruikar,31,India,0,26,13,2,86,88,5,2,16,26,504,567,16
+Sedezhalie Rupero,24,India,0,14,10,0,97,124,12,0,2,0,0,0,0
+Sachin Baby,33,India,0,88,72,11,1671,1275,137,52,37,18,200,261,8
+Sachin Kumar,24,India,0,5,5,3,48,58,5,0,1,5,89,99,5
+Ananta Saha,25,India,0,3,0,0,0,0,0,0,0,3,60,53,1
+Wriddhiman Saha,37,India,0,209,181,33,3650,2803,332,123,145,0,0,0,0
+Parth Sahani,28,India,0,45,41,13,1057,828,79,41,24,12,138,175,8
+Akhilesh Sahani,27,India,0,22,20,3,251,235,18,10,5,22,423,567,25
+Ravisrinivasan Sai Kishore,25,India,0,38,6,2,19,17,1,1,5,38,821,748,43
+Sai Sudharsan,20,India,0,7,7,2,182,152,19,0,3,0,0,0,0
+Kunal Saikia,33,India,0,10,8,2,82,64,8,4,6,0,0,0,0
+Navdeep Saini,29,India,11,66,15,11,53,65,5,0,16,64,1398,1711,53
+Nazeeb Saiyed,26,India,0,9,9,0,120,139,4,5,4,5,77,93,2
+Chetan Sakariya,23,India,2,38,8,2,21,36,2,0,10,37,836,1054,51
+Sameer Choudhary,22,India,0,7,4,1,16,29,0,0,0,1,24,33,1
+Sanju Samson,27,India,10,195,189,21,4777,3662,375,203,117,1,3,4,1
+Sandeep Sharma,28,India,2,147,38,29,101,114,8,0,28,146,3201,3994,161
+Sandeep Warrier,30,India,1,63,7,4,13,30,1,0,11,63,1341,1628,59
+Bavanaka Sandeep,29,India,0,47,43,8,892,721,59,30,28,32,414,481,10
+Ashith Rajiv,28,India,0,12,5,4,59,60,3,3,4,12,264,325,9
+Chengkam Sangma,27,India,0,9,2,1,1,3,0,0,2,7,126,123,5
+Dippu Sangma,24,India,0,8,4,0,17,28,1,0,4,7,120,119,6
+Larry Sangma,29,India,0,12,6,2,45,64,5,0,4,1,6,7,0
+Pradeep Sangwan,31,India,0,97,43,22,260,236,26,7,30,96,2032,2602,100
+Himanshu Sangwan,26,India,0,7,4,2,10,8,0,1,1,7,140,225,5
+Sanjay Yadav,26,India,0,27,23,5,494,398,26,27,18,19,402,446,16
+Sanjay Raghunath,26,India,0,1,1,0,18,14,3,0,0,1,12,9,0
+Elligaram Sanketh,22,India,0,1,0,0,0,0,0,0,0,1,12,17,0
+Sanvir Singh,25,India,0,5,3,2,32,23,0,2,3,2,24,30,1
+P Saravana Kumar,32,India,0,3,1,0,11,5,2,0,0,3,54,86,7
+Ajoy Sarkar,24,India,0,23,8,6,16,19,2,0,3,23,447,601,18
+KV Sasikanth,26,India,0,39,23,6,278,238,18,12,20,39,806,1062,38
+Saurabh Kumar,28,India,0,33,15,3,148,115,12,8,13,33,628,736,24
+Bipin Saurabh,22,India,0,5,5,0,125,111,13,3,5,0,0,0,0
+Jalaj Saxena,35,India,0,66,51,11,661,759,64,5,14,58,1097,1248,64
+Kuldeep Sen,25,India,0,18,4,2,2,9,0,0,2,17,362,495,12
+Subhranshu Senapati,25,India,0,26,24,2,637,521,50,24,13,0,0,0,0
+Akash Sengupta,21,India,0,1,1,0,1,3,0,0,0,1,12,23,0
+Rahil Shah,36,India,0,46,11,7,43,48,1,2,17,46,907,1048,45
+Rohit Shah,24,India,0,5,5,1,84,117,6,0,2,0,0,0,0
+Shahbaz Ahmed,27,India,0,40,24,6,293,250,20,10,17,35,660,715,35
+Shahrukh Khan,26,India,0,50,39,13,547,401,38,33,21,6,80,103,2
+Naushad Shaikh,30,India,0,41,39,9,898,714,79,21,28,16,227,223,12
+Vijay Shankar,31,India,9,111,87,22,1714,1356,117,64,56,60,821,1123,33
+BR Sharath,25,India,0,23,20,2,276,248,27,8,21,0,0,0,0
+Sharafuddeen,27,India,0,3,1,0,3,7,0,0,0,3,48,79,1
+Ishant Sharma,33,India,14,141,33,25,65,78,5,2,29,141,3026,3938,112
+Jitesh Sharma,28,India,0,54,51,4,1329,937,143,49,46,1,6,5,0
+Karn Sharma,34,India,1,145,101,26,1434,1146,101,64,39,134,2525,3144,121
+Mohit Sharma,33,India,8,123,37,17,164,155,10,7,26,122,2474,3449,117
+Rohit Sharma,34,India,121,366,353,47,9838,7340,868,421,144,59,635,830,29
+Raghu Sharma,28,India,0,3,1,0,0,2,0,0,1,3,66,88,3
+Shubham Sharma,28,India,0,5,3,0,38,47,2,1,2,0,0,0,0
+Bharat Sharma,26,India,0,4,3,1,10,20,2,0,1,4,90,100,3
+Karan Sharma,23,India,0,10,10,1,301,221,29,11,0,2,48,44,2
+Rohit Sharma,28,India,0,27,23,7,294,247,26,7,19,0,0,0,0
+Shashank Singh,30,India,0,32,27,6,424,298,32,22,6,16,240,332,10
+Prithvi Shaw,22,India,1,72,72,0,1786,1215,197,77,19,0,0,0,0
+Shekhar Kumar Singh,22,India,0,1,1,0,0,5,0,0,0,0,0,0,0
+Atit Sheth,26,India,0,39,22,17,168,136,12,6,10,39,801,1021,51
+B Shiva,25,India,0,1,0,0,0,0,0,0,0,1,12,18,0
+Shivam Chauhan,24,India,0,30,30,4,826,669,88,15,9,2,30,28,2
+Shivam Mavi,23,India,0,33,12,3,54,64,4,2,15,33,667,910,31
+Shivam Sharma,26,India,0,4,1,0,3,4,0,0,3,4,84,83,3
+Shoaib Md Khan,30,India,0,14,7,4,94,72,7,4,2,14,276,327,7
+Shubham Arora,24,India,0,4,3,0,51,42,5,2,3,0,0,0,0
+Shubham Sharma,24,India,0,6,4,2,46,40,5,1,0,5,114,107,4
+Shubman Gill,22,India,0,73,70,12,1834,1471,179,49,28,0,0,0,0
+Rahul Shukla,31,India,0,54,22,13,79,77,5,3,24,54,1091,1522,60
+Simarjeet Singh,24,India,0,20,3,2,2,5,0,0,2,20,393,488,24
+Rinku Singh,24,India,0,61,56,14,981,716,79,39,31,5,66,114,3
+Bonny Chingangbam,26,India,0,5,4,1,30,46,3,0,1,0,0,0,0
+Harsh Singh,26,India,0,3,3,3,9,14,1,0,0,3,48,69,1
+Ian Dev Singh,32,India,0,48,48,4,876,895,92,15,28,3,25,38,1
+Kangabam Singh,27,India,0,14,13,3,132,163,11,3,4,13,232,320,7
+Ajay Lamabam,23,India,0,15,4,4,6,10,0,0,2,14,241,333,10
+Rex Rajkumar,21,India,0,12,10,1,98,91,3,3,4,12,215,233,9
+Jayanta Sagatpam,29,India,0,6,5,0,75,102,7,1,1,0,0,0,0
+Kishan Thokchom,32,India,0,8,5,2,27,32,4,0,1,8,144,237,3
+Samrat Singha,32,India,0,17,16,1,217,256,28,2,0,0,0,0,0
+Myendung Singpho,25,India,0,8,8,4,6,13,0,0,0,8,104,159,5
+Arkaprabha Sinha,23,India,0,10,10,0,89,111,7,2,5,0,0,0,0
+Amit Sinha,33,India,0,31,29,6,475,474,32,17,12,3,30,36,2
+Vishnu Solanki,29,India,0,46,39,11,883,718,70,33,27,1,6,9,0
+Prashant Solanki,21,India,0,1,0,0,0,0,0,0,0,1,24,26,1
+Somorjit Salam,28,India,0,3,3,2,13,13,1,1,0,3,37,70,0
+Song Tacho,28,India,0,16,13,3,81,111,4,1,1,0,0,0,0
+Dhrushant Soni,26,India,0,7,4,0,24,25,2,0,0,7,148,202,10
+Sooraj Rai,25,India,0,1,0,0,0,0,0,0,0,1,24,24,1
+Cheepurapalli Stephen,28,India,0,35,9,9,12,16,0,0,10,34,764,839,56
+Jagadeesha Suchith,28,India,0,67,34,17,297,230,24,11,30,66,1320,1609,57
+Sufiyan Alam,26,India,0,2,2,0,5,10,0,0,0,0,0,0,0
+Kolla Sumanth,29,India,0,26,26,6,252,228,17,4,29,0,0,0,0
+Sumit Kumar,26,India,0,30,24,10,414,303,39,18,12,28,474,584,32
+Sumit Singh,34,India,0,31,29,1,367,374,39,13,10,26,511,606,30
+Sunil Salam,25,India,0,1,0,0,0,0,0,0,0,1,6,18,0
+Suraj Tayam,38,India,0,3,3,1,29,54,3,0,0,0,0,0,0
+Nihal Surlaker,23,India,0,1,1,0,5,8,0,0,0,1,12,24,0
+Swapnil Singh,31,India,0,60,47,16,683,547,42,33,22,55,1090,1306,54
+Atharva Taide,21,India,0,20,20,3,507,391,61,14,6,12,150,134,10
+Palzor Tamang,28,India,0,21,18,2,107,166,13,1,4,17,238,314,9
+Hardik Tamore,24,India,0,2,1,0,19,21,3,0,1,0,0,0,0
+Tanush Gusain,21,India,0,2,2,0,24,27,5,0,0,0,0,0,0
+Nitin Tanwar,25,India,0,9,8,3,55,64,5,0,5,9,185,222,9
+Pinninti Tapaswi,25,India,0,3,2,0,8,6,1,0,1,3,60,83,3
+Aditya Tare,34,India,0,110,101,20,2177,1669,243,57,70,0,0,0,0
+Tana Tatar,26,India,0,1,1,0,0,1,0,0,1,0,0,0,0
+Techi Sonam,24,India,0,4,4,0,21,31,2,1,2,0,0,0,0
+Rahul Tewatia,28,India,0,87,67,24,1170,822,103,53,35,75,1265,1566,54
+Aditya Thakare,23,India,0,4,2,1,5,8,0,0,1,4,93,86,6
+Shardul Thakur,30,India,24,124,35,14,183,162,12,6,34,122,2563,3661,145
+Rakesh Thakur,30,India,0,10,7,3,70,65,2,4,12,0,0,0,0
+Abhishek Thakuri,23,India,0,8,7,0,108,118,14,0,4,0,0,0,0
+Ashish Thapa,28,India,0,22,20,2,208,324,14,1,4,0,0,0,0
+Tanay Thyagarajan,26,India,0,13,10,3,92,67,8,4,8,13,258,274,5
+Tilak Varma,19,India,0,15,15,2,381,265,28,17,3,3,24,37,0
+Vivekanand Tiwari,23,India,0,8,3,1,18,12,1,1,3,7,114,170,7
+Agrim Tiwari,25,India,0,4,1,1,0,0,0,0,0,4,90,120,7
+Yogesh Tiwari,24,India,0,7,4,0,63,71,7,2,0,0,0,0,0
+Saurabh Tiwary,32,India,0,176,150,36,3354,2738,259,126,67,1,6,8,0
+Rahul Tripathi,30,India,0,104,100,14,2215,1700,208,77,51,17,222,281,12
+Trishank Gupta,20,India,0,1,0,0,0,0,0,0,0,1,12,12,0
+Sagar Trivedi,30,India,0,20,13,2,140,135,9,7,2,19,390,576,18
+Sagar Udeshi,35,India,0,17,4,1,15,22,1,0,4,17,384,370,13
+Tanveer Ul-Haq,30,India,0,23,13,5,43,57,3,1,5,22,444,482,24
+Umran Malik,22,India,0,8,2,2,1,1,0,0,1,8,192,273,11
+Jaydev Unadkat,30,India,10,158,56,30,418,320,28,21,44,157,3379,4476,195
+Robin Uthappa,36,India,13,279,271,24,7042,5293,701,253,165,1,6,11,0
+Utkarsh Singh,23,India,0,25,17,3,327,273,37,7,9,21,361,382,21
+Parmesh Vaidik,33,India,0,2,0,0,0,0,0,0,0,2,42,69,2
+Andrew Vanlalhruaia,35,India,0,4,0,0,0,0,0,0,0,3,48,106,1
+Ahitesh Varma,22,India,0,3,0,0,0,0,0,0,0,3,66,92,2
+Varun Chakravarthy,30,India,6,37,7,3,12,21,0,0,4,37,873,971,38
+Arpit  Vasavada,33,India,0,40,31,7,575,491,45,12,17,13,233,219,16
+Shivank Vashisht,26,India,0,6,1,0,5,9,0,0,5,6,102,89,14
+Akash Vasisht,27,India,0,10,8,2,106,88,11,2,5,6,94,128,3
+Hanuma Vihari,28,India,0,78,77,8,1449,1291,131,32,34,36,474,582,26
+Vijai Raja,23,India,0,1,1,0,0,2,0,0,0,1,5,8,0
+Vikash Kumar,25,India,0,5,3,1,9,8,1,0,2,0,0,0,0
+Vikash Singh,27,India,0,35,11,4,107,88,5,8,11,35,676,859,29
+Marimuthu Vikneshwaran,29,India,0,23,20,4,149,165,11,4,6,4,25,37,2
+Virat Singh,24,India,0,69,68,13,1899,1521,183,54,23,5,60,87,1
+Vishnu Vinod,28,India,0,42,38,7,1051,755,84,57,17,2,19,24,0
+Suresh Vishweshwar,24,India,0,2,0,0,0,0,0,0,0,2,42,64,0
+Vivek Singh,28,India,0,52,50,6,1319,987,135,60,30,10,120,165,1
+Vivrant Sharma,22,India,0,4,4,0,63,61,10,1,4,1,6,12,0
+Manan Vohra,28,India,0,109,105,8,2813,2170,276,101,33,0,0,0,0
+Samarth Vyas,26,India,0,21,18,2,335,254,29,16,7,0,0,0,0
+Vijaykumar Vyshak,25,India,0,6,4,2,9,10,0,0,2,6,132,170,7
+Jatin Wadhwan,27,India,0,22,21,3,639,533,60,25,8,0,0,0,0
+Akshay Wadkar,27,India,0,15,14,2,277,276,20,2,13,0,0,0,0
+Shrikant Wagh,33,India,0,63,41,22,272,277,16,7,15,63,1211,1456,77
+Akshay Wakhare,36,India,0,59,14,5,69,66,5,2,15,58,1186,1342,53
+Apoorv Wankhade,29,India,0,60,55,18,1029,773,60,44,37,0,0,0,0
+Waseem Raza,29,India,0,27,19,6,90,121,3,1,4,27,521,673,23
+Washington Sundar,22,India,31,98,61,19,866,730,66,28,28,96,1887,2129,74
+Siddhesh Wath,24,India,0,15,15,0,223,207,27,5,9,0,0,0,0
+Yab Niya,27,India,0,8,4,3,6,18,0,0,0,7,101,153,2
+Jayant Yadav,32,India,0,73,38,16,313,268,17,12,34,69,1330,1407,44
+Suryakumar Yadav,31,India,13,197,175,40,4170,2948,444,139,100,10,132,140,6
+Sunil Yadav,30,India,0,6,2,0,8,10,0,0,2,6,89,138,0
+Upendra Yadav,25,India,0,23,23,3,467,384,42,12,27,0,0,0,0
+Umesh Yadav,34,India,7,151,50,28,211,173,16,13,38,149,3134,4323,150
+Vikas Yadav,25,India,0,23,7,5,51,46,3,2,8,22,507,546,23
+Amod Yadav,20,India,0,6,1,0,1,2,0,0,2,6,120,118,8
+Sujit Yadav,30,India,0,1,0,0,0,0,0,0,0,1,24,26,0
+Kamsha Yangfo,29,India,0,15,14,1,108,189,7,0,6,0,0,0,0
+Yash Dayal,24,India,0,15,5,4,10,13,1,0,0,15,276,332,15
+Yash Thakur,23,India,0,27,10,8,24,40,1,1,10,27,512,554,40
+Yudhvir Singh,24,India,0,9,6,1,35,19,2,3,6,8,162,255,3
+Karnajit Yumnam,24,India,0,7,7,1,75,98,7,1,1,0,0,0,0
+Yuvraj Singh,23,India,0,5,3,2,18,14,2,0,0,5,82,110,6
+Hokaito Zhimomi,35,India,0,16,13,6,197,189,16,6,7,5,42,54,3
+Bobby Zothansanga,35,India,0,12,4,2,3,11,0,0,1,11,214,255,10
+Finn Allen,22,New Zealand,6,51,51,3,1537,875,165,72,20,1,6,8,0
+Adithya Ashok,19,New Zealand,0,10,6,4,18,22,1,0,4,10,222,240,14
+Todd Astle,35,New Zealand,5,86,43,20,370,343,30,5,35,79,1566,1856,67
+Ma'ara Ave,23,New Zealand,0,3,2,0,18,21,2,0,0,0,0,0,0
+Matthew Bacon,28,New Zealand,0,20,5,3,6,10,0,0,5,20,407,609,26
+Hamish Bennett,34,New Zealand,11,87,18,13,31,37,2,0,16,85,1695,2227,78
+Jakob Bhula,22,New Zealand,0,1,0,0,0,0,0,0,0,1,12,17,0
+Tom Blundell,31,New Zealand,7,58,52,6,1090,877,95,29,38,1,1,4,0
+Peter David Bocock,30,New Zealand,0,20,16,6,159,121,15,3,13,0,0,0,0
+Trent Boult,32,New Zealand,44,149,32,21,67,86,2,2,57,149,3276,4462,176
+Jack Boyle,25,New Zealand,0,20,20,1,417,386,37,4,8,0,0,0,0
+Doug Bracewell,31,New Zealand,20,80,57,23,930,639,56,51,33,77,1477,2116,86
+Michael Bracewell,31,New Zealand,0,101,89,21,2171,1630,172,86,64,18,294,367,19
+Cole Briggs,24,New Zealand,0,5,5,0,13,25,0,0,2,0,0,0,0
+Neil Broom,38,New Zealand,11,160,151,14,3601,2954,313,123,63,11,150,241,8
+Tom Bruce,30,New Zealand,17,96,93,14,2146,1483,189,93,67,13,136,195,6
+Joe Carter,29,New Zealand,0,25,23,3,348,319,31,9,12,0,0,0,0
+Leo Carter,27,New Zealand,0,52,47,11,663,540,39,28,17,0,0,0,0
+Mark Chapman,27,New Zealand,33,108,98,12,2112,1616,182,71,32,33,425,561,20
+Max Chu,21,New Zealand,0,23,11,4,94,83,10,1,10,0,0,0,0
+Katene Clarke,22,New Zealand,0,16,16,1,336,227,39,14,6,0,0,0,0
+Josh Clarkson,25,New Zealand,0,69,64,18,1288,867,79,68,27,14,156,238,8
+Dane Cleaver,30,New Zealand,0,74,70,7,1458,1081,141,45,62,0,0,0,0
+Blake Coburn,26,New Zealand,0,14,4,1,32,39,2,0,4,13,246,351,10
+Devon Conway,30,New Zealand,20,115,110,24,3765,2938,408,81,51,8,103,141,3
+Henry Cooper,28,New Zealand,0,15,14,3,176,170,10,7,4,1,12,14,2
+Colin de Grandhomme,35,New Zealand,41,231,208,46,3817,2417,272,228,98,135,1770,2792,69
+Jacob Duffy,27,New Zealand,4,91,35,19,145,110,9,8,18,87,1811,2630,94
+Lockie Ferguson,30,New Zealand,15,96,31,16,229,182,12,14,22,95,2004,2520,112
+Joey Field,21,New Zealand,0,15,7,4,27,24,3,0,13,15,271,434,15
+Josh Finnie,25,New Zealand,0,54,41,7,596,470,52,22,21,19,222,329,8
+Matthew Fisher,22,New Zealand,0,12,4,4,2,4,0,0,4,11,210,311,9
+Cam Fletcher,28,New Zealand,0,81,70,26,1571,1175,97,67,63,0,0,0,0
+Luke Georgeson,22,New Zealand,0,7,7,1,124,100,11,5,6,3,48,62,5
+Jamie Gibson,28,New Zealand,0,29,19,4,228,183,11,9,12,3,36,49,2
+Jake Gibson,24,New Zealand,0,4,2,0,2,4,0,0,4,4,66,103,2
+Zak Gibson,24,New Zealand,0,13,7,3,30,29,3,0,8,11,192,281,8
+Martin Guptill,35,New Zealand,112,293,284,24,8337,6362,717,387,174,4,24,35,0
+Brett Hampton,30,New Zealand,0,45,39,3,556,452,34,30,26,14,172,244,9
+Greg Hay,37,New Zealand,0,23,20,5,467,382,50,5,6,1,3,12,0
+Matthew Hay,24,New Zealand,0,4,2,0,13,14,2,0,0,0,0,0,0
+Mitchell Hay,21,New Zealand,0,7,6,1,55,37,3,4,6,0,0,0,0
+Matt Henry,30,New Zealand,6,100,60,25,470,296,27,32,36,97,2019,2912,102
+Ben Horne,27,New Zealand,0,39,36,7,492,366,35,21,31,2,36,66,3
+Mason Hughes,23,New Zealand,0,2,2,0,17,13,2,1,0,0,0,0,0
+Kyle Jamieson,27,New Zealand,8,56,30,15,343,251,27,10,12,56,1177,1688,65
+Llew Johnson,22,New Zealand,0,17,16,0,228,183,19,10,8,0,0,0,0
+Troy Johnson,24,New Zealand,0,21,18,5,281,265,27,6,10,0,0,0,0
+Nick Kelly,28,New Zealand,0,61,52,6,1106,872,106,48,27,2,24,38,1
+Anaru Kitchen,37,New Zealand,5,137,124,13,2344,1852,205,97,62,73,1224,1572,37
+Scott Kuggeleijn,30,New Zealand,18,131,82,37,767,588,45,32,52,128,2506,3611,132
+Tom Latham,29,New Zealand,18,87,78,5,2110,1583,171,75,45,0,0,0,0
+Jayden Lennox,27,New Zealand,0,10,2,2,23,22,4,0,1,10,210,250,14
+Christian Leopard,24,New Zealand,0,26,24,5,339,259,31,13,7,2,18,22,3
+Benjamin Lister,26,New Zealand,0,36,13,8,46,41,3,2,15,36,735,997,35
+Ken McClure,27,New Zealand,0,23,23,1,319,261,36,12,2,0,0,0,0
+Cole McConchie,30,New Zealand,5,80,64,11,1124,919,101,22,25,71,1291,1599,54
+Angus McKenzie,23,New Zealand,0,7,5,2,24,21,2,1,3,7,91,111,3
+Adam Milne,29,New Zealand,31,136,55,33,304,246,23,8,36,133,2854,3645,151
+Daryl Mitchell,30,New Zealand,25,131,117,29,2722,2055,178,111,66,63,897,1387,59
+James Neesham,31,New Zealand,38,182,143,39,2376,1735,171,106,61,161,2670,4015,158
+Ollie Newton,33,New Zealand,0,30,14,5,66,71,5,1,12,30,602,851,35
+Henry Nicholls,30,New Zealand,10,50,47,9,1143,915,104,27,24,1,6,5,0
+Ed Nuttall,28,New Zealand,0,68,17,13,42,50,1,3,20,67,1351,1895,64
+Robert O'Donnell,27,New Zealand,0,54,45,17,1076,820,95,33,26,3,42,69,1
+William O'Donnell,24,New Zealand,0,10,9,1,220,181,15,8,8,0,0,0,0
+William O’Rourke,20,New Zealand,0,3,1,0,10,8,1,0,0,3,42,52,0
+Ajaz Patel,33,New Zealand,7,68,26,12,118,122,7,3,12,67,1381,1781,75
+Glenn Phillips,25,New Zealand,35,163,155,20,4321,3074,336,238,94,20,221,315,11
+Dale Phillips,23,New Zealand,0,14,12,5,181,138,14,7,9,1,6,20,0
+Michael Rae,26,New Zealand,0,21,6,3,39,23,8,0,5,20,390,585,22
+Seth Rance,34,New Zealand,8,83,24,11,143,127,13,6,21,80,1695,2289,102
+Jeet Raval,33,New Zealand,0,47,46,2,954,773,87,31,24,0,0,0,0
+Rachin Ravindra,22,New Zealand,6,32,26,1,366,302,33,12,13,31,618,742,28
+Tim Robinson,19,New Zealand,0,8,8,0,143,122,16,1,2,0,0,0,0
+Hamish Rutherford,32,New Zealand,8,166,160,5,3938,2733,404,179,46,6,66,84,2
+Mitchell Santner,30,New Zealand,62,121,93,35,1308,994,87,62,44,118,2466,2916,119
+Ben Sears,24,New Zealand,2,24,7,5,27,21,1,0,9,24,432,555,29
+Tim Seifert,27,New Zealand,40,143,128,18,2759,2164,245,120,114,0,0,0,0
+Henry Shipley,25,New Zealand,0,29,18,3,291,204,23,13,13,24,408,549,23
+Ben Smith,31,New Zealand,0,33,28,3,550,485,57,10,13,0,0,0,0
+Nathan Smith,23,New Zealand,0,33,18,3,146,122,8,6,9,29,536,836,34
+Ish Sodhi,29,New Zealand,66,201,58,28,308,291,22,13,42,196,4175,5447,223
+Sean Solia,29,New Zealand,0,47,42,9,716,607,59,20,13,30,375,609,13
+William Somerville,37,New Zealand,0,43,18,10,200,153,9,12,7,42,833,1112,40
+Tim Southee,33,New Zealand,92,216,101,33,827,570,61,46,100,212,4663,6395,245
+Ross ter Braak,24,New Zealand,0,11,3,2,2,2,0,0,2,11,191,280,13
+Blair Tickner,28,New Zealand,8,68,14,9,28,38,1,1,15,67,1452,2095,94
+Anurag Verma,31,New Zealand,0,52,24,8,136,135,12,3,17,50,982,1410,62
+Frederick Walker,27,New Zealand,0,7,2,1,4,5,0,0,3,7,145,142,10
+Joe Walker,29,New Zealand,0,22,5,1,22,24,1,1,6,20,380,437,27
+Ben Wheeler,30,New Zealand,6,60,40,19,368,271,20,20,15,59,1259,1821,57
+Beckham Wheeler-Greenall,19,New Zealand,0,2,2,2,12,16,1,0,1,2,30,41,2
+Bayley Wiggins,23,New Zealand,0,12,12,1,174,129,21,4,4,0,0,0,0
+Will Williams,29,New Zealand,0,37,14,11,80,63,6,2,26,35,493,787,30
+Kane Williamson,31,New Zealand,74,219,210,34,5645,4535,527,140,91,54,770,909,30
+George Worker,32,New Zealand,2,141,133,10,3291,2631,322,109,45,56,810,1120,42
+Will Young,29,New Zealand,8,81,75,4,1892,1416,138,83,35,0,0,0,0
+Peter Younghusband,32,New Zealand,0,27,11,5,50,51,5,0,15,26,459,550,20
+Aamer Azmat,23,Pakistan,0,5,3,0,28,32,2,0,5,1,6,10,1
+Aamer Jamal,25,Pakistan,0,4,4,1,62,42,10,0,1,4,85,148,5
+Aamer Yamin,31,Pakistan,2,103,73,17,995,707,81,50,29,97,1809,2515,77
+Aaqib Liaquat,20,Pakistan,0,1,1,0,11,15,1,0,0,1,24,44,2
+Abbas Afridi,20,Pakistan,0,9,3,1,33,23,2,3,1,9,150,229,7
+Abdul Bangalzai,18,Pakistan,0,15,15,1,290,280,33,3,1,0,0,0,0
+Abdul Nasir,23,Pakistan,0,2,2,1,1,4,0,0,2,2,42,41,1
+Abdullah Shafique,22,Pakistan,3,28,28,3,838,649,84,23,11,0,0,0,0
+Abrar Ahmed,23,Pakistan,0,9,0,0,0,0,0,0,0,9,192,253,9
+Adil Amin,31,Pakistan,0,55,48,12,975,851,81,24,21,31,534,643,21
+Agha Salman,28,Pakistan,0,53,46,10,723,625,59,23,14,35,521,602,23
+Ahmed Daniyal,24,Pakistan,0,13,5,3,11,22,1,0,1,13,270,421,9
+Ahmed Safi Abdullah,23,Pakistan,0,6,4,2,12,22,1,0,1,6,96,120,6
+Ahmed Shehzad,30,Pakistan,59,233,231,12,6403,5165,746,144,91,19,229,344,12
+Ahsan Ali,28,Pakistan,2,69,67,4,1453,1135,170,38,20,1,6,9,1
+Akbar-ur-Rehman,38,Pakistan,0,57,49,10,754,652,73,17,28,27,395,506,17
+Akif Javed,21,Pakistan,0,28,6,4,0,7,0,0,6,27,584,798,30
+Ali Imran,23,Pakistan,0,21,21,0,608,436,58,31,12,4,48,72,3
+Ali Majid,30,Pakistan,0,3,1,1,3,5,0,0,0,3,60,68,1
+Amad Butt,26,Pakistan,0,64,44,16,430,296,30,26,22,61,1231,1800,79
+Anwar Ali,34,Pakistan,16,169,123,42,1371,965,88,68,65,165,3205,4520,150
+Arish Ali Khan,21,Pakistan,0,2,1,0,0,1,0,0,0,2,42,64,4
+Arshad Iqbal,21,Pakistan,1,40,6,2,2,12,0,0,4,40,822,1081,46
+Asif Afridi,35,Pakistan,0,56,36,10,426,307,29,22,13,54,978,1208,47
+Asif Ali,30,Pakistan,38,227,206,43,3976,2672,273,256,92,3,42,53,4
+Athar Mahmood,22,Pakistan,0,1,1,1,1,3,0,0,0,1,24,55,1
+Ayaz Tasawwar,31,Pakistan,0,23,17,3,237,252,16,9,9,1,2,2,0
+Azam Khan,23,Pakistan,3,70,66,6,1363,922,111,87,25,0,0,0,0
+Babar Azam,27,Pakistan,73,217,208,36,7778,6072,803,143,109,5,78,85,4
+Bismillah Khan,31,Pakistan,0,63,61,7,1150,937,124,26,50,0,0,0,0
+Danish Aziz,26,Pakistan,2,39,34,12,605,464,50,26,12,23,304,432,16
+Dilbar Hussain,28,Pakistan,0,18,5,4,29,28,1,2,3,18,332,503,21
+Ehsan Adil,28,Pakistan,0,68,26,10,118,109,11,2,15,67,1386,1881,86
+Faheem Ashraf,28,Pakistan,42,141,99,28,1089,773,81,62,43,139,2765,3777,142
+Faisal Akram,18,Pakistan,0,4,2,1,8,15,1,0,0,4,96,130,1
+Fakhar Zaman,31,Pakistan,64,184,176,8,4773,3531,503,164,82,15,146,162,4
+Ghulam Mudassar,22,Pakistan,0,18,5,2,2,5,0,0,1,18,359,600,15
+Haider Ali,21,Pakistan,21,79,75,8,1700,1239,156,80,17,0,0,0,0
+Hammad Azam,30,Pakistan,5,98,89,24,1361,1074,110,46,30,82,1414,1822,75
+Haris Rauf,28,Pakistan,34,109,21,7,105,71,7,9,33,107,2366,3315,147
+Haris Sohail,33,Pakistan,14,96,94,22,2012,1834,165,53,40,9,115,172,7
+Hasan Ali,27,Pakistan,48,145,63,27,461,293,29,30,40,143,3131,4105,187
+Hasan Mohsin,24,Pakistan,0,6,5,0,34,42,3,0,2,0,0,0,0
+Hassan Khan,23,Pakistan,0,51,31,11,303,246,16,14,24,50,852,1084,27
+Hidayatullah,21,Pakistan,0,4,2,0,18,26,3,0,5,0,0,0,0
+Hussain Talat,26,Pakistan,18,135,118,32,2642,2132,234,70,29,67,900,1332,48
+Iftikhar Ahmed,31,Pakistan,17,155,142,38,3005,2366,226,124,72,77,905,1142,34
+Ihsanullah,19,Pakistan,0,2,0,0,0,0,0,0,0,2,20,23,1
+Imad Wasim,33,Pakistan,58,250,185,64,2283,1793,210,60,73,243,5102,5604,215
+Imam-ul-Haq,26,Pakistan,2,78,74,9,2143,1737,205,37,23,0,0,0,0
+Imran Khan,34,Pakistan,0,77,10,6,16,23,1,1,10,76,1633,2137,85
+Irfan Khan,19,Pakistan,0,5,4,0,30,25,3,0,3,2,12,22,1
+Israrullah,29,Pakistan,0,63,62,1,1174,1028,143,29,18,12,126,140,3
+Junaid Khan,32,Pakistan,9,164,53,30,142,175,12,5,45,162,3582,4456,195
+Kamran Akmal,40,Pakistan,58,289,272,19,6699,5013,767,232,273,0,0,0,0
+Kamran Ghulam,26,Pakistan,0,36,26,5,605,469,56,20,6,28,451,546,26
+Kashif Bhatti,35,Pakistan,0,59,36,14,288,258,23,11,16,59,1238,1575,61
+Khalid Usman,35,Pakistan,0,61,41,15,325,283,25,10,24,60,1182,1421,60
+Khurram Manzoor,35,Pakistan,3,127,125,5,3526,2948,437,56,35,3,42,71,2
+Khurram Shahzad,22,Pakistan,0,16,7,2,19,40,0,0,4,16,331,445,17
+Khushdil Shah,27,Pakistan,12,99,92,24,1948,1436,144,104,43,31,397,439,23
+Mir Hamza,29,Pakistan,0,36,10,8,32,31,2,2,9,35,774,1061,33
+Maaz Khan,21,Pakistan,0,6,0,0,0,0,0,0,0,6,108,154,5
+Mohammad Afzal,26,Pakistan,0,1,1,0,9,9,1,0,1,0,0,0,0
+Mohammad Amir,29,Pakistan,50,214,79,36,287,315,17,9,20,210,4656,5579,241
+Mohammad Hafeez,41,Pakistan,119,362,337,39,7663,6211,778,243,110,249,4391,4712,198
+Mohammad Haris,20,Pakistan,0,12,11,2,269,192,30,11,13,0,0,0,0
+Mohammad Hasnain,21,Pakistan,18,78,25,16,32,51,4,1,10,77,1711,2401,95
+Mohammad Ibrahim,19,Pakistan,0,1,1,0,1,3,0,0,0,1,24,24,2
+Mohammad Ilyas,22,Pakistan,0,44,22,9,86,107,7,1,16,41,767,1154,43
+Mohammad Imran,25,Pakistan,0,32,21,8,327,245,29,13,8,30,522,737,24
+Mohammad Imran,21,Pakistan,0,20,4,2,6,8,1,0,0,20,419,591,15
+Mohammad Irfan,39,Pakistan,22,151,28,16,47,78,2,4,20,149,3361,3728,158
+Mohammad Mohsin,25,Pakistan,0,21,14,3,142,122,3,9,7,19,357,488,15
+Mohammad Nawaz,27,Pakistan,30,178,125,41,1959,1570,140,85,81,166,3171,3933,148
+Mohammad Rizwan,29,Pakistan,55,176,147,38,4493,3581,419,113,153,1,12,22,1
+Mohammad Taha,21,Pakistan,0,8,5,1,66,73,6,0,4,2,30,35,0
+Mohammad Umar,22,Pakistan,0,7,3,0,3,11,0,0,1,7,138,212,6
+Mohammad Wasim,20,Pakistan,10,32,13,8,123,83,7,10,13,32,659,972,38
+Moinuddin,34,Pakistan,0,25,24,4,292,281,18,14,10,3,54,63,3
+Mubasir Khan,19,Pakistan,0,11,6,2,69,58,4,4,3,6,72,91,3
+Muhammad Akhlaq,29,Pakistan,0,26,23,1,443,330,34,24,16,0,0,0,0
+Muhammad Faizan,24,Pakistan,0,14,10,3,46,75,2,1,2,7,116,181,8
+Muhammad Musa,21,Pakistan,2,35,9,6,34,35,4,1,5,35,735,1115,38
+Musadiq Ahmed,32,Pakistan,0,33,29,9,355,237,34,19,5,8,87,134,4
+Nabi Gul,24,Pakistan,0,13,10,1,164,121,11,9,7,1,5,4,0
+Najeebullah,31,Pakistan,0,9,7,1,149,129,16,3,5,5,45,69,1
+Naseem Shah,19,Pakistan,0,41,16,7,51,53,6,2,6,41,877,1203,37
+Nasir Nawaz,23,Pakistan,0,19,19,1,342,271,38,12,6,0,0,0,0
+Nauman Ali,35,Pakistan,0,45,27,8,182,163,5,12,11,45,1007,1189,41
+Niaz Khan,20,Pakistan,0,2,1,1,11,6,2,0,0,2,36,59,3
+Qasim Akram,19,Pakistan,0,25,17,5,239,152,24,9,9,14,230,281,15
+Rohail Nazir,20,Pakistan,0,48,38,8,544,438,60,16,35,0,0,0,0
+Rumman Raees,30,Pakistan,8,107,40,24,166,148,13,6,41,107,2309,2841,119
+Sahibzada Farhan,25,Pakistan,3,53,48,6,1150,1011,114,33,27,0,0,0,0
+Saif Badar,23,Pakistan,0,37,25,8,328,279,23,8,11,1,12,15,1
+Saim Ayub,19,Pakistan,0,7,7,0,114,105,14,3,1,0,0,0,0
+Salman Irshad,26,Pakistan,0,23,9,2,19,23,0,1,0,23,438,691,27
+Salman Mirza,28,Pakistan,0,2,0,0,0,0,0,0,0,2,36,62,2
+Sameen Gul,23,Pakistan,0,33,9,7,22,30,1,1,4,32,689,984,35
+Sarfaraz Ahmed,34,Pakistan,61,239,187,56,3758,2939,361,71,170,1,4,6,0
+Sarmad Hameed,27,Pakistan,0,2,2,0,24,28,4,0,0,0,0,0,0
+Saud Shakeel,26,Pakistan,0,27,25,3,390,316,47,0,11,10,120,186,5
+Shadab Khan,23,Pakistan,64,186,113,27,1659,1211,107,86,69,179,3959,4722,215
+Shaheen Shah Afridi,21,Pakistan,39,113,30,11,116,138,8,4,25,113,2551,3280,155
+Shahid Afridi,41,Pakistan,99,329,279,38,4399,2858,326,252,97,323,6994,7907,347
+Shahnawaz Dahani,23,Pakistan,2,28,3,2,6,9,1,0,9,28,570,802,43
+Shan Masood,32,Pakistan,0,90,88,2,2201,1775,255,38,32,0,0,0,0
+Sharjeel Khan,32,Pakistan,21,131,127,4,3226,2317,350,161,35,2,10,16,0
+Sharoon Siraj,24,Pakistan,0,1,1,0,18,13,4,0,0,0,0,0,0
+Shoaib Malik,40,Pakistan,124,470,436,118,11611,9130,905,362,187,258,3742,4380,157
+Sohaib Maqsood,34,Pakistan,26,160,153,18,3745,2832,353,165,38,15,207,255,6
+Sohaibullah,25,Pakistan,0,13,4,3,23,22,0,1,2,13,274,336,10
+Sohail Akhtar,35,Pakistan,0,86,82,20,1713,1361,154,75,29,16,187,318,5
+Sohail Khan,37,Pakistan,5,120,70,26,584,465,35,37,14,119,2598,3499,137
+Sohail Tanvir,37,Pakistan,57,377,237,80,2465,2089,179,110,68,370,7962,9946,380
+Taj Wali,30,Pakistan,0,29,3,3,8,6,0,1,3,28,572,799,21
+Tayyab Tahir,28,Pakistan,0,6,5,1,244,173,27,8,1,0,0,0,0
+Umaid Asif,37,Pakistan,0,106,46,17,394,266,27,23,28,104,2234,2966,114
+Umar Akmal,31,Pakistan,84,264,246,51,5629,4283,463,225,171,1,24,36,1
+Umar Amin,32,Pakistan,14,131,121,18,2954,2435,306,79,47,26,414,516,18
+Umer Khan,22,Pakistan,0,27,10,4,24,22,3,1,8,25,460,638,22
+Usman Khan,26,Pakistan,0,6,6,0,150,123,16,5,3,0,0,0,0
+Usman Qadir,28,Pakistan,17,72,33,16,198,203,17,5,13,68,1384,1780,73
+Usman Shinwari,28,Pakistan,16,100,25,17,114,94,6,8,19,98,2044,2681,117
+Wahab Riaz,36,Pakistan,36,316,181,69,1599,1213,120,70,97,312,6731,8344,377
+Waqas Maqsood,34,Pakistan,1,58,19,11,62,63,4,3,13,58,1251,1601,67
+Yasir Khan,19,Pakistan,0,3,3,0,79,45,10,4,0,0,0,0,0
+Yasir Shah,35,Pakistan,2,128,65,19,413,422,31,9,41,126,2753,3262,111
+Yousuf Babar,24,Pakistan,0,1,1,1,14,6,3,0,0,0,0,0,0
+Zafar Gohar,27,Pakistan,0,60,29,13,246,205,13,11,19,58,1181,1523,67
+Zahid Mahmood,33,Pakistan,1,50,23,13,95,92,8,3,5,50,1106,1363,66
+Zain Abbas,30,Pakistan,0,58,56,4,1438,1268,159,28,8,13,204,231,8
+Zaman Khan,20,Pakistan,0,13,3,2,1,2,0,0,3,13,281,379,18
+Zeeshan Ashraf,29,Pakistan,0,59,55,4,943,745,100,33,21,0,0,0,0
+Zeeshan Malik,25,Pakistan,0,21,21,0,586,476,67,12,7,0,0,0,0
+Zeeshan Zameer,19,Pakistan,0,2,0,0,0,0,0,0,0,2,15,17,1
+Zia-ul-Haq,27,Pakistan,0,46,10,4,27,28,1,2,9,46,900,1168,43
+Ziyaad Abrahams,24,South Africa,0,13,0,0,0,0,0,0,0,13,228,299,11
+Marques Ackerman,25,South Africa,0,37,33,4,724,578,86,9,18,7,72,88,1
+Travis Ackerman,22,South Africa,0,5,3,0,9,22,0,0,0,1,12,21,1
+Ferisco Adams,32,South Africa,0,72,49,14,717,582,48,19,14,69,1276,1645,68
+Qaasim Adams,37,South Africa,0,70,63,10,1035,874,86,34,23,5,54,81,2
+Jarred Alder,23,South Africa,0,2,2,0,27,32,0,0,1,0,0,0,0
+Liam Alder,18,South Africa,0,2,2,0,9,14,0,0,0,2,36,56,1
+Hershell America,28,South Africa,0,4,1,0,1,2,0,0,1,4,96,106,10
+Matthew Arnold,33,South Africa,0,30,21,8,370,302,25,9,9,29,599,746,34
+Clayton August,32,South Africa,0,23,11,8,49,41,3,1,3,22,313,377,9
+Ottniel Baartman,28,South Africa,0,32,3,2,5,10,0,0,9,32,690,707,39
+Temba Bavuma,31,South Africa,21,96,86,14,2228,1777,185,53,42,0,0,0,0
+David Bedingham,27,South Africa,0,47,43,1,904,692,68,35,12,0,0,0,0
+Farhaan Behardien,38,South Africa,38,196,164,62,3542,2679,215,134,83,12,115,176,5
+Jonathan Bird,20,South Africa,0,13,13,0,250,219,19,12,2,0,0,0,0
+Corbin Bosch,27,South Africa,0,30,15,7,151,125,14,3,6,29,596,811,18
+Clayton Bosch,29,South Africa,0,15,6,4,144,96,14,7,7,14,294,387,10
+Eathan Bosch,23,South Africa,0,13,9,2,191,155,16,5,3,13,276,383,14
+Jerome Bossr,23,South Africa,0,1,1,1,26,26,1,0,0,0,0,0,0
+Eben Botha,22,South Africa,0,5,5,1,124,77,17,4,1,0,0,0,0
+Patrick Botha,32,South Africa,0,41,35,2,567,477,48,14,23,37,700,749,38
+Neil Brand,25,South Africa,0,9,9,0,140,137,11,4,3,7,114,98,6
+Matthew Breetzke,23,South Africa,0,36,34,2,805,621,85,23,9,0,0,0,0
+Dewald Brevis,18,South Africa,0,6,6,1,164,120,14,8,3,4,72,81,3
+Mbulelo Budaza,28,South Africa,0,27,6,4,1,8,0,0,3,24,452,630,29
+Nandre Burger,26,South Africa,0,32,9,6,23,41,1,0,8,32,675,808,38
+Amir Sohil Bux,26,South Africa,0,1,1,0,0,2,0,0,0,0,0,0,0
+Blayde Capell,24,South Africa,0,10,10,0,139,129,23,1,5,0,0,0,0
+Okuhle Cele,24,South Africa,0,11,4,3,6,12,0,0,1,11,198,240,9
+Chad Classen,25,South Africa,0,9,3,3,5,10,0,0,1,9,144,188,2
+Gihahn Cloete,29,South Africa,2,85,76,4,1449,1301,175,26,48,0,0,0,0
+Gerald Coetzee,21,South Africa,0,16,11,2,56,58,4,2,5,16,338,454,16
+Jan Coetzer,19,South Africa,0,1,1,0,2,7,0,0,0,1,12,26,0
+Yassar Cook,28,South Africa,0,29,28,3,455,464,34,14,6,0,0,0,0
+Michael Copeland,19,South Africa,0,6,6,1,94,87,6,1,2,4,42,59,0
+Ethan-John Cunningham,18,South Africa,0,3,3,0,35,25,5,1,0,2,12,20,0
+Shane Dadswell,24,South Africa,0,18,18,1,442,288,43,20,7,5,54,92,0
+Junior Dala,32,South Africa,10,91,21,9,140,107,14,4,27,87,1615,2295,92
+Henry Davids,42,South Africa,9,185,175,12,3869,3101,358,144,40,49,564,746,21
+Junaid Dawood,25,South Africa,0,9,0,0,0,0,0,0,0,9,174,210,12
+Theunis de Bruyn,29,South Africa,2,74,72,11,1905,1466,173,59,29,6,66,94,1
+Jade de Klerk,22,South Africa,0,22,8,2,54,58,4,1,5,20,366,476,11
+Quinton de Kock,29,South Africa,61,243,236,20,7281,5296,760,274,211,0,0,0,0
+Ruan de Swardt,24,South Africa,0,15,9,2,93,87,5,3,6,12,196,266,10
+Tony de Zorzi,24,South Africa,0,48,48,6,939,806,91,20,13,1,6,10,0
+Cameron Delport,32,South Africa,0,258,250,16,5979,4277,596,269,85,108,1493,2015,69
+Isaac Dikgale,26,South Africa,0,6,5,1,88,81,10,0,4,0,0,0,0
+Khanya Dilima,22,South Africa,0,2,0,0,0,0,0,0,0,2,18,42,1
+Johannes Diseko,31,South Africa,0,52,16,11,60,68,4,1,5,51,1098,1235,54
+Tshepang Dithole,28,South Africa,0,9,6,2,102,95,6,2,7,0,0,0,0
+Jean du Plessis,23,South Africa,0,15,14,1,396,333,32,8,10,0,0,0,0
+Leus du Plooy,27,South Africa,0,68,62,15,1515,1215,110,44,26,14,170,221,13
+Keith Dudgeon,26,South Africa,0,13,8,2,67,70,3,1,2,13,246,336,17
+Gareth Dukes,29,South Africa,0,24,16,7,164,85,11,10,8,24,414,500,18
+Daryn Dupavillon,27,South Africa,0,28,8,6,19,18,1,1,6,27,552,648,33
+Dean Elgar,34,South Africa,0,81,76,17,2016,1814,144,53,35,44,627,723,29
+Armand Erasmus,29,South Africa,0,16,12,4,88,66,2,6,4,16,270,327,12
+Michael Erlank,31,South Africa,0,32,30,2,570,528,57,11,11,17,210,245,10
+Sarel Erwee,32,South Africa,0,70,66,4,1532,1239,176,45,30,5,64,64,6
+Donavon Ferreira,23,South Africa,0,16,11,5,317,203,25,14,4,10,132,164,7
+Phaphama Fojela,37,South Africa,0,28,10,4,44,49,1,1,2,28,552,686,29
+Bjorn Fortuin,27,South Africa,13,88,43,16,259,229,18,6,28,87,1827,1945,100
+Clyde Fortuin,26,South Africa,0,53,44,5,727,655,70,15,37,0,0,0,0
+Robbie Frylinck,37,South Africa,3,148,101,36,1332,895,85,77,31,137,2868,3706,162
+Dayyaan Galiem,25,South Africa,0,25,18,4,285,265,18,7,5,25,372,503,21
+Andries Gous,28,South Africa,0,42,38,5,963,713,89,36,36,0,0,0,0
+Ayabulela Gqamane,32,South Africa,0,65,40,11,435,315,30,19,18,61,824,1250,29
+Khwezi Gumede,22,South Africa,0,9,0,0,0,0,0,0,0,9,186,255,15
+Ruan Haasbroek,24,South Africa,0,17,14,4,243,215,14,6,15,6,90,135,6
+Hlomla Hanabe,20,South Africa,0,3,2,0,1,3,0,0,2,0,0,0,0
+Simon Harmer,33,South Africa,0,124,73,24,874,688,63,30,62,117,2336,2944,105
+Eldred Hawken,32,South Africa,0,20,7,2,45,56,3,0,2,18,368,500,20
+Beuran Hendricks,31,South Africa,19,92,17,9,34,52,0,1,17,90,1916,2651,122
+Dominic Hendricks,31,South Africa,0,39,38,8,865,821,69,11,15,0,0,0,0
+Reeza Hendricks,32,South Africa,40,157,146,19,4377,3540,420,98,64,4,54,80,2
+Rubin Hermann,25,South Africa,0,19,13,3,224,195,22,4,13,0,0,0,0
+Jon Hinrichsen,22,South Africa,0,4,2,1,13,18,1,0,0,4,66,78,5
+Thomas Hobson,27,South Africa,0,9,5,1,39,43,5,0,3,6,96,127,4
+Tahir Isaacs,20,South Africa,0,2,2,0,7,15,0,0,0,0,0,0,0
+Kyle Jacobs,23,South Africa,0,5,1,1,12,7,1,1,1,5,86,102,3
+Duan Jansen,21,South Africa,0,11,5,1,70,52,7,1,4,11,210,264,10
+Marco Jansen,21,South Africa,0,13,9,1,71,63,4,4,5,13,270,349,9
+Evan Jones,25,South Africa,0,7,7,1,180,117,15,9,5,3,56,84,4
+Christiaan Jonker,35,South Africa,2,116,109,24,2296,1759,184,111,43,7,66,100,3
+Thomas Kaber,29,South Africa,0,28,20,4,279,226,15,12,8,27,436,523,22
+Ludwig Kaestner,21,South Africa,0,6,6,1,134,144,13,0,0,1,1,1,0
+Yves Kamanzi,22,South Africa,0,1,0,0,0,0,0,0,0,1,18,26,0
+Gavin Kaplan,24,South Africa,0,4,4,0,71,61,6,3,3,0,0,0,0
+Ernest Kemm,31,South Africa,0,19,18,2,508,487,49,8,4,15,176,204,5
+Khaif Patel,18,South Africa,0,1,1,0,17,21,1,0,0,0,0,0,0
+Valentine Kitime,18,South Africa,0,3,3,0,41,37,4,1,0,0,0,0,0
+Heinrich Klaasen,30,South Africa,28,108,98,28,1973,1438,135,81,82,5,42,68,1
+Christoffel Klijnhans,22,South Africa,0,2,2,1,73,64,7,1,4,0,0,0,0
+Alexander Kok,23,South Africa,0,5,5,0,98,63,12,5,1,2,36,49,0
+Gionne Koopman,30,South Africa,0,35,27,2,355,347,35,5,20,30,546,584,15
+Tumi Koto,27,South Africa,0,8,7,0,138,112,18,1,0,4,27,47,1
+Hanno Kotze,27,South Africa,0,27,26,1,594,479,60,17,19,0,0,0,0
+Patrick Kruger,27,South Africa,0,72,66,8,1492,1210,137,59,33,33,410,568,18
+Heino Kuhn,37,South Africa,7,137,117,20,2512,1993,227,61,90,0,0,0,0
+Thamsanga Kumalo,22,South Africa,0,6,6,0,40,55,5,0,1,0,0,0,0
+Sithembile Langa,26,South Africa,0,13,5,3,32,31,4,0,1,12,237,347,10
+Richard Levi,34,South Africa,13,224,215,13,5577,3869,582,264,60,0,0,0,0
+George Linde,30,South Africa,14,104,79,24,971,713,51,44,28,100,2053,2494,108
+Wihan Lubbe,29,South Africa,2,60,54,2,1263,922,109,52,18,29,480,564,19
+Sisanda Magala,31,South Africa,4,114,65,24,729,580,53,35,23,109,2199,2910,122
+Keshav Maharaj,32,South Africa,8,112,55,28,524,433,48,16,36,106,2341,2562,89
+Ntokozo Mahlaba,22,South Africa,0,4,3,1,38,39,2,0,3,4,72,100,3
+Gregory Mahlokwana,27,South Africa,0,33,11,5,39,51,3,1,5,30,565,675,21
+Sintu Majeza,22,South Africa,0,3,1,1,0,0,0,0,1,3,30,41,1
+Sibonelo Makhanya,25,South Africa,0,64,43,13,639,566,51,14,17,20,246,358,6
+Lizo Makhosi,27,South Africa,0,9,3,3,8,8,1,0,1,8,162,222,6
+Wandile Makwetu,23,South Africa,0,9,6,2,49,61,3,0,8,0,0,0,0
+Andre Malan,30,South Africa,0,29,28,5,532,477,54,2,11,5,84,141,2
+Janneman Malan,25,South Africa,11,63,63,4,1816,1340,194,66,34,0,0,0,0
+Pieter Malan,32,South Africa,0,48,48,10,1414,1206,137,40,23,1,24,30,2
+Mncedisi Malika,24,South Africa,0,11,9,0,153,128,16,3,7,0,0,0,0
+Imran Manack,30,South Africa,0,32,12,6,33,40,2,0,10,32,710,742,27
+Kurtlyn Mannikam,26,South Africa,0,10,3,1,9,12,1,0,1,3,60,56,5
+Marco Marais,28,South Africa,0,62,57,11,1531,1066,128,82,12,1,6,15,0
+Gerhardus Maree,17,South Africa,0,1,1,0,11,7,2,0,0,0,0,0,0
+Aiden Markram,27,South Africa,20,70,64,10,1732,1343,156,56,33,28,375,421,12
+Wesley Marshall,28,South Africa,0,38,37,2,980,657,126,25,15,0,0,0,0
+Sizwe Masondo,35,South Africa,0,38,30,6,333,369,17,8,35,0,0,0,0
+Renaldo Meyer,27,South Africa,0,4,3,1,16,17,0,1,0,4,78,102,3
+Nduduzo Mfoza,24,South Africa,0,14,1,1,1,2,0,0,2,13,240,273,16
+Aviwe Mgijima,33,South Africa,0,79,50,13,540,471,38,15,31,30,376,520,17
+David Miller,32,South Africa,95,360,326,104,7868,5687,560,345,229,3,18,31,0
+Akhulile Mkatu,20,South Africa,0,2,0,0,0,0,0,0,0,0,0,0,0
+Akhona Mnyaka,22,South Africa,0,13,2,1,0,2,0,0,2,13,212,303,8
+Thandolwethu Mnyaka,29,South Africa,0,33,15,6,70,65,8,0,2,33,557,713,28
+Odirile Modimokoane,20,South Africa,0,6,0,0,0,0,0,0,0,6,96,113,5
+Andile Mokgakane,22,South Africa,0,10,10,3,136,130,6,4,3,3,24,21,3
+Atwell Mokgoloboto,21,South Africa,0,1,0,0,0,0,0,0,0,1,6,9,0
+Grant Mokoena,34,South Africa,0,54,49,2,728,753,54,22,18,0,0,0,0
+Kgaudisa Molefe,22,South Africa,0,7,1,1,3,2,0,0,4,6,108,152,5
+Pheko Moletsane,20,South Africa,0,4,2,0,15,14,3,0,0,4,60,88,3
+Rivaldo Moonsamy,25,South Africa,0,22,16,0,218,255,21,2,11,1,6,12,0
+Tshepo Moreki,28,South Africa,0,37,12,4,46,73,2,0,4,36,625,896,34
+Chris Morris,34,South Africa,23,234,153,60,1868,1245,128,95,104,231,4962,6441,290
+Mangaliso Mosehle,31,South Africa,7,143,116,23,1607,1323,110,68,101,0,0,0,0
+Alfred Mothoa,32,South Africa,0,35,8,2,27,51,4,0,8,34,634,763,33
+Orapeleng Motlhoaring,20,South Africa,0,1,1,0,10,13,1,0,0,0,0,0,0
+Mihlali Mpongwana,21,South Africa,0,9,1,0,0,1,0,0,0,8,129,180,8
+Wiaan Mulder,24,South Africa,5,43,34,14,515,404,42,15,17,38,571,782,29
+Kerwin Mungroo,27,South Africa,0,30,2,0,1,4,0,0,8,29,605,769,30
+Senuran Muthusamy,27,South Africa,0,40,37,9,668,630,55,13,17,35,593,576,37
+Ndumiso Mvelase,25,South Africa,0,3,3,0,19,19,0,2,1,3,48,51,3
+Ayavuya Myoli,31,South Africa,0,27,5,5,7,10,0,0,6,25,366,518,14
+Mthiwekhaya Nabe,26,South Africa,0,26,8,6,7,12,0,0,3,25,493,710,34
+Thula Ngcobo,26,South Africa,0,11,2,1,7,7,0,0,0,11,234,288,15
+Lungi Ngidi,25,South Africa,23,85,9,4,14,26,0,0,17,83,1663,2207,117
+Lesiba Ngoepe,28,South Africa,0,73,64,13,700,610,45,28,13,1,6,16,0
+Jason Niemand,23,South Africa,0,14,9,1,101,101,9,1,10,12,204,261,9
+Kyle Nipper,34,South Africa,0,57,51,10,913,862,86,21,31,52,986,1093,57
+Luvuyo Nkese,24,South Africa,0,13,3,2,12,16,1,0,1,12,166,223,13
+Anrich Nortje,28,South Africa,16,65,17,8,71,72,4,2,17,65,1438,1728,83
+Thando Ntini,21,South Africa,0,14,3,1,11,9,1,0,2,14,270,409,16
+Jerry Nqolo,30,South Africa,0,51,38,8,454,393,38,12,18,28,426,492,16
+Tshepo Ntuli,26,South Africa,0,31,7,5,29,48,2,0,13,29,377,442,13
+Onke Nyaku,27,South Africa,0,47,32,12,314,255,23,10,15,27,397,493,19
+Jason Oakes,26,South Africa,0,16,11,3,71,114,1,1,10,0,0,0,0
+Wayne Parnell,32,South Africa,40,228,138,49,1744,1382,146,62,48,222,4536,5921,227
+Bryce Parsons,21,South Africa,0,13,9,0,113,106,9,3,5,11,182,174,5
+Zakariya Paruk,23,South Africa,0,10,4,2,37,48,2,1,3,7,102,114,2
+Dane Paterson,32,South Africa,8,97,32,14,158,119,13,5,26,94,1930,2546,101
+Nqabayomzi Peter,19,South Africa,0,3,0,0,0,0,0,0,0,3,60,95,1
+Liam Peters,25,South Africa,0,8,8,1,95,107,8,0,2,0,0,0,0
+Keegan Petersen,28,South Africa,0,51,44,12,902,887,84,9,24,5,42,69,0
+Aaron Phangiso,38,South Africa,16,171,52,16,298,325,21,11,49,159,3234,3630,156
+Andile Phehlukwayo,25,South Africa,35,101,68,15,633,539,52,24,12,91,1529,2152,84
+Marcello Piedt,29,South Africa,0,15,9,4,42,48,1,2,2,15,265,308,11
+Heinrigh Pieterse,20,South Africa,0,3,3,1,17,27,0,0,0,0,0,0,0
+Shaylen Pillay,27,South Africa,0,32,20,5,186,201,14,3,7,10,168,228,6
+Jiveshan Pillay,23,South Africa,0,10,10,1,265,223,30,7,4,0,0,0,0
+Nono Pongolo,32,South Africa,0,49,20,8,270,245,21,5,23,46,669,899,35
+Delano Potgieter,25,South Africa,0,28,24,5,587,455,45,26,10,17,246,283,21
+Dwaine Pretorius,32,South Africa,22,155,123,28,2061,1490,136,109,28,134,2143,2895,109
+Jandré Pretorius,22,South Africa,0,1,1,0,40,39,4,0,0,0,0,0,0
+Migael Pretorius,26,South Africa,0,37,28,8,215,166,9,12,8,37,793,1127,53
+Sinethemba Qeshile,23,South Africa,2,37,29,6,390,353,30,7,27,0,0,0,0
+Zakhele Qwabe,33,South Africa,0,21,4,1,13,14,1,0,5,20,312,372,12
+Kagiso Rabada,26,South Africa,40,135,50,24,337,311,30,11,49,133,2977,3914,180
+Don Radebe,25,South Africa,0,9,4,1,61,39,4,5,0,9,162,277,7
+Thamsanqa Rapelego,29,South Africa,0,8,1,1,1,1,0,0,3,8,126,158,5
+Kagiso Rapulana,30,South Africa,0,40,32,5,512,513,48,7,15,5,73,106,4
+Andrew Rasemene,26,South Africa,0,15,3,2,14,10,0,1,3,14,228,324,15
+Jason Raubenheimer,23,South Africa,0,2,2,0,21,28,0,1,1,1,6,7,0
+Heath Richards,20,South Africa,0,8,8,0,143,120,17,5,4,1,11,15,1
+Joshua Richards,23,South Africa,0,10,10,0,170,166,18,4,2,0,0,0,0
+Ryan Rickelton,25,South Africa,0,47,43,2,928,747,88,30,25,1,24,14,1
+Grant Roelofsen,25,South Africa,0,25,24,4,785,620,82,19,19,0,0,0,0
+Diego Rosier,27,South Africa,0,70,55,9,1019,793,87,28,26,10,74,124,3
+Danie Rossouw,26,South Africa,0,3,3,1,130,106,12,1,1,0,0,0,0
+Rilee Rossouw,32,South Africa,15,233,225,33,5729,4131,564,202,97,5,28,29,2
+Sahil Patel,24,South Africa,0,6,2,2,18,26,0,0,1,6,114,152,6
+Juandre Scheepers,21,South Africa,0,3,3,0,34,45,0,1,0,3,54,75,2
+Luke Schlemmer,27,South Africa,0,9,8,2,114,108,11,1,2,3,42,54,3
+Blake Schraader,27,South Africa,0,6,6,0,34,38,5,1,0,2,30,30,3
+Caleb Seleka,19,South Africa,0,10,2,1,17,25,2,0,3,10,180,215,10
+Lesego Senokwane,24,South Africa,0,22,14,1,167,189,11,1,8,8,91,138,6
+Tabraiz Shamsi,32,South Africa,47,178,34,21,63,120,1,1,26,173,3768,4509,202
+Nyiko Shikwambana,24,South Africa,0,3,3,0,19,27,3,0,5,0,0,0,0
+Malusi Siboto,34,South Africa,0,119,25,15,95,110,6,2,27,115,2187,2826,100
+Andile Simelane,18,South Africa,0,3,3,0,28,34,4,0,1,3,42,52,0
+Tumelo Simelane,26,South Africa,0,4,0,0,0,0,0,0,0,4,72,101,3
+Kyle Simmonds,28,South Africa,0,17,13,6,95,80,9,2,8,16,348,351,19
+Sinenhlanhla Zwane,21,South Africa,0,2,1,1,1,1,0,0,0,0,0,0,0
+Lutho Sipamla,23,South Africa,9,44,8,5,16,27,1,0,21,40,780,1153,40
+Siyabonga Mahima,25,South Africa,0,16,4,3,26,24,3,0,3,16,354,414,19
+Daniel Smith,19,South Africa,0,1,0,0,0,0,0,0,0,0,0,0,0
+Jade Smith,19,South Africa,0,3,3,0,27,22,5,0,0,1,6,13,0
+Jason Smith,27,South Africa,0,48,42,6,940,778,62,25,15,29,417,594,29
+JJ Smuts,33,South Africa,13,164,160,14,3830,3037,398,120,36,134,2351,2680,93
+Jacques Snyman,27,South Africa,1,30,29,0,499,378,54,18,9,19,274,341,9
+Jurie Snyman,26,South Africa,0,25,23,7,466,352,35,27,9,12,192,219,9
+Kaden Solomons,18,South Africa,0,3,3,1,35,30,3,1,0,0,0,0,0
+Joshua Stephenson,18,South Africa,0,2,2,1,7,16,0,0,0,2,36,57,2
+Tristan Stubbs,21,South Africa,0,14,14,2,432,257,20,30,2,4,54,73,1
+Glenton Stuurman,29,South Africa,1,18,9,3,29,38,0,0,4,18,354,414,20
+Prenelan Subrayen,28,South Africa,0,76,34,15,326,268,15,18,16,71,1488,1633,65
+Aubrey Swanepoel,32,South Africa,0,83,64,7,1146,863,113,34,32,64,1134,1336,43
+Beyers Swanepoel,23,South Africa,0,6,5,2,78,42,8,4,5,6,108,152,2
+Stefan Tait,25,South Africa,0,2,0,0,0,0,0,0,0,2,46,87,0
+Ruan Terblanche,20,South Africa,0,1,1,0,28,25,0,1,0,0,0,0,0
+Grant Thomson,33,South Africa,0,55,44,7,1018,794,65,35,15,42,652,830,22
+Tumelo Tlhokwe,27,South Africa,0,12,4,1,24,22,0,0,4,11,160,162,14
+Asakhe Tsaka,18,South Africa,0,2,1,0,18,19,1,0,0,2,42,45,2
+Tsepo Ndwandwa,26,South Africa,0,11,4,1,20,27,1,0,2,11,204,254,11
+Cebo Tshiki,31,South Africa,0,29,21,5,293,293,27,3,5,0,0,0,0
+Yaseen Valli,26,South Africa,0,11,11,2,245,222,28,3,4,0,0,0,0
+Yaseen Vallie,32,South Africa,0,58,46,12,838,762,73,4,12,26,330,429,18
+Pite van Biljon,35,South Africa,10,91,78,20,1736,1347,119,76,19,0,0,0,0
+Jhedli van Briesies,20,South Africa,0,2,2,1,46,32,4,1,2,0,0,0,0
+Mitchell Van Buuren,24,South Africa,0,16,15,2,371,284,37,6,3,1,6,10,0
+Nicky van den Bergh,32,South Africa,0,54,51,9,959,748,50,51,31,0,0,0,0
+Rassie van der Dussen,33,South Africa,34,140,132,24,4129,3172,284,181,43,6,54,55,3
+George Van Heerden,18,South Africa,0,3,3,0,80,72,5,2,0,0,0,0,0
+Nealan van Heerden,25,South Africa,0,14,2,2,4,9,0,0,4,13,209,285,6
+Joshua van Heerden,23,South Africa,0,11,11,2,211,199,21,5,3,0,0,0,0
+Raynard van Tonder,23,South Africa,0,24,20,2,476,431,40,10,4,0,0,0,0
+Tiaan van Vuuren,20,South Africa,0,9,7,5,53,30,2,4,2,9,185,286,5
+Jonathan Vandiar,31,South Africa,0,70,68,6,1429,1204,150,39,12,0,0,0,0
+Morne Venter,24,South Africa,0,3,3,1,69,56,5,2,1,2,27,30,2
+Kyle Verreynne,24,South Africa,0,39,33,5,726,570,59,21,21,0,0,0,0
+Dane Vilas,36,South Africa,1,191,161,39,3502,2754,257,107,133,0,0,0,0
+Hardus Viljoen,32,South Africa,0,132,77,32,679,526,46,32,25,128,2781,3789,149
+Hanu Viljoen,20,South Africa,0,1,1,0,3,9,0,0,0,0,0,0,0
+Shaun von Berg,35,South Africa,0,48,23,11,180,162,19,2,7,46,936,1092,54
+Basheeru-Deen Walters,35,South Africa,0,76,18,9,68,80,6,1,18,76,1393,1767,58
+Sean Whitehead,24,South Africa,0,9,4,2,13,14,1,0,4,9,168,192,4
+Lizaad Williams,28,South Africa,6,51,13,11,51,50,2,2,13,50,1024,1263,63
+Jordan Woolf,22,South Africa,0,3,2,1,10,6,0,1,2,1,6,15,0
+Jerome Xaba,26,South Africa,0,3,1,1,4,1,0,0,0,3,18,33,0
+Bamanye Xenxe,24,South Africa,0,9,6,1,69,63,3,2,2,8,120,161,8
+Codi Yusuf,23,South Africa,0,13,7,3,45,43,0,4,3,13,261,382,8
+Khaya Zondo,31,South Africa,0,118,96,19,1885,1693,146,46,38,26,295,373,14
+Zubayr Hamza,26,South Africa,0,28,26,5,649,564,71,13,12,1,12,12,1
+Lwandiswa Zuma,25,South Africa,0,22,8,5,24,34,0,1,3,22,348,545,14
+Kasun Abeyrathne,23,Sri Lanka,0,8,6,0,52,58,4,2,12,0,0,0,0
+Lasith Abeyratne,28,Sri Lanka,0,42,34,5,586,523,44,14,30,0,0,0,0
+Ishan Abeysekara,28,Sri Lanka,0,16,15,3,153,153,16,0,4,13,247,266,14
+Dilshan Abeysinghe,25,Sri Lanka,0,4,2,0,7,8,1,0,2,4,60,80,3
+Kasun Vidura,28,Sri Lanka,0,20,17,1,280,233,21,13,11,5,44,53,1
+Aravinda Akurugoda,25,Sri Lanka,0,10,9,1,112,115,7,5,3,7,109,135,2
+Malinga Amarasinghe,24,Sri Lanka,0,12,9,4,56,57,4,0,2,11,198,255,11
+Gamindu Kanishka,35,Sri Lanka,0,14,14,2,202,200,15,5,4,3,30,41,2
+Kavishka Anjula,24,Sri Lanka,0,22,15,4,188,132,13,8,6,22,371,505,19
+Amila Aponso,28,Sri Lanka,3,48,20,9,63,81,7,1,18,44,926,898,57
+Chrishen Aponsu,27,Sri Lanka,0,10,9,1,52,75,1,2,10,0,0,0,0
+Krishan Sanjula,23,Sri Lanka,0,17,15,2,387,343,33,10,20,0,0,0,0
+Sahan Arachchige,25,Sri Lanka,0,36,26,7,472,374,33,12,19,21,326,414,18
+Lasindu Arosha,22,Sri Lanka,0,7,7,0,69,121,5,1,0,4,42,51,1
+Charith Asalanka,24,Sri Lanka,13,51,49,7,1102,862,94,44,15,20,299,361,17
+Kavindu Ashan,28,Sri Lanka,0,2,2,0,39,33,1,3,1,0,0,0,0
+Sammu Ashan,24,Sri Lanka,0,36,32,12,369,320,17,17,7,10,108,104,6
+Dulaj Ashen,21,Sri Lanka,0,3,1,1,6,10,0,0,1,1,12,16,0
+Nimasara Atharagalla,22,Sri Lanka,0,10,2,2,3,3,0,0,3,10,153,210,15
+Dilanka Auwardt,31,Sri Lanka,0,15,9,6,42,71,1,0,3,15,307,346,12
+Chaminda Bandara,34,Sri Lanka,1,20,5,4,25,28,1,1,4,19,325,397,18
+Ashen Bandara,23,Sri Lanka,4,33,27,7,569,444,48,13,25,3,13,12,1
+Asantha Basnayake,34,Sri Lanka,0,19,13,1,192,167,10,8,10,3,36,47,0
+Minod Bhanuka,26,Sri Lanka,5,72,68,10,1230,1033,115,41,70,0,0,0,0
+Hasitha Boyagoda,23,Sri Lanka,0,25,18,2,252,234,20,4,13,2,18,21,1
+Rumesh Buddika,31,Sri Lanka,0,47,44,4,822,704,77,22,8,20,253,376,10
+Iresh Chamara,27,Sri Lanka,0,1,1,0,0,1,0,0,1,1,6,9,0
+Dushmantha Chameera,30,Sri Lanka,43,84,36,16,120,144,10,3,17,83,1742,2273,85
+Dinesh Chandimal,32,Sri Lanka,65,159,146,23,3745,3123,336,98,115,0,0,0,0
+Ron Chandraguptha,26,Sri Lanka,0,14,14,0,208,187,29,4,11,0,0,0,0
+Poorna Charuka,24,Sri Lanka,0,7,4,1,25,32,0,1,1,6,51,96,3
+Sanjaya Chathuranga,29,Sri Lanka,0,12,11,5,235,201,14,8,4,10,146,175,9
+Vishva Chathuranga,23,Sri Lanka,0,19,18,0,226,198,31,6,14,0,0,0,0
+Sandaruwan Chinthaka,21,Sri Lanka,0,5,4,1,36,27,3,1,1,2,36,40,1
+Harsha Cooray,38,Sri Lanka,0,37,35,5,859,807,79,22,11,1,24,55,0
+Dilhan Cooray,34,Sri Lanka,0,33,31,3,541,515,55,4,9,2,8,12,0
+Sangeeth Cooray,26,Sri Lanka,0,17,17,1,333,338,33,4,3,9,116,126,9
+Lasith Croospulle,23,Sri Lanka,0,25,25,0,466,366,55,9,11,8,102,130,5
+Akila Dananjaya,28,Sri Lanka,31,91,37,17,163,186,11,3,23,87,1872,2325,101
+Ashian Daniel,20,Sri Lanka,0,11,3,3,5,2,1,0,3,10,186,188,14
+Jehan Daniel,22,Sri Lanka,0,22,20,6,270,183,18,12,7,13,108,171,2
+Sanoj Darshika,23,Sri Lanka,0,14,14,2,130,125,6,4,4,1,12,16,0
+Anuk de Alwis,30,Sri Lanka,0,19,17,5,145,86,7,11,7,17,288,424,14
+Sohan de Livera,21,Sri Lanka,0,2,2,0,22,23,2,0,3,0,0,0,0
+Sasika Dilshan,22,Sri Lanka,0,3,1,1,1,2,0,0,0,3,66,63,4
+Hashan Dumindu,26,Sri Lanka,0,25,22,3,491,416,46,9,12,1,18,29,0
+Chamikara Edirisinghe,30,Sri Lanka,0,32,14,4,44,55,1,2,13,31,597,644,27
+Kasun Ekanayake,24,Sri Lanka,0,8,8,1,147,143,9,4,4,2,30,45,2
+Nuwan Pradeep,35,Sri Lanka,16,68,23,17,45,72,4,1,16,67,1233,1707,72
+Binura Fernando,26,Sri Lanka,7,58,29,9,228,216,13,8,5,57,1169,1355,77
+Chamara Fernando,33,Sri Lanka,0,10,10,0,219,179,23,5,4,0,0,0,0
+Dilum Fernando,27,Sri Lanka,0,1,0,0,0,0,0,0,0,1,24,24,2
+Tharusha Fernando,22,Sri Lanka,0,10,10,4,96,84,6,3,6,4,63,63,6
+Deshan Fernando,23,Sri Lanka,0,5,2,2,6,6,0,0,0,5,114,111,6
+Hasantha Fernando,42,Sri Lanka,0,61,54,2,892,760,74,36,21,46,788,1039,35
+Nuwanidu Fernando,22,Sri Lanka,0,19,18,3,391,346,24,13,7,2,18,16,0
+Naveen Fernando,21,Sri Lanka,0,1,1,0,3,5,0,0,0,1,6,11,0
+Ravindu Fernando,22,Sri Lanka,0,6,6,1,50,51,2,2,1,5,66,71,3
+Shasheen Fernando,28,Sri Lanka,0,6,4,1,17,23,2,0,0,0,0,0,0
+Saminda Fernando,25,Sri Lanka,0,19,13,4,117,117,11,2,2,0,0,0,0
+Shalith Fernando,22,Sri Lanka,0,14,12,3,234,226,12,7,16,0,0,0,0
+Anuk Fernando,26,Sri Lanka,0,31,20,4,191,154,12,6,10,23,408,518,25
+Hans Fernando,35,Sri Lanka,0,17,15,0,274,283,29,4,7,0,0,0,0
+Shehan Fernando,28,Sri Lanka,0,39,38,1,918,634,96,37,13,3,18,23,1
+Asitha Fernando,24,Sri Lanka,0,28,8,5,24,25,4,0,4,27,526,713,32
+Oshada Fernando,29,Sri Lanka,7,29,25,2,445,393,41,12,10,0,0,0,0
+Nishan Madushka,22,Sri Lanka,0,22,21,4,559,561,54,8,15,0,0,0,0
+Vishwa Fernando,30,Sri Lanka,1,17,4,0,11,17,1,0,1,17,255,353,14
+Shiran Fernando,28,Sri Lanka,0,19,7,5,28,19,1,2,7,18,389,495,28
+Avishka Fernando,23,Sri Lanka,32,83,80,6,1874,1417,155,96,24,0,0,0,0
+Irosh Fernando,22,Sri Lanka,0,17,15,6,86,80,9,3,10,0,0,0,0
+Roshen Fernando,29,Sri Lanka,0,19,7,4,29,21,0,4,4,19,368,434,26
+Leo Fransisco,27,Sri Lanka,0,17,16,0,220,229,19,3,16,0,0,0,0
+Nisala Tharaka,30,Sri Lanka,0,34,24,9,222,213,16,7,5,34,639,792,41
+Venura Gayashan,23,Sri Lanka,0,3,0,0,0,0,0,0,0,3,30,50,1
+Sithara Gimhan,26,Sri Lanka,0,18,17,0,289,216,27,11,9,0,0,0,0
+Dilesh Gunaratne,32,Sri Lanka,0,27,2,1,10,7,1,0,6,27,507,568,38
+Asela Gunaratne,36,Sri Lanka,12,78,73,17,1422,1214,111,39,34,68,1044,1320,50
+Chamika Gunasekara,22,Sri Lanka,0,14,3,1,2,8,0,0,4,13,234,224,19
+Vihan Gunasekare,23,Sri Lanka,0,2,2,0,48,58,2,3,0,0,0,0,0
+Rahul Gunasekera,20,Sri Lanka,0,8,4,3,15,23,1,0,0,0,0,0,0
+Savin Gunasekara,25,Sri Lanka,0,2,2,0,14,22,0,0,0,1,6,6,0
+Nimesha Gunasinghe,26,Sri Lanka,0,5,4,1,42,37,3,1,3,2,16,36,0
+Danushka Gunathilaka,30,Sri Lanka,34,112,109,8,2644,2059,279,85,41,46,666,833,31
+Santhush Gunathilake,22,Sri Lanka,0,5,3,0,25,39,2,0,0,2,12,16,0
+Naveen Gunawardene,23,Sri Lanka,0,7,0,0,0,0,0,0,0,7,110,127,4
+Nipun Haggalla,24,Sri Lanka,0,11,8,3,123,106,14,0,6,0,0,0,0
+Danal Hemananda,18,Sri Lanka,0,2,0,0,0,0,0,0,0,2,45,56,5
+Dushan Hemantha,27,Sri Lanka,0,34,32,6,462,373,35,17,18,19,305,349,12
+Heshan Hettiarchchi,23,Sri Lanka,0,19,8,3,33,42,1,1,3,18,255,329,19
+Pramud Hettiwatte,26,Sri Lanka,0,25,21,3,512,404,36,19,12,15,229,307,10
+Dineth Thimodya,25,Sri Lanka,0,15,14,1,144,144,11,6,8,1,12,17,1
+Tharushan Iddamalgoda,26,Sri Lanka,0,14,12,0,182,177,21,2,5,13,226,220,6
+Lahiru Udara,28,Sri Lanka,0,41,38,2,780,586,90,24,33,0,0,0,0
+Navodya Imesh,21,Sri Lanka,0,3,3,0,29,34,0,1,2,2,12,21,0
+Imran Khan,29,Sri Lanka,0,14,6,5,24,21,2,0,6,13,188,254,10
+Upul Indrasiri,39,Sri Lanka,0,32,19,5,70,101,4,1,8,31,571,668,30
+Akeel Inham,25,Sri Lanka,0,16,16,1,275,263,26,4,9,0,0,0,0
+Janindu Inuwara,22,Sri Lanka,0,3,2,0,3,15,0,0,0,1,8,11,0
+Minhaj Jalill,27,Sri Lanka,0,17,15,0,226,216,25,7,3,10,138,171,6
+Dineth Jayakody,20,Sri Lanka,0,6,5,2,71,49,6,2,2,0,0,0,0
+ Lahiru Jayakody,27,Sri Lanka,0,10,8,0,144,107,11,7,0,1,18,26,1
+Dileepa Jayalath,24,Sri Lanka,0,7,3,2,14,14,2,0,3,7,132,156,7
+Methsith Jayamanna,24,Sri Lanka,0,8,5,1,16,26,0,0,0,1,6,7,0
+Charith Jayampathi,31,Sri Lanka,0,44,29,8,172,165,6,11,9,42,708,1121,38
+Ishan Jayaratne,32,Sri Lanka,0,59,37,14,529,354,29,33,13,53,1077,1333,70
+Lahiru Jayaratne,30,Sri Lanka,0,44,22,6,98,112,4,3,20,38,620,771,30
+Ranmith Jayasena,21,Sri Lanka,0,6,5,1,49,37,3,2,0,0,0,0,0
+Angelo Jayasinghe,29,Sri Lanka,0,22,17,4,355,347,26,5,8,1,2,1,0
+Udara Jayasundera,31,Sri Lanka,0,55,52,5,914,855,81,24,12,25,383,447,27
+Prabath Jayasuriya,30,Sri Lanka,0,49,13,6,37,50,1,1,19,47,994,959,69
+Chathuranga Jayathilake,30,Sri Lanka,0,3,3,1,3,6,0,0,0,0,0,0,0
+Sachitha Jayathilake,24,Sri Lanka,0,24,23,6,328,310,18,15,5,18,342,389,13
+Roshan Jayatissa,32,Sri Lanka,0,22,14,1,95,93,6,6,8,22,387,469,24
+Dunith Jayatunga,20,Sri Lanka,0,2,2,0,11,11,1,0,2,0,0,0,0
+Sachin Jayawardena,27,Sri Lanka,0,18,18,2,227,243,20,5,3,12,151,205,7
+Manjula Jayawardhana,38,Sri Lanka,0,27,25,9,284,237,14,16,10,25,472,585,20
+Mithun Jayawickrama,31,Sri Lanka,0,29,24,5,251,220,14,15,15,19,322,433,14
+Praveen Jayawickrama,23,Sri Lanka,1,16,7,5,13,14,2,0,7,15,283,246,14
+Malinda Jayod,23,Sri Lanka,0,2,2,0,21,15,3,0,0,2,30,51,2
+Saliya Saman,36,Sri Lanka,0,47,41,14,673,518,41,38,14,41,851,1084,58
+Kanagarathinam Kabilraj,22,Sri Lanka,0,2,0,0,0,0,0,0,0,2,42,55,2
+Thaveesha Kahaduwaarachchi,21,Sri Lanka,0,5,5,0,131,134,12,1,1,0,0,0,0
+Vihanga Kalhara,28,Sri Lanka,0,7,5,2,26,26,1,0,1,5,78,87,2
+Dilshan Kanchana,26,Sri Lanka,0,10,10,1,218,231,17,3,2,5,66,83,4
+Sameen Kandanearachchi,33,Sri Lanka,0,24,23,2,429,353,49,9,23,0,0,0,0
+Sawan Kankanamge,23,Sri Lanka,0,12,12,2,247,204,21,11,4,7,96,118,3
+Nipuna Kariyawasam,30,Sri Lanka,0,14,11,5,54,59,4,3,5,12,204,302,14
+Nipun Karunanayake,31,Sri Lanka,0,33,30,6,433,431,28,10,14,5,57,68,1
+Umesh Karunaratne,33,Sri Lanka,0,24,24,5,384,398,30,6,4,19,405,506,19
+Chamika Karunaratne,25,Sri Lanka,18,55,44,21,432,362,35,15,25,46,742,1029,34
+Ravindra Karunaratne,34,Sri Lanka,0,13,12,2,126,95,9,7,1,2,30,36,1
+Tharindu Kaushal,28,Sri Lanka,0,32,16,4,101,92,10,3,6,30,552,641,22
+Navin Kavikara,32,Sri Lanka,0,17,9,2,40,30,4,1,6,16,318,420,19
+Supun Kavinda,22,Sri Lanka,0,8,8,0,163,141,9,9,5,6,132,133,12
+Kavindana Perera,21,Sri Lanka,0,1,1,0,0,1,0,0,1,0,0,0,0
+Aveesha Keshan,21,Sri Lanka,0,1,0,0,0,0,0,0,0,1,6,15,0
+Romesh Krishantha,31,Sri Lanka,0,4,2,2,4,9,0,0,0,2,23,31,2
+Kavindu Kulasekara,26,Sri Lanka,0,11,10,0,213,185,16,2,11,0,0,0,0
+Vimukthi Kulatunga,23,Sri Lanka,0,4,3,1,14,19,1,0,1,4,53,55,1
+Mahesh Kumara,22,Sri Lanka,0,7,6,1,69,60,7,1,5,0,0,0,0
+Chathuranga Kumara,30,Sri Lanka,0,35,29,6,324,244,23,15,7,29,457,654,23
+Lahiru Kumara,25,Sri Lanka,15,34,12,7,22,21,4,0,2,33,675,931,38
+Geeth Kumara,33,Sri Lanka,0,32,29,0,435,373,30,19,7,20,314,320,18
+Charitha Kumarasinghe,29,Sri Lanka,0,24,24,2,506,404,56,16,31,0,0,0,0
+Suranga Lakmal,34,Sri Lanka,11,66,31,16,143,131,12,5,18,64,1275,1716,69
+Chathura Lakshan,26,Sri Lanka,0,18,11,4,76,103,2,2,12,15,259,323,12
+Suminda Lakshan,24,Sri Lanka,0,18,11,2,173,153,9,3,14,14,264,340,8
+Dhananjaya Lakshan,23,Sri Lanka,0,41,34,5,465,377,34,18,15,26,431,629,25
+Muditha Lakshan,21,Sri Lanka,0,8,7,2,252,159,17,14,1,1,18,16,0
+Lasith Lakshan,26,Sri Lanka,0,16,15,0,242,223,23,5,4,5,54,56,2
+Pasindu Lakshanka,25,Sri Lanka,0,12,9,0,142,116,7,8,11,0,0,0,0
+Yashodha Lanka,29,Sri Lanka,0,44,39,1,673,599,74,18,20,0,0,0,0
+Pramod Madushan,28,Sri Lanka,0,25,10,2,41,44,3,1,7,24,475,574,36
+Ranitha Liyanarachchi,27,Sri Lanka,0,12,11,0,300,227,25,13,5,7,102,165,7
+Dilasri Lokubandara,28,Sri Lanka,0,11,11,0,180,154,19,2,7,0,0,0,0
+Malindu Maduranga,24,Sri Lanka,0,18,18,2,212,189,25,6,10,0,0,0,0
+Lahiru Madusanka,20,Sri Lanka,0,1,0,0,0,0,0,0,0,1,6,7,0
+Danushka Madushanka,31,Sri Lanka,0,6,4,3,13,19,0,1,1,6,108,87,7
+Pathum Madusanka,26,Sri Lanka,0,9,9,0,91,104,6,0,3,0,0,0,0
+Shanuka Madushan,24,Sri Lanka,0,3,3,0,9,24,0,0,1,2,36,42,3
+Udith Madushan,24,Sri Lanka,0,12,6,4,21,26,2,0,2,12,234,261,15
+Buddika Madushan,31,Sri Lanka,0,15,12,1,132,143,10,5,4,12,216,281,12
+Pasindu Madushan,29,Sri Lanka,0,15,9,1,61,105,2,1,6,13,192,234,7
+Kasun Madushanka,30,Sri Lanka,0,31,15,8,51,52,5,1,5,29,508,661,28
+Lahiru Madushanka,29,Sri Lanka,3,63,46,14,591,512,30,24,28,54,843,1101,50
+Dilshan Madushanka,21,Sri Lanka,0,4,0,0,0,0,0,0,0,4,60,89,4
+Supun Madushanka,28,Sri Lanka,0,14,13,1,231,142,21,14,5,7,105,115,8
+Promod Maduwantha,24,Sri Lanka,0,6,2,0,31,36,1,0,3,4,66,49,5
+Malinga Maligaspe,35,Sri Lanka,0,16,16,2,272,273,27,4,14,0,0,0,0
+Nipun Malinga,21,Sri Lanka,0,1,1,0,7,6,1,0,0,1,12,35,0
+Gayan Maneeshan,30,Sri Lanka,0,29,28,10,688,592,38,28,12,1,6,1,2
+Sasith Manuranga,22,Sri Lanka,0,6,6,0,94,108,8,1,2,1,6,7,0
+Angelo Mathews,34,Sri Lanka,78,173,148,36,2788,2332,199,90,60,129,2200,2723,85
+Waruna Mayantha,26,Sri Lanka,0,9,8,1,105,103,12,3,4,0,0,0,0
+Sujan Mayura,32,Sri Lanka,0,9,7,1,109,92,6,4,5,9,156,171,5
+Ashen Mendis,26,Sri Lanka,0,3,3,0,42,55,2,0,0,0,0,0,0
+Bishan Mendis,22,Sri Lanka,0,3,3,0,11,23,2,0,0,0,0,0,0
+Kusal Mendis,27,Sri Lanka,31,72,71,3,1826,1324,150,83,30,1,1,0,0
+Jeevan Mendis,39,Sri Lanka,22,162,132,27,2250,1820,160,85,45,113,1957,2362,118
+Tharindu Mendis,40,Sri Lanka,0,11,9,0,112,133,9,0,8,1,12,24,0
+Yasoda Mendis,29,Sri Lanka,0,8,3,0,23,31,0,1,0,5,48,65,4
+Nimesha Mendis,26,Sri Lanka,0,13,6,2,36,48,0,1,1,12,240,312,10
+Ramesh Mendis,26,Sri Lanka,2,55,42,12,727,561,45,27,10,47,756,854,41
+Sandun Mendis,20,Sri Lanka,0,3,3,0,24,25,1,1,1,2,36,49,2
+Kamindu Mendis,23,Sri Lanka,5,39,32,4,731,564,66,17,9,33,480,607,13
+Yohan Mendis,25,Sri Lanka,0,5,2,0,63,55,5,0,3,0,0,0,0
+Rashmika Mevan,20,Sri Lanka,0,1,1,0,6,9,1,0,0,1,18,22,0
+Dulash Udayanga,26,Sri Lanka,0,24,23,5,295,322,25,3,8,0,0,0,0
+Lahiru Milantha,27,Sri Lanka,0,45,44,2,1049,768,105,36,22,0,0,0,0
+Kamil Mishara,20,Sri Lanka,0,13,12,4,171,142,21,3,3,0,0,0,0
+Mohammed Shamaaz,21,Sri Lanka,0,5,5,2,78,74,2,2,3,0,0,0,0
+Dilshan Munaweera,32,Sri Lanka,13,129,126,7,2662,2092,325,94,18,79,1289,1503,48
+Raju Gayashan,33,Sri Lanka,0,16,14,0,206,196,21,3,2,1,6,17,0
+Adeesha Nanayakkara,30,Sri Lanka,0,28,27,3,401,374,28,13,6,8,138,163,11
+Sathik Nimalsha,25,Sri Lanka,0,14,13,3,54,65,3,1,1,13,252,324,16
+Madhawa Nimesh,26,Sri Lanka,0,17,16,3,148,135,10,4,3,6,96,125,4
+Kamesh Nirmal,22,Sri Lanka,0,7,7,1,117,121,10,2,3,0,0,0,0
+Hasitha Nirmal,29,Sri Lanka,0,16,15,2,176,193,17,3,6,12,189,212,8
+Pathum Nissanka,23,Sri Lanka,16,45,42,1,1145,940,115,23,25,0,0,0,0
+Chathura Obeyesekere,23,Sri Lanka,0,8,4,3,3,11,0,0,2,8,138,159,9
+Udayawansha Parakrama,25,Sri Lanka,0,20,20,1,413,344,44,9,18,0,0,0,0
+Suranga Paranavitana,44,Sri Lanka,0,7,5,1,38,45,1,1,1,3,30,32,3
+Matheesha Pathirana,19,Sri Lanka,0,2,0,0,0,0,0,0,0,2,24,33,2
+Sandaken Pathirana,25,Sri Lanka,0,15,12,3,117,103,5,7,7,14,228,283,16
+Nishan Peiris,24,Sri Lanka,0,30,15,7,76,68,4,4,9,29,493,549,34
+Chathura Peiris,31,Sri Lanka,0,44,31,7,301,248,15,16,12,41,762,939,42
+Ruvin Peiris,21,Sri Lanka,0,6,1,0,2,2,0,0,0,6,102,129,5
+Sachintha Peiris,26,Sri Lanka,0,26,12,6,17,24,0,0,5,25,480,512,32
+Dellon Peiris,21,Sri Lanka,0,4,3,1,43,48,5,0,0,1,6,11,0
+Anushka Perera,28,Sri Lanka,0,6,6,0,122,135,12,1,0,4,43,35,4
+Angelo Perera,31,Sri Lanka,6,114,98,18,2009,1689,143,60,68,31,374,443,20
+Chamal Perera,29,Sri Lanka,0,2,2,0,6,12,0,0,0,0,0,0,0
+Damith Perera,25,Sri Lanka,0,15,15,3,222,202,14,6,8,0,0,0,0
+Kevin Perera,21,Sri Lanka,0,4,3,0,8,24,0,0,3,0,0,0,0
+Matheesha Perera,30,Sri Lanka,0,20,19,1,179,225,17,1,6,18,314,344,12
+Kalana Perera,21,Sri Lanka,0,15,6,1,9,19,0,0,5,14,222,246,16
+Dilruwan Perera,39,Sri Lanka,3,92,72,9,852,781,84,24,24,87,1687,1823,77
+Kusal Perera,31,Sri Lanka,60,129,125,5,2800,2149,261,104,69,0,0,0,0
+Salinda Ushan,25,Sri Lanka,0,10,8,1,84,118,2,1,1,0,0,0,0
+Nimesh Perera - jnr,40,Sri Lanka,0,46,43,5,849,608,70,51,23,32,600,688,42
+Thisara Perera,32,Sri Lanka,84,319,268,75,4060,2680,291,231,130,281,4843,6967,266
+Vimukthi  Perera,32,Sri Lanka,0,24,11,9,56,42,4,3,7,23,443,610,22
+Priyamal Perera,26,Sri Lanka,0,42,37,7,630,505,48,20,16,4,48,56,1
+Sachithra Perera,29,Sri Lanka,0,29,16,5,53,68,3,1,12,27,522,579,25
+Nimantha Perera,27,Sri Lanka,0,4,4,0,51,50,5,0,0,4,36,49,0
+Avishka Perera,20,Sri Lanka,0,2,2,0,12,20,0,0,0,0,0,0,0
+Sampath Perera,39,Sri Lanka,0,22,21,3,252,191,18,14,2,22,395,468,26
+Janaka Sampath,34,Sri Lanka,0,43,28,15,141,156,11,1,15,43,878,912,43
+Primosh Perera,32,Sri Lanka,0,25,24,0,575,520,54,13,17,0,0,0,0
+Vinodh Perera,32,Sri Lanka,0,25,21,4,267,258,19,8,8,23,422,605,32
+Nipun Dananjaya,21,Sri Lanka,0,13,11,1,268,209,18,11,4,0,0,0,0
+Chamod Piumal ,26,Sri Lanka,0,11,6,2,16,15,1,1,2,10,158,236,10
+Arul Prakash,28,Sri Lanka,0,6,3,3,5,4,1,0,4,4,40,55,2
+Seekkuge Prasanna,36,Sri Lanka,20,182,145,32,1887,1187,112,147,65,170,3254,3820,150
+Muditha Premadasa,20,Sri Lanka,0,4,4,2,77,86,3,1,3,0,0,0,0
+Aravinda Premaratne,29,Sri Lanka,0,18,11,5,71,99,2,1,3,17,294,349,16
+Nilanka Premaratne,33,Sri Lanka,0,5,2,2,2,3,0,0,3,5,108,140,2
+Nuwan Priyadarshana,28,Sri Lanka,0,9,7,4,51,51,1,4,0,0,0,0,0
+Mahesh Priyadarshana,40,Sri Lanka,0,15,14,1,170,168,18,3,2,14,270,335,17
+Nalin Priyadarshana,31,Sri Lanka,0,6,3,1,4,11,0,0,1,6,114,112,8
+Rajith Priyan,33,Sri Lanka,0,22,8,4,43,45,3,1,4,20,385,478,26
+Milan Rathnayake,25,Sri Lanka,0,10,3,0,25,23,2,1,2,10,159,195,7
+Ashan Priyanjan,32,Sri Lanka,3,109,99,16,1767,1432,148,60,40,60,922,987,47
+Rajinda Punchihewa,29,Sri Lanka,0,11,8,2,14,27,1,0,6,9,126,148,3
+Malinda Pushpakumara,34,Sri Lanka,0,58,33,10,229,186,18,9,21,54,1158,1253,91
+Shashrika Pussegolla,34,Sri Lanka,0,15,14,0,194,250,14,4,5,12,177,238,2
+Saranga Rajaguru,29,Sri Lanka,0,29,23,4,209,181,15,12,13,21,391,489,24
+Denuwan  Rajakaruna,31,Sri Lanka,0,27,25,3,322,335,22,3,21,8,162,186,3
+Bhanuka Rajapaksa,30,Sri Lanka,18,105,91,10,1912,1420,160,96,34,24,384,480,27
+Charith Rajapakshe,29,Sri Lanka,0,7,4,1,6,16,0,0,2,7,114,167,4
+Hashen Ramanayake,26,Sri Lanka,0,22,20,4,262,222,8,14,12,16,252,344,15
+Himesh Ramanayake,24,Sri Lanka,0,23,8,5,31,44,1,0,5,23,413,500,32
+Kavindu Ranasinghe,21,Sri Lanka,0,1,1,0,0,2,0,0,0,1,6,7,0
+Yomesh Ranasinghe,24,Sri Lanka,0,7,4,4,11,15,1,0,0,7,120,125,7
+Sanjaya Ranaweera,35,Sri Lanka,0,9,5,2,17,34,1,0,1,9,179,237,17
+Ashan Randika,28,Sri Lanka,0,32,30,1,715,474,77,32,14,0,0,0,0
+Chathura Randunu,37,Sri Lanka,0,33,24,12,101,107,9,0,11,30,478,589,28
+Ishan Rangana,28,Sri Lanka,0,9,9,1,99,118,5,2,3,0,0,0,0
+Vinuja Ranpul,18,Sri Lanka,0,1,1,1,16,19,0,0,0,1,12,23,1
+Nipun Ransika,22,Sri Lanka,0,12,5,3,16,13,1,1,1,12,189,232,10
+Lakshitha Manasinghe,22,Sri Lanka,0,7,3,0,33,38,1,1,0,6,96,117,5
+Eranga Rathnayake,30,Sri Lanka,0,23,21,1,318,336,21,6,7,16,314,400,17
+Pavan Rathnayake,19,Sri Lanka,0,5,2,0,21,24,2,0,2,0,0,0,0
+Priyantha Rathnayake,32,Sri Lanka,0,1,1,0,0,1,0,0,1,0,0,0,0
+Ravindu Rathnayake,21,Sri Lanka,0,3,2,0,26,25,2,0,3,0,0,0,0
+Tharindu Ratnayake,25,Sri Lanka,0,35,23,7,293,232,21,18,12,35,752,778,34
+Madushan Ravichandrakumar,27,Sri Lanka,0,20,17,2,269,210,23,11,15,16,322,369,18
+Sanjika Ridma,27,Sri Lanka,0,30,26,5,365,349,27,12,9,16,189,205,12
+Kavindu Ridmal,21,Sri Lanka,0,5,2,2,6,5,1,0,2,5,78,114,1
+Lakshan Rodrigo,34,Sri Lanka,0,21,21,0,385,282,59,8,9,9,120,177,4
+Lasanda Rukmal,31,Sri Lanka,0,16,11,3,73,68,7,3,7,16,362,497,23
+Manisha Rupasinghe,21,Sri Lanka,0,1,1,0,14,20,0,0,0,0,0,0,0
+Gihan Rupasinghe,35,Sri Lanka,2,56,55,5,1010,831,83,37,21,10,158,208,9
+Chanaka Ruwansiri,32,Sri Lanka,0,39,35,3,736,527,46,51,19,35,627,823,30
+Sanjeew Coomaraswamy,24,Sri Lanka,0,4,1,1,2,1,0,0,1,4,36,76,1
+Jacob Sachin,26,Sri Lanka,0,1,1,0,4,8,0,0,0,0,0,0,0
+Sameera Sadamal,28,Sri Lanka,0,17,16,0,356,266,36,13,7,10,142,165,8
+Kasun Sndaruwan,23,Sri Lanka,0,2,2,0,26,30,1,0,2,0,0,0,0
+Lahiru Samarakoon,24,Sri Lanka,0,26,22,1,468,294,43,24,11,22,361,502,24
+Thushara Madushanka,28,Sri Lanka,0,13,11,0,112,93,7,7,5,0,0,0,0
+Irosh Samarasooriya,30,Sri Lanka,0,35,34,4,608,564,57,16,8,9,108,116,5
+Sadeera Samarawickrama,26,Sri Lanka,9,62,60,5,1512,1246,147,28,59,0,0,0,0
+Tillakaratne Sampath,39,Sri Lanka,0,82,72,7,1265,1055,134,49,47,61,1018,1213,53
+Lakshan Sandakan,30,Sri Lanka,20,62,19,10,54,91,4,0,17,60,1280,1623,72
+Chamod Sandaru,20,Sri Lanka,0,2,1,0,7,8,1,0,0,1,12,18,0
+Shehan Sandaruwan,25,Sri Lanka,0,15,7,1,40,37,0,4,5,9,123,169,8
+Vikum Sanjaya,30,Sri Lanka,8,28,17,5,73,68,7,3,10,26,506,684,27
+Rohan Sanjaya,20,Sri Lanka,0,6,5,5,22,14,1,1,2,6,136,137,7
+Buddika Sanjeewa,34,Sri Lanka,0,35,24,8,118,133,8,4,13,35,628,813,41
+Sankalpa Waduge,24,Sri Lanka,0,3,2,1,4,9,0,0,2,3,36,65,2
+Manoj Sarathchandra,29,Sri Lanka,0,34,28,5,428,349,28,14,42,0,0,0,0
+Ravindu Sembukuttige,22,Sri Lanka,0,16,14,0,303,248,25,10,7,8,132,172,5
+Akash Senaratne,25,Sri Lanka,0,13,7,3,65,63,6,1,4,12,196,192,14
+Dasun Senevirathna,24,Sri Lanka,0,14,13,2,167,118,11,13,5,4,60,94,2
+Sachithra Serasinghe,34,Sri Lanka,0,40,35,1,495,469,49,9,12,33,577,684,42
+Dasun Shanaka,30,Sri Lanka,61,137,127,27,2826,2009,202,168,44,68,820,1201,37
+Mohamed Shilmi,28,Sri Lanka,0,3,3,0,9,19,1,0,1,0,0,0,0
+Mohamed Shiraz,27,Sri Lanka,0,10,4,3,14,11,1,0,2,10,162,220,8
+Asel Sigera,22,Sri Lanka,0,14,14,3,213,210,17,5,3,13,222,259,12
+Alankara Asanka Silva,36,Sri Lanka,0,47,26,10,192,233,15,2,15,45,914,987,64
+Damitha Silva,23,Sri Lanka,0,17,15,5,292,276,13,10,7,17,257,279,16
+Kavindu Silva,28,Sri Lanka,0,1,1,1,8,11,0,0,0,1,12,20,1
+Hashan Chamara,26,Sri Lanka,0,5,5,0,93,88,10,3,1,0,0,0,0
+Lahiru Diyantha,32,Sri Lanka,0,11,7,4,21,20,1,1,0,10,180,213,8
+Janith Silva,31,Sri Lanka,0,50,40,9,398,354,26,18,16,47,822,945,55
+Mishen Silva,23,Sri Lanka,0,19,17,2,222,203,19,6,6,13,204,269,12
+Ashen Silva,31,Sri Lanka,0,21,18,2,288,254,33,7,8,1,6,15,1
+Asantha Singappuli,30,Sri Lanka,0,9,9,2,171,170,10,6,2,6,96,138,5
+Gayan Sirisoma,40,Sri Lanka,0,26,10,7,49,35,4,3,3,26,545,649,37
+Milinda Siriwardana,36,Sri Lanka,22,114,104,20,1648,1170,116,74,56,73,981,1315,49
+Dinitha Siriwardena,20,Sri Lanka,0,1,1,0,7,9,0,0,0,0,0,0,0
+Inshaka Siriwardena,22,Sri Lanka,0,10,8,0,66,80,1,3,2,10,190,173,14
+Ayana Siriwardhana,22,Sri Lanka,0,19,13,4,171,144,8,8,10,9,104,99,5
+Pasindu Sooriyabandara,22,Sri Lanka,0,7,6,2,91,98,6,1,2,0,0,0,0
+Movin Subasingha,21,Sri Lanka,0,5,3,0,15,18,1,0,1,4,72,62,2
+Nimanda Madushanka,29,Sri Lanka,0,23,20,4,259,176,19,14,4,23,418,515,35
+Tharaka Waduge,35,Sri Lanka,0,13,13,0,242,232,17,12,4,2,36,42,1
+Upul Tharanga,37,Sri Lanka,26,131,129,9,3453,2711,384,113,43,0,0,0,0
+Pulina Tharanga,29,Sri Lanka,0,57,41,8,685,586,41,20,18,42,715,827,49
+Charuka Tharindu,21,Sri Lanka,0,2,0,0,0,0,0,0,0,0,0,0,0
+Roscoe Thattil,29,Sri Lanka,0,31,27,4,311,326,21,6,12,21,367,438,26
+Maheesh Theekshana,21,Sri Lanka,14,47,15,8,38,39,3,1,14,46,1020,1024,51
+Avindu Theekshana,23,Sri Lanka,0,10,8,2,52,55,1,2,2,9,202,222,8
+Adeesha Thilanchana,26,Sri Lanka,0,30,25,4,351,346,20,17,12,26,400,477,32
+Methushan Thilina,22,Sri Lanka,0,3,2,2,9,10,0,0,0,3,70,82,6
+Thiwanka Kekulawala,25,Sri Lanka,0,4,2,0,11,15,2,0,0,4,41,52,3
+Nuwan Thushara,27,Sri Lanka,2,48,11,9,11,12,1,0,8,48,878,1136,63
+Duvindu Tillakaratne,25,Sri Lanka,0,10,3,2,10,17,0,0,3,9,134,157,13
+Isuru Udana,34,Sri Lanka,35,182,117,41,1192,919,66,65,63,174,3490,4783,186
+Mahela Udawatte,35,Sri Lanka,8,120,117,12,2591,2131,244,75,37,6,61,78,3
+Imesh Udayanga,32,Sri Lanka,0,34,30,6,293,348,27,3,10,24,390,488,20
+Tilanga Udeshana,23,Sri Lanka,0,6,4,2,3,11,0,0,1,5,72,120,6
+Risith Upamal,25,Sri Lanka,0,5,3,2,6,10,0,0,5,0,0,0,0
+Pasindu Ushettige,22,Sri Lanka,0,9,5,3,20,28,1,0,1,9,192,177,8
+Jeffrey Vandersay,32,Sri Lanka,12,60,29,16,123,158,14,1,27,59,1211,1500,64
+Dushan Vimukthi,30,Sri Lanka,0,34,27,6,245,282,16,4,11,31,554,567,33
+Nimesh Vimukthi,24,Sri Lanka,0,30,25,3,220,189,19,6,15,30,603,615,38
+Harsha Vithana,36,Sri Lanka,0,35,32,8,465,442,28,11,11,10,109,129,5
+Vijayakanth Viyaskanth,20,Sri Lanka,0,5,3,1,11,12,1,0,0,5,90,105,6
+Pabasara Waduge,28,Sri Lanka,0,28,27,3,478,444,47,6,20,0,0,0,0
+Keshan Wanniarachchi,23,Sri Lanka,0,9,9,2,78,112,7,0,6,0,0,0,0
+Poorna Wannithilake,23,Sri Lanka,0,4,3,1,6,10,0,0,0,4,78,120,5
+Wasantha Warnapura,40,Sri Lanka,0,2,2,2,0,1,0,0,1,2,36,58,2
+Madawa Warnapura,33,Sri Lanka,0,35,29,4,505,450,38,19,10,12,169,171,13
+Sandun Weerakkody,28,Sri Lanka,0,44,37,0,596,465,66,18,27,2,36,43,2
+Rajeewa Weerasinghe,34,Sri Lanka,0,26,20,11,154,154,9,2,4,25,474,518,23
+Sehan Weerasinghe,26,Sri Lanka,0,21,20,1,243,269,12,7,6,19,375,449,16
+Risira Weerasuriya,21,Sri Lanka,0,2,0,0,0,0,0,0,0,0,0,0,0
+Chamindu Wickramasinghe,19,Sri Lanka,0,4,2,1,13,13,1,0,2,4,42,71,3
+Prashan Wickramasinghe,29,Sri Lanka,0,32,27,3,361,369,27,5,17,0,0,0,0
+Kemira Wijenayake,20,Sri Lanka,0,2,2,2,4,3,0,0,0,2,18,14,0
+Keshan Wijerathne,25,Sri Lanka,0,18,11,1,71,72,5,0,2,18,363,407,17
+Vishva Wijeratne,29,Sri Lanka,0,7,7,0,174,168,14,1,4,0,0,0,0
+Chamindu Wijesinghe,21,Sri Lanka,0,2,0,0,0,0,0,0,0,2,24,26,1
+Chanaka Wijesinghe,40,Sri Lanka,0,22,21,1,286,305,25,5,7,1,23,24,3
+Tharinda Wijesinghe,24,Sri Lanka,0,11,8,3,94,97,2,2,5,0,0,0,0
+Ravishka Wijesiri,22,Sri Lanka,0,16,16,1,211,155,15,15,6,12,207,230,7
+Raminda Wijesooriya,23,Sri Lanka,0,16,14,3,259,195,20,6,3,0,0,0,0
+Isitha Wijesundera,24,Sri Lanka,0,5,3,0,14,14,2,0,3,5,93,130,9
+Suhanga Wijewardana,22,Sri Lanka,0,5,5,0,13,24,2,0,2,1,18,31,0
+Geshan Wimaladharma,29,Sri Lanka,0,17,16,0,290,265,19,15,7,0,0,0,0
+Shanuka Dulaj,26,Sri Lanka,0,20,14,1,261,232,13,3,6,4,60,61,6
+Raveen Yasas,23,Sri Lanka,0,5,5,2,55,50,3,1,4,2,48,47,3
+Maduranga Zoysa,37,Sri Lanka,0,26,22,4,546,467,45,18,14,0,0,0,0
+Fabian Allen,26,West Indies,33,68,54,19,745,502,50,52,35,58,1020,1331,42
+Kadeem Alleyne,21,West Indies,0,3,2,1,0,1,0,0,5,2,30,66,3
+Joshua Bishop,21,West Indies,0,7,4,4,43,35,2,3,1,7,155,178,10
+Anthony Bramble,31,West Indies,0,17,14,3,106,116,8,3,15,0,0,0,0
+Carlos Brathwaite,33,West Indies,41,223,172,39,2122,1563,131,139,92,211,3937,5354,199
+Dwayne Bravo,38,West Indies,91,522,404,117,6747,5315,434,327,249,494,10097,13804,571
+Darren Bravo,33,West Indies,26,165,145,38,3376,2889,205,183,53,0,0,0,0
+Shamarh Brooks,33,West Indies,3,38,33,3,650,552,46,24,23,0,0,0,0
+Jonathan Carter,34,West Indies,0,93,80,10,1528,1433,105,65,37,16,177,274,6
+Johnson Charles,33,West Indies,34,198,194,5,4707,3672,472,198,75,4,37,57,4
+Roston Chase,29,West Indies,5,33,30,9,800,644,60,31,14,28,500,517,24
+Rahkeem Cornwall,29,West Indies,0,57,52,5,904,607,81,63,5,43,615,791,24
+Keron Cottoy,32,West Indies,0,14,11,7,132,109,10,6,8,8,132,159,8
+Sheldon Cottrell,32,West Indies,41,123,38,14,186,155,13,12,53,121,2588,3297,152
+Joshua Da Silva,23,West Indies,0,13,9,1,251,238,22,5,5,0,0,0,0
+Mark Deyal,28,West Indies,0,23,21,1,380,293,32,19,9,11,102,124,4
+Dominic Drakes,24,West Indies,4,23,11,2,158,103,12,10,4,23,457,707,22
+Fidel Edwards,40,West Indies,26,119,41,22,124,142,8,4,14,117,2365,3100,112
+Andre Fletcher,34,West Indies,54,244,241,28,5863,4940,488,262,144,5,42,55,2
+Chris Gayle,42,West Indies,79,463,455,53,14562,10060,1132,1056,104,145,2061,2618,83
+Chandrapaul Hemraj,28,West Indies,0,33,32,1,730,603,58,42,9,19,185,217,8
+Shimron Hetmyer,25,West Indies,42,122,111,19,2339,1784,173,113,59,0,0,0,0
+Jason Holder,30,West Indies,36,163,121,30,1422,1111,94,83,83,158,3299,4286,153
+Shai Hope,28,West Indies,18,53,50,1,971,831,81,34,29,0,0,0,0
+Akeal Hosein,28,West Indies,20,71,32,17,271,227,13,16,13,61,1214,1304,51
+Jon-Russ Jaggesar,35,West Indies,0,19,7,7,12,17,1,0,3,17,360,444,16
+Alzarri Joseph,25,West Indies,0,38,21,13,121,116,7,5,18,36,761,1132,41
+Leonardo Julien,20,West Indies,0,1,1,0,17,25,2,0,0,0,0,0,0
+Imran Khan,37,West Indies,0,39,16,8,154,131,15,4,10,33,597,627,31
+Brandon King,27,West Indies,21,76,71,9,1549,1206,146,80,29,0,0,0,0
+Evin Lewis,30,West Indies,50,192,188,12,5518,3797,445,382,58,0,0,0,0
+Kennar Lewis,30,West Indies,0,38,37,0,752,581,56,50,20,0,0,0,0
+Kyle Mayers,29,West Indies,6,75,68,14,986,849,62,54,22,34,491,651,19
+Andre McCarthy,34,West Indies,1,28,25,3,368,319,23,18,12,3,27,42,0
+Obed McCoy,25,West Indies,13,35,11,4,64,49,5,5,3,34,686,936,45
+Kirk McKenzie,21,West Indies,0,5,5,0,67,70,6,2,1,0,0,0,0
+Jason Mohammed,35,West Indies,9,92,78,22,1246,1240,81,42,31,14,146,172,5
+Gudakesh Motie,26,West Indies,1,7,3,1,15,29,1,0,4,7,138,153,8
+Sunil Narine,33,West Indies,51,391,235,45,2926,1994,280,176,83,385,8928,8990,429
+Ashmead Nedd,21,West Indies,0,7,2,1,2,5,0,0,1,7,137,129,3
+Ashley Nurse,33,West Indies,13,112,79,40,715,611,43,35,42,92,1572,1870,77
+Keemo Paul,23,West Indies,20,78,51,15,503,435,19,33,23,69,1275,1941,69
+Veerasammy Permaul,32,West Indies,1,89,34,16,132,138,7,6,20,86,1713,1985,61
+Anderson Phillip,25,West Indies,0,15,4,3,5,13,0,0,3,14,204,338,9
+Khary Pierre,30,West Indies,10,50,14,8,37,47,3,1,19,50,1011,1237,47
+Kieron Pollard,34,West Indies,100,580,514,153,11422,7517,722,764,317,369,5537,7574,304
+Nicholas Pooran,26,West Indies,56,216,197,30,4233,2969,270,294,132,0,0,0,0
+Rovman Powell,28,West Indies,38,109,97,19,1841,1378,105,121,62,38,534,913,21
+Denesh Ramdin,36,West Indies,71,229,175,48,2956,2554,219,94,199,0,0,0,0
+Ravi Rampaul,37,West Indies,27,171,52,30,207,204,12,8,29,170,3680,4687,219
+Raymon Reifer,30,West Indies,0,59,50,13,648,619,38,28,13,48,779,1108,54
+Jeavor Royal,23,West Indies,0,15,7,5,23,19,2,1,7,13,218,279,14
+Andre Russell,33,West Indies,67,398,340,89,6574,3884,450,522,174,357,6480,9150,354
+Sherfane Rutherford,23,West Indies,6,86,75,17,1375,1029,92,86,35,15,185,257,8
+Jayden Seales,20,West Indies,0,19,3,3,1,2,0,0,11,18,332,462,27
+Romario Shepherd,27,West Indies,16,46,22,10,315,195,21,23,12,41,795,1181,54
+Lendl Simmons,37,West Indies,68,292,288,28,7756,6507,713,345,116,35,407,597,23
+Kevin Sinclair,22,West Indies,6,14,7,1,15,43,0,0,6,13,234,267,10
+Odean Smith,25,West Indies,10,35,17,5,196,151,10,17,17,34,614,930,36
+Devon Thomas,32,West Indies,4,101,85,11,1391,1232,106,56,64,4,48,104,2
+Oshane Thomas,25,West Indies,20,54,12,6,15,32,2,0,6,53,1068,1630,65
+Hayden Walsh,29,West Indies,30,57,23,8,226,218,12,9,23,49,909,1214,54
+Chadwick Walton,36,West Indies,19,181,172,20,3442,2766,291,167,114,0,0,0,0
+Tion Webster,26,West Indies,0,18,18,4,333,309,34,12,9,1,6,9,0
+Nyeem Young,21,West Indies,0,11,7,3,43,40,1,3,7,10,139,197,8
+Ryan Burl,27,Zimbabwe,34,55,48,15,942,770,62,40,31,38,586,727,29
+Regis Chakabva,34,Zimbabwe,26,78,70,6,1143,913,71,45,39,0,0,0,0
+Brian Chari,30,Zimbabwe,3,30,29,0,763,632,50,43,11,3,13,9,1
+Tendai Chatara,30,Zimbabwe,30,71,16,6,46,65,1,1,19,71,1520,1851,79
+Priviledge Chesa,21,Zimbabwe,0,2,0,0,0,0,0,0,0,2,30,54,1
+Chamu Chibhabha,35,Zimbabwe,36,91,89,4,2077,1821,204,55,28,59,922,1351,44
+Elton Chigumbura,35,Zimbabwe,57,155,149,38,2477,1885,140,133,60,87,1359,1907,77
+Manson Chikowero,22,Zimbabwe,0,4,2,1,4,5,0,0,3,4,70,88,5
+Tinashe Chiorah,23,Zimbabwe,0,2,2,0,22,19,3,0,0,0,0,0,0
+Brighton Chipungu,20,Zimbabwe,0,5,2,1,16,17,1,0,3,5,66,95,2
+Gareth Chirawu,20,Zimbabwe,0,1,1,0,39,32,3,2,0,0,0,0,0
+Gary Chirimuuta,30,Zimbabwe,0,17,14,4,221,198,16,7,3,0,0,0,0
+Tendai Chisoro,34,Zimbabwe,14,60,40,9,494,409,35,18,9,47,944,1190,28
+Clive Chitumba,27,Zimbabwe,0,1,0,0,0,0,0,0,0,1,18,24,1
+Tanaka Chivanga,28,Zimbabwe,0,4,1,1,2,4,0,0,1,4,84,134,4
+Craig Ervine,36,Zimbabwe,34,79,73,12,1852,1496,173,59,36,0,0,0,0
+Brad Evans,24,Zimbabwe,0,5,2,0,4,6,0,0,2,5,114,127,4
+Faraz Akram,28,Zimbabwe,2,8,4,2,18,34,1,0,1,8,128,165,3
+Joylord Gumbie,26,Zimbabwe,0,8,7,1,70,75,4,1,1,0,0,0,0
+Dylan Hondo,26,Zimbabwe,0,2,1,0,0,1,0,0,0,2,36,55,2
+Daniel Jakiel,31,Zimbabwe,2,10,2,0,1,8,0,0,1,9,168,251,8
+Luke Jongwe,27,Zimbabwe,22,37,31,6,418,422,26,10,7,36,633,889,41
+Innocent Kaia,29,Zimbabwe,1,8,7,0,120,112,13,2,5,2,17,54,0
+Roy Kaia,30,Zimbabwe,0,27,21,3,273,305,22,7,3,22,330,437,17
+Takudzwanashe Kaitano,28,Zimbabwe,0,2,2,0,49,43,7,0,0,0,0,0,0
+Tinashe Kamunhukamwe,26,Zimbabwe,8,22,22,0,303,305,40,3,2,0,0,0,0
+Kevin Kasuza,28,Zimbabwe,0,33,31,1,615,543,56,21,9,1,6,10,0
+Charles Kunje,27,Zimbabwe,0,10,8,0,126,128,6,3,3,4,48,107,2
+Clive Madande,21,Zimbabwe,0,5,5,3,29,24,1,1,3,0,0,0,0
+Wessley Madhevere,21,Zimbabwe,21,26,26,2,587,469,70,7,8,18,234,302,8
+Neville Madziva,30,Zimbabwe,15,42,29,13,222,209,10,8,6,42,706,1013,29
+Patrick Mambo,26,Zimbabwe,0,10,4,2,19,31,1,0,2,10,174,254,5
+Tadiwanashe Marumani,20,Zimbabwe,11,16,16,1,346,271,33,12,0,0,0,0,0
+Shingi Masakadza,35,Zimbabwe,7,59,43,11,432,368,26,18,20,57,1035,1463,62
+Wellington Masakadza,28,Zimbabwe,28,49,24,9,166,156,17,0,25,49,966,1093,46
+William Mashinge,25,Zimbabwe,2,11,8,2,93,80,8,2,6,9,115,185,5
+Ernest Masuku,29,Zimbabwe,0,5,3,1,31,28,3,0,0,5,84,148,2
+Prince Masvaure,33,Zimbabwe,0,37,31,1,487,464,39,12,8,20,234,335,8
+Brandon Mavuta,24,Zimbabwe,5,21,10,4,85,67,5,4,5,20,390,554,14
+Nyasha Mayavo,29,Zimbabwe,0,5,2,0,43,42,1,1,3,0,0,0,0
+Thabo Mboyi,36,Zimbabwe,0,20,13,3,69,80,3,0,11,17,258,341,17
+Chris Mpofu,36,Zimbabwe,32,81,34,19,141,168,9,1,16,80,1714,2240,83
+Brian Mudzinganyama,26,Zimbabwe,0,8,8,0,148,118,17,5,3,3,30,43,0
+Tapiwa Mufudza,31,Zimbabwe,0,16,3,1,13,15,0,0,2,16,337,348,23
+Carl Mumba,26,Zimbabwe,2,9,5,1,58,37,5,3,2,9,150,251,5
+Tony Munyonga,23,Zimbabwe,5,11,9,2,118,101,8,4,5,6,66,84,1
+Rodney Mupfudza,20,Zimbabwe,0,1,1,0,24,20,3,0,1,0,0,0,0
+Tarisai Musakanda,27,Zimbabwe,12,29,28,6,623,535,44,13,13,1,6,10,0
+Richmond Mutumbami,32,Zimbabwe,27,68,61,12,962,868,75,32,39,0,0,0,0
+Blessing Muzarabani,25,Zimbabwe,21,40,16,8,28,48,4,0,7,39,866,1143,44
+Dion Myers,19,Zimbabwe,8,13,13,0,251,206,19,7,4,5,54,86,1
+Ainsley Ndlovu,26,Zimbabwe,3,16,6,4,16,16,0,1,6,15,312,392,17
+Tinashe Nenhunzi,22,Zimbabwe,0,5,4,2,47,49,3,1,1,0,0,0,0
+Richard Ngarava,24,Zimbabwe,18,36,14,8,40,39,4,1,4,35,739,996,28
+Victor Nyauchi,29,Zimbabwe,0,9,3,0,23,26,0,1,4,9,182,217,12
+Andre Odendaal,27,Zimbabwe,0,2,2,2,8,14,1,0,1,2,36,57,2
+Bright Phiri,22,Zimbabwe,0,3,3,0,57,42,6,3,0,0,0,0,0
+Kudzai Sauramba,30,Zimbabwe,0,20,18,3,138,106,6,8,11,0,0,0,0
+Milton Shumba,21,Zimbabwe,12,21,18,8,309,258,24,10,9,8,127,146,11
+Sikandar Raza,35,Zimbabwe,42,122,112,13,2169,1745,189,71,57,83,1219,1547,44
+Brendan Taylor,36,Zimbabwe,45,174,168,22,3911,3155,380,108,79,8,150,152,8
+Donald Tiripano,33,Zimbabwe,17,48,25,7,223,207,15,6,11,45,874,1205,51
+Charlton Tshuma,28,Zimbabwe,1,9,0,0,0,0,0,0,0,8,125,158,10
+Tafadzwa Tsiga,27,Zimbabwe,0,5,4,1,29,21,5,1,1,0,0,0,0
+Sean Williams,35,Zimbabwe,50,83,82,16,1470,1226,141,31,36,77,1314,1562,56
+Cephas Zhuwao,37,Zimbabwe,7,58,56,3,1133,831,107,59,17,20,232,280,15
+Amir Hamza,30,Afghanistan,33,56,21,13,104,101,6,3,5,56,1170,1266,52
+Asghar Afghan,34,Afghanistan,75,114,106,13,2614,2141,158,149,32,5,31,51,3
+Fareed Ahmad,27,Afghanistan,16,39,10,5,51,39,6,1,4,39,800,1162,42
+Fazalhaq Farooqi,21,Afghanistan,1,5,1,0,0,2,0,0,1,5,99,135,3
+Gulbadin Naib,30,Afghanistan,53,102,85,24,1203,895,87,59,37,71,1166,1620,61
+Hamid Hassan,34,Afghanistan,25,51,19,7,70,80,4,2,7,51,1128,1263,62
+Hashmatullah Shahidi,27,Afghanistan,4,34,31,10,823,690,79,24,9,0,0,0,0
+Hazratullah Zazai,23,Afghanistan,20,76,76,2,2138,1483,210,128,28,0,0,0,0
+Karim Janat,23,Afghanistan,32,68,50,9,1106,784,76,71,15,67,1371,1771,67
+Mohammad Nabi,37,Afghanistan,86,327,279,54,4980,3586,344,250,152,319,6346,7357,301
+Mohammad Shahzad,35,Afghanistan,70,142,142,12,4048,3018,450,163,125,0,0,0,0
+Mujeeb Ur Rahman,20,Afghanistan,22,172,55,26,208,210,15,7,35,172,3916,4336,190
+Najibullah Zadran,28,Afghanistan,68,149,132,33,2620,1928,180,141,59,1,6,6,1
+Naveen-ul-Haq,22,Afghanistan,13,93,34,16,163,177,13,4,32,93,1941,2563,109
+Rahmanullah Gurbaz,20,Afghanistan,18,66,65,1,1597,1049,125,112,40,0,0,0,0
+Rashid Khan,23,Afghanistan,56,308,175,57,1421,973,106,91,89,306,7085,7507,431
+Sharafuddin Ashraf,27,Afghanistan,10,35,21,6,186,143,8,11,10,33,642,801,30
+Usman Ghani,25,Afghanistan,23,45,45,4,1307,1118,138,33,20,0,0,0,0
+Ross Adair,27,Ireland,0,10,8,3,151,84,16,8,6,7,79,119,3
+Mark Adair,25,Ireland,36,64,49,9,486,406,33,20,28,62,1336,1607,87
+Ross Allen,25,Ireland,0,19,7,4,36,50,1,1,8,11,127,142,5
+Rory Anders,24,Ireland,0,12,8,2,28,43,1,0,5,5,60,86,3
+Andy Balbirnie,31,Ireland,64,106,100,9,2383,1836,266,49,45,0,0,0,0
+Curtis Campher,22,Ireland,12,20,17,4,305,237,20,12,7,19,361,546,20
+Aaron Cawley,22,Ireland,0,12,6,3,42,45,3,1,3,12,198,273,8
+Peter Chase,28,Ireland,12,34,12,8,20,26,3,0,14,34,674,945,42
+David Delany,24,Ireland,8,27,14,5,137,120,10,6,5,26,513,722,21
+Gareth Delany,24,Ireland,34,69,64,7,1472,1064,143,63,23,46,750,917,39
+George Dockrell,29,Ireland,91,161,72,29,772,626,61,18,96,138,2628,3120,146
+Stephen Doheny,23,Ireland,0,27,26,2,682,538,69,17,16,0,0,0,0
+Greg Ford,29,Ireland,0,10,0,0,0,0,0,0,0,6,3,79,26
+Matt Ford,27,Ireland,0,10,10,4,263,172,33,8,3,6,102,105,5
+Alistair Frost,22,Ireland,0,3,2,1,18,20,0,1,0,3,30,44,3
+Michael Frost,20,Ireland,0,8,1,1,2,3,0,0,5,8,156,188,7
+Jonathan Garth,21,Ireland,0,11,6,1,65,72,4,2,4,8,132,176,4
+Shane Getkate,30,Ireland,29,64,54,8,790,650,57,34,20,53,902,1264,62
+Fionn Hand,23,Ireland,0,13,8,2,131,112,15,3,8,12,202,298,12
+Gavin Hoey,20,Ireland,0,3,3,0,37,31,1,3,1,3,65,76,2
+Tyrone Kane,27,Ireland,7,34,21,5,246,179,19,14,9,26,435,568,36
+Graham Kennedy,22,Ireland,0,22,15,5,178,179,17,4,4,17,288,331,17
+Theo Lawson,33,Ireland,0,1,1,0,6,7,1,0,0,0,0,0,0
+Josh Little,22,Ireland,31,51,22,12,122,136,10,3,18,50,1075,1334,48
+Kyle Magee,20,Ireland,0,2,2,0,5,12,0,0,2,0,0,0,0
+John Matchett,24,Ireland,0,4,3,1,43,39,3,3,1,1,12,9,0
+Andy McBrine,28,Ireland,23,50,37,13,496,444,38,19,21,42,770,834,46
+Graeme McCarter,29,Ireland,3,33,12,4,139,106,14,6,8,30,552,731,30
+Barry McCarthy,29,Ireland,18,41,22,9,137,127,9,5,3,39,801,1193,47
+William McClintock,25,Ireland,5,19,17,3,221,206,22,9,3,2,24,50,0
+James McCollum,26,Ireland,0,18,18,2,323,262,41,7,6,0,0,0,0
+Nathan McGuire,18,Ireland,0,15,15,1,149,146,14,6,6,4,20,36,0
+Kevin O'Brien,37,Ireland,110,252,233,30,4443,3343,363,198,93,133,2107,2688,121
+David O'Halloran,21,Ireland,0,7,3,3,9,14,0,0,3,7,114,165,7
+Conor Olphert,25,Ireland,0,2,0,0,0,0,0,0,0,2,48,53,5
+William Porterfield,37,Ireland,61,195,191,18,4562,3681,496,114,82,0,0,0,0
+Neil Rock,21,Ireland,13,34,25,3,294,246,16,14,19,0,0,0,0
+Simi Singh,35,Ireland,44,72,59,12,984,775,74,35,23,71,1326,1580,67
+Paul Stirling,31,Ireland,99,272,270,13,6887,4850,807,263,78,127,1683,2046,75
+Harry Tector,22,Ireland,29,60,55,10,955,763,71,29,29,18,258,323,12
+Jack Tector,25,Ireland,0,15,15,0,277,230,34,6,0,0,0,0,0
+Tim Tector,18,Ireland,0,9,7,0,77,70,5,3,0,1,12,21,0
+Mitchell Thompson,20,Ireland,0,3,2,1,14,17,0,0,0,3,30,48,1
+Morgan Topping,22,Ireland,0,1,0,0,0,0,0,0,0,0,0,0,0
+Lorcan Tucker,25,Ireland,27,65,56,12,826,647,63,29,53,0,0,0,0
+Ben White,23,Ireland,9,17,6,5,24,18,2,1,1,17,360,451,24
+Craig Young,31,Ireland,46,75,27,13,120,134,11,2,19,73,1507,1924,94
+Okera Bascome,28,Bermuda,17,17,15,1,166,166,12,9,12,0,0,0,0
+Onias Bascome,26,Bermuda,17,17,17,2,172,178,16,6,3,7,97,132,8
+Jabari Darrell,20,Bermuda,1,1,0,0,0,0,0,0,0,1,18,9,2
+Allan Douglas,34,Bermuda,16,24,22,2,386,294,35,25,12,9,158,170,17
+Kyle Hodsoll,33,Bermuda,4,4,1,0,0,1,0,0,2,4,54,59,2
+Malachi Jones,32,Bermuda,12,20,18,6,140,139,9,5,2,19,288,327,13
+Kamau Leverock,27,Bermuda,18,34,31,8,441,355,28,25,9,28,500,719,23
+Tre Manders,27,Bermuda,6,12,12,1,329,305,36,8,6,0,0,0,0
+Delray Rawlins,24,Bermuda,17,61,55,7,1158,811,90,64,34,28,540,644,23
+Dominic Sabir,18,Bermuda,3,3,2,2,14,13,2,0,3,1,18,15,1
+Macai Simmons,29,Bermuda,6,6,4,1,29,28,1,1,0,1,13,21,0
+Dion Stovell,37,Bermuda,12,29,28,3,347,328,42,3,9,24,481,565,24
+Rodney Trott,34,Bermuda,21,32,17,8,112,141,8,1,3,30,609,676,27
+Navneet Dhaliwal,33,Canada,20,25,24,7,768,594,55,32,10,7,66,74,4
+Hamza Tariq,31,Canada,23,42,36,12,486,346,36,22,29,0,0,0,0
+Dillon Heyliger,32,Canada,19,19,10,7,98,63,7,5,2,19,388,431,28
+Rishiv Joshi,21,Canada,1,1,0,0,0,0,0,0,0,1,18,4,1
+Junaid Siddiqui,36,Canada,19,41,22,9,127,126,5,5,4,41,792,797,28
+Kaleem Sana,28,Canada,2,2,0,0,0,0,0,0,0,2,48,48,2
+Jatinderpal Matharu,29,Canada,7,7,0,0,0,0,0,0,0,7,102,126,6
+Shreyas Movva,28,Canada,1,1,0,0,0,0,0,0,0,0,0,0,0
+Hiral Patel,30,Canada,15,44,44,1,791,825,85,8,8,27,382,521,16
+Cecil Pervez,37,Canada,5,11,1,1,2,4,0,0,2,11,177,227,10
+Ravinderpal Singh,33,Canada,20,20,16,3,453,318,31,23,15,0,0,0,0
+Saad Bin Zafar,35,Canada,19,27,13,3,101,103,8,3,5,25,516,526,29
+Salman Nazar,30,Canada,4,7,2,1,0,2,0,0,2,7,126,112,10
+Matthew Spoors,22,Canada,2,2,2,1,119,79,16,3,0,0,0,0,0
+Harsh Thaker,24,Canada,9,9,3,1,45,25,3,3,3,6,120,89,4
+Gurdeep Singh,24,Kenya,10,22,19,2,246,265,23,6,4,3,36,57,2
+Irfan Karim,29,Kenya,29,64,60,14,1291,1270,109,21,72,0,0,0,0
+Peter Langat,28,Kenya,7,7,1,1,2,3,0,0,0,6,68,89,6
+Shem Ngoche,32,Kenya,41,84,43,15,331,317,34,5,23,83,1680,1969,90
+Alex Obanda,34,Kenya,42,85,80,6,1605,1295,181,60,23,0,0,0,0
+Collins Obuya,40,Kenya,41,103,95,17,2069,1829,155,61,50,55,808,982,48
+Eugene Ochieng,29,Kenya,8,10,5,2,21,25,1,1,2,8,126,176,4
+Nelson Odhiambo,32,Kenya,23,59,31,12,254,304,16,3,11,50,886,1144,45
+Nehemiah Odhiambo,38,Kenya,35,82,59,9,569,558,49,21,13,77,1388,1851,73
+Elijah Otieno,34,Kenya,25,59,22,11,53,86,1,2,6,59,1066,1355,54
+Rushab Patel,28,Kenya,15,21,19,3,252,232,25,5,10,2,18,18,2
+Rakep Patel,32,Kenya,36,89,77,16,1723,1186,121,106,43,39,537,628,36
+Emmanuel Bundi,28,Kenya,13,22,8,1,20,33,0,0,7,19,336,401,20
+Sukhdeep Singh,21,Kenya,5,5,1,0,17,17,2,0,3,1,6,8,0
+Vraj Patel,19,Kenya,8,8,1,0,0,1,0,0,1,8,168,119,12
+Dominic Wesonga,33,Kenya,3,9,6,2,45,56,2,0,8,6,54,84,2
+Zahid Abbas,28,Kenya,4,4,3,0,18,21,1,0,2,3,42,46,2
+Stephan Baard,29,Namibia,22,73,71,4,1638,1450,151,46,22,6,60,79,1
+Karl Birkenstock,25,Namibia,9,11,6,2,154,97,13,8,2,5,37,59,0
+Michau du Preez,26,Namibia,3,12,9,3,250,210,20,9,2,0,0,0,0
+Gerhard Erasmus,26,Namibia,30,85,69,11,1223,1025,95,49,43,21,331,359,17
+Jan Frylinck,27,Namibia,27,54,32,15,341,305,21,9,20,51,1000,1208,68
+Zane Green,25,Namibia,27,47,37,7,423,451,36,9,43,0,0,0,0
+JP Kotze,27,Namibia,15,48,42,7,606,512,51,26,40,0,0,0,0
+Jan Nicol Loftie-Eaton,20,Namibia,11,20,14,2,159,140,11,7,3,14,192,272,3
+Tangeni Lungameni,29,Namibia,9,22,2,2,4,4,0,0,3,22,360,490,15
+Bernard Scholtz,31,Namibia,27,109,35,20,124,151,4,3,15,102,2003,2102,114
+Ben Shikongo,21,Namibia,16,20,1,0,0,1,0,0,7,19,288,337,16
+JJ Smit,26,Namibia,26,60,46,16,647,468,35,35,20,54,1124,1378,50
+Ruben Trumpelmann,24,Namibia,10,14,8,4,51,41,4,3,1,14,300,362,15
+David Wiese,36,Namibia,31,284,206,71,3194,2246,223,162,93,247,4183,5874,220
+Craig Williams,37,Namibia,27,106,102,13,2373,1852,173,104,28,50,812,1018,42
+Pikky Ya France,31,Namibia,13,41,33,7,430,455,46,5,6,15,174,193,6
+Colin Ackermann,30,Netherlands,14,138,132,19,3108,2568,243,89,64,101,1606,1944,69
+Philippe Boissevain,21,Netherlands,7,7,3,1,14,19,1,0,4,7,162,233,6
+Sebastiaan Braat,29,Netherlands,6,6,3,1,32,34,4,1,1,6,108,162,9
+Ben Cooper,30,Netherlands,58,68,64,13,1448,1137,139,48,43,0,0,0,0
+Bas de Leede,22,Netherlands,16,17,13,2,228,224,15,9,6,8,90,173,4
+Aryan Dutt,18,Netherlands,4,4,1,0,0,3,0,0,0,4,42,76,3
+Scott Edwards,25,Netherlands,36,37,30,10,432,319,42,9,30,0,0,0,0
+Brandon Glover,24,Netherlands,21,35,11,8,12,25,1,0,7,34,626,809,41
+Vivian Kingma,27,Netherlands,9,10,3,1,5,14,0,0,0,10,208,324,11
+Fred Klaassen,29,Netherlands,24,68,16,7,57,60,3,0,27,67,1330,1915,73
+Stephan Myburgh,37,Netherlands,35,56,55,5,1400,1145,144,52,10,1,6,12,0
+Max O'Dowd,27,Netherlands,43,48,46,4,1212,976,121,28,15,10,88,135,3
+Pieter Seelaar,34,Netherlands,77,98,57,19,680,613,49,15,38,84,1468,1657,65
+Antonius Staal,25,Netherlands,14,15,13,4,127,100,7,7,0,0,0,0,0
+Ryan ten Doeschate,41,Netherlands,24,382,339,80,7597,5688,463,310,134,139,2147,2922,114
+Logan van Beek,31,Netherlands,10,123,64,21,514,395,37,17,59,118,2156,3145,113
+Roelof van der Merwe,37,Netherlands,46,259,189,66,2699,2049,238,95,106,249,5044,6050,242
+Paul van Meekeren,29,Netherlands,46,72,23,7,77,84,5,3,24,69,1371,1772,65
+Vikramjit Singh,19,Netherlands,2,2,2,0,16,18,1,0,0,0,0,0,0
+Tobias Visee,31,Netherlands,31,32,32,1,554,362,72,22,5,0,0,0,0
+Aamir Kaleem,40,Oman,31,45,36,7,527,470,44,16,17,38,642,756,36
+Aqib Ilyas,29,Oman,25,25,25,5,501,440,56,10,7,7,102,117,2
+Ayaan Khan,29,Oman,6,7,5,0,61,58,6,2,4,4,54,61,2
+Bilal Khan,33,Oman,43,48,18,11,25,37,2,0,8,47,1027,1138,66
+Fayyaz Butt,28,Oman,20,20,10,5,71,74,5,2,5,20,375,463,17
+Jatinder Singh,32,Oman,36,46,46,6,1194,1088,113,17,19,2,18,21,0
+Kaleemullah,31,Oman,15,15,6,1,42,32,1,4,2,15,283,324,11
+Khawar Ali,36,Oman,39,42,37,3,661,669,72,15,13,39,702,802,42
+Khurram Nawaz,36,Oman,22,22,16,4,224,200,12,10,4,0,0,0,0
+Mohammad Nadeem,39,Oman,29,32,18,5,174,176,10,5,9,32,585,687,26
+Naseem Khushi,39,Oman,21,21,14,2,173,126,9,11,7,0,0,0,0
+Kashyap Prajapati,26,Oman,8,8,7,2,178,151,16,6,5,0,0,0,0
+Sandeep Goud,30,Oman,20,20,11,4,110,117,5,3,7,4,48,76,2
+Shoaib Khan,29,Oman,4,4,4,0,103,75,14,1,2,0,0,0,0
+Suraj Kumar,33,Oman,17,17,11,2,109,101,9,3,9,0,0,0,0
+Zeeshan Maqsood,34,Oman,38,49,43,8,1016,861,107,32,11,36,641,738,35
+Charles Amini,29,Papua New Guinea,28,40,33,6,578,496,32,18,15,38,700,761,31
+Simon Atai,22,Papua New Guinea,7,7,5,1,33,36,2,0,1,5,54,66,2
+Sese Bau,29,Papua New Guinea,28,29,23,4,471,460,29,14,11,13,114,122,4
+Kiplin Doriga,26,Papua New Guinea,22,22,16,2,183,172,6,6,17,0,0,0,0
+Hiri Hiri,26,Papua New Guinea,6,6,5,0,17,30,1,0,1,1,6,5,0
+Jason Kila,32,Papua New Guinea,14,21,12,7,107,79,6,7,7,15,186,197,6
+Kabua Morea,28,Papua New Guinea,4,4,3,2,15,14,0,1,1,4,78,105,6
+Nosaina Pokana,25,Papua New Guinea,23,23,9,6,26,39,0,0,6,22,419,433,21
+Damien Ravu,27,Papua New Guinea,20,20,6,1,16,18,2,0,6,19,313,324,26
+Lega Siaka,29,Papua New Guinea,29,32,28,2,356,329,32,8,24,7,90,81,9
+Chad Soper,30,Papua New Guinea,17,19,10,6,80,80,2,5,3,18,324,336,22
+Tony Ura,32,Papua New Guinea,27,48,48,5,1349,1008,117,57,10,2,18,21,1
+Assad Vala,34,Papua New Guinea,31,50,48,4,880,852,82,18,25,28,443,498,28
+Richie Berrington,34,Scotland,74,96,88,17,2230,1761,199,67,16,54,729,928,35
+Dylan Budge,26,Scotland,8,13,10,3,104,103,5,5,5,2,24,46,2
+Kyle Coetzer,37,Scotland,70,134,127,9,2790,2446,288,66,40,15,156,202,7
+Matthew Cross,29,Scotland,56,63,51,10,1043,883,100,27,54,0,0,0,0
+Josh Davey,31,Scotland,28,64,35,19,267,207,21,7,30,55,1084,1570,75
+Alasdair Evans,33,Scotland,34,39,9,2,2,12,0,0,12,37,780,984,46
+Chris Greaves,31,Scotland,9,12,9,2,126,130,7,4,5,10,177,221,7
+Ollie Hairs,30,Scotland,12,14,14,2,162,110,11,12,3,1,12,19,1
+Hamza Tahir,26,Scotland,13,16,0,0,0,0,0,0,0,15,354,442,24
+Michael Leask,31,Scotland,43,64,49,6,569,441,40,30,28,41,633,839,34
+Calum MacLeod,33,Scotland,60,133,129,16,3091,2570,303,67,77,17,198,225,5
+Gavin Main,26,Scotland,5,7,3,3,2,2,0,0,1,5,77,114,7
+George Munsey,28,Scotland,51,65,63,4,1535,1039,183,71,27,0,0,0,0
+Safyaan Sharif,30,Scotland,53,76,31,17,203,170,11,5,14,75,1536,1987,87
+Chris Sole,27,Scotland,7,7,1,1,4,2,1,0,1,7,156,221,4
+Craig Wallace,31,Scotland,21,33,26,12,371,306,30,11,17,0,0,0,0
+Mark Watt,25,Scotland,47,58,23,8,122,113,13,1,13,56,1205,1464,65
+Brad Wheal,25,Scotland,14,37,11,7,30,33,4,0,11,36,732,1002,45
+Ahmed Raza,33,United Arab Emirates,50,65,25,11,154,173,3,6,25,64,1279,1360,44
+Akif Raja,29,United Arab Emirates,3,3,0,0,0,0,0,0,0,3,48,68,3
+Vriitya Aravind,19,United Arab Emirates,14,14,10,1,287,227,28,7,6,0,0,0,0
+Basil Hameed,29,United Arab Emirates,13,13,12,2,150,114,7,7,6,5,65,62,5
+Chirag Suri,27,United Arab Emirates,21,21,21,3,622,528,59,15,0,0,0,0,0
+Junaid Siddique,29,United Arab Emirates,18,18,7,3,15,21,0,1,5,18,374,431,20
+Kashif Daud,36,United Arab Emirates,9,16,10,5,88,50,7,5,7,16,310,385,18
+Karthik Meiyappan,21,United Arab Emirates,5,5,1,1,0,0,0,0,2,5,96,119,9
+Mohammad Boota,39,United Arab Emirates,19,19,15,7,136,114,9,6,6,1,6,13,1
+Muhammad Usman,36,United Arab Emirates,45,46,42,6,880,758,73,27,12,0,0,0,0
+Muhammad Waseem,28,United Arab Emirates,9,9,9,1,322,211,29,20,6,3,22,26,3
+Chundangapoyil Rizwan,33,United Arab Emirates,7,7,6,0,100,99,12,1,1,0,0,0,0
+Rohan Mustafa,33,United Arab Emirates,51,67,62,5,1162,995,121,28,35,65,1262,1369,69
+Alishan Sharafu,19,United Arab Emirates,6,6,4,1,34,33,0,3,2,0,0,0,0
+Sanchit Sharma,20,United Arab Emirates,1,1,0,0,0,0,0,0,0,1,18,22,0
+Sultan Ahmed,32,United Arab Emirates,23,31,18,7,86,83,4,4,16,31,612,650,31
+Zahoor Khan,32,United Arab Emirates,30,38,8,4,10,20,1,0,5,38,777,942,42
+Zawar Farid,29,United Arab Emirates,6,6,6,1,86,66,7,4,2,2,25,35,1
+Aaron Jones,27,United States of America,14,14,12,6,211,194,12,7,3,6,72,55,3
+Ali Khan,31,United States of America,5,48,6,2,15,18,1,1,11,48,952,1349,53
+Ritwik Behera,18,United States of America,2,2,2,0,16,27,1,0,4,1,6,5,0
+Trinson Carmichael,29,United States of America,2,2,0,0,0,0,0,0,0,2,36,43,0
+Karima Gore,23,United States of America,8,8,3,1,47,28,4,2,3,8,150,124,10
+Ian Holland,31,United States of America,6,23,18,9,238,207,13,6,5,19,331,342,15
+Elmore Hutchinson,39,United States of America,4,17,12,2,114,112,9,4,3,16,252,306,12
+Marty Kain,33,United States of America,2,39,23,12,195,135,17,8,23,36,752,942,30
+Jaskaran Malhotra,32,United States of America,12,12,10,0,181,155,17,5,6,3,24,18,0
+Xavier Marshall,35,United States of America,20,35,32,2,588,569,45,23,9,0,0,0,0
+Sushant Modani,33,United States of America,2,2,2,0,77,55,4,3,1,0,0,0,0
+Saurabh Netravalkar,30,United States of America,15,15,4,2,26,23,1,1,4,15,267,289,11
+Nisarg Patel,33,United States of America,12,12,6,3,45,46,4,0,6,12,240,207,16
+Monank Patel,28,United States of America,16,16,13,2,164,146,17,6,16,0,0,0,0
+Ryan Scott,26,United States of America,2,2,2,0,19,19,3,0,0,0,0,0,0
+Gajanand Singh,34,United States of America,6,17,12,3,288,235,15,16,4,0,0,0,0
+Steven Taylor,28,United States of America,14,42,38,3,935,767,94,34,20,12,174,169,7
+Rusty Theron,36,United States of America,13,124,51,27,236,217,14,8,34,123,2669,3185,143
+Vatsal Vaghela,19,United States of America,1,1,0,0,0,0,0,0,0,1,18,16,2
+Yasir Mohammad,19,United States of America,2,2,1,0,0,2,0,0,1,2,48,67,2
+Tim David,25,Singapore,14,87,81,25,1921,1204,138,113,46,28,324,489,7

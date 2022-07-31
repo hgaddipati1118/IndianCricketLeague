@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="generator" content="CoffeeCup HTML Editor (www.coffeecup.com)">
+    <meta name="dcterms.created" content="Mon, 06 Jul 2020 19:33:26 GMT">
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+  <script type="text/javascript" src="d3.min.js"></script>
+
+    <title></title>
+    
+       
+    <style type="text/css">
+body{
+    background-color:cyan;
+}
+#teamChosen{
+  outline:none;
+  
+  text-align:center;
+  font-size:60px;
+  background-color:salmon;
+  padding:10px;
+  margin-left:38vw;
+}
+option{
+  font-size:20px;
+}
+#title{
+  text-align:center;
+  font-style:italic;
+  font-size:60px;
+  background-color:gray;
+}
+#subTitle{
+  margin-top:10vh;
+  text-align:center;
+  font-size:50px;
+  margin-bottom:2vh;
+}
+#goToAuction{
+       outline:none;	
+   margin-left:33.5%;
+   border-radius: 5px;
+  color:black;
+	padding: 13px 13px;
+  margin-bottom: .5%;
+  margin-top:3vh;
+	text-align: center;
+	text-decoration: none;
+	font-weight: bold;
+
+background-color:orange; 
+width:30vw;
+}
+#auctionLink{
+  text-decoration:none;
+  color:black;
+  font-size:60px;
+}
+#title{
+  text-align:center;
+  font-style:italic;
+  font-size:60px;
+  background-color:gray;
+}
+.gameOptions{
+  margin-top:3vh;
+  text-align:center;
+  font-size:40px;
+}
+    </style>
+    <!--[if IE]>
+    <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+  </head>
+ 
+<body>
+<div id="title">Indian Cricket League</div>
+<div id="subTitle"> Select your team  </div>
+<div id="teamOptions">  </div>
+<div class ="gameOptions" id = "rosters">
+<input type="checkbox" id="use21Rosters" name="rosters" onclick = "updateRosters()">
+<label>Use 2021 IPL Rosters</label> </div>
+<div id="goToAuction"><a id="auctionLink" href="auction.html"> Go to Auction </a></div>
+
+</body>
+  <script type="text/javascript" src="AuctionClass.js"> </script>
+   <script type="text/javascript" src="GameClass.js"> </script>
+    <script type="text/javascript" src="ScheduleClass.js"> </script>
+  <script type="text/javascript" src="NormalDist.js"></script>
+ <script type="text/javascript" src="PlayerClass.js"></script>
+  <script type="text/javascript" src="TeamClass.js"></script>
+  <script type="text/javascript" src="names.js"> </script>
+  <script type="text/javascript" src="createPlayer.js"> </script>
+  <script type="text/javascript" src="playerRatings.js"> </script>
+ <script type="text/javascript" src="ChooseTeam.js"></script>
+</html>

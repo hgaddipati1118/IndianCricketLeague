@@ -1,0 +1,132 @@
+   <!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="generator" content="CoffeeCup HTML Editor (www.coffeecup.com)">
+    <meta name="dcterms.created" content="Mon, 06 Jul 2020 19:33:26 GMT">
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+  <script type="text/javascript" src="d3.min.js"></script>
+
+    <title></title>
+    
+       
+    <style type="text/css">
+ body{
+     background-color:cyan;
+ }
+
+  table{
+     border:solid black 1px;
+     text-align:center;
+     font-size:20px;
+     padding:10px;
+     margin:auto;
+         border-collapse: collapse;
+    overflow: hidden;
+
+ }
+ th{
+     padding-left:5px;
+     padding-right:5px;
+      border: 1px solid black;
+ }
+ td{
+     border: 1px solid black;
+     padding:5px;
+ }
+ .viewPlayerStats{
+     background-color:cyan;
+  border: cyan;
+  outline:none;
+  color:black;
+       font-size:inherit;
+   padding:0;
+   margin:0;
+   font-weight:inherit;
+   font-family:inherit;
+ }
+ .viewPlayerStats:hover{
+   text-decoration:underline;
+ }
+ .lineupPosition{
+     background-color:cyan;
+     max-width:75px;
+     text-align:center;
+          max-height:40px;
+ }
+ .flexContainer{
+   display: flex;
+   text-align: center;
+ }
+ #teamName{
+     font-size:50px;
+     font-weight:bolder;
+     padding-bottom:10px;
+     margin-right:0.5%;
+     text-align: center;
+     margin-left:40%;
+ }
+ .title{
+     text-align:center;
+     font-size:30px;
+     font-weight:bold;
+     padding-top:10px;
+     padding-bottom:10px;
+ }
+ .tableMergedHeaders{
+   font-size:30px;
+   font-weight:bolder;
+ }
+ #venueBoost{
+        text-align:center;
+     font-size:30px;
+          padding-top:10px;
+     padding-bottom:10px;
+ }
+ #title{
+  text-align:center;
+  font-style:italic;
+  font-size:60px;
+  background-color:gray;
+}
+
+    </style>
+    <!--[if IE]>
+    <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+  </head>
+ 
+<body>
+
+<a href="season.html"> Go Back to Schedule </a>
+
+<div class="flexContainer"> <div id ="teamName" > </div> <div id = "gameLog">  </div></div> 
+<div id="venueBoost"> </div>
+<div id ="players">
+<div class="title">
+Bowling Order
+</div>
+<div id="bowlingLineup">
+</div>
+<div class="title">
+Batting Order
+</div>
+
+<div id="playerInfo" /> 
+
+</div>
+
+</body>
+   <script type="text/javascript" src="AuctionClass.js"> </script>
+   <script type="text/javascript" src="GameClass.js"> </script>
+    <script type="text/javascript" src="ScheduleClass.js"> </script>
+  <script type="text/javascript" src="NormalDist.js"></script>
+ <script type="text/javascript" src="PlayerClass.js"></script>
+  <script type="text/javascript" src="TeamClass.js"></script>
+  <script type="text/javascript" src="names.js"> </script>
+  <script type="text/javascript" src="createPlayer.js"> </script>
+   <script type="text/javascript" src="viewTeam.js"></script>
+  
+</html>
