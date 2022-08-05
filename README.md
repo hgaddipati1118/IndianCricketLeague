@@ -11,4 +11,4 @@ To start the game you have 3 different game options to choose from.
 All of these modes have the same components just with different roster compositions.
 
 ## How the Auction Works
-![Picture showing auction screen](https://imgur.com/a/TKFCcYE.jpg)
+![Picture showing auction screen](https://imgur.com/d5WjuB9.jpg)
