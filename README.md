@@ -30,7 +30,7 @@ On the right side of the screen there is two lists that can be toggled between. 
 During the auction eventually you may hit the international cap of 8 players. Once you hit this you will be alerted and not be able to bid on any more international players. Outside of this if you hit the roster limit of 25 players or 90 crores then the rest of the auction will be simulated.
 
 ## How Each Season Works
-![Picture Showing Season Screen](https://imgur.com/2Lr5TmH.png)
+![Picture Showing Season Screen](https://imgur.com/a/2Lr5TmH.png)
 From the season screen you are able to perform many different actions pertinent to the game. At the top of it are 4 hyperlinks each of which link to different pages. 
 - [Change Team Lineup](#Change-Team-Lineup)
 - [Power Rankings](#Power-Rankings)
