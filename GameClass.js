@@ -62,7 +62,8 @@ class Game {
             this.bowlingTeam = this.battingTeam;
             this.battingTeam = this.tempVar;
         }
-        
+        this.scorecardTeam1 = this.battingTeam;
+        this.scorecardTeam2 = this.bowlingTeam;
         this.scorecardHTML();
     }
     flipCoin() {
@@ -369,14 +370,14 @@ class Game {
         }
         //NEED TO FIX SCORECARD IS BUGGING
     scorecardHTML() {
-        setHTML("batting1ScorecardTitle", this.battingTeam.teamName + " Batting");
-        setHTML("bowling2ScorecardTitle", this.battingTeam.teamName + " Bowling");
-        setHTML("batting2ScorecardTitle", this.bowlingTeam.teamName + " Batting");
-        setHTML("bowling1ScorecardTitle", this.bowlingTeam.teamName + " Bowling");
+        setHTML("batting1ScorecardTitle", this.scorecardTeam1.teamName + " Batting");
+        setHTML("bowling2ScorecardTitle", this.scorecardTeam1.teamName + " Bowling");
+        setHTML("batting2ScorecardTitle", this.scorecardTeam2.teamName + " Batting");
+        setHTML("bowling1ScorecardTitle", this.scorecardTeam2.teamName + " Bowling");
         let battingScorecard1 = "<table class='battingScorecard'>"
         battingScorecard1 += "<tr><th>Name</th><th>R</th><th>B</th><th>SR</th><th>W</th><th>4s</th><th>6s</th></tr>";
-        for (i = 0; i < this.homeTeam.battingLineup.length; i++) {
-            let batter = this.scorecard["player" + this.homeTeam.battingLineup[i]];
+        for (i = 0; i < this.scorecardTeam1.battingLineup.length; i++) {
+            let batter = this.scorecard["player" + this.scorecardTeam1.battingLineup[i]];
             battingScorecard1 += "<tr>";
             battingScorecard1 += tableCell("<button onclick=viewPlayerStats(" + batter.playerID + ")>" + this.getPlayer(batter.playerID).name + "</button>");
             battingScorecard1 += tableCell(batter.runsScored);
@@ -397,8 +398,8 @@ class Game {
 
         let battingScorecard2 = "<table class='battingScorecard'>"
         battingScorecard2 += "<tr><th>Name</th><th>R</th><th>B</th><th>SR</th><th>W</th><th>4s</th><th>6s</th></tr>";
-        for (i = 0; i < this.awayTeam.battingLineup.length; i++) {
-            let batter = this.scorecard["player" + this.awayTeam.battingLineup[i]];
+        for (i = 0; i < this.scorecardTeam2.battingLineup.length; i++) {
+            let batter = this.scorecard["player" + this.scorecardTeam2.battingLineup[i]];
             battingScorecard2 += "<tr>";
             battingScorecard2 += tableCell("<button onclick=viewPlayerStats(" + batter.playerID + ")>" + this.getPlayer(batter.playerID).name + "</button>");
             battingScorecard2 += tableCell(batter.runsScored);
@@ -417,12 +418,12 @@ class Game {
         battingScorecard2 += "</table>";
         let bowlingScorecard1 = "<table class='battingScorecard'>"
         bowlingScorecard1 += "<tr><th>Name</th><th>O</th><th>R</th><th>W</th><th>Econ</th><th>D</th><th>Wd</th><th>4s</th><th>6s</th></tr>";
-        for (i = 0; i < this.awayTeam.battingLineup.length; i++) {
-            let bowler = this.scorecard["player" + this.awayTeam.battingLineup[i]];
+        for (i = 0; i < this.scorecardTeam2.battingLineup.length; i++) {
+            let bowler = this.scorecard["player" + this.scorecardTeam2.battingLineup[i]];
             if (bowler.ballsBowled > 0) {
 
                 bowlingScorecard1 += "<tr>";
-                bowlingScorecard1 += tableCell("<button onclick=viewPlayerStats(" + this.awayTeam.battingLineup[i] + ")>" + this.getPlayer(this.awayTeam.battingLineup[i]).name + "</button>");
+                bowlingScorecard1 += tableCell("<button onclick=viewPlayerStats(" + this.scorecardTeam2.battingLineup[i] + ")>" + this.getPlayer(this.scorecardTeam2.battingLineup[i]).name + "</button>");
                 bowler.oversBowled = Math.floor(bowler.ballsBowled / 6) + "." + (bowler.ballsBowled % 6);
                 bowlingScorecard1 += tableCell(bowler.oversBowled);
                 bowlingScorecard1 += tableCell(bowler.runsConceded);
@@ -442,12 +443,12 @@ class Game {
         bowlingScorecard1 += "</table>";
         let bowlingScorecard2 = "<table class='battingScorecard'>"
         bowlingScorecard2 += "<tr><th>Name</th><th>O</th><th>R</th><th>W</th><th>Econ</th><th>D</th><th>Wd</th><th>4s</th><th>6s</th></tr>";
-        for (i = 0; i < this.homeTeam.battingLineup.length; i++) {
-            let bowler = this.scorecard["player" + this.homeTeam.battingLineup[i]];
+        for (i = 0; i < this.scorecardTeam1.battingLineup.length; i++) {
+            let bowler = this.scorecard["player" + this.scorecardTeam1.battingLineup[i]];
             if (bowler.ballsBowled > 0) {
 
                 bowlingScorecard2 += "<tr>";
-                bowlingScorecard2 += tableCell("<button onclick=viewPlayerStats(" + this.homeTeam.battingLineup[i] + ")>" + this.getPlayer(this.homeTeam.battingLineup[i]).name + "</button>");
+                bowlingScorecard2 += tableCell("<button onclick=viewPlayerStats(" + this.scorecardTeam1.battingLineup[i] + ")>" + this.getPlayer(this.scorecardTeam1.battingLineup[i]).name + "</button>");
                 bowler.oversBowled = Math.floor(bowler.ballsBowled / 6) + "." + (bowler.ballsBowled % 6);
                 bowlingScorecard2 += tableCell(bowler.oversBowled);
                 bowlingScorecard2 += tableCell(bowler.runsConceded);
@@ -469,12 +470,7 @@ class Game {
         document.getElementById("batting2scorecard").innerHTML = battingScorecard2;
         document.getElementById("bowling1scorecard").innerHTML = bowlingScorecard1;
         document.getElementById("bowling2scorecard").innerHTML = bowlingScorecard2;
-        if (this.homeTeam.teamID == this.bowlingTeam.teamID) {
-            document.getElementById("batting1scorecard").innerHTML = battingScorecard2;
-            document.getElementById("batting2scorecard").innerHTML = battingScorecard1;
-            document.getElementById("bowling1scorecard").innerHTML = bowlingScorecard2;
-            document.getElementById("bowling2scorecard").innerHTML = bowlingScorecard1;
-        }
+
     }
     getGameScore(player) {
         let totalRunsScored = this.innings1Score + this.score;
