@@ -28,3 +28,19 @@ There are 6 different actions you can take for each player during an auction.
 On the right side of the screen there is two lists that can be toggled between. One list showcases the names of players to come onto the auction block, and the other shows the amounts that players have sold for already in the auction.
 ### Messages You Might Get During Auction
 During the auction eventually you may hit the international cap of 8 players. Once you hit this you will be alerted and not be able to bid on any more international players. Outside of this if you hit the roster limit of 25 players or 90 crores then the rest of the auction will be simulated.
+
+## How Each Season Works
+![Picture of Season Screen](https://imgur.com/a/2Lr5TmH.jpg)
+From the season screen you are able to perform many different actions pertinent to the game. At the top of it are 4 hyperlinks each of which link to different pages. 
+- [Change Team Lineup] (## Change Team Lineup)
+- [Power Rankings] (## Power Rankings)
+- [Player Ratings] (## Player Ratings)
+- [Player Stats] (## Player Stats)
+
+## Change Team Lineup
+
+## Power Rankings
+
+## Player Ratings
+
+## Player Stats
