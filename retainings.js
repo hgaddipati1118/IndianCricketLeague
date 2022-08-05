@@ -267,7 +267,7 @@ let clearResignings = () => {
     }
     resignSimmed = false;
     teamViewing.moneySpent = 0;
-    document.getElementById("moneyLeft").innerHTML = "Money Left: " + (Math.round((9z0 - teamViewing.moneySpent) * 100) / 100) + " Crores";
+    document.getElementById("moneyLeft").innerHTML = "Money Left: " + (Math.round((90 - teamViewing.moneySpent) * 100) / 100) + " Crores";
     tables();
 
 }

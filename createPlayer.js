@@ -125,7 +125,7 @@ importPlayerWithTeam = (importedPlayer, playerID) => {
     let player = importPlayer(importedPlayer,playerID);
     player.teamID = parseInt(importedPlayer.teamID);
     player.calcValue();
-    player.bid = round(Math.pow(player.value,0.85)*20,0)/20;
+    player.bid = importedPlayer.bid;
     if(player.bid>25){
         player.bid = 25;
     }
