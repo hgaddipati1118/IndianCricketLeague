@@ -32,10 +32,10 @@ During the auction eventually you may hit the international cap of 8 players. On
 ## How Each Season Works
 ![Picture of Season Screen](https://imgur.com/a/2Lr5TmH.jpg)
 From the season screen you are able to perform many different actions pertinent to the game. At the top of it are 4 hyperlinks each of which link to different pages. 
-- [Change Team Lineup] (## Change Team Lineup)
-- [Power Rankings] (## Power Rankings)
-- [Player Ratings] (## Player Ratings)
-- [Player Stats] (## Player Stats)
+- [Change Team Lineup] (## Change-Team-Lineup)
+- [Power Rankings](#Power-Rankings)
+- [Player Ratings](#Player-Ratings)
+- [Player Stats](#Player-Stats)
 
 ## Change Team Lineup
 
