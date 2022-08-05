@@ -14,7 +14,7 @@ class Auction {
         }
         console.log(localStorage.auctionRecord)
         if(sessionStorage.rosters == "zilchAuction"){
-            this.setUpForNextSeason();
+            this.finishSetup();
         }else{
         this.setUpForPlayerAuction();
         giveTeamRoster();}

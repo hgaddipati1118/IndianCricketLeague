@@ -62,11 +62,8 @@ class Game {
             this.bowlingTeam = this.battingTeam;
             this.battingTeam = this.tempVar;
         }
-        setHTML("batting1ScorecardTitle", this.battingTeam.teamName + " Batting");
-        setHTML("bowling2ScorecardTitle", this.battingTeam.teamName + " Bowling");
-        setHTML("batting2ScorecardTitle", this.bowlingTeam.teamName + " Batting");
-        setHTML("bowling1ScorecardTitle", this.bowlingTeam.teamName + " Bowling");
-
+        
+        this.scorecardHTML();
     }
     flipCoin() {
         return (Math.random() > 0.5)
@@ -199,7 +196,7 @@ class Game {
             this.score = 0;
             this.wickets = 0;
             this.innings = 3;
-            this.overs = 0;
+            this.overs = 19;
             this.balls = 0;
             while (this.overs < 20 && this.batters.length > 9) {
 
@@ -222,7 +219,7 @@ class Game {
             this.score = 0;
             this.wickets = 0;
             this.innings = 3;
-            this.overs = 0;
+            this.overs = 19;
             this.balls = 0;
             while (this.overs < 20 && this.batters.length > 9 && this.innings1Score >= this.score) {
 
@@ -372,6 +369,10 @@ class Game {
         }
         //NEED TO FIX SCORECARD IS BUGGING
     scorecardHTML() {
+        setHTML("batting1ScorecardTitle", this.battingTeam.teamName + " Batting");
+        setHTML("bowling2ScorecardTitle", this.battingTeam.teamName + " Bowling");
+        setHTML("batting2ScorecardTitle", this.bowlingTeam.teamName + " Batting");
+        setHTML("bowling1ScorecardTitle", this.bowlingTeam.teamName + " Bowling");
         let battingScorecard1 = "<table class='battingScorecard'>"
         battingScorecard1 += "<tr><th>Name</th><th>R</th><th>B</th><th>SR</th><th>W</th><th>4s</th><th>6s</th></tr>";
         for (i = 0; i < this.homeTeam.battingLineup.length; i++) {
@@ -468,7 +469,7 @@ class Game {
         document.getElementById("batting2scorecard").innerHTML = battingScorecard2;
         document.getElementById("bowling1scorecard").innerHTML = bowlingScorecard1;
         document.getElementById("bowling2scorecard").innerHTML = bowlingScorecard2;
-        if (this.homeTeam.teamID != this.bowlingTeam.teamID) {
+        if (this.homeTeam.teamID == this.bowlingTeam.teamID) {
             document.getElementById("batting1scorecard").innerHTML = battingScorecard2;
             document.getElementById("batting2scorecard").innerHTML = battingScorecard1;
             document.getElementById("bowling1scorecard").innerHTML = bowlingScorecard2;

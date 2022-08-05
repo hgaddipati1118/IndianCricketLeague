@@ -70,6 +70,9 @@ width:30vw;
   text-align:center;
   font-size:40px;
 }
+#use21Rosters{
+  margin-bottom: 3vh;
+}
     </style>
     <!--[if IE]>
     <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
@@ -82,8 +85,12 @@ width:30vw;
 <div id="subTitle"> Select your team  </div>
 <div id="teamOptions">  </div>
 <div class ="gameOptions" id = "rosters">
-<input type="checkbox" id="use21Rosters" name="rosters" onclick = "updateRosters()">
-<label>Use 2021 IPL Rosters</label> </div>
+
+<input type="checkbox" id="use21Rosters" name="rosters" onclick = "updateRosters(21)">
+<label>Use 2021 IPL Rosters</label> <br>
+<input type="checkbox" id="use22Rosters" name="rosters" onclick = "updateRosters(22)">
+<label>Use 2022 IPL Rosters</label> 
+</div>
 <div id="goToAuction"><a id="auctionLink" href="auction.html"> Go to Auction </a></div>
 
 </body>

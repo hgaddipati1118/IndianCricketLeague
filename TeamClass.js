@@ -12,7 +12,7 @@ class Team {
         this.homeAdvantage = team.homeAdvantage;
         this.playerList = [];
         this.teamID = team.teamID;
-        if(sessionStorage.rosters == "2021"){
+        if(sessionStorage.rosters == "2021"|| sessionStorage.rosters == "2022"){
         for(let i=0; i<playerList.length;i++){
             if(playerList[i].teamID == this.teamID){
                 this.playerList.push(playerList[i].playerID);

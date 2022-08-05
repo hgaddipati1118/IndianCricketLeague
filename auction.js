@@ -1,6 +1,7 @@
 let playerList = [];
 sessionStorage.internationalAlert = "false";
 if (localStorage.playerList == undefined) {
+    console.log(sessionStorage.rosters)
     if(sessionStorage.rosters == "2021"){
     for(let i =0; i<cricketPlayerListWithTeams.length;i++){
         playerList.push(importPlayerWithTeam(cricketPlayerListWithTeams[i],i));
@@ -8,6 +9,13 @@ if (localStorage.playerList == undefined) {
     for (let i = 0; i < 0.5 * cricketPlayerListWithTeams.length; i++) {
         playerList.push(createPlayer(60, i +  cricketPlayerListWithTeams.length, false));
     }}
+    else if (sessionStorage.rosters == "2022"){
+        console.log("HI")
+        for(let i =0; i<cricketPlayerList2022WithTeams.length;i++){
+            playerList.push(importPlayerWithTeam(cricketPlayerList2022WithTeams[i],i));
+        }
+        
+    }
     else{
    for (let i = 0; i < 1000; i++) {
        let temp = importPlayer( cricketPlayerList2022[i], i);
@@ -34,7 +42,7 @@ if (localStorage.playerList == undefined) {
             playerList.push(createPlayer(75, i+1000))
         }*/
         
-} else {
+    }else {
     playerList = JSON.parse(localStorage.playerList)
     for (let i = playerList.length - 1; i >= 0; i--) {
         let player = createPlayer(randInt(60, 100), i);
@@ -78,9 +86,11 @@ let htmlElementIDs = {
 
 
 }
-console.log(playerList.length)
+console.log(playerList)
 console.log(teams)
-if(sessionStorage.rosters == "2021"){
+if(sessionStorage.rosters == "2021" || sessionStorage.rosters == "2022"){
+    
     sessionStorage.rosters = "zilchAuction";}
+
 let auction = new Auction(playerList, teams, htmlElementIDs, parseInt(localStorage.userTeam));
 console.log("HI")

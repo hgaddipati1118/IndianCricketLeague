@@ -18,7 +18,7 @@ document.getElementById("team1Name").innerHTML = teams[sessionStorage.homeTeam].
 document.getElementById("team2Name").innerHTML = teams[sessionStorage.awayTeam].teamName;
 game = new Game(teams[sessionStorage.homeTeam], teams[sessionStorage.awayTeam], playerList);
 console.log(teams[sessionStorage.homeTeam].battingLineup);
-game.scorecardHTML();
+
 let runGame = () => {
     let schedule = JSON.parse(localStorage.schedule);
     if (sessionStorage.gameNumber < schedule.scorecards.length) {
