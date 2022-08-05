@@ -6,6 +6,9 @@ class Auction {
         this.teamOn = 0;
         this.userTeam = userTeam;
         this.currentBid = 0.05;
+        if(sessionStorage.rosters != "2021"){
+            this.currentBid = 0.2;
+        }
         this.auctionRecord = [];
         this.htmlElementIDs = htmlElementIDs;
         this.currentTeamList = this.teams.map(element => element);
@@ -13,7 +16,7 @@ class Auction {
             this.auctionRecord = JSON.parse(localStorage.auctionRecord);
         }
         console.log(localStorage.auctionRecord)
-        if(sessionStorage.rosters == "zilchAuction"){
+        if(sessionStorage.rosters == "2022"||sessionStorage.rosters == "2021"){
             this.finishSetup();
         }else{
         this.setUpForPlayerAuction();
@@ -35,12 +38,15 @@ class Auction {
         }
         this.teamOn = this.currentPlayer % this.teams.length;
         this.currentBid = 0.05;
+        if(sessionStorage.rosters != "2021"){
+            this.currentBid = 0.2;
+        }
         for (let i = teams.length - 1; i >= 0; i--) {
             teams[i].calcSalary(this.auctionList);
         }
         this.currentTeamList = this.teams.filter(element => (element.teamSalary < 90 && element.playerList.length < 25));
         if (this.currentTeamList.every(element => element.teamID != this.userTeam) && (this.autoAuction != true)) {
-            if((sessionStorage.rosters != "zilchAuction")){
+            if((sessionStorage.rosters != "2022"||sessionStorage.rosters != "2021")){
             alert("Your team is done with auction, auction will be simmed")}
             sessionStorage.bidProcessing = 0;
             this.setUpForNextSeason();
@@ -325,12 +331,15 @@ class Auction {
                     if (!(this.auctionList[this.currentPlayer].international || isNumber(this.auctionList[this.currentPlayer].teamID))) {
                         teams[i].playerList.push(this.auctionList[this.currentPlayer].playerID);
                         this.auctionList[this.currentPlayer].bid = 0.05;
+                        if(sessionStorage.rosters != "2021"){
+                            this.auctionList[this.currentPlayer].bid = 0.2;
+                        }
                         this.auctionList[this.currentPlayer].teamID = teams[i].teamID;
                     }
                 }
             };
         }
-        if((sessionStorage.rosters != "zilchAuction")){
+        if((sessionStorage.rosters != "2022"||sessionStorage.rosters != "2021")){
             
         for (let i = playerList.length - 1; i >= 0; i--) {
 

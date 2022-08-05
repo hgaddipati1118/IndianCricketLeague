@@ -1,3 +1,5 @@
+
+
 let playerList = [];
 sessionStorage.internationalAlert = "false";
 if (localStorage.playerList == undefined) {
@@ -88,9 +90,7 @@ let htmlElementIDs = {
 }
 console.log(playerList)
 console.log(teams)
-if(sessionStorage.rosters == "2021" || sessionStorage.rosters == "2022"){
-    
-    sessionStorage.rosters = "zilchAuction";}
+
 
 let auction = new Auction(playerList, teams, htmlElementIDs, parseInt(localStorage.userTeam));
 console.log("HI")
