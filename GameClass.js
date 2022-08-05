@@ -184,6 +184,12 @@ class Game {
 
         setHTML("team1Score", this.innings1Score + "/" + this.innings1Wickets);
         setHTML("team2Score", this.score + "/" + this.wickets);
+        this.winningTeamID = -1;
+        if(this.innings1Score>this.score){
+             this.winningTeamID = this.bowlingTeam.teamID;
+        }else{
+            this.winningTeamID = this.battingTeam.teamID;
+        }
         this.savePlayerStats();
         setHTML("mvp", "Man of the Match: " + this.maxPlayerName);
         document.getElementById("matchScore").classList.add("border");
@@ -197,9 +203,9 @@ class Game {
             this.score = 0;
             this.wickets = 0;
             this.innings = 3;
-            this.overs = 19;
+            this.overs = 0;
             this.balls = 0;
-            while (this.overs < 20 && this.batters.length > 9) {
+            while (this.overs < 1 && this.batters.length > 9) {
 
                 let batterID = this.battingTeam.battingLineup[this.batters[this.batterUp]];
                 let bowlerID = this.bowlingTeam.bowlingOrder[this.overs];
@@ -220,9 +226,9 @@ class Game {
             this.score = 0;
             this.wickets = 0;
             this.innings = 3;
-            this.overs = 19;
+            this.overs = 0;
             this.balls = 0;
-            while (this.overs < 20 && this.batters.length > 9 && this.innings1Score >= this.score) {
+            while (this.overs < 1 && this.batters.length > 9 && this.innings1Score >= this.score) {
 
                 let batterID = this.battingTeam.battingLineup[this.batters[this.batterUp]];
                 let bowlerID = this.bowlingTeam.bowlingOrder[this.overs];
@@ -251,10 +257,10 @@ class Game {
             let overFactor = (((this.overs + 1 / 20) / 20) + 3) / 3;
             let ppFactor = 0.9;
             if(this.overs<6){
-                ppFactor = 1.2;
+                ppFactor = 1.3;
             }
             let clutchFactor = Math.pow(((bowler.clutch+1) / 110), Math.pow((this.overs / 20), 5));
-            let fatigueFactor = 1;
+            let fatigueFactor = 1 ;
             /*  if (superOver) {
                   clutchFactor = (bowler.clutch / 100);
                   overFactor = 1.5;
@@ -482,10 +488,15 @@ class Game {
         if (isNaN(battingScore) || battingScore == Infinity) {
             battingScore = 0;
         }
-        let bowlingScore = player.wickets * 0.2;
-        bowlingScore += Math.pow(1 - ((6 * player.runsConceded / player.ballsBowled) / matchEconomy), 1);
+        let bowlingScore = player.wickets * 0.5;
+        bowlingScore += 2*Math.pow(1 - ((6 * player.runsConceded / player.ballsBowled) / matchEconomy), 1);
         if (isNaN(bowlingScore) || bowlingScore == Infinity) {
             bowlingScore = 0;
+        }
+        if(this.homeTeam.homeAdvantage>1){
+            this.battingScore = this.battingScore *this.homeTeam.homeAdvantage;
+        }else{
+            this.bowlingScore = this.bowlingScore * (1/this.homeTeam.homeAdvantage);
         }
         let score = battingScore;
         if (bowlingScore != 0) {
@@ -495,6 +506,8 @@ class Game {
                 score += (bowlingScore / 2)
             }
         }
+        console.log(score,this.getPlayer(player.playerID));
+        
         return score;
     }
     savePlayerStats() {
@@ -504,11 +517,14 @@ class Game {
             let batter = this.scorecard["player" + this.homeTeam.battingLineup[i]];
             let player = this.getPlayer(batter.playerID);
             let score = this.getGameScore(batter);
+            if(this.homeTeam.teamID == this.winningTeamID){
+                score = score*1.5;
+            }
             if (maxScore < score) {
                 maxScore = score;
                 this.maxPlayerName = player.name;
             }
-            console.log(batter.dotsBowled)
+            
             player.stats.push({
                 "gameID": parseInt(sessionStorage.gameNumber),
                 "opponentID": this.awayTeam.teamID,
@@ -533,6 +549,14 @@ class Game {
         for (i = 0; i < this.awayTeam.battingLineup.length; i++) {
             let batter = this.scorecard["player" + this.awayTeam.battingLineup[i]];
             let player = this.getPlayer(batter.playerID);
+            let score = this.getGameScore(batter);
+            if(this.awayTeam.teamID == this.winningTeamID){
+                score = score*1.5;
+            }
+            if (maxScore < score) {
+                maxScore = score;
+                this.maxPlayerName = player.name;
+            }
             player.stats.push({
                 "gameID": parseInt(sessionStorage.gameNumber),
                 "opponentID": this.homeTeam.teamID,
