@@ -37,6 +37,10 @@ From the season screen you are able to perform many different actions pertinent 
 - [Player Ratings](#Player-Ratings)
 - [Player Stats](#Player-Stats)
 
+On the right side of the screen lies various tables. The first table lists the standings of the current season with it being ordered by points and then NRR. Under the standings in order are the MVP leaderboard, Orange Cap leaderboard, Purple Cap leaderboard, most sixes leaderboard, and most wickets. Then in the middle of the screen lies the actual schedule of games. To play a game you can click the play game button to go to the game page, otherwise if you would like to skip to a certain match you can scroll down and click the sim to match button under the specified match. When you click the button the game may stop simulating if your team has a game and there is an injury in your lineup. 
+
+## Playing a Game
+
 ## Change Team Lineup
 
 ## Power Rankings
