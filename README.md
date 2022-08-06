@@ -37,7 +37,7 @@ From the season screen you are able to perform many different actions pertinent 
 - [Player Ratings](#Player-Ratings)
 - [Player Stats](#Player-Stats)
 
-On the right side of the screen lies various tables. The first table lists the standings of the current season with it being ordered by points and then NRR. Under the standings in order are the MVP leaderboard, Orange Cap leaderboard, Purple Cap leaderboard, most sixes leaderboard, and most wickets. For any of these tables if you would like to see info about the team or player you can click on them and you should be redirected to either the specified [team page](#Team-Roster) or [player page](#Player-Info). Then in the middle of the screen lies the actual schedule of games. Teams are listed with home on top and away on bottom. To play a game you can click the play game button to go to the game page, otherwise if you would like to skip to a certain match you can scroll down and click the sim to match button under the specified match. When you click the button the game may stop simulating if your team has a game and there is an injury in your lineup. You can also view scorecards of old matches by clicking the scorecard button. 
+On the right side of the screen lies various tables. The first table lists the standings of the current season with it being ordered by points and then NRR. Under the standings in order are the MVP leaderboard, Orange Cap leaderboard, Purple Cap leaderboard, most sixes leaderboard, and most wickets. For any of these tables if you would like to see info about the team or player you can click on them and you should be redirected to either the specified [team page](#Team-Roster) or [player page](#Player-Info). Then in the middle of the screen lies the actual schedule of games. Teams are listed with home on top and away on bottom. To play a game you can click the play game button to go to the game page, otherwise if you would like to skip to a certain match you can scroll down and click the sim to match button under the specified match. When you click the button the game may stop simulating if your team has a game and there is an injury in your lineup. You can also view scorecards of old matches by clicking the scorecard button. Then once all the games in a season are done you can click the big blue button to take you to the (Resignings page)(#Resigning).
 
 ## Playing a Game
 ![Picture Showing Game Screen](https://imgur.com/viiiug0.jpg)
@@ -52,6 +52,10 @@ During the season the only thing that you like real life IPL teams can do to mak
 ![Picture Showing Power Rankings Screen](https://imgur.com/ui6MqfT.jpg)
 The Power Rankings screen allows you to sort teams by different attributes. To sort by an attribute just click on the column header for it. For example to sort teams by timing click on tmg. You can view Power Rankings for both teams at the current moment and also when their roster is fully healthy. To toggle between click the button in the left top corner of the screen.
 ## Player Ratings
-
+![Picture Showing Player Ratings Screen](https://imgur.com/VaTgpUO.jpg)
+The Player Ratings screen allows you to sort through players by different rating attributes. To sort by an attribute much like the Power Rankings screen just click on the column header for it. As seen in the screenshot you can also filter players by typing in queries. Putting a ">",">=","<", and "<=" are accepted as queries. Outside of this you can also type in values and only players with attributes matching those values will show up.
 
 ## Player Stats
+![Picture Showing Player Stats Screen](https://imgur.com/nPucXxj.jpg)
+Like the Player Ratings screen, the Player Stats Screen allows you to sort through players with the same mechanisms except instead of rating attributes it is with stats. To toggle between bowling and batting stats click on the button in the top left corner. 
+
