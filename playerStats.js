@@ -223,7 +223,7 @@ for(let i=0; i< headers.length;i++){
             let works = true;
             for(let j=0; j<input.length;j++){
                 
-                if((input[j].toLowerCase() != element[headers[i]][j])&&(input[j].toUpperCase() != element[headers[i]][j])){
+                if((input[j].toLowerCase() != String(element[headers[i]])[j])&&(input[j].toUpperCase() != String(element[headers[i]][j]))){
                     works = false;
                     j=input.length
                 }
