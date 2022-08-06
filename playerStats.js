@@ -4,7 +4,7 @@ let viewTeamStats = (id) => {
     console.log(id);
 
     let url = window.location.href;
-    url = url.replace("playerStats", "viewTeam");
+    url = url.replace("playerstats", "viewteam");
     window.location.href = url;
 }
 
@@ -162,7 +162,7 @@ let viewPlayerStats = (id) => {
     console.log(id);
 
     let url = window.location.href;
-    url = url.replace("playerStats", "viewPlayerStats");
+    url = url.replace("playerstats", "viewplayerstats");
     window.location.href = url;
 }
 let sortPlayerRatings = (item,noSort,filter) =>{

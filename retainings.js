@@ -275,7 +275,7 @@ let viewPlayerStats = (id) => {
     sessionStorage.currentPlayerView = id;
     console.log(id);
     let url = window.location.href;
-    url = url.replace("retainings", "viewPlayerStats");
+    url = url.replace("retainings", "viewplayerstats");
     window.location.href = url;
 
 }

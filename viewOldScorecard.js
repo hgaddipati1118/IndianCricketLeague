@@ -3,7 +3,7 @@ let teams = [];
 let viewPlayerStats = (id) => {
     sessionStorage.currentPlayerView = id;
     let url = window.location.href;
-    url = url.replace("viewOldScorecard", "viewPlayerStats");
+    url = url.replace("viewoldscorecard", "viewplayerstats");
     window.location.href = url;
 }
 playerList = JSON.parse(localStorage.playerList)

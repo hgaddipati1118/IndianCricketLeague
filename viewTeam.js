@@ -226,7 +226,7 @@ let viewPlayerStats = (id) => {
     console.log(id);
 
     let url = window.location.href;
-    url = url.replace("viewTeam", "viewPlayerStats");
+    url = url.replace("viewteam", "viewplayerstats");
     window.location.href = url;
 }
 
@@ -234,6 +234,6 @@ let viewGameLog = (id) => {
     console.log(id);
 
     let url = window.location.href;
-    url = url.replace("viewTeam", "viewGameLog");
+    url = url.replace("viewteam", "viewgamelog");
     window.location.href = url;
 }

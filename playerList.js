@@ -4,7 +4,7 @@ let viewTeamStats = (id) => {
     console.log(id);
 
     let url = window.location.href;
-    url = url.replace("playerList", "viewTeam");
+    url = url.replace("playerlist", "viewteam");
     window.location.href = url;
 }
 
@@ -50,7 +50,7 @@ let viewPlayerStats = (id) => {
     console.log(id);
 
     let url = window.location.href;
-    url = url.replace("playerList", "viewPlayerStats");
+    url = url.replace("playerlist", "viewplayerstats");
     window.location.href = url;
 }
 let sortPlayerRatings = (item,noSort,filter) =>{
@@ -97,7 +97,7 @@ for(let i=0; i< headers.length;i++){
                 
                 if((input[j].toLowerCase() != String(element[headers[i]])[j])&&(input[j].toUpperCase() != String(element[headers[i]])[j])){
                     works = false;
-                    j=input.length
+                    j=input.length;
                 }
             }
             if(works){

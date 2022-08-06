@@ -183,7 +183,7 @@ for (let u = currentSeasonStats.length - 1; u >= 0; u--) {
 let scorecardClick = (i) => {
     sessionStorage.scorecardToView = i;
     let url = window.location.href;
-    url = url.replace("viewPlayerStats", "viewOldScorecard");
+    url = url.replace("viewplayerstats", "viewoldscorecard");
     window.location.href = url;
 }
 let viewTeamStats = (id) => {
@@ -191,6 +191,6 @@ let viewTeamStats = (id) => {
     console.log(id);
 
     let url = window.location.href;
-    url = url.replace("viewPlayerStats", "viewTeam");
+    url = url.replace("viewplayerstats", "viewteam");
     window.location.href = url;
 }

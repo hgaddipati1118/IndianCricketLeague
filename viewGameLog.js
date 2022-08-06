@@ -7,7 +7,7 @@ let viewPlayerStats = (id) => {
     console.log(id);
 
     let url = window.location.href;
-    url = url.replace("season", "viewPlayerStats");
+    url = url.replace("viewgamelog", "viewplayerstats");
     window.location.href = url;
 }
 let viewTeamStats = (id) => {
@@ -15,7 +15,7 @@ let viewTeamStats = (id) => {
     console.log(id);
 
     let url = window.location.href;
-    url = url.replace("viewGameLog", "viewTeam");
+    url = url.replace("viewgamelog", "viewteam");
     window.location.href = url;
 }
 playerList = JSON.parse(localStorage.playerList)
@@ -48,6 +48,6 @@ document.getElementById("schedule").innerHTML= schedule.gameLogOutput(teamViewin
 let scorecardClick = (i) => {
     sessionStorage.scorecardToView = i;
     let url = window.location.href;
-    url = url.replace("viewGameLog", "viewOldScorecard");
+    url = url.replace("viewgamelog", "viewoldscorecard");
     window.location.href = url;
 }

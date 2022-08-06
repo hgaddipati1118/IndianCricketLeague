@@ -25,7 +25,7 @@ let runGame = () => {
         alert("Game has already been played")
         sessionStorage.scorecardToView = sessionStorage.gameNumber;
         let url = window.location.href;
-        url = url.replace("game.html", "viewOldScorecard.html");
+        url = url.replace("game.html", "viewoldscorecard.html");
         window.location.href = url;
     }
     else{
@@ -74,6 +74,6 @@ let viewPlayerStats = (id) => {
     sessionStorage.currentPlayerView = id;
 
     let url = window.location.href;
-    url = url.replace("game.html", "viewPlayerStats.html");
+    url = url.replace("game.html", "viewplayerstats.html");
     window.location.href = url;
 }

@@ -4,7 +4,7 @@ let viewTeamStats = (id) => {
     console.log(id);
 
     let url = window.location.href;
-    url = url.replace("powerRankings", "viewTeam");
+    url = url.replace("powerrankings", "viewteam");
     window.location.href = url;
 }
 

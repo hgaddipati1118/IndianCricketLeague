@@ -345,6 +345,6 @@ let viewPlayerStats = (id) => {
     console.log(id);
 
     let url = window.location.href;
-    url = url.replace("teamroster", "viewPlayerStats");
+    url = url.replace("teamroster", "viewplayerstats");
     window.location.href = url;
 }

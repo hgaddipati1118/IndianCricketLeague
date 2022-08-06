@@ -6,7 +6,7 @@ let viewPlayerStats = (id) => {
     console.log(id);
 
     let url = window.location.href;
-    url = url.replace("season", "viewPlayerStats");
+    url = url.replace("season", "viewplayerstats");
     window.location.href = url;
 }
 let viewTeamStats = (id) => {
@@ -14,7 +14,7 @@ let viewTeamStats = (id) => {
     console.log(id);
 
     let url = window.location.href;
-    url = url.replace("season", "viewTeam");
+    url = url.replace("season", "viewteam");
     window.location.href = url;
 }
 playerList = JSON.parse(localStorage.playerList)
@@ -289,7 +289,7 @@ localStorage.teams = JSON.stringify(teams);
 let scorecardClick = (i) => {
     sessionStorage.scorecardToView = i;
     let url = window.location.href;
-    url = url.replace("season", "viewOldScorecard");
+    url = url.replace("season", "viewoldscorecard");
     window.location.href = url;
 }
 let goToResignings = () =>{
