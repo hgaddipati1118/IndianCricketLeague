@@ -63,3 +63,9 @@ The Player Ratings screen allows you to sort through players by different rating
 ![Picture Showing Player Stats Screen](https://imgur.com/nPucXxj.jpg)
 Like the Player Ratings screen, the Player Stats Screen allows you to sort through players with the same mechanisms except instead of rating attributes it is with stats. To toggle between bowling and batting stats click on the button in the top left corner. 
 
+# Player Info
+![Picture Showing Player Info Screen](https://imgur.com/WyS21el.jpg)
+Any time you click on a player's name you should be directed to their player info screen. On this screen you can see the attributes of a player along with how much they changed that season. You can also see their season averages (notice how Phillips despite his high overall struggled). Then below their season averages is their match by match performance. To see the scorecard from a match just click on the match number. 
+
+# Team Info
+
