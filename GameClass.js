@@ -143,6 +143,7 @@ class Game {
                 this.batterUp = (this.batterUp+1)%2;
             }
         }
+        this.addToPlayLog(`<b> End of innings ${this.score}/${this.wickets}</b>`);
         this.innings1Score = this.score;
         this.innings1Wickets = this.wickets;
         this.innings1Balls = this.overs * 6 + this.balls;
@@ -194,7 +195,7 @@ class Game {
         setHTML("mvp", "Man of the Match: " + this.maxPlayerName);
         document.getElementById("matchScore").classList.add("border");
         while (this.score == this.innings1Score) {
-
+            this.addToPlayLog(`<b> Super Over! </b>`);
             this.tempVar = this.bowlingTeam;
             this.bowlingTeam = this.battingTeam;
             this.battingTeam = this.tempVar;
@@ -217,6 +218,7 @@ class Game {
                     this.balls = 0;
                 }
             }
+            this.addToPlayLog(`<b> End of innings ${this.overs} ${this.score}/${this.wickets}</b>`)
             this.innings1Score = this.score;
             this.tempVar = this.bowlingTeam;
             this.bowlingTeam = this.battingTeam;
