@@ -68,4 +68,9 @@ Like the Player Ratings screen, the Player Stats Screen allows you to sort throu
 Any time you click on a player's name you should be directed to their player info screen. On this screen you can see the attributes of a player along with how much they changed that season. You can also see their season averages (notice how Phillips despite his high overall struggled). Then below their season averages is their match by match performance. To see the scorecard from a match just click on the match number. 
 
 # Team Info
+![Picture Showing Team Info Screen](https://imgur.com/RxGw2VV.jpg)
+On the Team Info screen you can see the past results for the team by clicking on the [Game Log Link](#Game-Log). You can also see the bowling rate of the team's home stadium with 0.7 being best for batting and 1.5 best for bowling. Then scrolling down you can see the bowling order for the team and the batting lineup as well. 
 
+# Game Log
+![Picture Showing Game Log](https://imgur.com/jaoNWzA.jpg)
+In the Game Log screen you can see all the match results for a team and click on the scorecard links to see the scorecards for those matches.
