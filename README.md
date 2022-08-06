@@ -49,7 +49,9 @@ To play a game click the triangle in the center of the screen. Once you click th
 During the season the only thing that you like real life IPL teams can do to make your team better is picking the best possible lineups. Making sure on batting tracks to have a lineup able to score big and on bowling tracks to have bowlers to skittle the opposition. To change your bowling order all you must do is pick which bowler you would like to bowl each over by using the table located at the top of the page. Bowlers can bowl only 4 overs and not bowl two consecutively. Bowlers also must be in the top 11 of your batting lineup. To change your batting lineup you must scroll below the bowling order table. Then to switch batter spots you can either use arrows to move up or down, or use the swap button to swap two players' positions with each other. Thre can not be more than 4 international players in the starting 11 at any time. There also may not be any injured players in the lineup. One thing to note is that overalls may not tell the full story of a player's performance as you can see in the screnshot. Hardik Patel has a better economy than Jasprit Bumrah.
 
 ## Power Rankings
-
+![Picture Showing Power Rankings Screen](https://imgur.com/ui6MqfT.jpg)
+The Power Rankings screen allows you to sort teams by different attributes. To sort by an attribute just click on the column header for it. For example to sort teams by timing click on tmg. You can view Power Rankings for both teams at the current moment and also when their roster is fully healthy. To toggle between click the button in the left top corner of the screen.
 ## Player Ratings
+
 
 ## Player Stats
